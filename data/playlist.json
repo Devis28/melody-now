@@ -109,35 +109,86 @@
     "artist": "Adam Ďurica",
     "date": "09.10.2025",
     "time": "21:12",
-    "listeners": 13836
+    "listeners": 13836,
+    "album": "Akustické koncerty (Acoustic / Live)",
+    "release_year": 2015,
+    "duration_ms": 251033,
+    "artist_country": "SK",
+    "composers": null,
+    "lyricists": null,
+    "writers": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Je Naprosto Nezbytné",
     "artist": "Hana Zagorová",
     "date": "09.10.2025",
     "time": "21:07",
-    "listeners": 16775
+    "listeners": 16775,
+    "album": "Hanka",
+    "release_year": 2001,
+    "duration_ms": 180373,
+    "artist_country": "CZ",
+    "composers": null,
+    "lyricists": null,
+    "writers": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "It Must Have Been Love",
     "artist": "Roxette",
     "date": "09.10.2025",
     "time": "21:03",
-    "listeners": 16100
+    "listeners": 16100,
+    "album": "It Must Have Been Love - Single",
+    "release_year": 1988,
+    "duration_ms": 259666,
+    "artist_country": "SE",
+    "composers": null,
+    "lyricists": null,
+    "writers": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Because You Loved Me",
     "artist": "Céline Dion",
     "date": "09.10.2025",
     "time": "20:58",
-    "listeners": 14534
+    "listeners": 14534,
+    "album": "Falling Into You",
+    "release_year": 1996,
+    "duration_ms": 273667,
+    "artist_country": "CA",
+    "composers": null,
+    "lyricists": null,
+    "writers": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Hey Jude",
     "artist": "Beatles, The",
     "date": "09.10.2025",
     "time": "20:55",
-    "listeners": 14927
+    "listeners": 14927,
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "release_year": 1968,
+    "duration_ms": 431333,
+    "artist_country": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Mama Kami",
@@ -12574,7 +12625,8 @@
     "release_year": 1976,
     "duration_ms": 273560,
     "genres": [
-      "Pop"
+      "Pop",
+      "Rock"
     ],
     "artist_country": null,
     "composers": null,

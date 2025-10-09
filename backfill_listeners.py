@@ -16,7 +16,7 @@ PATH = os.environ.get("OUT_PATH", "data/playlist.json")
 # === nastaviteľné konštanty ==================================================
 WEEKDAY_PEAK  = float(os.environ.get("WEEKDAY_PEAK", 3260))   # napr. 3200 ak chceš
 WEEKEND_PEAK  = float(os.environ.get("WEEKEND_PEAK", 1820))   # napr. 1800 ak chceš
-NIGHT_MIN     = float(os.environ.get("NIGHT_MIN", 260))       # cca 200–500
+NIGHT_MIN     = float(os.environ.get("NIGHT_MIN", 150))       # cca 200–500
 JITTER_SIGMA  = float(os.environ.get("JITTER_SIGMA", 0.07))   # ~7 %
 JITTER_CLIP   = float(os.environ.get("JITTER_CLIP", 0.12))    # max ±12 %
 

@@ -2,7 +2,7 @@
 """
 Enrichment + backfill do data/playlist.json:
 - album, release_year, duration_ms
-- composers, lyricists, writers
+- lyricists (zjednotený zoznam: composers ∪ lyricists ∪ writers)
 - genres (normalizované do kanonických)
 - artist_country (ISO-3166-1 alpha-2, napr. 'US', 'SK')
 
@@ -15,7 +15,7 @@ Throttling pre MusicBrainz: default 1.0 s medzi volaniami (MB_THROTTLE_SEC).
 Env:
   PLAYLIST_PATH= data/playlist.json
   CACHE_PATH   = data/meta_cache.json
-  MAX_KEYS_PER_RUN = 120        # obmedz, koľko (artist,title) spracovať za jeden beh
+  MAX_KEYS_PER_RUN = 120        # obmedz, koľko (artist,title) spracovať za jeden beh; "0" = bez limitu
   MB_THROTTLE_SEC  = 1.0        # minimálny rozostup medzi MB volaniami
   MB_USER_AGENT    = 'melody-now/1.0 (contact: example@example.com)'
 """
@@ -83,7 +83,6 @@ def safe_get_json(url, *, headers=None, timeout=25, retries=4, backoff=1.8, kind
             return r.json()
         except Exception as e:
             last_err = e
-            # malý náhodný jitter, aby paralelné joby nekolidovali
             sleep = (backoff ** attempt) + random.uniform(0.0, 0.4)
             print(f"[warn] {kind} fetch failed (try {attempt+1}/{retries}) -> {type(e).__name__}: {e}; sleep {sleep:.2f}s")
             time.sleep(sleep)
@@ -111,7 +110,7 @@ _CANON = {
             "french pop","international pop","latin pop","synthpop","indie pop","dance pop","pop rock"],
     "rock": ["rock","hard rock","soft rock","alternative rock","alt rock","classic rock","indie rock","punk rock","metalcore"],
     "hip-hop": ["hip hop","hip-hop","rap","trap"],
-    "r&b": ["r&b","r&b/soul","soul","neo-soul","contemporary r&b"],
+    "r&b": ["r&b","r&b/soul","soul","neo-soul","conemporary r&b","contemporary r&b"],
     "electronic": ["electronic","edm","dance","house","techno","trance","electro","drum and bass","dnb","dubstep"],
     "metal": ["metal","heavy metal","thrash metal","death metal"],
     "classical": ["classical","orchestral","baroque","symphony"],
@@ -255,6 +254,7 @@ def from_musicbrainz(artist: str, title: str) -> dict:
                 y2 = year_from_date(det["releases"][0].get("date"))
                 if y2: out["release_year"] = y2
 
+    # zozbieraj mená (composers/lyricists/writers) – budú sa neskôr zlievať do "lyricists"
     comp, lyr, writ = set(), set(), set()
     for wid in works[:2]:
         if not wid: continue
@@ -270,26 +270,47 @@ def from_musicbrainz(artist: str, title: str) -> dict:
 # --------------------------- Spájanie výsledkov -----------------------------
 
 SCALAR_FIELDS = ("album","release_year","duration_ms","artist_country")
-LIST_FIELDS   = ("composers","lyricists","writers","genres")
+# POZOR: zoznamové polia už len "lyricists" a "genres"
+LIST_FIELDS   = ("lyricists","genres")
 ALL_FIELDS    = SCALAR_FIELDS + LIST_FIELDS
 
 def merge_meta(*dicts) -> dict:
+    """
+    Zlučuje dáta zo zdrojov. Kľúče 'composers' a 'writers' sú mapované do 'lyricists'.
+    """
     result, raw_genres = {}, []
+    lyricists_union = set()
+
     for d in dicts:
-        if not d: continue
+        if not d:
+            continue
+        # najprv prevezmi potenciálne 'composers' / 'writers' / 'lyricists' do jedného setu
+        for role_key in ("composers", "lyricists", "writers"):
+            vals = d.get(role_key) or []
+            if isinstance(vals, list):
+                lyricists_union |= set(vals)
+            elif vals:
+                lyricists_union.add(vals)
+
+        # ostatné polia
         for k, v in d.items():
-            if v in (None, "", [], 0): continue
+            if v in (None, "", [], 0):
+                continue
             if k == "genres_raw":
                 raw_genres.extend(v if isinstance(v, list) else [v])
-            elif k in LIST_FIELDS:
-                cur = set(result.get(k, []))
-                add = set(v if isinstance(v, list) else [v])
-                result[k] = sorted(cur | add)
             elif k in SCALAR_FIELDS:
                 result.setdefault(k, v)
-            # ignorujeme iné kľúče (cover_url, sources, duration_sec...)
+            # ignorujeme cover_url/sources/duration_sec/explicit composers,writers
+
+    # zapíš zjednotených "lyricists"
+    if lyricists_union:
+        result["lyricists"] = sorted(lyricists_union)
+
+    # normalizuj žánre
     norm = normalize_genres(raw_genres)
-    if norm: result["genres"] = norm
+    if norm:
+        result["genres"] = norm
+
     return result
 
 # ------------------------------- Cache --------------------------------------
@@ -306,28 +327,45 @@ def needs_any(item: dict) -> bool:
 # ------------------------------ Hlavný tok ----------------------------------
 
 def enrich_pair(artist: str, title: str) -> dict:
-    # Poradie: MB (autori/rok/krajina) -> iTunes (album/rok/duration_ms/genre) -> Deezer (album/duration_ms/genres)
+    # Poradie: MB (rok/krajina/autori) -> iTunes (album/rok/duration_ms/genre) -> Deezer (album/duration_ms/genres)
     mb = from_musicbrainz(artist, title)
     it = from_itunes(artist, title)
     dz = from_deezer(artist, title)
     return merge_meta(mb, it, dz)
 
 def apply_schema_with_nulls(item: dict, meta: dict):
-    # odstráň legacy duration_sec
+    """
+    - odstráni legacy 'duration_sec'
+    - zlúči existujúce item.composers/writers/lyricists -> item.lyricists
+    - zmaže legacy 'composers' a 'writers'
+    - doplní SCALAR_FIELDS a LIST_FIELDS; ak nič, nastaví null
+    """
     if "duration_sec" in item:
         del item["duration_sec"]
-    # scalary: doplň alebo null
+
+    # 1) zlúč staré polia autorov do 'lyricists'
+    legacy_set = set(item.get("lyricists") or [])
+    for old in ("composers", "writers"):
+        legacy_set |= set(item.get(old) or [])
+    incoming = set(meta.get("lyricists") or [])
+    merged_authors = sorted(legacy_set | incoming)
+    item["lyricists"] = merged_authors if merged_authors else None
+    # odstráň legacy kľúče
+    if "composers" in item: del item["composers"]
+    if "writers" in item:   del item["writers"]
+
+    # 2) scalary: doplň alebo null
     for k in SCALAR_FIELDS:
         if item.get(k) not in (None, "", [], 0):
             continue
         v = meta.get(k)
         item[k] = v if v not in (None, "", [], 0) else None
-    # listy: union; ak prázdne -> null
-    for k in LIST_FIELDS:
-        existing = set(item.get(k) or [])
-        incoming = set(meta.get(k) or [])
-        merged = sorted(existing | incoming)
-        item[k] = merged if merged else None
+
+    # 3) genres: union + normalizácia (ak item už mal nenormované žánre, ignorujeme)
+    existing_genres = set(item.get("genres") or [])
+    incoming_genres = set(meta.get("genres") or [])
+    genres_merged = sorted(existing_genres | incoming_genres)
+    item["genres"] = genres_merged if genres_merged else None
 
 def run_backfill():
     playlist = load_json(PLAYLIST_PATH, [])
@@ -349,7 +387,7 @@ def run_backfill():
         print(f"[info] limiting to first {MAX_KEYS_PER_RUN} keys (of {len(need_keys)}) this run")
         need_keys = need_keys[:MAX_KEYS_PER_RUN]
 
-    # doplň cache (bez pádu na chybe)
+    # doplň cache
     for k in need_keys:
         touched += 1
         if k not in cache:
@@ -362,13 +400,13 @@ def run_backfill():
     if touched:
         save_cache(cache)
 
-    # aplikuj do záznamov – vždy vynútime ALL_FIELDS (null, ak nič)
+    # aplikuj do záznamov – vynúť ALL_FIELDS, legacy cleanup
     for it in playlist:
-        before = json.dumps({kk: it.get(kk) for kk in ALL_FIELDS}, ensure_ascii=False, sort_keys=True)
+        before = json.dumps({kk: it.get(kk) for kk in ALL_FIELDS + ("composers","writers")}, ensure_ascii=False, sort_keys=True)
         key = norm_key(it["artist"], it["title"])
         meta = cache.get(key, {})
         apply_schema_with_nulls(it, meta)
-        after  = json.dumps({kk: it.get(kk) for kk in ALL_FIELDS}, ensure_ascii=False, sort_keys=True)
+        after  = json.dumps({kk: it.get(kk) for kk in ALL_FIELDS + ("composers","writers")}, ensure_ascii=False, sort_keys=True)
         if before != after:
             updated += 1
 

@@ -25,6 +25,10 @@
   const btn = document.getElementById('btn');
   const out = document.getElementById('out');
 
+  const API = 'https://melody-now.onrender.com/now';
+  api.value = API;                    // predvyplní input
+  window.addEventListener('DOMContentLoaded', () => btn.click());
+
   btn.onclick = async () => {
     const url = api.value.trim();
     if(!url) { alert("Doplň URL endpointu /now"); return; }

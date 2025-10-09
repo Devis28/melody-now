@@ -3,11 +3,14 @@
 Backfill poslucháčov podľa simulovaného denného profilu:
 - pracovný deň peak ≈ WEEKDAY_PEAK
 - víkend peak ≈ WEEKEND_PEAK
-- noc (cca 00:00–04:00) výrazne utlmená; minimum ~NIGHT_MIN
+- noc utlmená okolo NIGHT_CENTER s wrap-around (cirkulárne na 24 h)
+- voliteľný "evening tail" – tlmí už od večera (napr. od 22:00)
 - deterministický jitter ± pár %
 
 Env-tunables:
-  WEEKDAY_PEAK, WEEKEND_PEAK, NIGHT_MIN, NIGHT_STRENGTH, NIGHT_POWER,
+  WEEKDAY_PEAK, WEEKEND_PEAK,
+  NIGHT_MIN, NIGHT_CENTER, NIGHT_WIDTH, NIGHT_STRENGTH, NIGHT_POWER,
+  EVENING_TAIL_START, EVENING_TAIL_STRENGTH, EVENING_TAIL_SLOPE,
   JITTER_SIGMA, JITTER_CLIP
 """
 import json, os, math, hashlib, random
@@ -20,9 +23,20 @@ PATH = os.environ.get("OUT_PATH", "data/playlist.json")
 # ====== nastaviteľné konštanty ===============================================
 WEEKDAY_PEAK   = float(os.environ.get("WEEKDAY_PEAK", 3260))   # špička pracovného dňa
 WEEKEND_PEAK   = float(os.environ.get("WEEKEND_PEAK", 1820))   # špička víkendu
-NIGHT_MIN      = float(os.environ.get("NIGHT_MIN", 80))       # minimum v hlbokej noci
-NIGHT_STRENGTH = float(os.environ.get("NIGHT_STRENGTH", 0.98)) # 0..1 (ako silno tlmiť noc)
-NIGHT_POWER    = float(os.environ.get("NIGHT_POWER", 1.6))     # >1 = ešte prudšie tlmenie
+
+# Noc – minimum a tvar (cirkulárny Gauss okolo NIGHT_CENTER s polomerom NIGHT_WIDTH)
+NIGHT_MIN      = float(os.environ.get("NIGHT_MIN", 120))       # min v hlbokej noci
+NIGHT_CENTER   = float(os.environ.get("NIGHT_CENTER", 2.5))    # hodina minima (~02:30)
+NIGHT_WIDTH    = float(os.environ.get("NIGHT_WIDTH", 3.0))     # šírka noci (↑ = dlhšia noc)
+NIGHT_STRENGTH = float(os.environ.get("NIGHT_STRENGTH", 0.96)) # 0..1 sila tlmenia
+NIGHT_POWER    = float(os.environ.get("NIGHT_POWER", 1.6))     # prudkosť poklesu (>1 = ostrejšie)
+
+# Večerné do-tlmenie pred polnocou (už od ~22:00)
+EVENING_TAIL_START     = float(os.environ.get("EVENING_TAIL_START", 22.0)) # kedy začať tlmiť
+EVENING_TAIL_STRENGTH  = float(os.environ.get("EVENING_TAIL_STRENGTH", 0.35)) # 0..1
+EVENING_TAIL_SLOPE     = float(os.environ.get("EVENING_TAIL_SLOPE", 0.6))     # menšie = strmší nábeh
+
+# Jitter
 JITTER_SIGMA   = float(os.environ.get("JITTER_SIGMA", 0.06))   # ~6 %
 JITTER_CLIP    = float(os.environ.get("JITTER_CLIP", 0.12))    # max ±12 %
 
@@ -52,20 +66,33 @@ def _normalize(arr):
     if a_max <= a_min: return [0.0 for _ in arr]
     return [(v - a_min) / (a_max - a_min) for v in arr]
 
-# predpočítame normalizovaný dený tvar BEZ nočného tlmenia
+# ====== nočné/večerné tlmenie ===============================================
+def _circ_dist_hours(a, b):
+    """cirkulárna vzdialenosť na 24 h hodín"""
+    d = abs(a - b)
+    return min(d, 24.0 - d)
+
+def _sigmoid(x):
+    return 1.0 / (1.0 + math.exp(-x))
+
+def _night_depressor(h):
+    # Cirkulárny Gauss okolo NIGHT_CENTER – účinný aj blízko polnoci (napr. 23:xx)
+    valley = math.exp(-0.5 * (_circ_dist_hours(h, NIGHT_CENTER) / max(0.1, NIGHT_WIDTH)) ** 2)
+    dep1 = 1.0 - NIGHT_STRENGTH * valley       # 1..(1 - NIGHT_STRENGTH)
+    dep1 = max(0.0, min(1.0, dep1)) ** NIGHT_POWER
+
+    # Večerný chvost – od EVENING_TAIL_START smerom k polnoci pridáva ďalšie tlmenie
+    tail = _sigmoid((h - EVENING_TAIL_START) / max(0.1, EVENING_TAIL_SLOPE))  # ~0 pred, ~1 po
+    dep2 = 1.0 - EVENING_TAIL_STRENGTH * tail
+
+    return max(0.0, min(1.0, dep1 * dep2))
+
+# ====== shape 0..1 po nočnom tlmení (bez re-normalizácie) ====================
 def _precompute_norm(is_weekend: bool):
     grid = [i/12 for i in range(0, 24*12 + 1)]  # 5-min mriežka v hodinách
     raw = [(_shape_weekend_raw(x) if is_weekend else _shape_weekday_raw(x)) for x in grid]
     return grid, _normalize(raw)
 
-# nočný depressor: 1 - k*valley, potom mocnina
-def _night_depressor(h):
-    # valley ~1 okolo 02:30, ~0 cez deň
-    valley = math.exp(-0.5 * ((h - 2.5) / 2.0) ** 2)
-    dep = 1.0 - NIGHT_STRENGTH * valley  #  (1 - 0.85) = 0.15 v najhlbšej noci
-    return max(0.0, min(1.0, dep)) ** NIGHT_POWER
-
-# vráti s01 v [0,1] po aplikácii nočného tlmenia (ale už bez re-normalizácie)
 def _s01(h, is_weekend):
     if not hasattr(_s01, "_cache"):
         _s01._cache = {}
@@ -76,10 +103,11 @@ def _s01(h, is_weekend):
     idx = min(range(len(grid)), key=lambda i: abs(grid[i] - h))
     return day_norm[idx] * _night_depressor(h)
 
+# ====== očakávaný počet + jitter ============================================
 def _expected_count(dt: datetime) -> float:
     h = dt.hour + dt.minute / 60.0
     is_weekend = dt.weekday() >= 5
-    s = _s01(h, is_weekend)  # 0..1 po nočnom tlmení
+    s = _s01(h, is_weekend)  # 0..1 po nočnom/večernom tlmení
     peak = WEEKEND_PEAK if is_weekend else WEEKDAY_PEAK
     return NIGHT_MIN + s * (peak - NIGHT_MIN)
 
@@ -96,7 +124,6 @@ def estimate_from_curve(dt: datetime, item_key: str) -> int:
     base = _expected_count(dt)
     v = base * _deterministic_jitter(item_key)
     peak_cap = WEEKEND_PEAK if dt.weekday() >= 5 else WEEKDAY_PEAK
-    # spodný limit používame NIGHT_MIN, nie fixných 200
     v = max(NIGHT_MIN, min(peak_cap, v))
     return int(round(v))
 

@@ -16,3 +16,15 @@ app.add_middleware(
 def now():
     """Živá aktuálna pesnička + odhad počúvanosti."""
     return get_now_playing()
+
+@app.get("/")
+def root():
+    return {"status": "ok", "try": "/now"}
+
+@app.get("/health")
+def health():
+    return {"ok": True}
+
+@app.get("/now")
+def now():
+    return get_now_playing()

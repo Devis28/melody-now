@@ -20,9 +20,9 @@ PATH = os.environ.get("OUT_PATH", "data/playlist.json")
 # ====== nastaviteľné konštanty ===============================================
 WEEKDAY_PEAK   = float(os.environ.get("WEEKDAY_PEAK", 3260))   # špička pracovného dňa
 WEEKEND_PEAK   = float(os.environ.get("WEEKEND_PEAK", 1820))   # špička víkendu
-NIGHT_MIN      = float(os.environ.get("NIGHT_MIN", 140))       # minimum v hlbokej noci
-NIGHT_STRENGTH = float(os.environ.get("NIGHT_STRENGTH", 0.96)) # 0..1 (ako silno tlmiť noc)
-NIGHT_POWER    = float(os.environ.get("NIGHT_POWER", 1.8))     # >1 = ešte prudšie tlmenie
+NIGHT_MIN      = float(os.environ.get("NIGHT_MIN", 80))       # minimum v hlbokej noci
+NIGHT_STRENGTH = float(os.environ.get("NIGHT_STRENGTH", 0.98)) # 0..1 (ako silno tlmiť noc)
+NIGHT_POWER    = float(os.environ.get("NIGHT_POWER", 1.6))     # >1 = ešte prudšie tlmenie
 JITTER_SIGMA   = float(os.environ.get("JITTER_SIGMA", 0.06))   # ~6 %
 JITTER_CLIP    = float(os.environ.get("JITTER_CLIP", 0.12))    # max ±12 %
 

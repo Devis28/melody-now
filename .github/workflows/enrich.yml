@@ -1,57 +1,57 @@
-name: Enrich metadata
+name: Enrich metadata (one-off backfill)
 
 on:
-  schedule:
-    - cron: "15 2 * * *"    # denne 02:15
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # spustíš ručne v Actions
 
 permissions:
   contents: write
 
 concurrency:
-  group: enrich-metadata-main
+  group: enrich-metadata
   cancel-in-progress: true
 
 jobs:
-  enrich:
+  backfill:
     runs-on: ubuntu-latest
+    timeout-minutes: 240     # pre istotu pri veľkom počte
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0          # potrebujeme plnú históriu kvôli rebase
+          fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
 
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run enrichment
+      - name: Run enrichment (no limit)
         env:
           PLAYLIST_PATH: data/playlist.json
           CACHE_PATH: data/meta_cache.json
+          MAX_KEYS_PER_RUN: "0"      # ⇐ BEZ LIMITU – spracuje všetko
+          MB_THROTTLE_SEC: "1.2"     # šetrnejšie k MusicBrainz
+          MB_USER_AGENT: "melody-now/1.0 (contact: tvoj-email@example.com)"
         run: python enrich_metadata.py
 
-      - name: Commit & push JSON if changed (rebase-safe)
+      - name: Commit & push results (if any)
         run: |
           set -e
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # pridaj iba ak sú zmeny
           git add data/playlist.json data/meta_cache.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "enrich: update metadata"
-
-          # stiahni nové zmeny a naskladaj náš commit navrch
+          git commit -m "enrich: one-off backfill"
           git pull --rebase origin main || true
-
-          # po úspešnom rebase pošli späť – bezpečne
           git push --force-with-lease origin main

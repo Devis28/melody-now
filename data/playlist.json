@@ -4,21 +4,62 @@
     "artist": "David Michal Kroky Františka Janečka",
     "date": "09.10.2025",
     "time": "18:53",
-    "listeners": 21373
+    "listeners": 21373,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 193239,
+    "duration_sec": 193,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/a5/57/fda557f1-5a3d-5cae-e0e8-1f3bf863e40d/cover.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1380713452,
+      "deezer_track_id": 496390352
+    }
   },
   {
     "title": "Sen",
     "artist": "Lucie",
     "date": "09.10.2025",
     "time": "18:46",
-    "listeners": 24067
+    "listeners": 24067,
+    "release_year": 1994,
+    "sources": {
+      "musicbrainz_recording": "2e18e57f-e68f-42e2-b0e7-aa85f13ff28b",
+      "itunes_track_id": 1444011254,
+      "deezer_track_id": 15517832
+    },
+    "album": "Cerny Kocky Mokry Zaby",
+    "duration_ms": 296600,
+    "duration_sec": 296,
+    "genres": [
+      "Film Scores",
+      "Films/Games",
+      "Musicals",
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c0/78/0f/c0780fcb-096e-7f1d-4a5b-824d6a0d5a85/00602537385966.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "Primášovo Srdce",
     "artist": "Karol Duchoň",
     "date": "09.10.2025",
     "time": "18:43",
-    "listeners": 20577
+    "listeners": 20577,
+    "release_year": 2006,
+    "sources": {
+      "musicbrainz_recording": "145e0624-ae68-4e95-8f99-0b22f97965d8",
+      "itunes_track_id": 1533365518,
+      "deezer_track_id": 1037897712
+    },
+    "album": "20 naj",
+    "duration_ms": 209427,
+    "duration_sec": 209,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/bb/63/62bb63d4-0916-7b17-e5b6-5c6a8ba2d4c3/190295178406.jpg/100x100bb.jpg"
   },
   {
     "title": "Prvá Láska",
@@ -32,420 +73,1178 @@
     "artist": "Ilona Csáková",
     "date": "09.10.2025",
     "time": "18:36",
-    "listeners": 26492
+    "listeners": 26492,
+    "release_year": 2001,
+    "sources": {
+      "musicbrainz_recording": "36579d79-a0c2-48a8-ba23-57777c36dd8f",
+      "itunes_track_id": 692566081,
+      "deezer_track_id": 17100360
+    },
+    "album": "22x Ilona - Best Of",
+    "duration_ms": 205147,
+    "duration_sec": 205,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ed/a3/8b/eda38bf3-27c8-efd9-9677-e1db8fd2ac39/5099946408150.jpg/100x100bb.jpg"
   },
   {
     "title": "Predavačka Langošov",
     "artist": "Taktici",
     "date": "09.10.2025",
     "time": "18:33",
-    "listeners": 22277
+    "listeners": 22277,
+    "release_year": 1997,
+    "sources": {
+      "musicbrainz_recording": "1d2327ed-6f17-4570-b9ab-5391ea76abba"
+    }
   },
   {
     "title": "Sme Také Aké Sme",
     "artist": "Dubasová Beáta",
     "date": "09.10.2025",
     "time": "18:29",
-    "listeners": 21855
+    "listeners": 21855,
+    "album": "Beáta",
+    "release_year": 1987,
+    "duration_ms": 255360,
+    "duration_sec": 255,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/11/90/71/1190713f-adf5-8a35-53d6-a91c12c6077f/8584019184729.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1533355169,
+      "deezer_track_id": 1091276542
+    }
   },
   {
     "title": "Kamarát",
     "artist": "Exil",
     "date": "09.10.2025",
     "time": "18:25",
-    "listeners": 21656
+    "listeners": 21656,
+    "release_year": 1996,
+    "sources": {
+      "musicbrainz_recording": "ecb9a1a1-f1ea-455f-91b5-49d6442f193d",
+      "itunes_track_id": 1528232306,
+      "deezer_track_id": 1054433492
+    },
+    "album": "Kamarát - EP",
+    "duration_ms": 215615,
+    "duration_sec": 215,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/25/33/7c253360-e679-5e15-79f9-8f526447668e/artwork.jpg/100x100bb.jpg"
   },
   {
     "title": "Řeka Lásky",
     "artist": "Marie Rottrová",
     "date": "09.10.2025",
     "time": "18:22",
-    "listeners": 25503
+    "listeners": 25503,
+    "release_year": 2003,
+    "sources": {
+      "musicbrainz_recording": "596d086e-ee8b-4e5f-80e8-35d2529e0a20",
+      "itunes_track_id": 1384704966,
+      "deezer_track_id": 500323512
+    },
+    "album": "Všechno Nejlepší...",
+    "duration_ms": 200307,
+    "duration_sec": 200,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c7/e0/32c7e023-03fb-c152-560e-564e1e6a289a/cover.jpg/100x100bb.jpg"
   },
   {
     "title": "Čas Je Proti Nám",
     "artist": "Helena Vondráčková",
     "date": "09.10.2025",
     "time": "18:18",
-    "listeners": 24864
+    "listeners": 24864,
+    "release_year": 2009,
+    "sources": {
+      "musicbrainz_recording": "9e0cf754-fd65-4ea4-9fda-5c66fe9e701d",
+      "itunes_track_id": 1630951986,
+      "deezer_track_id": 1524414802
+    },
+    "album": "Nejkrásnější na světě je láska",
+    "duration_ms": 249373,
+    "duration_sec": 249,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/69/b2/d8/69b2d8f0-ad02-cb85-463c-5c0e0a32374c/22UMGIM68620.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "Léto Jak Má Být",
     "artist": "Zich Karel",
     "date": "09.10.2025",
     "time": "18:14",
-    "listeners": 26818
+    "listeners": 26818,
+    "album": "...To Nejlepší",
+    "release_year": 1981,
+    "duration_ms": 184333,
+    "duration_sec": 184,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d3/20/aa/d320aa14-8a47-f634-8cf5-c1d81ed4ac81/cover.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1384678128,
+      "deezer_track_id": 500309852
+    }
   },
   {
     "title": "Zvonky Štestí",
     "artist": "Karel Gott & Darinka Rolincová",
     "date": "09.10.2025",
     "time": "18:11",
-    "listeners": 24655
+    "listeners": 24655,
+    "release_year": 1991,
+    "sources": {
+      "musicbrainz_recording": "2398819e-e5e2-4780-a86c-278ae3b497a1",
+      "itunes_track_id": 1395180886,
+      "deezer_track_id": 2600782312
+    },
+    "album": "Zvonky Štěstí, Moje Druhé Já - Single",
+    "duration_ms": 236693,
+    "duration_sec": 236,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f9/ff/04f9ff47-956a-d894-b1fd-5504d0749998/cover.jpg/100x100bb.jpg"
   },
   {
     "title": "Veľa Lásky",
     "artist": "I.M.T. Smile",
     "date": "09.10.2025",
     "time": "18:05",
-    "listeners": 23559
+    "listeners": 23559,
+    "release_year": 2012,
+    "sources": {
+      "musicbrainz_recording": "c041ae40-41b0-4bd5-a452-ea4717b0096d",
+      "itunes_track_id": 1443398156,
+      "deezer_track_id": 75811043
+    },
+    "album": "hiSTORY",
+    "duration_ms": 195293,
+    "duration_sec": 195,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9c/3c/72/9c3c72fa-9a14-3c2b-d6da-caeea8288e3d/00602557255799.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "Holky Z Naší Školky",
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "09.10.2025",
     "time": "18:01",
-    "listeners": 21013
+    "listeners": 21013,
+    "release_year": 2000,
+    "sources": {
+      "musicbrainz_recording": "de862516-4c36-4827-a5f1-cc5af13bb8c8",
+      "itunes_track_id": 1386933425,
+      "deezer_track_id": 500587402
+    },
+    "album": "Holky Z Naší Školky",
+    "duration_ms": 232493,
+    "duration_sec": 232,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/4d/7c/314d7c53-c494-4695-099f-8e955cb09e28/cover.jpg/100x100bb.jpg"
   },
   {
     "title": "All By Myself",
     "artist": "Eric Carmen",
     "date": "09.10.2025",
     "time": "17:54",
-    "listeners": 23205
+    "listeners": 23205,
+    "release_year": 2012,
+    "sources": {
+      "musicbrainz_recording": "1138a87f-918e-4454-bb36-3a7e666b0439",
+      "itunes_track_id": 1268087248,
+      "deezer_track_id": 391680222
+    },
+    "album": "Eric Carmen",
+    "duration_ms": 429997,
+    "duration_sec": 429,
+    "genres": [
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/44/22/714422f4-76fa-5592-c389-3eb2a26c1133/886446634517.jpg/100x100bb.jpg"
   },
   {
     "title": "Pandora's Box",
     "artist": "Orchestral Manoeuvres In The Dark",
     "date": "09.10.2025",
     "time": "17:50",
-    "listeners": 20915
+    "listeners": 20915,
+    "sources": {
+      "musicbrainz_recording": "e3d3058b-6f09-4528-9773-ecd371016790",
+      "itunes_track_id": 714617960,
+      "deezer_track_id": 3156234
+    },
+    "album": "Sugar Tax",
+    "release_year": 1991,
+    "duration_ms": 249173,
+    "duration_sec": 249,
+    "genres": [
+      "New Wave",
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/81/fd/c8/81fdc8ae-26ec-7607-fc2c-f5248b9bf755/00094638690559.jpg/100x100bb.jpg"
   },
   {
     "title": "C�est La Vie",
     "artist": "Miro Zbirka",
     "date": "09.10.2025",
     "time": "17:46",
-    "listeners": 22131
+    "listeners": 22131,
+    "album": "K.O.",
+    "release_year": 1990,
+    "duration_ms": 277053,
+    "duration_sec": 277,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/0d/65/b90d6564-3ffa-374c-59b5-de9943f05bcb/8584019231324.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1533354343
+    }
   },
   {
     "title": "Slnko Nevychádzaj",
     "artist": "Metalinda",
     "date": "09.10.2025",
     "time": "17:39",
-    "listeners": 23931
+    "listeners": 23931,
+    "release_year": 2003,
+    "sources": {
+      "musicbrainz_recording": "2042ac80-0473-411c-b5ab-1aaf90fe8d82"
+    }
   },
   {
     "title": "Super Trouper",
     "artist": "Abba",
     "date": "09.10.2025",
     "time": "17:35",
-    "listeners": 26420
+    "listeners": 26420,
+    "release_year": 1988,
+    "sources": {
+      "musicbrainz_recording": "f631d09a-0bbb-4613-8fc2-a6d842337fc1",
+      "itunes_track_id": 1440823933,
+      "deezer_track_id": 884033
+    },
+    "album": "Super Trouper (Bonus Track Version)",
+    "duration_ms": 251298,
+    "duration_sec": 251,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/03/bb/30/03bb30c3-e87f-d935-3906-2c44d6cc440e/14UMGIM07613.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "Heal The World",
     "artist": "Jackson, Michael",
     "date": "09.10.2025",
     "time": "17:31",
-    "listeners": 22237
+    "listeners": 22237,
+    "album": "The Essential Michael Jackson",
+    "release_year": 1991,
+    "duration_ms": 385713,
+    "duration_sec": 385,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3d/9d/38/3d9d3811-71f0-3a0e-1ada-3004e56ff852/827969428726.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 159295278,
+      "deezer_track_id": 15593565
+    }
   },
   {
     "title": "I'll Stand By You",
     "artist": "Pretenders, The",
     "date": "09.10.2025",
     "time": "17:26",
-    "listeners": 23611
+    "listeners": 23611,
+    "album": "Last of the Independents",
+    "release_year": 1994,
+    "duration_ms": 238827,
+    "duration_sec": 238,
+    "genres": [
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/21/7b/21/217b2123-5ae5-476a-d807-211246a0df5b/dj.utjxmewn.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 118125081
+    }
   },
   {
     "title": "Lay Back In The Arms Of Someone",
     "artist": "Smokie",
     "date": "09.10.2025",
     "time": "17:22",
-    "listeners": 20747
+    "listeners": 20747,
+    "release_year": 2008,
+    "isrc": "DEA817700019",
+    "sources": {
+      "musicbrainz_recording": "337d9b5e-a05a-4e94-afd2-b99775e9f927",
+      "itunes_track_id": 255980573,
+      "deezer_track_id": 1495231822
+    },
+    "album": "The Best of Smokie",
+    "duration_ms": 244733,
+    "duration_sec": 244,
+    "genres": [
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5a/8f/7a/5a8f7a5f-6bc8-8e63-c350-c15b2cef9dae/dj.qlovlyrf.jpg/100x100bb.jpg"
   },
   {
     "title": "Ulica",
     "artist": "Elán",
     "date": "09.10.2025",
     "time": "17:19",
-    "listeners": 24236
+    "listeners": 24236,
+    "release_year": 1992,
+    "sources": {
+      "musicbrainz_recording": "36226123-28cc-460b-bec5-2132ba91bdb8",
+      "itunes_track_id": 1610598500,
+      "deezer_track_id": 1659863532
+    },
+    "album": "Nie sme zlí",
+    "duration_ms": 184880,
+    "duration_sec": 184,
+    "genres": [
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/bb/2e/febb2e28-4114-8be9-b3fc-c21f668a84bd/190296215582.jpg/100x100bb.jpg"
   },
   {
     "title": "When You Say Nothing At All",
     "artist": "Keating Ronan",
     "date": "09.10.2025",
     "time": "17:13",
-    "listeners": 21893
+    "listeners": 21893,
+    "album": "Ronan",
+    "release_year": 1999,
+    "duration_ms": 256827,
+    "duration_sec": 256,
+    "genres": [
+      "Pop",
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/a0/9c/0fa09ced-f3b2-3ddf-cba2-67ec6d6166dc/00731454973922.rgb.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1443996763,
+      "deezer_track_id": 2461244
+    }
   },
   {
     "title": "Znala Panna Pána",
     "artist": "Vondráčková Helena Neckář Václav",
     "date": "09.10.2025",
     "time": "17:11",
-    "listeners": 24692
+    "listeners": 24692,
+    "album": "Rendez Vous",
+    "release_year": 1965,
+    "duration_ms": 143680,
+    "duration_sec": 143,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/45/54/52/455452c1-3927-6211-4e73-ea86ac2fd6b7/06UMGIM73168.rgb.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1579859430,
+      "deezer_track_id": 1456157332
+    }
   },
   {
     "title": "Maturitné Tablo",
     "artist": "Hečková Júlia",
     "date": "09.10.2025",
     "time": "17:07",
-    "listeners": 24865
+    "listeners": 24865,
+    "album": "Maturitné tablo",
+    "release_year": 1987,
+    "duration_ms": 244316,
+    "duration_sec": 244,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/49/59/20/4959206b-414f-3f24-a7dd-2b3ac929ef70/5054197134760.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1615592066,
+      "deezer_track_id": 1693795497
+    }
   },
   {
     "title": "Can You Feel The Love Tonight",
     "artist": "John, Elton",
     "date": "09.10.2025",
     "time": "17:03",
-    "listeners": 22917
+    "listeners": 22917,
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "release_year": 1994,
+    "duration_ms": 241907,
+    "duration_sec": 241,
+    "genres": [
+      "Kids",
+      "Soundtrack"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/19/b7/2719b7ea-6b31-b187-8599-cacde89d8043/13UABIM58121.rgb.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 714571946,
+      "deezer_track_id": 3117869
+    }
   },
   {
     "title": "Bohemian Rhapsody",
     "artist": "Queen",
     "date": "09.10.2025",
     "time": "16:53",
-    "listeners": 19566
+    "listeners": 19566,
+    "release_year": 2007,
+    "sources": {
+      "musicbrainz_recording": "3eea5cf7-feba-49bc-be94-1b155dbcb165",
+      "itunes_track_id": 1435375007,
+      "deezer_track_id": 568115892
+    },
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "duration_ms": 354947,
+    "duration_sec": 354,
+    "genres": [
+      "Film Scores",
+      "Films/Games",
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/f1/51/e8f151ae-0f87-a2fd-b981-807a01b24504/18UMGIM55031.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "Crucified",
     "artist": "Army Of Lovers",
     "date": "09.10.2025",
     "time": "16:50",
-    "listeners": 21095
+    "listeners": 21095,
+    "release_year": 1992,
+    "sources": {
+      "musicbrainz_recording": "51d07381-24e4-4626-8743-84fa295bcfa4",
+      "itunes_track_id": 1442520826,
+      "deezer_track_id": 85142440
+    },
+    "album": "Massive Luxury Overdose",
+    "duration_ms": 213760,
+    "duration_sec": 213,
+    "genres": [
+      "Dance",
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/7f/7d/587f7ddc-b2ed-1ded-1662-fe6cfa032f41/00731451942129.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "Léto",
     "artist": "Bartošová Iveta",
     "date": "09.10.2025",
     "time": "16:44",
-    "listeners": 16690
+    "listeners": 16690,
+    "album": "Nekonecna/Best Of",
+    "release_year": 1998,
+    "duration_ms": 224920,
+    "duration_sec": 224,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/40/db/05/40db056f-39f2-f138-1694-c081e88563c2/825646126873.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 984842354,
+      "deezer_track_id": 68895249
+    }
   },
   {
     "title": "Sunny",
     "artist": "Boney M",
     "date": "09.10.2025",
     "time": "16:40",
-    "listeners": 17720
+    "listeners": 17720,
+    "release_year": 1998,
+    "sources": {
+      "musicbrainz_recording": "ecebf8e5-09a1-4b49-aaf8-a0cb64a963ae",
+      "itunes_track_id": 402741473,
+      "deezer_track_id": 364953
+    },
+    "album": "The Greatest Hits",
+    "duration_ms": 241373,
+    "duration_sec": 241,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3c/62/37/3c623771-cd39-b955-02f6-3ad01b2b30f9/888880774378.jpg/100x100bb.jpg"
   },
   {
     "title": "Spending My Time",
     "artist": "Roxette",
     "date": "09.10.2025",
     "time": "16:35",
-    "listeners": 17066
+    "listeners": 17066,
+    "release_year": 2010,
+    "sources": {
+      "musicbrainz_recording": "860d1ffe-0727-458e-a022-7b7cc899e121",
+      "itunes_track_id": 935672100,
+      "deezer_track_id": 3098304
+    },
+    "album": "The 30 Biggest Hits XXX",
+    "duration_ms": 275667,
+    "duration_sec": 275,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/f8/03/4bf803d5-ade4-6474-f6fe-8e7f3ad6da1f/825646187874.jpg/100x100bb.jpg"
   },
   {
     "title": "Poďme Sa Zachrániť",
     "artist": "Peter Nagy",
     "date": "09.10.2025",
     "time": "16:32",
-    "listeners": 19883
+    "listeners": 19883,
+    "release_year": 2011,
+    "sources": {
+      "musicbrainz_recording": "fabc37d4-8cf4-4d30-a2e9-4737d0a182f3",
+      "itunes_track_id": 1533349167,
+      "deezer_track_id": 1091363282
+    },
+    "album": "Singles (1984-1988)",
+    "duration_ms": 224307,
+    "duration_sec": 224,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/51/b4/1c51b4b9-0872-60ad-f77a-b6e2cc60fbf4/8584019060122.jpg/100x100bb.jpg"
   },
   {
     "title": "Hands Up",
     "artist": "Ottawan",
     "date": "09.10.2025",
     "time": "16:26",
-    "listeners": 16441
+    "listeners": 16441,
+    "release_year": 2010,
+    "sources": {
+      "musicbrainz_recording": "2cd126f1-8601-4853-88a8-ec4deb97da89",
+      "itunes_track_id": 1576244390,
+      "deezer_track_id": 1436220782
+    },
+    "album": "Ottawan 2",
+    "duration_ms": 289027,
+    "duration_sec": 289,
+    "genres": [
+      "Disco"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/1e/1d/841e1dab-451d-64ea-7bb0-26d894833fdd/5060899077229_cover.jpg/100x100bb.jpg"
   },
   {
     "title": "Heaven Is A Place On Earth",
     "artist": "Belinda Carlisle",
     "date": "09.10.2025",
     "time": "16:23",
-    "listeners": 19314
+    "listeners": 19314,
+    "release_year": 1997,
+    "sources": {
+      "musicbrainz_recording": "d293d6c8-f753-4da9-8bc8-760983ce2f4d",
+      "itunes_track_id": 1844663071,
+      "deezer_track_id": 24968371
+    },
+    "album": "Runaway Horses: The Tour (Live)",
+    "duration_ms": 319467,
+    "duration_sec": 319,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/ed/a0/f4eda006-fc84-2bf9-e95c-218f90c4f7ce/197188479961.jpg/100x100bb.jpg"
   },
   {
     "title": "Matka",
     "artist": "Tublatanka",
     "date": "09.10.2025",
     "time": "16:19",
-    "listeners": 16191
+    "listeners": 16191,
+    "release_year": 1991,
+    "sources": {
+      "musicbrainz_recording": "34e7facf-7a8d-4e33-a5d5-2629e2c4357a",
+      "itunes_track_id": 1384896374,
+      "deezer_track_id": 500585572
+    },
+    "album": "Nebo, Peklo, Raj",
+    "duration_ms": 292000,
+    "duration_sec": 292,
+    "genres": [
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/24/e2/5d/24e25d8a-0c8f-747a-33a3-22281023f4a2/cover.jpg/100x100bb.jpg"
   },
   {
     "title": "Orinoco Flow",
     "artist": "Enya",
     "date": "09.10.2025",
     "time": "16:13",
-    "listeners": 17555
+    "listeners": 17555,
+    "release_year": 2008,
+    "sources": {
+      "musicbrainz_recording": "81de0b6c-af6b-40d0-8674-2fccc2d65d70",
+      "itunes_track_id": 305695424,
+      "deezer_track_id": 903448452
+    },
+    "album": "Watermark (Remastered Bonus Track Version)",
+    "duration_ms": 266200,
+    "duration_sec": 266,
+    "genres": [
+      "New Age",
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/4e/31/bf4e31d1-9ffb-0838-4c05-1319d281b330/mzi.nzgmjkjb.jpg/100x100bb.jpg"
   },
   {
     "title": "Mamma Maria",
     "artist": "Ricchi E Poveri",
     "date": "09.10.2025",
     "time": "16:10",
-    "listeners": 16409
+    "listeners": 16409,
+    "release_year": 1998,
+    "sources": {
+      "musicbrainz_recording": "f7c3997a-bc27-4d5f-8a9f-93c114806496",
+      "itunes_track_id": 285797611,
+      "deezer_track_id": 636403
+    },
+    "album": "Ricchi e Poveri: The Collection",
+    "duration_ms": 175667,
+    "duration_sec": 175,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/95/b5/6395b585-7529-f03c-c339-24c14b99363e/mzi.wvymzajv.jpg/100x100bb.jpg"
   },
   {
     "title": "Somebody Dance With Me",
     "artist": "Dj Bobo",
     "date": "09.10.2025",
     "time": "16:07",
-    "listeners": 18351
+    "listeners": 18351,
+    "release_year": 1999,
+    "sources": {
+      "musicbrainz_recording": "d22be05c-a157-42f4-8249-70c3b7a8ed69",
+      "itunes_track_id": 1505991662,
+      "deezer_track_id": 918091082
+    },
+    "album": "Best Of",
+    "duration_ms": 212893,
+    "duration_sec": 212,
+    "genres": [
+      "Dance",
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d4/62/4f/d4624fe2-9884-85a1-9e63-0c2d9500413d/7619978208023_3000.jpg/100x100bb.jpg"
   },
   {
     "title": "Milujem",
     "artist": "Zenit",
     "date": "09.10.2025",
     "time": "16:03",
-    "listeners": 21732
+    "listeners": 21732,
+    "release_year": 2007,
+    "sources": {
+      "musicbrainz_recording": "d8924a9e-339c-4acd-8c59-38d7d2f4aa67",
+      "itunes_track_id": 1533449776,
+      "deezer_track_id": 1091745322
+    },
+    "album": "GOLD Supermix",
+    "duration_ms": 233960,
+    "duration_sec": 233,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1b/04/00/1b04000e-bdf3-8c3c-d03e-1f12faacd0de/190295160784.jpg/100x100bb.jpg"
   },
   {
     "title": "Maniac",
     "artist": "Michael Sembello",
     "date": "09.10.2025",
     "time": "15:54",
-    "listeners": 18549
+    "listeners": 18549,
+    "release_year": 2022,
+    "isrc": "USUM70600581",
+    "sources": {
+      "musicbrainz_recording": "c15c2f21-e462-43ca-836c-11a3dad946f9",
+      "itunes_track_id": 1425259944,
+      "deezer_track_id": 540168502
+    },
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "duration_ms": 244707,
+    "duration_sec": 244,
+    "genres": [
+      "Film Scores",
+      "Films/Games",
+      "Soundtrack"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/40/97/5f/40975fe8-20e6-e617-7e1c-c8dc1dbc753a/06UMGIM29411.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "Prvá",
     "artist": "Miro Žbirka",
     "date": "09.10.2025",
     "time": "15:49",
-    "listeners": 18134
+    "listeners": 18134,
+    "release_year": 2007,
+    "sources": {
+      "musicbrainz_recording": "73831c57-c3e4-49c2-9ff3-9bac586e2f66",
+      "itunes_track_id": 1533351679,
+      "deezer_track_id": 1068048732
+    },
+    "album": "Zlomky poznania",
+    "duration_ms": 307013,
+    "duration_sec": 307,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/05/0f/45/050f452f-71af-97e7-d37a-b6eb8df9cdd7/8584019204823.jpg/100x100bb.jpg"
   },
   {
     "title": "Už Mi, Lásko, Není Dvacet Let",
     "artist": "Jiří Zmožek",
     "date": "09.10.2025",
     "time": "15:44",
-    "listeners": 21168
+    "listeners": 21168,
+    "release_year": 2001,
+    "sources": {
+      "musicbrainz_recording": "f63df0de-44ff-4485-9836-cb354104fc80",
+      "itunes_track_id": 470532667,
+      "deezer_track_id": 506588222
+    },
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "duration_ms": 246093,
+    "duration_sec": 246,
+    "genres": [
+      "Pop",
+      "Worldwide"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/be/07/23/mzi.bpvawbig.jpg/100x100bb.jpg"
   },
   {
     "title": "Lay All Your Love On Me",
     "artist": "Abba",
     "date": "09.10.2025",
     "time": "15:40",
-    "listeners": 21677
+    "listeners": 21677,
+    "release_year": 1981,
+    "sources": {
+      "musicbrainz_recording": "1f1e871e-0e4d-4acd-acf1-639048e877d1",
+      "itunes_track_id": 1440824250,
+      "deezer_track_id": 76376863
+    },
+    "album": "Super Trouper (Bonus Track Version)",
+    "duration_ms": 274867,
+    "duration_sec": 274,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/03/bb/30/03bb30c3-e87f-d935-3906-2c44d6cc440e/14UMGIM07613.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "Stestí",
     "artist": "Rottrová Marie",
     "date": "09.10.2025",
     "time": "15:36",
-    "listeners": 19829
+    "listeners": 19829,
+    "album": "To Mám Tak Ráda",
+    "release_year": 1975,
+    "duration_ms": 222067,
+    "duration_sec": 222,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0d/ab/82/0dab82ee-3669-1fb6-725b-befbb89aa7d8/cover.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1395199631,
+      "deezer_track_id": 500323532
+    }
   },
   {
     "title": "Be My Lover",
     "artist": "La Bouche",
     "date": "09.10.2025",
     "time": "15:29",
-    "listeners": 20135
+    "listeners": 20135,
+    "sources": {
+      "musicbrainz_recording": "1047e304-f7fc-4c32-9f2f-e6a5860731ca",
+      "itunes_track_id": 215933368,
+      "deezer_track_id": 96461658
+    },
+    "album": "La Bouche: Greatest Hits",
+    "release_year": 1995,
+    "duration_ms": 240867,
+    "duration_sec": 240,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/fb/0a/62/fb0a623d-fa42-ec3b-db26-f99d8319c8f1/dj.ncgdhqsu.jpg/100x100bb.jpg"
   },
   {
     "title": "Stand By Me",
     "artist": "Ben E. King",
     "date": "09.10.2025",
     "time": "15:26",
-    "listeners": 20568
+    "listeners": 20568,
+    "release_year": 2024,
+    "sources": {
+      "musicbrainz_recording": "aef969e2-11a5-4505-96a3-2541f41d42bc",
+      "itunes_track_id": 738196409,
+      "deezer_track_id": 136710424
+    },
+    "album": "The Very Best of Ben E. King",
+    "duration_ms": 174800,
+    "duration_sec": 174,
+    "genres": [
+      "R&B/Soul"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/75/80/467580f9-1f8d-5c80-ac48-34e0f1a56816/081227297060.jpg/100x100bb.jpg"
   },
   {
     "title": "Discopříběh",
     "artist": "David Michal",
     "date": "09.10.2025",
     "time": "15:23",
-    "listeners": 18621
+    "listeners": 18621,
+    "album": "Discopříběh",
+    "release_year": 1987,
+    "duration_ms": 191443,
+    "duration_sec": 191,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/1f/4f/fc1f4f3c-8244-51df-80c5-2698a6a13c65/cover.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1380683521,
+      "deezer_track_id": 496384482
+    }
   },
   {
     "title": "I've Been Thinking About You",
     "artist": "Londonbeat",
     "date": "09.10.2025",
     "time": "15:15",
-    "listeners": 18572
+    "listeners": 18572,
+    "release_year": 1999,
+    "sources": {
+      "musicbrainz_recording": "cc793299-804b-4aca-9131-4aa1bf09a7ba",
+      "itunes_track_id": 943232452,
+      "deezer_track_id": 2742205241
+    },
+    "album": "90s 100 Hits",
+    "duration_ms": 228280,
+    "duration_sec": 228,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b1/48/e8/b148e844-469c-7357-a765-253eb83ba4a2/886444962599.jpg/100x100bb.jpg"
   },
   {
     "title": "Mosty",
     "artist": "Zich Karel & Filipová Lenka",
     "date": "09.10.2025",
     "time": "15:12",
-    "listeners": 19400
+    "listeners": 19400,
+    "album": "Mosty",
+    "release_year": 1981,
+    "duration_ms": 218240,
+    "duration_sec": 218,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/cb/87/39cb87d2-f62c-b06f-6e4f-1620cf1557b5/cover.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1400851149,
+      "deezer_track_id": 2654395792
+    }
   },
   {
     "title": "Always On My Mind",
     "artist": "Pet Shop Boys",
     "date": "09.10.2025",
     "time": "15:08",
-    "listeners": 18628
+    "listeners": 18628,
+    "release_year": 1993,
+    "sources": {
+      "musicbrainz_recording": "7b7aed14-b3e4-4631-a305-1ea963c43d78",
+      "itunes_track_id": 710663065,
+      "deezer_track_id": 15707218
+    },
+    "album": "Discography: The Complete Singles Collection",
+    "duration_ms": 234907,
+    "duration_sec": 234,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/3c/01/b7/3c01b76c-bdf5-7115-429e-59aed4169470/dj.mxbxrwzr.jpg/100x100bb.jpg"
   },
   {
     "title": "Se Bastasse Una Canzone",
     "artist": "Ramazzotti Eros",
     "date": "09.10.2025",
     "time": "15:04",
-    "listeners": 19880
+    "listeners": 19880,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 323867,
+    "duration_sec": 323,
+    "genres": [
+      "Latin Music",
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/08/d3/f6/dj.offlunts.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 254549432,
+      "deezer_track_id": 1045034
+    }
   },
   {
     "title": "Baby, I Love Your Way",
     "artist": "Big Mountain",
     "date": "09.10.2025",
     "time": "14:56",
-    "listeners": 21535
+    "listeners": 21535,
+    "release_year": 1994,
+    "sources": {
+      "musicbrainz_recording": "221eb7bc-48ca-47b6-b251-8a157898e737",
+      "itunes_track_id": 847366090,
+      "deezer_track_id": 846215
+    },
+    "album": "Unity",
+    "duration_ms": 249520,
+    "duration_sec": 249,
+    "genres": [
+      "Pop",
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/4c/a6/e54ca6c7-c578-e11d-f9a7-c9acd49bc1de/075992456326.jpg/100x100bb.jpg"
   },
   {
     "title": "Mrs. Robinson",
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "09.10.2025",
     "time": "14:51",
-    "listeners": 19584
+    "listeners": 19584,
+    "album": "Bookends",
+    "release_year": 1968,
+    "duration_ms": 247420,
+    "duration_sec": 247,
+    "genres": [
+      "Classical",
+      "Singer/Songwriter"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1c/3c/09/1c3c0934-8ae5-fc87-2647-e104057d41f4/074640952920.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 203304387,
+      "deezer_track_id": 2774717251
+    }
   },
   {
     "title": "Chlapci V Pasci",
     "artist": "Gombitová Marika",
     "date": "09.10.2025",
     "time": "14:48",
-    "listeners": 16105
+    "listeners": 16105,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 210267,
+    "duration_sec": 210,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/97/b8/a3/97b8a333-1281-ebc8-bd7a-d98a7f699aae/8584019173129.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1533360347,
+      "deezer_track_id": 1091316742
+    }
   },
   {
     "title": "Malovaný Džbánku",
     "artist": "Helena Vondráčková",
     "date": "09.10.2025",
     "time": "14:43",
-    "listeners": 20544
+    "listeners": 20544,
+    "release_year": 2007,
+    "sources": {
+      "musicbrainz_recording": "d631082a-cf79-4c0a-b795-4fce85888d0a",
+      "itunes_track_id": 1406978933,
+      "deezer_track_id": 1385120702
+    },
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "duration_ms": 173107,
+    "duration_sec": 173,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/13/ed/7f13ed1e-5921-8049-c908-a24e11092866/cover.jpg/100x100bb.jpg"
   },
   {
     "title": "Conquest Of Paradise",
     "artist": "Vangelis",
     "date": "09.10.2025",
     "time": "14:38",
-    "listeners": 17625
+    "listeners": 17625,
+    "release_year": 2003,
+    "sources": {
+      "musicbrainz_recording": "dd5fa2a7-24b5-46bb-89d0-271bd720ae4a",
+      "itunes_track_id": 41297651,
+      "deezer_track_id": 726810
+    },
+    "album": "1492 - Conquest of Paradise",
+    "duration_ms": 278200,
+    "duration_sec": 278,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/86/e9/7986e97b-7a59-2ac5-78fe-3dd07b71525f/745099101466.jpg/100x100bb.jpg"
   },
   {
     "title": "Fero",
     "artist": "Elán",
     "date": "09.10.2025",
     "time": "14:34",
-    "listeners": 19363
+    "listeners": 19363,
+    "release_year": 1992,
+    "sources": {
+      "musicbrainz_recording": "f9065198-d5ab-4ad8-9674-3ce138ce63ee",
+      "itunes_track_id": 1610601732,
+      "deezer_track_id": 1659673872
+    },
+    "album": "Detektívka",
+    "duration_ms": 198507,
+    "duration_sec": 198,
+    "genres": [
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/e2/2c/4ce22c56-1440-ef5d-6d89-6c8c9fafe5aa/190296217340.jpg/100x100bb.jpg"
   },
   {
     "title": "Can't Fight The Moonlight",
     "artist": "Rimes Leann",
     "date": "09.10.2025",
     "time": "14:30",
-    "listeners": 20945
+    "listeners": 20945,
+    "album": "Coyote Ugly",
+    "release_year": 2000,
+    "duration_ms": 215507,
+    "duration_sec": 215,
+    "genres": [
+      "Country",
+      "Soundtrack"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d13/h10/s05.fvdzfulz.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 72267206,
+      "deezer_track_id": 75779409
+    }
   },
   {
     "title": "What A Wonderful World",
     "artist": "Louis Armstrong",
     "date": "09.10.2025",
     "time": "14:26",
-    "listeners": 21544
+    "listeners": 21544,
+    "release_year": 1997,
+    "sources": {
+      "musicbrainz_recording": "9463bd34-a5d0-42e7-90ab-2597ef250674",
+      "itunes_track_id": 1440787254,
+      "deezer_track_id": 13155119
+    },
+    "album": "What a Wonderful World",
+    "duration_ms": 139434,
+    "duration_sec": 139,
+    "genres": [
+      "Jazz"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/14/ef/1414ef36-705a-4483-d7fc-ca636f2cb137/12UMGIM11012.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "I Want To Break Free",
     "artist": "Queen",
     "date": "09.10.2025",
     "time": "14:22",
-    "listeners": 20605
+    "listeners": 20605,
+    "release_year": 2007,
+    "isrc": "GBCEG8400013",
+    "sources": {
+      "musicbrainz_recording": "1dfb4d37-7c7b-4ae1-abf5-e6536f2a9f25",
+      "itunes_track_id": 1441463349,
+      "deezer_track_id": 716513492
+    },
+    "album": "The Works (Deluxe Edition)",
+    "duration_ms": 201082,
+    "duration_sec": 201,
+    "genres": [
+      "Rock"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/0b/6a/500b6ab3-36de-1155-6ef0-b0ab77637988/14UMGIM42577.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "Happy People",
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "09.10.2025",
     "time": "14:19",
-    "listeners": 17903
+    "listeners": 17903,
+    "album": "Life In the Streets",
+    "release_year": 1994,
+    "duration_ms": 238467,
+    "duration_sec": 238,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/c5/a2/78c5a2d3-09e3-9a41-118c-9991d6448595/s06.zmpvgzpu.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 40620614,
+      "deezer_track_id": 2391222975
+    }
   },
   {
     "title": "Víc Než Přítel",
     "artist": "Černoch Karel Brabec Filip",
     "date": "09.10.2025",
     "time": "14:12",
-    "listeners": 17659
+    "listeners": 17659,
+    "album": "Setkání",
+    "release_year": 1968,
+    "duration_ms": 257880,
+    "duration_sec": 257,
+    "genres": [
+      "Country"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/02/a8/12/02a81283-5f66-16c5-2def-0aff3b864618/00602547803306.rgb.jpg/100x100bb.jpg",
+    "sources": {
+      "itunes_track_id": 1442998490
+    }
   },
   {
     "title": "Dancing Queen",
     "artist": "Abba",
     "date": "09.10.2025",
     "time": "14:08",
-    "listeners": 17851
+    "listeners": 17851,
+    "release_year": 2001,
+    "sources": {
+      "musicbrainz_recording": "0ddf32e4-0a93-4dfe-8e97-ea94cf4ddfcb",
+      "itunes_track_id": 1440816837,
+      "deezer_track_id": 884025
+    },
+    "album": "ABBA Gold: Greatest Hits",
+    "duration_ms": 231093,
+    "duration_sec": 231,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/f7/90/dcf790c3-7c63-f7b3-e57b-5a8747a8ebbe/14UMGIM11148.rgb.jpg/100x100bb.jpg"
   },
   {
     "title": "Myslím Že Môže Byť",
@@ -459,7 +1258,19 @@
     "artist": "Vašo Patejdl a Oľga Záblacká",
     "date": "09.10.2025",
     "time": "14:01",
-    "listeners": 20385
+    "listeners": 20385,
+    "release_year": 2015,
+    "sources": {
+      "musicbrainz_recording": "1334d788-4830-44a0-9941-faf5b6dbdfc1",
+      "itunes_track_id": 1533446014
+    },
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "duration_ms": 141000,
+    "duration_sec": 141,
+    "genres": [
+      "Pop"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/2c/77/012c772b-4381-d40b-bc06-97e4b8fd70da/190295160777.jpg/100x100bb.jpg"
   },
   {
     "title": "Voyage Voyage",

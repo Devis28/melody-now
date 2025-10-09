@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 import re
 import hashlib
-from datetime import datetime, date, time, timedelta
-from zoneinfo import ZoneInfo
 import math
 import os
+from datetime import datetime, date, time, timedelta
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -22,11 +22,12 @@ WEEKDAY_PEAK   = float(os.environ.get("WEEKDAY_PEAK", 3260))   # špička pracov
 WEEKEND_PEAK   = float(os.environ.get("WEEKEND_PEAK", 1820))   # špička víkendu
 
 # Noc – minimum a tvar (cirkulárny Gauss s wrap-around okolo polnoci)
-NIGHT_MIN      = float(os.environ.get("NIGHT_MIN", 120))       # minimum v hlbokej noci
+NIGHT_MIN      = float(os.environ.get("NIGHT_MIN", 160))       # minimum v hlbokej noci
 NIGHT_CENTER   = float(os.environ.get("NIGHT_CENTER", 2.5))    # hodina minima (~02:30)
 NIGHT_WIDTH    = float(os.environ.get("NIGHT_WIDTH", 3.0))     # šírka noci (↑ = dlhšia noc)
 NIGHT_STRENGTH = float(os.environ.get("NIGHT_STRENGTH", 0.96)) # sila tlmenia 0..1
 NIGHT_POWER    = float(os.environ.get("NIGHT_POWER", 1.6))     # prudkosť (>1 = ostrejšie)
+NIGHT_SFLOOR   = float(os.environ.get("NIGHT_SFLOOR", 0.05))   # min. frakcia po tlmení (0..1)
 
 # Večerné do-tlmenie pred polnocou
 EVENING_TAIL_START     = float(os.environ.get("EVENING_TAIL_START", 22.0))
@@ -124,7 +125,7 @@ def _precompute_norm(is_weekend: bool):
     return grid, _normalize(raw)
 
 def _s01(h: float, is_weekend: bool) -> float:
-    """0..1 tvar po aplikácii nočného/večerného tlmenia (bez re-normalizácie)"""
+    """0..1 tvar po aplikácii nočného/večerného tlmenia (bez re-normalizácie) + spodný prah."""
     if not hasattr(_s01, "_cache"):
         _s01._cache = {}
     key = "we" if is_weekend else "wd"
@@ -132,7 +133,10 @@ def _s01(h: float, is_weekend: bool) -> float:
         _s01._cache[key] = _precompute_norm(is_weekend)
     grid, day_norm = _s01._cache[key]
     idx = min(range(len(grid)), key=lambda i: abs(grid[i] - h))
-    return day_norm[idx] * _night_depressor(h)
+    s = day_norm[idx] * _night_depressor(h)
+    if s < NIGHT_SFLOOR:
+        s = NIGHT_SFLOOR
+    return s
 
 def _expected_count(dt: datetime) -> float:
     h = dt.hour + dt.minute / 60.0
@@ -147,10 +151,8 @@ def _deterministic_jitter(seed_key: str | None, sigma=JITTER_SIGMA, clip=JITTER_
     Ak seed_key nie je, použije časový seed (YYYY-mm-dd HH:MM).
     """
     if not seed_key:
-        # fallback na čas, aby sa pri scrape/APi správalo stabilne v minútach
         seed_key = datetime.now(TZ).strftime("%Y-%m-%d %H:%M")
     d = hashlib.md5(seed_key.encode("utf-8")).hexdigest()
-    # jednoduchý deterministický hash -> ~N(0, sigma) cez Box-Muller
     a = int(d[:16], 16); b = int(d[16:32], 16)
     u1 = ((a % 10_000_000) + 0.5) / 10_000_001.0
     u2 = ((b % 10_000_000) + 0.5) / 10_000_001.0

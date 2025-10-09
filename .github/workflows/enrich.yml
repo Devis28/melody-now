@@ -1,28 +1,57 @@
 name: Enrich metadata
+
 on:
   schedule:
-    - cron: "15 2 * * *"   # denne 02:15
+    - cron: "15 2 * * *"    # denne 02:15
   workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: enrich-metadata-main
+  cancel-in-progress: true
+
 jobs:
   enrich:
     runs-on: ubuntu-latest
-    permissions: { contents: write }
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # potrebujeme plnú históriu kvôli rebase
+
       - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
-      - run: |
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
       - name: Run enrichment
         env:
           PLAYLIST_PATH: data/playlist.json
           CACHE_PATH: data/meta_cache.json
         run: python enrich_metadata.py
-      - name: Commit results
+
+      - name: Commit & push JSON if changed (rebase-safe)
         run: |
-          git config user.name "github-actions[bot]"
+          set -e
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # pridaj iba ak sú zmeny
           git add data/playlist.json data/meta_cache.json
-          git commit -m "enrich: update metadata" || exit 0
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "enrich: update metadata"
+
+          # stiahni nové zmeny a naskladaj náš commit navrch
+          git pull --rebase origin main || true
+
+          # po úspešnom rebase pošli späť – bezpečne
+          git push --force-with-lease origin main

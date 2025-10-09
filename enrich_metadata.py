@@ -1,25 +1,36 @@
 # -*- coding: utf-8 -*-
 """
-Backfill + enrichment do data/playlist.json:
+Enrichment + backfill do data/playlist.json:
 - album, release_year, duration_ms
 - composers, lyricists, writers
 - genres (normalizované do kanonických)
 - artist_country (ISO-3166-1 alpha-2, napr. 'US', 'SK')
 
-Ak sa údaj nepodarí získať, zapíše sa explicitne null.
+Chýbajúce údaje sa zapisujú ako null.
 Nepoužívame: cover_url, sources, duration_sec.
 
-Spustenie:  python enrich_metadata.py
+Robustné voči výpadkom: retry + exponenciálny backoff + jitter.
+Throttling pre MusicBrainz: default 1.0 s medzi volaniami (MB_THROTTLE_SEC).
+
+Env:
+  PLAYLIST_PATH= data/playlist.json
+  CACHE_PATH   = data/meta_cache.json
+  MAX_KEYS_PER_RUN = 120        # obmedz, koľko (artist,title) spracovať za jeden beh
+  MB_THROTTLE_SEC  = 1.0        # minimálny rozostup medzi MB volaniami
+  MB_USER_AGENT    = 'melody-now/1.0 (contact: example@example.com)'
 """
 
-import json, os, re, time
+import json, os, re, time, random
 from urllib.parse import quote_plus
 import requests
 
-PLAYLIST_PATH = os.environ.get("PLAYLIST_PATH", "data/playlist.json")
-CACHE_PATH    = os.environ.get("CACHE_PATH", "data/meta_cache.json")
+PLAYLIST_PATH     = os.environ.get("PLAYLIST_PATH", "data/playlist.json")
+CACHE_PATH        = os.environ.get("CACHE_PATH", "data/meta_cache.json")
+MAX_KEYS_PER_RUN  = int(os.environ.get("MAX_KEYS_PER_RUN", "120"))
+MB_THROTTLE_SEC   = float(os.environ.get("MB_THROTTLE_SEC", "1.0"))
+MB_USER_AGENT     = os.environ.get("MB_USER_AGENT", "melody-now/1.0 (contact: example@example.com)")
 
-# ----- utils -----
+# ------------------------------ Pomocné -------------------------------------
 
 def ensure_dir(path: str):
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -57,12 +68,47 @@ def year_from_date(s: str | None):
     try: return int(s[:4])
     except Exception: return None
 
-# ----- genre normalization -----
+# ----------------------- HTTP helper s retry/backoff ------------------------
+
+def safe_get_json(url, *, headers=None, timeout=25, retries=4, backoff=1.8, kind="HTTP"):
+    """
+    Bezpečné GET -> JSON s exponenciálnym backoffom + jitter.
+    Vráti dict alebo None.
+    """
+    last_err = None
+    for attempt in range(retries):
+        try:
+            r = requests.get(url, headers=headers, timeout=timeout)
+            r.raise_for_status()
+            return r.json()
+        except Exception as e:
+            last_err = e
+            # malý náhodný jitter, aby paralelné joby nekolidovali
+            sleep = (backoff ** attempt) + random.uniform(0.0, 0.4)
+            print(f"[warn] {kind} fetch failed (try {attempt+1}/{retries}) -> {type(e).__name__}: {e}; sleep {sleep:.2f}s")
+            time.sleep(sleep)
+    print(f"[error] {kind} fetch giving up for URL: {url}")
+    return None
+
+# MusicBrainz – šetrný throttling medzi volaniami
+_MB_LAST_CALL = 0.0
+MB_HEADERS = {"User-Agent": MB_USER_AGENT}
+
+def mb_get_json(url):
+    global _MB_LAST_CALL
+    now = time.time()
+    wait = MB_THROTTLE_SEC - (now - _MB_LAST_CALL)
+    if wait > 0:
+        time.sleep(wait)
+    data = safe_get_json(url, headers=MB_HEADERS, timeout=25, retries=4, backoff=2.0, kind="MB")
+    _MB_LAST_CALL = time.time()
+    return data
+
+# -------------------------- Normalizácia žánrov -----------------------------
 
 _CANON = {
     "pop": ["pop","k-pop","kpop","j-pop","jpop","mandopop","cantopop","europop",
-            "french pop","international pop","latin pop","synthpop","indie pop",
-            "dance pop","pop rock"],
+            "french pop","international pop","latin pop","synthpop","indie pop","dance pop","pop rock"],
     "rock": ["rock","hard rock","soft rock","alternative rock","alt rock","classic rock","indie rock","punk rock","metalcore"],
     "hip-hop": ["hip hop","hip-hop","rap","trap"],
     "r&b": ["r&b","r&b/soul","soul","neo-soul","contemporary r&b"],
@@ -106,15 +152,13 @@ def normalize_genres(genres: list[str]) -> list[str]:
         if mapped: out.add(mapped)
     return sorted((_canon_display(x) for x in out))
 
-# ----- iTunes -----
+# ------------------------------ iTunes --------------------------------------
 
 def from_itunes(artist: str, title: str) -> dict:
     q = quote_plus(f"{artist} {title}")
     url = f"https://itunes.apple.com/search?term={q}&entity=song&limit=3&country=sk"
-    r = requests.get(url, timeout=20)
-    r.raise_for_status()
-    j = r.json()
-    if not j.get("resultCount"): return {}
+    j = safe_get_json(url, timeout=20, retries=3, backoff=1.7, kind="iTunes")
+    if not j or not j.get("resultCount"): return {}
     a_norm, t_norm = clean_artist(artist), clean_title(title)
     cand = None
     for x in j["results"]:
@@ -130,56 +174,45 @@ def from_itunes(artist: str, title: str) -> dict:
     }
     return {k:v for k,v in out.items() if v not in (None, [], "")}
 
-# ----- Deezer -----
+# ------------------------------ Deezer --------------------------------------
 
 def from_deezer(artist: str, title: str) -> dict:
-    url = f'https://api.deezer.com/search?q=artist:"{artist}" track:"{title}"'
-    r = requests.get(url, timeout=20)
-    r.raise_for_status()
-    j = r.json()
-    data = j.get("data") or []
-    if not data: return {}
-    x = data[0]; album = x.get("album") or {}
+    j = safe_get_json(f'https://api.deezer.com/search?q=artist:"{artist}" track:"{title}"',
+                      timeout=20, retries=3, backoff=1.7, kind="Deezer")
+    if not j or not j.get("data"): return {}
+    x = j["data"][0]; album = x.get("album") or {}
     out = {
         "album": album.get("title"),
         "duration_ms": int(x["duration"])*1000 if x.get("duration") else None,
     }
-    # genres z albumu
     if album.get("id"):
-        try:
-            aj = requests.get(f'https://api.deezer.com/album/{album["id"]}', timeout=20).json()
+        aj = safe_get_json(f'https://api.deezer.com/album/{album["id"]}',
+                           timeout=20, retries=3, backoff=1.7, kind="DeezerAlbum")
+        if aj:
             g = [g["name"] for g in (aj.get("genres",{}).get("data") or []) if g.get("name")]
             if g: out["genres_raw"] = g
-        except Exception:
-            pass
     return {k:v for k,v in out.items() if v not in (None, [], "")}
 
-# ----- MusicBrainz -----
-
-MB_HEADERS = {"User-Agent": "melody-now/1.0 (contact: example@example.com)"}
+# ---------------------------- MusicBrainz -----------------------------------
 
 def mb_search_recording(artist: str, title: str) -> dict | None:
     q = f'recording:"{title}" AND artist:"{artist}"'
-    url = f'https://musicbrainz.org/ws/2/recording/?query={quote_plus(q)}&fmt=json&limit=3'
-    j = requests.get(url, headers=MB_HEADERS, timeout=20).json()
-    recs = j.get("recordings") or []
+    j = mb_get_json(f'https://musicbrainz.org/ws/2/recording/?query={quote_plus(q)}&fmt=json&limit=3')
+    recs = (j or {}).get("recordings") or []
     return recs[0] if recs else None
 
 def mb_artist_country_from_id(artist_mbid: str) -> str | None:
-    try:
-        url = f'https://musicbrainz.org/ws/2/artist/{artist_mbid}?fmt=json'
-        j = requests.get(url, headers=MB_HEADERS, timeout=20).json()
-        area = j.get("area") or {}
-        codes = area.get("iso_3166_1_codes") or []
-        if codes: return codes[0]
-        if j.get("country"): return j["country"]
-    except Exception:
-        pass
+    j = mb_get_json(f'https://musicbrainz.org/ws/2/artist/{artist_mbid}?fmt=json')
+    if not j: return None
+    area = j.get("area") or {}
+    codes = area.get("iso_3166_1_codes") or []
+    if codes: return codes[0]
+    if j.get("country"): return j["country"]
     return None
 
 def mb_work_people(work_mbid: str) -> dict:
-    url = f'https://musicbrainz.org/ws/2/work/{work_mbid}?inc=artist-rels&fmt=json'
-    j = requests.get(url, headers=MB_HEADERS, timeout=20).json()
+    j = mb_get_json(f'https://musicbrainz.org/ws/2/work/{work_mbid}?inc=artist-rels&fmt=json')
+    if not j: return {}
     people = {"composers": [], "lyricists": [], "writers": []}
     for rel in j.get("relations", []):
         typ = rel.get("type")
@@ -193,64 +226,55 @@ def from_musicbrainz(artist: str, title: str) -> dict:
     rec = mb_search_recording(artist, title)
     if not rec: return {}
     out = {}
-    # rok vydania
+    # release_year
     if rec.get("releases"):
         y = year_from_date(rec["releases"][0].get("date"))
         if y: out["release_year"] = y
-    # artist country
+    # artist country (z artist-credit)
     ac = rec.get("artist-credit") or rec.get("artist_credits") or []
     if ac:
         a_id = (ac[0].get("artist") or {}).get("id")
         if a_id:
-            time.sleep(0.35)
             cc = mb_artist_country_from_id(a_id)
             if cc: out["artist_country"] = cc
-    # works → people
+    # works -> people (fallback: detail recording)
     works = [rel.get("work",{}).get("id") for rel in rec.get("relations",[]) if rel.get("type")=="work"]
     if not works:
-        try:
-            det = requests.get(
-                f'https://musicbrainz.org/ws/2/recording/{rec["id"]}?inc=work-rels+artist-credits+releases&fmt=json',
-                headers=MB_HEADERS, timeout=20).json()
+        det = mb_get_json(
+            f'https://musicbrainz.org/ws/2/recording/{rec["id"]}?inc=work-rels+artist-credits+releases&fmt=json')
+        if det:
             works = [rel.get("work",{}).get("id") for rel in det.get("relations",[]) if rel.get("type")=="work"]
             if "artist_country" not in out:
                 ac2 = det.get("artist-credit") or []
                 if ac2:
                     a2 = (ac2[0].get("artist") or {}).get("id")
                     if a2:
-                        time.sleep(0.35)
                         cc2 = mb_artist_country_from_id(a2)
                         if cc2: out["artist_country"] = cc2
             if "release_year" not in out and det.get("releases"):
                 y2 = year_from_date(det["releases"][0].get("date"))
                 if y2: out["release_year"] = y2
-        except Exception:
-            pass
+
     comp, lyr, writ = set(), set(), set()
     for wid in works[:2]:
         if not wid: continue
-        try:
-            ppl = mb_work_people(wid)
-            comp |= set(ppl.get("composers", []))
-            lyr  |= set(ppl.get("lyricists", []))
-            writ |= set(ppl.get("writers", []))
-            time.sleep(0.35)
-        except Exception:
-            pass
+        ppl = mb_work_people(wid)
+        comp |= set(ppl.get("composers", []))
+        lyr  |= set(ppl.get("lyricists", []))
+        writ |= set(ppl.get("writers", []))
     if comp: out["composers"] = sorted(comp)
     if lyr:  out["lyricists"] = sorted(lyr)
     if writ: out["writers"]   = sorted(writ)
     return {k:v for k,v in out.items() if v not in (None, "", [], 0)}
 
-# ----- merge (bez cover_url/sources/duration_sec) -----
+# --------------------------- Spájanie výsledkov -----------------------------
 
 SCALAR_FIELDS = ("album","release_year","duration_ms","artist_country")
 LIST_FIELDS   = ("composers","lyricists","writers","genres")
 ALL_FIELDS    = SCALAR_FIELDS + LIST_FIELDS
 
 def merge_meta(*dicts) -> dict:
-    result = {}
-    raw_genres = []
+    result, raw_genres = {}, []
     for d in dicts:
         if not d: continue
         for k, v in d.items():
@@ -263,12 +287,12 @@ def merge_meta(*dicts) -> dict:
                 result[k] = sorted(cur | add)
             elif k in SCALAR_FIELDS:
                 result.setdefault(k, v)
-            # ignore any other keys (cover_url, sources, duration_sec ...)
+            # ignorujeme iné kľúče (cover_url, sources, duration_sec...)
     norm = normalize_genres(raw_genres)
     if norm: result["genres"] = norm
     return result
 
-# ----- cache -----
+# ------------------------------- Cache --------------------------------------
 
 def load_cache() -> dict:
     return load_json(CACHE_PATH, {})
@@ -279,32 +303,26 @@ def save_cache(cache: dict):
 def needs_any(item: dict) -> bool:
     return any(item.get(k) in (None, "", [], 0) or k not in item for k in ALL_FIELDS)
 
-# ----- main flow -----
+# ------------------------------ Hlavný tok ----------------------------------
 
 def enrich_pair(artist: str, title: str) -> dict:
-    mb = from_musicbrainz(artist, title); time.sleep(0.35)
-    it = from_itunes(artist, title);      time.sleep(0.2)
+    # Poradie: MB (autori/rok/krajina) -> iTunes (album/rok/duration_ms/genre) -> Deezer (album/duration_ms/genres)
+    mb = from_musicbrainz(artist, title)
+    it = from_itunes(artist, title)
     dz = from_deezer(artist, title)
     return merge_meta(mb, it, dz)
 
 def apply_schema_with_nulls(item: dict, meta: dict):
-    """
-    Do záznamu doplní všetky polia z ALL_FIELDS.
-    Ak meta ani pôvodný záznam nič nemajú → nastaví None (=> null v JSON).
-    Zoznamy spája; ak výsledok prázdny → None.
-    """
-    # odstráň legacy duration_sec, ak by existovalo
+    # odstráň legacy duration_sec
     if "duration_sec" in item:
         del item["duration_sec"]
-
-    # 1) scalary
+    # scalary: doplň alebo null
     for k in SCALAR_FIELDS:
         if item.get(k) not in (None, "", [], 0):
             continue
         v = meta.get(k)
         item[k] = v if v not in (None, "", [], 0) else None
-
-    # 2) listy (union)
+    # listy: union; ak prázdne -> null
     for k in LIST_FIELDS:
         existing = set(item.get(k) or [])
         incoming = set(meta.get(k) or [])
@@ -316,23 +334,35 @@ def run_backfill():
     cache = load_cache()
     touched, updated = 0, 0
 
-    # ktorým dvojiciam ešte niečo chýba
-    need_keys = set()
+    # zozbieraj potrebné kľúče
+    need_keys = []
+    seen = set()
     for it in playlist:
         if needs_any(it):
-            need_keys.add(norm_key(it["artist"], it["title"]))
+            k = norm_key(it["artist"], it["title"])
+            if k not in seen:
+                need_keys.append(k)
+                seen.add(k)
 
-    # doplň cache
-    for k in sorted(need_keys):
+    # obmedz rozsah na beh
+    if MAX_KEYS_PER_RUN and len(need_keys) > MAX_KEYS_PER_RUN:
+        print(f"[info] limiting to first {MAX_KEYS_PER_RUN} keys (of {len(need_keys)}) this run")
+        need_keys = need_keys[:MAX_KEYS_PER_RUN]
+
+    # doplň cache (bez pádu na chybe)
+    for k in need_keys:
         touched += 1
         if k not in cache:
-            a, t = k.split("|", 1)
-            cache[k] = enrich_pair(a, t) or {}
-            time.sleep(0.25)
+            try:
+                a, t = k.split("|", 1)
+                cache[k] = enrich_pair(a, t) or {}
+            except Exception as e:
+                print(f"[error] enrich_pair failed for {k}: {type(e).__name__}: {e}")
+                cache[k] = {}
     if touched:
         save_cache(cache)
 
-    # aplikuj do záznamov (a vynúť prítomnosť všetkých polí s null)
+    # aplikuj do záznamov – vždy vynútime ALL_FIELDS (null, ak nič)
     for it in playlist:
         before = json.dumps({kk: it.get(kk) for kk in ALL_FIELDS}, ensure_ascii=False, sort_keys=True)
         key = norm_key(it["artist"], it["title"])

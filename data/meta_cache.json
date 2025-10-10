@@ -10255,5 +10255,13 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "astley rick|she wants to dance with me": {
+    "album": "Hold Me in Your Arms (2023 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 198880,
+    "genres": [
+      "Pop"
+    ]
   }
 }

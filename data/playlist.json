@@ -4,14 +4,31 @@
     "artist": "Astley Rick",
     "date": "10.10.2025",
     "time": "23:41",
-    "listeners": 359
+    "listeners": 359,
+    "lyricists": null,
+    "album": "Hold Me in Your Arms (2023 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 198880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Oh, Pretty Woman",
     "artist": "Orbison Roy",
     "date": "10.10.2025",
     "time": "23:38",
-    "listeners": 367
+    "listeners": 367,
+    "lyricists": null,
+    "album": "Oh! Pretty Woman",
+    "release_year": 1964,
+    "duration_ms": 178929,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Mysterious Times",

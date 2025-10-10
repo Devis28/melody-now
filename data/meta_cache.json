@@ -10197,5 +10197,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "lionel richie|dancing on the ceiling": {
+    "release_year": 1986,
+    "artist_country": "US",
+    "album": "Dancing On the Ceiling",
+    "duration_ms": 275819,
+    "lyricists": [
+      "Carlos Rios",
+      "Lionel Richie",
+      "Michael Frenchik"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

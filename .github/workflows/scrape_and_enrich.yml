@@ -74,7 +74,7 @@ jobs:
         env:
           PLAYLIST_PATH: data/playlist.json
           CACHE_PATH: data/meta_cache.json
-          MAX_KEYS_PER_RUN: "120"       # (necháva default zo skriptu)
+          MAX_KEYS_PER_RUN: "0"       # (necháva default zo skriptu)
         run: |
           set -e
           # spustíme a zároveň zalogujeme

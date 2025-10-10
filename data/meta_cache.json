@@ -10283,5 +10283,18 @@
     "genres": [
       "R&B"
     ]
+  },
+  "michael jackson|black or white": {
+    "release_year": 1995,
+    "artist_country": "US",
+    "album": "Number Ones",
+    "duration_ms": 200061,
+    "lyricists": [
+      "Bill Bottrell",
+      "Michael Jackson"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

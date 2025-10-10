@@ -40,18 +40,22 @@
 
   <script>
   // tvoje API (Render)
-  const API_BASE = 'https://melody-now.onrender.com';
-  const API_NOW  = API_BASE + '/now';
+  const API_BASE   = 'https://melody-now.onrender.com';
+  const API_NOW    = API_BASE + '/now';
   const API_HEALTH = API_BASE + '/health';
 
-  const btn  = document.getElementById('btn');
-  const out  = document.getElementById('out');
-  const song = document.getElementById('song');
-  const meta = document.getElementById('meta');
-  const err  = document.getElementById('err');
-  const state= document.getElementById('state');
+  const btn   = document.getElementById('btn');
+  const out   = document.getElementById('out');
+  const song  = document.getElementById('song');
+  const meta  = document.getElementById('meta');
+  const err   = document.getElementById('err');
+  const state = document.getElementById('state');
 
-  function escapeHtml(s){return String(s).replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+  function escapeHtml(s){
+    return String(s).replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+  }
+  const noStoreHeaders = { 'Accept':'application/json', 'Cache-Control':'no-store, no-cache, max-age=0', 'Pragma':'no-cache' };
+  const bust = () => `t=${Date.now()}`;
 
   async function sleep(ms){ return new Promise(r=>setTimeout(r,ms)); }
 
@@ -59,16 +63,20 @@
     const ctrl = new AbortController();
     const id = setTimeout(()=>ctrl.abort(), timeoutMs);
     try {
-      const r = await fetch(url, { cache:'no-store', signal: ctrl.signal, headers:{'Accept':'application/json'} });
+      // vždy pridaj cache-buster
+      const sep = url.includes('?') ? '&' : '?';
+      const r = await fetch(url + sep + bust(), { cache:'no-store', signal: ctrl.signal, headers: noStoreHeaders });
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return await r.json();
     } finally { clearTimeout(id); }
   }
 
   async function warmUp() {
-    // „štuchnutie“ Renderu – bez pádu keď je pomalý
     state.textContent = 'Prebúdzam server…';
-    try { await fetch(API_HEALTH, { cache:'no-store' }); } catch(e) {}
+    try {
+      const sep = API_HEALTH.includes('?') ? '&' : '?';
+      await fetch(API_HEALTH + sep + bust(), { cache:'no-store', headers: noStoreHeaders });
+    } catch(e) {} // ticho ignoruj
   }
 
   async function loadNow() {
@@ -84,8 +92,7 @@
       try {
         d = await fetchJson(API_NOW, 45000);  // dlhší timeout kvôli cold-startu
       } catch (e) {
-        // jeden jemný retry po 2 s
-        await sleep(2000);
+        await sleep(2000);                    // jeden jemný retry po 2 s
         d = await fetchJson(API_NOW, 45000);
       }
 
@@ -96,9 +103,10 @@
       state.textContent = 'Hotovo.';
     } catch (e) {
       err.hidden = false;
+      const nowUrl = API_NOW + '?' + bust();
       err.innerHTML = `Chyba: ${escapeHtml(e.message)}<br>
         <span class="meta">Skús znova, alebo otvor API priamo:
-        <a href="${API_NOW}" target="_blank" rel="noopener">${API_NOW}</a></span>`;
+        <a href="${nowUrl}" target="_blank" rel="noopener">${nowUrl}</a></span>`;
       state.textContent = 'Chyba.';
     } finally {
       btn.disabled = false;
@@ -109,6 +117,6 @@
   btn.addEventListener('click', loadNow);
   // auto-načítanie po otvorení stránky
   window.addEventListener('DOMContentLoaded', () => loadNow());
-</script>
+  </script>
 </body>
 </html>

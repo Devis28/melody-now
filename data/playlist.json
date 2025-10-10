@@ -4,28 +4,61 @@
     "artist": "Loona",
     "date": "10.10.2025",
     "time": "23:07",
-    "listeners": 516
+    "listeners": 516,
+    "lyricists": null,
+    "album": "Stars",
+    "release_year": 1999,
+    "duration_ms": 213544,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "To Je Naše Věc",
     "artist": "David Michal Bartošová Iveta",
     "date": "10.10.2025",
     "time": "23:03",
-    "listeners": 519
+    "listeners": 519,
+    "lyricists": null,
+    "album": "Moje zapomenuté ploužáky 2",
+    "release_year": 2021,
+    "duration_ms": 230846,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Až Sa Znova Narodím",
     "artist": "Peter Nagy",
     "date": "10.10.2025",
     "time": "23:00",
-    "listeners": 574
+    "listeners": 574,
+    "lyricists": null,
+    "album": "\"Ale\"",
+    "release_year": 2003,
+    "duration_ms": 152800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Emotions",
     "artist": "Carey Mariah",
     "date": "10.10.2025",
     "time": "22:56",
-    "listeners": 610
+    "listeners": 610,
+    "lyricists": null,
+    "album": "Emotions",
+    "release_year": 1991,
+    "duration_ms": 248012,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Sugar Baby Love",

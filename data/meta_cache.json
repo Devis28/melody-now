@@ -10211,5 +10211,23 @@
     "genres": [
       "Pop"
     ]
+  },
+  "loona|bailando": {
+    "release_year": 1999,
+    "artist_country": "NL",
+    "album": "Stars",
+    "duration_ms": 213544,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "carey mariah|emotions": {
+    "album": "Emotions",
+    "release_year": 1991,
+    "duration_ms": 248012,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

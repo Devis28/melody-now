@@ -4,7 +4,15 @@
     "artist": "Karol Duchoň",
     "date": "10.10.2025",
     "time": "11:44",
-    "listeners": 1360
+    "listeners": 1360,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 220693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Malý Princ",

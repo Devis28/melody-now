@@ -4,35 +4,75 @@
     "artist": "Fun Factory",
     "date": "10.10.2025",
     "time": "12:17",
-    "listeners": 1698
+    "listeners": 1698,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 213600,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "If You Can't Give Me Love",
     "artist": "Suzi Quatro",
     "date": "10.10.2025",
     "time": "12:13",
-    "listeners": 1621
+    "listeners": 1621,
+    "lyricists": null,
+    "album": "The Wild One: The Greatest Hits",
+    "release_year": 2003,
+    "duration_ms": 233893,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Oheň, Voda, Vítr",
     "artist": "Janda Dalibor",
     "date": "10.10.2025",
     "time": "12:09",
-    "listeners": 1538
+    "listeners": 1538,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 172707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Runaway Train",
     "artist": "Soul Asylum",
     "date": "10.10.2025",
     "time": "12:04",
-    "listeners": 1604
+    "listeners": 1604,
+    "lyricists": null,
+    "album": "Black Gold: The Best of Soul Asylum",
+    "release_year": 1993,
+    "duration_ms": 266067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Severní Vítr",
     "artist": "Jaroslav Uhlíř",
     "date": "10.10.2025",
     "time": "12:01",
-    "listeners": 1460
+    "listeners": 1460,
+    "lyricists": null,
+    "album": "Country Gold 80. léta",
+    "release_year": 2000,
+    "duration_ms": 189787,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "All For Love",

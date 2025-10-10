@@ -4,42 +4,90 @@
     "artist": "The Beatles",
     "date": "10.10.2025",
     "time": "10:35",
-    "listeners": 933
+    "listeners": 933,
+    "lyricists": null,
+    "album": "Help!",
+    "release_year": 1965,
+    "duration_ms": 125667,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Touch By Touch",
     "artist": "Joy",
     "date": "10.10.2025",
     "time": "10:31",
-    "listeners": 862
+    "listeners": 862,
+    "lyricists": null,
+    "album": "TOUCH BY TOUCH - HIT-MIX",
+    "release_year": 2006,
+    "duration_ms": 180107,
+    "artist_country": "AT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "One",
     "artist": "U2",
     "date": "10.10.2025",
     "time": "10:27",
-    "listeners": 853
+    "listeners": 853,
+    "lyricists": null,
+    "album": "U218 Singles",
+    "release_year": 1988,
+    "duration_ms": 275400,
+    "artist_country": "IE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Povídej",
     "artist": "Novák Petr",
     "date": "10.10.2025",
     "time": "10:25",
-    "listeners": 825
+    "listeners": 825,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 125867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "You Give Love A Bad Name",
     "artist": "Bon Jovi",
     "date": "10.10.2025",
     "time": "10:21",
-    "listeners": 881
+    "listeners": 881,
+    "lyricists": null,
+    "album": "Slippery When Wet",
+    "release_year": 2020,
+    "duration_ms": 222644,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Sunchyme",
     "artist": "Dario G",
     "date": "10.10.2025",
     "time": "10:17",
-    "listeners": 935
+    "listeners": 935,
+    "lyricists": null,
+    "album": "Sunmachine",
+    "release_year": 2003,
+    "duration_ms": 379200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Raindrops Keep Fallin' On My Head",

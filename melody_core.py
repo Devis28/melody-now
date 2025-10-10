@@ -177,20 +177,31 @@ def parse_first_row(html: str) -> dict | None:
 # ---------------------------------------------------------------------------
 # Public API: now-playing
 # ---------------------------------------------------------------------------
-def get_now_playing() -> dict:
+# v melody_core.py
+
+def get_now_playing(override_ts: int | None = None) -> dict:
     html = fetch_html()
     row = parse_first_row(html)
     if not row:
         return {"error": "Nepodarilo sa získať aktuálnu skladbu."}
 
-    # zostav datetime a "live" bucket seed
+    # zostav datetime z row
     d = datetime.strptime(row["date"], "%d.%m.%Y").date()
     hh, mm = [int(x) for x in row["time"].split(":")]
     dt = datetime.combine(d, time(hour=hh, minute=mm), TZ)
 
+    # základný seed podľa skladby
     base_seed = f'{row["artist"]}|{row["title"]}|{row["date"]}|{row["time"]}'
-    now_bucket = int(datetime.now(TZ).timestamp() // max(1, LIVE_JITTER_BUCKET_SEC))
-    seed_live  = f"{base_seed}|{now_bucket}"
+
+    # live bucket – ak prišiel ts z klienta, použijeme ho, inak serverový čas
+    if override_ts is not None:
+        # ts je v milisekundách
+        now_bucket = int((override_ts / 1000.0) // max(1, LIVE_JITTER_BUCKET_SEC))
+    else:
+        now_bucket = int(datetime.now(TZ).timestamp() // max(1, LIVE_JITTER_BUCKET_SEC))
+
+    seed_live = f"{base_seed}|{now_bucket}"
 
     row["listeners"] = estimate_listeners(dt, seed_key=seed_live)
     return row
+

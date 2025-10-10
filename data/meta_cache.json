@@ -1286,5 +1286,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "cyndi lauper|girls just wanna have fun": {
+    "artist_country": "US",
+    "release_year": 2007,
+    "album": "80s 100 Hits",
+    "duration_ms": 224510,
+    "genres": [
+      "Pop"
+    ]
   }
 }

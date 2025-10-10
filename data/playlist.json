@@ -4,7 +4,15 @@
     "artist": "Abba",
     "date": "10.10.2025",
     "time": "09:43",
-    "listeners": 1264
+    "listeners": 1264,
+    "lyricists": null,
+    "album": "The Visitors (Bonus Track Version)",
+    "release_year": 2005,
+    "duration_ms": 236770,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "You'll See",

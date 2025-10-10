@@ -4,63 +4,136 @@
     "artist": "Kryštof ft. Sima Martausová",
     "date": "11.10.2025",
     "time": "00:32",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Hvězdáři (feat. Sima Martausová) - Single",
+    "release_year": 2019,
+    "duration_ms": 242553,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Xanadu",
     "artist": "Olivia Newton-John And Electric Light Orchestra",
     "date": "11.10.2025",
     "time": "00:29",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Xanadu (From the Original Motion Picture Soundtrack)",
+    "release_year": 1980,
+    "duration_ms": 208240,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Zhorí Všetko Čo Mám",
     "artist": "Desmod",
     "date": "11.10.2025",
     "time": "00:24",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Javorový Album: Akustický Výber",
+    "release_year": 2008,
+    "duration_ms": 260587,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Torn",
     "artist": "Imbruglia Natalie",
     "date": "11.10.2025",
     "time": "00:20",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Holubička",
     "artist": "Adam Ďurica",
     "date": "11.10.2025",
     "time": "00:16",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Holubička - Single",
+    "release_year": 2018,
+    "duration_ms": 273955,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Neznáma",
     "artist": "Palonder Marcel",
     "date": "11.10.2025",
     "time": "00:12",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Cudzinec v tvojom srdci",
+    "release_year": 1992,
+    "duration_ms": 244000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Flashdance ( What A Feeling )",
     "artist": "Cara Irene",
     "date": "11.10.2025",
     "time": "00:08",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "What a Feelin' (Bonus Track Version)",
+    "release_year": 1983,
+    "duration_ms": 237053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Okno Mé Lásky",
     "artist": "Olympic",
     "date": "11.10.2025",
     "time": "00:03",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Ulice",
+    "release_year": 2000,
+    "duration_ms": 292507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Kamaráti",
     "artist": "Elán",
     "date": "11.10.2025",
     "time": "00:01",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2003,
+    "duration_ms": 165227,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Black Or White",

@@ -4,14 +4,30 @@
     "artist": "Brightman Sarah&Bocelli Andrea",
     "date": "11.10.2025",
     "time": "01:48",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Romanza",
+    "release_year": 1995,
+    "duration_ms": 244627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Hľadám",
     "artist": "No Name",
     "date": "11.10.2025",
     "time": "01:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "25 The Best Of No Name",
+    "release_year": 2003,
+    "duration_ms": 211507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I Should Be So Lucky",

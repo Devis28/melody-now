@@ -4,35 +4,81 @@
     "artist": "Chesney Hawkes",
     "date": "11.10.2025",
     "time": "01:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Buddy's Song",
+    "release_year": 1990,
+    "duration_ms": 223667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Piccolo Amore",
     "artist": "Ricchi E Poveri",
     "date": "11.10.2025",
     "time": "01:04",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 2010,
+    "duration_ms": 198867,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Over My Shoulder",
     "artist": "Mike & The Mechanics",
     "date": "11.10.2025",
     "time": "01:00",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": [
+      "Mike Rutherford",
+      "Paul Carrack"
+    ],
+    "album": "Beggar On A Beach Of Gold",
+    "release_year": 2008,
+    "duration_ms": 217200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "We Will Rock You",
     "artist": "Queen",
     "date": "11.10.2025",
     "time": "00:58",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": [
+      "Queen"
+    ],
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1996,
+    "duration_ms": 121235,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Nič Nezmení Môj Svet",
     "artist": "Nagy Peter",
     "date": "11.10.2025",
     "time": "00:54",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 253000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Everybody Hurts",

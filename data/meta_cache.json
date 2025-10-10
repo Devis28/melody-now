@@ -1116,5 +1116,175 @@
     "genres": [
       "Rock"
     ]
+  },
+  "miro žbirka|letím tmou (za tebou)": {
+    "album": "Meky",
+    "release_year": 1997,
+    "duration_ms": 188467,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "u2|with or without you": {
+    "artist_country": "IE",
+    "album": "The Joshua Tree (20th Anniversary Deluxe Edition)",
+    "release_year": 1987,
+    "duration_ms": 295520,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "helena vondráčková|červená řeka": {
+    "release_year": 1982,
+    "artist_country": "CZ",
+    "album": "Course de la paix. Praha 1967. Album Supraphonu",
+    "duration_ms": 298089,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "duran duran|perfect day": {
+    "release_year": 2001,
+    "artist_country": "GB",
+    "album": "Thank You",
+    "duration_ms": 230933,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "cars the|drive": {
+    "album": "Heartbeat City",
+    "release_year": 1984,
+    "duration_ms": 234332,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "marika gombitová|cukráreň na dlani námestia": {
+    "release_year": 1998,
+    "artist_country": "SK",
+    "album": "Slnečný kalendár",
+    "duration_ms": 286013,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "novák petr|já budu chodit po špičkách": {
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 141027,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "a-ha|take on me": {
+    "release_year": 2003,
+    "artist_country": "NO",
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "duration_ms": 228520,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "modus|pozhasínané": {
+    "release_year": 1998,
+    "artist_country": "SK",
+    "album": "GOLD",
+    "duration_ms": 257907,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "fool's garden|lemon tree": {
+    "release_year": 2000,
+    "artist_country": "DE",
+    "album": "Dish of the Day",
+    "duration_ms": 191027,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "bartošová iveta|léto": {
+    "album": "Nekonecna/Best Of",
+    "release_year": 1998,
+    "duration_ms": 224920,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "guns n roses|november rain": {
+    "release_year": 1991,
+    "artist_country": "US",
+    "album": "Use Your Illusion I",
+    "duration_ms": 536067,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "tozzi, umberto|gloria": {
+    "album": "Gloria",
+    "release_year": 1979,
+    "duration_ms": 264674,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "mercury freddie|living on my own": {
+    "album": "Never Boring",
+    "release_year": 1993,
+    "duration_ms": 217411,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "tina turner/eros ramazzotti|cose della vita / can't stop thinking of you": {
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 291133,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "richard müller|milovanie v daždi": {
+    "release_year": 2023,
+    "artist_country": "SK",
+    "album": "Hlasy",
+    "duration_ms": 353360,
+    "lyricists": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ],
+    "genres": [
+      "Jazz",
+      "Pop"
+    ]
+  },
+  "erasure|always": {
+    "release_year": 2005,
+    "artist_country": "GB",
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "duration_ms": 237840,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "team|jeden kabát, jedna koža, jedna tvár": {
+    "release_year": 2005,
+    "artist_country": "SK",
+    "album": "Prichytený pri živote",
+    "duration_ms": 130373,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "i.m.t. smile|príliš osobná známosť": {
+    "release_year": 2021,
+    "artist_country": "SK",
+    "album": "SRDCE ROZUM BLVD",
+    "duration_ms": 271597,
+    "genres": [
+      "Pop"
+    ]
   }
 }

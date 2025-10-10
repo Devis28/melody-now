@@ -10246,5 +10246,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "sash|mysterious times": {
+    "release_year": 2025,
+    "artist_country": "DE",
+    "album": "Life Goes On",
+    "duration_ms": 221240,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

@@ -2,7 +2,7 @@ name: Scrape + Enrich Melody
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # každých 5 minút
+    - cron: "*/5 * * * *"   # každých 5 minút
   workflow_dispatch: {}
 
 permissions:

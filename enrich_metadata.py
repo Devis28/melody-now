@@ -2,7 +2,7 @@
 """
 Enrichment + backfill do data/playlist.json:
 - album, release_year, duration_ms
-- lyricists (zjednotený zoznam autorov: MB recording/work relácie + Deezer contributors)
+- lyricists (zjednotený zoznam: composers ∪ lyricists ∪ writers; z MB aj Deezer contributors)
 - genres (normalizované do kanonických)
 - artist_country (ISO-3166-1 alpha-2, napr. 'US', 'SK')
 
@@ -13,20 +13,20 @@ Robustné voči výpadkom: retry + exponenciálny backoff + jitter.
 MusicBrainz throttling: default 1.0 s medzi volaniami (MB_THROTTLE_SEC).
 
 Env:
-  PLAYLIST_PATH    = data/playlist.json
-  CACHE_PATH       = data/meta_cache.json
-  MAX_KEYS_PER_RUN = 120        # koľko (artist,title) spracovať za jeden beh; "0" = bez limitu
-  MB_THROTTLE_SEC  = 1.0        # minimálny rozostup medzi MB volaniami
-  MB_USER_AGENT    = 'melody-now/1.0 (contact: example@example.com)'
+  PLAYLIST_PATH     = data/playlist.json
+  CACHE_PATH        = data/meta_cache.json
+  MAX_KEYS_PER_RUN  = 0          # koľko (artist,title) spracovať za jeden beh; "0" = bez limitu
+  MB_THROTTLE_SEC   = 1.0        # minimálny rozostup medzi MB volaniami (sekundy)
+  MB_USER_AGENT     = 'melody-now/1.0 (contact: example@example.com)'
 """
 
-import json, os, re, time, random, difflib, unicodedata
+import json, os, re, time, random
 from urllib.parse import quote_plus
 import requests
 
 PLAYLIST_PATH     = os.environ.get("PLAYLIST_PATH", "data/playlist.json")
 CACHE_PATH        = os.environ.get("CACHE_PATH", "data/meta_cache.json")
-MAX_KEYS_PER_RUN  = int(os.environ.get("MAX_KEYS_PER_RUN", "120"))
+MAX_KEYS_PER_RUN  = int(os.environ.get("MAX_KEYS_PER_RUN", "0"))
 MB_THROTTLE_SEC   = float(os.environ.get("MB_THROTTLE_SEC", "1.0"))
 MB_USER_AGENT     = os.environ.get("MB_USER_AGENT", "melody-now/1.0 (contact: example@example.com)")
 
@@ -47,7 +47,6 @@ def save_json(path: str, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def clean_title(s: str) -> str:
-    s = s or ""
     s = s.lower()
     s = re.sub(r"\s*-\s*(remaster(?:ed)?(?: \d{4})?|mono|stereo|single|version|mix|edit|radio edit).*", "", s)
     s = re.sub(r"\s*\((?:feat\.?|featuring|with)\s+[^)]*\)", "", s)
@@ -56,7 +55,6 @@ def clean_title(s: str) -> str:
     return s
 
 def clean_artist(s: str) -> str:
-    s = s or ""
     s = s.lower()
     s = re.sub(r"\s+(?:feat\.?|&|and)\s+.*", "", s)
     s = re.sub(r"\s+", " ", s).strip()
@@ -69,34 +67,6 @@ def year_from_date(s: str | None):
     if not s: return None
     try: return int(s[:4])
     except Exception: return None
-
-def ascii_fold(s: str) -> str:
-    return unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode("ascii")
-
-def _clean_name_basic(s: str) -> str:
-    s = re.sub(r"\s+\(.*?\)", "", s or "", flags=re.IGNORECASE)
-    s = re.sub(r"\s+(feat\.?|ft\.?|featuring|with)\s+.*$", "", s, flags=re.IGNORECASE)
-    return " ".join(s.split())
-
-def norm_name(s: str) -> str:
-    return ascii_fold(_clean_name_basic(s)).casefold()
-
-def norm_title_for_match(s: str) -> str:
-    return ascii_fold(clean_title(s)).casefold()
-
-def primary_artist(raw: str) -> str:
-    s = _clean_name_basic((raw or "").strip())
-    # ber prvú časť pri "A & B", "A × B", "A / B"...
-    for sep in [" & ", " × ", " x ", " + ", " / ", ";", " and "]:
-        if sep in s:
-            s = s.split(sep, 1)[0].strip()
-            break
-    # "Patejdl, Vašo" -> "Vašo Patejdl"
-    if "," in s:
-        left, right = [p.strip() for p in s.split(",", 1)]
-        if left and right:
-            s = f"{right} {left}"
-    return s
 
 # ----------------------- HTTP helper s retry/backoff ------------------------
 
@@ -140,7 +110,7 @@ _CANON = {
             "french pop","international pop","latin pop","synthpop","indie pop","dance pop","pop rock"],
     "rock": ["rock","hard rock","soft rock","alternative rock","alt rock","classic rock","indie rock","punk rock","metalcore"],
     "hip-hop": ["hip hop","hip-hop","rap","trap"],
-    "r&b": ["r&b","r&b/soul","soul","neo-soul","contemporary r&b","conemporary r&b"],
+    "r&b": ["r&b","r&b/soul","soul","neo-soul","contemporary r&b"],
     "electronic": ["electronic","edm","dance","house","techno","trance","electro","drum and bass","dnb","dubstep"],
     "metal": ["metal","heavy metal","thrash metal","death metal"],
     "classical": ["classical","orchestral","baroque","symphony"],
@@ -188,12 +158,12 @@ def from_itunes(artist: str, title: str) -> dict:
     url = f"https://itunes.apple.com/search?term={q}&entity=song&limit=3&country=sk"
     j = safe_get_json(url, timeout=20, retries=3, backoff=1.7, kind="iTunes")
     if not j or not j.get("resultCount"): return {}
-    a_norm, t_norm = norm_name(artist), norm_title_for_match(title)
+    a_norm, t_norm = clean_artist(artist), clean_title(title)
     cand = None
     for x in j["results"]:
-        if a_norm in norm_name(x.get("artistName","")):
+        if a_norm in clean_artist(x.get("artistName","")):
             cand = x
-            if t_norm in norm_title_for_match(x.get("trackName","")): break
+            if t_norm in clean_title(x.get("trackName","")): break
     x = cand or j["results"][0]
     out = {
         "album": x.get("collectionName"),
@@ -222,7 +192,6 @@ def from_deezer(artist: str, title: str) -> dict:
         "duration_ms": int(x["duration"])*1000 if x.get("duration") else None,
     }
 
-    # album žánre
     if album.get("id"):
         aj = safe_get_json(f'https://api.deezer.com/album/{album["id"]}',
                            timeout=20, retries=3, backoff=1.7, kind="DeezerAlbum")
@@ -230,7 +199,6 @@ def from_deezer(artist: str, title: str) -> dict:
             g = [g["name"] for g in (aj.get("genres",{}).get("data") or []) if g.get("name")]
             if g: out["genres_raw"] = g
 
-    # contributors => lyricists
     track_id = x.get("id")
     if track_id:
         tj = safe_get_json(f'https://api.deezer.com/track/{track_id}',
@@ -248,122 +216,125 @@ def from_deezer(artist: str, title: str) -> dict:
 
     return {k:v for k,v in out.items() if v not in (None, "", [], 0)}
 
-# ---------------------------- MusicBrainz (ADV) ------------------------------
+# ---------------------------- MusicBrainz -----------------------------------
 
-def mb_search_recording_id(artist: str, title: str) -> str | None:
-    """
-    Pokročilé vyhľadanie recording-u: kombinuje MB score + podobnosť názvu a prítomnosť interpreta.
-    Vráti MBID recording-u alebo None.
-    """
-    a_prim = primary_artist(artist)
-    q = f'artist:"{a_prim}" AND recording:"{title}"'
-    url = f'https://musicbrainz.org/ws/2/recording/?query={quote_plus(q)}&fmt=json&limit=10'
-    j = mb_get_json(url)
+def mb_search_recording(artist: str, title: str) -> dict | None:
+    a = clean_artist(artist)
+    t = clean_title(title)
+    q = f'recording:"{t}" AND artist:"{a}"'
+    j = mb_get_json(f'https://musicbrainz.org/ws/2/recording/?query={quote_plus(q)}&fmt=json&limit=3')
     recs = (j or {}).get("recordings") or []
-    if not recs: return None
+    return recs[0] if recs else None
 
-    want_t = norm_title_for_match(title)
-    want_a = norm_name(a_prim)
+def mb_search_work(artist: str, title: str) -> str | None:
+    a = clean_artist(artist)
+    t = clean_title(title)
+    q = f'work:"{t}" AND artist:"{a}"'
+    j = mb_get_json(f'https://musicbrainz.org/ws/2/work/?query={quote_plus(q)}&fmt=json&limit=2')
+    works = (j or {}).get("works") or []
+    return works[0]["id"] if works else None
 
-    best_id, best_score = None, 0.0
-    for rec in recs:
-        rec_title = rec.get("title","")
-        rec_score_mb = rec.get("score", 0) / 100.0
-        title_ratio = difflib.SequenceMatcher(a=norm_title_for_match(rec_title), b=want_t).ratio()
+def mb_artist_country_from_id(artist_mbid: str) -> str | None:
+    j = mb_get_json(f'https://musicbrainz.org/ws/2/artist/{artist_mbid}?fmt=json')
+    if not j: return None
+    area = j.get("area") or {}
+    codes = area.get("iso_3166_1_codes") or []
+    if codes: return codes[0]
+    if j.get("country"): return j["country"]
+    return None
 
-        # bonus, ak medzi artist-credit je náš interpret
-        artists = []
-        for ac in rec.get("artist-credit", []):
-            if isinstance(ac, dict) and "name" in ac:
-                artists.append(ac.get("name", ""))
-            elif isinstance(ac, str):
-                artists.append(ac)
-        artist_hit = any(difflib.SequenceMatcher(a=norm_name(nm), b=want_a).ratio() > 0.85 for nm in artists)
-
-        score = 0.6 * title_ratio + 0.35 * rec_score_mb + (0.05 if artist_hit else 0.0)
-        if score > best_score:
-            best_id, best_score = rec.get("id"), score
-
-    return best_id
-
-def mb_recording_details(rec_id: str) -> dict | None:
-    inc = "artists+releases+work-rels+artist-rels+recording-rels+work-level-rels+writers+composer+lyricist+relations"
-    url = f'https://musicbrainz.org/ws/2/recording/{rec_id}?inc={quote_plus(inc)}&fmt=json'
-    return mb_get_json(url)
-
-def mb_work_details(work_id: str) -> dict | None:
-    inc = "artist-rels+relations+writers+composer+lyricist"
-    url = f'https://musicbrainz.org/ws/2/work/{work_id}?inc={quote_plus(inc)}&fmt=json'
-    return mb_get_json(url)
-
-def collect_names_from_rels(rels: list[dict]) -> set[str]:
-    names = set()
-    for rel in rels or []:
-        if rel.get("type") in {"writer", "composer", "lyricist", "author"}:
-            art = rel.get("artist") or {}
-            nm = (art.get("name") or art.get("sort-name") or "").strip()
-            if nm:
-                names.add(nm)
-    return names
+def mb_work_people(work_mbid: str) -> dict:
+    j = mb_get_json(f'https://musicbrainz.org/ws/2/work/{work_mbid}?inc=artist-rels&fmt=json')
+    if not j: return {}
+    people = {"composers": [], "lyricists": [], "writers": []}
+    for rel in j.get("relations", []):
+        typ = rel.get("type")
+        if typ in ("composer","lyricist","writer"):
+            name = (rel.get("artist") or {}).get("name")
+            if name: people[typ + "s"].append(name)
+    for k in people: people[k] = sorted(set(people[k]))
+    return {k:v for k,v in people.items() if v}
 
 def from_musicbrainz(artist: str, title: str) -> dict:
-    """
-    Získa:
-      - release_year (z releases)
-      - artist_country (z artist-credit -> artist.area.iso_3166_1_codes | country)
-      - lyricists (z recording.relations + z naviazaných work-ov, max 2)
-    """
+    rec = mb_search_recording(artist, title)
+    if not rec: return {}
     out = {}
 
-    rec_id = mb_search_recording_id(artist, title)
-    if not rec_id:
-        # fallback: skús otočené poradie mena (Darina Rolincová vs Rolincová Darina)
-        parts = primary_artist(artist).split()
-        if len(parts) == 2:
-            alt = f"{parts[1]} {parts[0]}"
-            rec_id = mb_search_recording_id(alt, title)
-    if not rec_id:
-        return out
-
-    det = mb_recording_details(rec_id)
-    if not det:
-        return out
-
-    # release_year
-    if det.get("releases"):
-        y = year_from_date(det["releases"][0].get("date"))
+    # release_year z "releases"
+    if rec.get("releases"):
+        y = year_from_date(rec["releases"][0].get("date"))
         if y: out["release_year"] = y
 
-    # artist_country
-    ac = det.get("artist-credit") or []
+    # artist country (z artist-credit)
+    ac = rec.get("artist-credit") or rec.get("artist_credits") or []
     if ac:
         a_id = (ac[0].get("artist") or {}).get("id")
         if a_id:
-            ajson = mb_get_json(f'https://musicbrainz.org/ws/2/artist/{a_id}?fmt=json')
-            if ajson:
-                country = ajson.get("country")
-                if not country:
-                    area = ajson.get("area") or {}
-                    codes = area.get("iso_3166_1_codes") or area.get("iso-3166-1-codes") or []
-                    country = codes[0] if codes else None
-                if country: out["artist_country"] = country
+            cc = mb_artist_country_from_id(a_id)
+            if cc: out["artist_country"] = cc
 
-    # lyricists z recording.relations
-    names = collect_names_from_rels(det.get("relations") or [])
+    # DETAIL nahrávky – správne 'inc' hodnoty pre recording endpoint
+    MB_REC_DETAIL_INC = "work-rels+artist-credits+releases+artist-rels+recording-rels"
+    det = mb_get_json(
+        f'https://musicbrainz.org/ws/2/recording/{rec["id"]}?inc={MB_REC_DETAIL_INC}&fmt=json'
+    )
 
-    # works -> doplň mená (max 2)
-    work_rels = [rel for rel in (det.get("relations") or []) if rel.get("target-type") == "work"]
-    for rel in work_rels[:2]:
-        wid = (rel.get("work") or {}).get("id")
+    works = []
+    if det:
+        # doplň release_year/artist_country ak chýbali
+        if "release_year" not in out and det.get("releases"):
+            y2 = year_from_date(det["releases"][0].get("date"))
+            if y2: out["release_year"] = y2
+        if "artist_country" not in out:
+            ac2 = det.get("artist-credit") or []
+            if ac2:
+                a2 = (ac2[0].get("artist") or {}).get("id")
+                if a2:
+                    cc2 = mb_artist_country_from_id(a2)
+                    if cc2: out["artist_country"] = cc2
+
+        # works z relations
+        works = [rel.get("work",{}).get("id") for rel in det.get("relations",[]) if rel.get("type")=="work"]
+
+        # autori priamo na recordingu (artist-rels)
+        rec_comp, rec_lyr, rec_writ = set(), set(), set()
+        for rel in det.get("relations", []):
+            typ = rel.get("type")
+            name = (rel.get("artist") or {}).get("name")
+            if not name: continue
+            if typ == "composer": rec_comp.add(name)
+            elif typ == "lyricist": rec_lyr.add(name)
+            elif typ == "writer": rec_writ.add(name)
+        people_rec = sorted(rec_comp | rec_lyr | rec_writ)
+        if people_rec:
+            out.setdefault("lyricists", [])
+            out["lyricists"] = sorted(set(out["lyricists"]) | set(people_rec))
+
+    # z WORK-ov (ak sú)
+    comp, lyr, writ = set(), set(), set()
+    for wid in (works or [])[:2]:
         if not wid: continue
-        wdet = mb_work_details(wid)
-        if wdet:
-            names |= collect_names_from_rels(wdet.get("relations") or [])
+        ppl = mb_work_people(wid)
+        comp |= set(ppl.get("composers", []))
+        lyr  |= set(ppl.get("lyricists", []))
+        writ |= set(ppl.get("writers", []))
 
-    if names:
-        out["lyricists"] = sorted(names)
+    # fallback: ak nič a nenašli sa works, skús rovno vyhľadať work
+    if not (comp or lyr or writ):
+        wid = mb_search_work(artist, title)
+        if wid:
+            ppl = mb_work_people(wid)
+            comp |= set(ppl.get("composers", []))
+            lyr  |= set(ppl.get("lyricists", []))
+            writ |= set(ppl.get("writers", []))
 
-    return out
+    people = sorted(comp | lyr | writ)
+    if people:
+        out.setdefault("lyricists", [])
+        out["lyricists"] = sorted(set(out["lyricists"]) | set(people))
+
+    # vráť len ne-prázdne hodnoty
+    return {k:v for k,v in out.items() if v not in (None, "", [], 0)}
 
 # --------------------------- Spájanie výsledkov -----------------------------
 
@@ -374,20 +345,22 @@ ALL_FIELDS    = SCALAR_FIELDS + LIST_FIELDS
 
 def merge_meta(*dicts) -> dict:
     """
-    Zlučuje dáta zo zdrojov. Ak sa objavia 'composers'/'writers', mapujú sa do 'lyricists'.
+    Zlučuje dáta zo zdrojov. Kľúče 'composers' a 'writers' (ak by prišli) mapujeme do 'lyricists'.
     """
     result, raw_genres = {}, []
     lyricists_union = set()
 
     for d in dicts:
         if not d: continue
-        # zozbieraj autorov zo všetkých možných kľúčov
+
+        # zober potencionálnych autorov zo všetkých názvov
         for role_key in ("composers", "lyricists", "writers"):
             vals = d.get(role_key) or []
             if isinstance(vals, list):
                 lyricists_union |= set(vals)
             elif vals:
                 lyricists_union.add(vals)
+
         # ostatné polia
         for k, v in d.items():
             if v in (None, "", [], 0): continue
@@ -395,6 +368,7 @@ def merge_meta(*dicts) -> dict:
                 raw_genres.extend(v if isinstance(v, list) else [v])
             elif k in SCALAR_FIELDS:
                 result.setdefault(k, v)
+            # ignorujeme iné kľúče (cover_url, sources, duration_sec...)
 
     if lyricists_union:
         result["lyricists"] = sorted(lyricists_union)
@@ -442,7 +416,6 @@ def apply_schema_with_nulls(item: dict, meta: dict):
     incoming = set(meta.get("lyricists") or [])
     merged_authors = sorted(legacy_set | incoming)
     item["lyricists"] = merged_authors if merged_authors else None
-    # odstráň legacy kľúče
     if "composers" in item: del item["composers"]
     if "writers" in item:   del item["writers"]
 
@@ -464,15 +437,14 @@ def run_backfill():
     cache = load_cache()
     touched, updated = 0, 0
 
-    # zozbieraj potrebné kľúče
+    # zozbieraj kľúče, kde niečo chýba
     need_keys = []
     seen = set()
     for it in playlist:
         if needs_any(it):
             k = norm_key(it["artist"], it["title"])
             if k not in seen:
-                need_keys.append(k)
-                seen.add(k)
+                need_keys.append(k); seen.add(k)
 
     # obmedz rozsah na beh
     if MAX_KEYS_PER_RUN and len(need_keys) > MAX_KEYS_PER_RUN:
@@ -492,7 +464,7 @@ def run_backfill():
     if touched:
         save_cache(cache)
 
-    # aplikuj do záznamov – vynúť ALL_FIELDS, legacy cleanup
+    # aplikuj do záznamov – vynúť ALL_FIELDS + legacy cleanup
     for it in playlist:
         before = json.dumps({kk: it.get(kk) for kk in ALL_FIELDS + ("composers","writers")}, ensure_ascii=False, sort_keys=True)
         key = norm_key(it["artist"], it["title"])

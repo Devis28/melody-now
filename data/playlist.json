@@ -4,7 +4,15 @@
     "artist": "Stanislav Hlozek & Petr Kotvald",
     "date": "10.10.2025",
     "time": "09:47",
-    "listeners": 1248
+    "listeners": 1248,
+    "lyricists": null,
+    "album": "Holky Z Naší Školky",
+    "release_year": 2004,
+    "duration_ms": 217400,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "One Of Us",

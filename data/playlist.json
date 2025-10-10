@@ -4,28 +4,62 @@
     "artist": "Team",
     "date": "11.10.2025",
     "time": "01:24",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Team Hity",
+    "release_year": 1994,
+    "duration_ms": 267693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Ma Baker",
     "artist": "Boney M.",
     "date": "11.10.2025",
     "time": "01:19",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2006,
+    "duration_ms": 274960,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Len S Ňou",
     "artist": "Žbirka Miroslav",
     "date": "11.10.2025",
     "time": "01:16",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 1988,
+    "duration_ms": 187107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Baroko",
     "artist": "Muller Richard & Anna K. Ivan Tasler",
     "date": "11.10.2025",
     "time": "01:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2000,
+    "duration_ms": 376360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The One And Only",

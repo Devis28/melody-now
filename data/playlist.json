@@ -4,28 +4,61 @@
     "artist": "B. J. Thomas",
     "date": "10.10.2025",
     "time": "10:14",
-    "listeners": 875
+    "listeners": 875,
+    "lyricists": null,
+    "album": "Raindrops Keep Fallin' On My Head",
+    "release_year": 1996,
+    "duration_ms": 184493,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Tisíckrát Krásnější",
     "artist": "Dalibor Janda",
     "date": "10.10.2025",
     "time": "10:07",
-    "listeners": 1037
+    "listeners": 1037,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 2018,
+    "duration_ms": 293667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "As Long As You Love Me",
     "artist": "Backstreet Boys",
     "date": "10.10.2025",
     "time": "10:03",
-    "listeners": 926
+    "listeners": 926,
+    "lyricists": null,
+    "album": "Backstreet's Back",
+    "release_year": 1998,
+    "duration_ms": 221107,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Be My Baby",
     "artist": "Ronettes, The",
     "date": "10.10.2025",
     "time": "10:01",
-    "listeners": 987
+    "listeners": 987,
+    "lyricists": null,
+    "album": "Be My Baby: The Very Best of The Ronettes",
+    "release_year": 1963,
+    "duration_ms": 160907,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Mexican Girl",

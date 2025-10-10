@@ -4,28 +4,60 @@
     "artist": "The Scorpions",
     "date": "10.10.2025",
     "time": "10:48",
-    "listeners": 993
+    "listeners": 993,
+    "lyricists": null,
+    "album": "Crazy World",
+    "release_year": 1999,
+    "duration_ms": 312360,
+    "artist_country": "DE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Zažni",
     "artist": "Miro Žbirka",
     "date": "10.10.2025",
     "time": "10:45",
-    "listeners": 937
+    "listeners": 937,
+    "lyricists": null,
+    "album": "Symphonic Album",
+    "release_year": 2007,
+    "duration_ms": 215293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I Won't Let The Sun Go Down On Me",
     "artist": "Kershaw Nik",
     "date": "10.10.2025",
     "time": "10:42",
-    "listeners": 907
+    "listeners": 907,
+    "lyricists": null,
+    "album": "Human Racing",
+    "release_year": 1983,
+    "duration_ms": 203853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Držím Ti Miesto",
     "artist": "Team",
     "date": "10.10.2025",
     "time": "10:37",
-    "listeners": 883
+    "listeners": 883,
+    "lyricists": null,
+    "album": "Team 3",
+    "release_year": 1994,
+    "duration_ms": 242760,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Yesterday",

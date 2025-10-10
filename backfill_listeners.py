@@ -3,16 +3,16 @@
 Backfill poslucháčov podľa simulovaného denného profilu:
 - pracovný deň peak ≈ WEEKDAY_PEAK
 - víkend peak ≈ WEEKEND_PEAK
-- noc utlmená okolo NIGHT_CENTER s wrap-around (cirkulárne na 24 h)
-- voliteľný "evening tail" – tlmí už od večera (napr. od 22:00)
-- deterministický jitter ± pár %
-
-Env-tunables:
+- noc utlmená (cirkulárne okolo NIGHT_CENTER) + večerný chvost
+- spodný prah tvaru NIGHT_SFLOOR + minute-of-day wobble
+- deterministický jitter z item_key
+Env:
   WEEKDAY_PEAK, WEEKEND_PEAK,
   NIGHT_MIN, NIGHT_CENTER, NIGHT_WIDTH, NIGHT_STRENGTH, NIGHT_POWER, NIGHT_SFLOOR,
   EVENING_TAIL_START, EVENING_TAIL_STRENGTH, EVENING_TAIL_SLOPE,
+  MDAY_WOBBLE, MDAY_WOBBLE_PHASE,
   JITTER_SIGMA, JITTER_CLIP,
-  REWRITE_ALL=0/1  (ak 1, prepíše listeners aj existujúcim záznamom)
+  REWRITE_ALL=0/1
 """
 import json, os, math, hashlib
 from datetime import datetime
@@ -37,6 +37,9 @@ NIGHT_SFLOOR   = float(os.environ.get("NIGHT_SFLOOR", 0.05))
 EVENING_TAIL_START     = float(os.environ.get("EVENING_TAIL_START", 22.0))
 EVENING_TAIL_STRENGTH  = float(os.environ.get("EVENING_TAIL_STRENGTH", 0.35))
 EVENING_TAIL_SLOPE     = float(os.environ.get("EVENING_TAIL_SLOPE", 0.6))
+
+MDAY_WOBBLE       = float(os.environ.get("MDAY_WOBBLE", 0.03))
+MDAY_WOBBLE_PHASE = float(os.environ.get("MDAY_WOBBLE_PHASE", 1.2))
 
 JITTER_SIGMA   = float(os.environ.get("JITTER_SIGMA", 0.06))
 JITTER_CLIP    = float(os.environ.get("JITTER_CLIP", 0.12))
@@ -95,9 +98,10 @@ def _s01(h, is_weekend):
     grid, day_norm = _s01._cache[key]
     idx = min(range(len(grid)), key=lambda i: abs(grid[i] - h))
     s = day_norm[idx] * _night_depressor(h)
-    if s < NIGHT_SFLOOR:
-        s = NIGHT_SFLOOR
-    return s
+    s = max(NIGHT_SFLOOR, s)
+    wobble = 1.0 + MDAY_WOBBLE * math.sin(2.0 * math.pi * (h / 24.0) + MDAY_WOBBLE_PHASE)
+    s = s * wobble
+    return min(1.0, max(NIGHT_SFLOOR, s))
 
 # ---------- očakávaný počet + jitter ----------
 def _expected_count(dt: datetime) -> float:
@@ -135,12 +139,10 @@ def save(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def parse_dt(item):
-    # item["date"] = dd.mm.yyyy, item["time"] = HH:MM
     dt = datetime.strptime(f'{item["date"]} {item["time"]}', "%d.%m.%Y %H:%M")
     return dt.replace(tzinfo=TZ)
 
 def item_key(item) -> str:
-    # stabilný kľúč pre deterministický jitter
     return f'{item.get("artist","")}|{item.get("title","")}|{item.get("date","")}|{item.get("time","")}'
 
 if __name__ == "__main__":

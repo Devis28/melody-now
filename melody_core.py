@@ -17,11 +17,11 @@ UA = (
     "(KHTML, like Gecko) Chrome/129.0 Safari/537.36"
 )
 
-# Počúvanosť – rovnaký model ako v backfill_listeners.py
+# Počúvanosť – rovnaký model aj pre backfill
 WEEKDAY_PEAK   = float(os.environ.get("WEEKDAY_PEAK", 3260))   # špička pracovného dňa
 WEEKEND_PEAK   = float(os.environ.get("WEEKEND_PEAK", 1820))   # špička víkendu
 
-# Noc – minimum a tvar (cirkulárny Gauss s wrap-around okolo polnoci)
+# Noc – tvar (cirkulárny Gauss s wrap-around okolo polnoci)
 NIGHT_MIN      = float(os.environ.get("NIGHT_MIN", 160))       # minimum v hlbokej noci
 NIGHT_CENTER   = float(os.environ.get("NIGHT_CENTER", 2.5))    # hodina minima (~02:30)
 NIGHT_WIDTH    = float(os.environ.get("NIGHT_WIDTH", 3.0))     # šírka noci (↑ = dlhšia noc)
@@ -33,6 +33,10 @@ NIGHT_SFLOOR   = float(os.environ.get("NIGHT_SFLOOR", 0.05))   # min. frakcia po
 EVENING_TAIL_START     = float(os.environ.get("EVENING_TAIL_START", 22.0))
 EVENING_TAIL_STRENGTH  = float(os.environ.get("EVENING_TAIL_STRENGTH", 0.35))
 EVENING_TAIL_SLOPE     = float(os.environ.get("EVENING_TAIL_SLOPE", 0.6))
+
+# Minute-of-day „vlnka“ (jemná variácia podľa minúty dňa)
+MDAY_WOBBLE       = float(os.environ.get("MDAY_WOBBLE", 0.03))  # ±3 %
+MDAY_WOBBLE_PHASE = float(os.environ.get("MDAY_WOBBLE_PHASE", 1.2))
 
 # Jitter (deterministický, podľa seed_key)
 JITTER_SIGMA   = float(os.environ.get("JITTER_SIGMA", 0.06))   # ~6 %
@@ -73,12 +77,11 @@ def parse_date_label(lbl: str) -> date:
 def fmt_date(d: date) -> str:
     return d.strftime("%d.%m.%Y")
 
-# ----------------- Tvar dennej krivky (ako v backfilli) ----------------------
+# ----------------- Tvar dennej krivky ---------------------------------------
 def _gauss(x, mu, sigma, amp):
     return amp * math.exp(-0.5 * ((x - mu) / sigma) ** 2)
 
 def _shape_weekday_raw(h: float) -> float:
-    # ráno + popoludnie, menšie poludnie a večer
     return (
         _gauss(h, 7.8, 1.2, 0.9)  +
         _gauss(h, 12.5, 1.3, 0.45) +
@@ -87,7 +90,6 @@ def _shape_weekday_raw(h: float) -> float:
     )
 
 def _shape_weekend_raw(h: float) -> float:
-    # neskorší štart, popoludnie dominantné
     return (
         _gauss(h, 10.0, 1.7, 0.35) +
         _gauss(h, 14.0, 2.0, 0.95) +
@@ -100,7 +102,6 @@ def _normalize(arr):
     return [(v - a_min) / (a_max - a_min) for v in arr]
 
 def _circ_dist_hours(a: float, b: float) -> float:
-    """cirkulárna vzdialenosť na 24h cykle"""
     d = abs(a - b)
     return min(d, 24.0 - d)
 
@@ -114,18 +115,18 @@ def _night_depressor(h: float) -> float:
     dep1 = max(0.0, min(1.0, dep1)) ** NIGHT_POWER
 
     # Večerný chvost – tlmí už od ~22:00 smerom k polnoci
-    tail = _sigmoid((h - EVENING_TAIL_START) / max(0.1, EVENING_TAIL_SLOPE))  # ~0 pred, ~1 po
+    tail = _sigmoid((h - EVENING_TAIL_START) / max(0.1, EVENING_TAIL_SLOPE))
     dep2 = 1.0 - EVENING_TAIL_STRENGTH * tail
 
     return max(0.0, min(1.0, dep1 * dep2))
 
 def _precompute_norm(is_weekend: bool):
-    grid = [i/12 for i in range(0, 24*12 + 1)]  # 5-min mriežka v hodinách
+    grid = [i/12 for i in range(0, 24*12 + 1)]
     raw = [(_shape_weekend_raw(x) if is_weekend else _shape_weekday_raw(x)) for x in grid]
     return grid, _normalize(raw)
 
 def _s01(h: float, is_weekend: bool) -> float:
-    """0..1 tvar po aplikácii nočného/večerného tlmenia (bez re-normalizácie) + spodný prah."""
+    """0..1 tvar po tlmení + spodný prah + minute-of-day wobble (clamp späť do [NIGHT_SFLOOR, 1])."""
     if not hasattr(_s01, "_cache"):
         _s01._cache = {}
     key = "we" if is_weekend else "wd"
@@ -134,9 +135,13 @@ def _s01(h: float, is_weekend: bool) -> float:
     grid, day_norm = _s01._cache[key]
     idx = min(range(len(grid)), key=lambda i: abs(grid[i] - h))
     s = day_norm[idx] * _night_depressor(h)
-    if s < NIGHT_SFLOOR:
-        s = NIGHT_SFLOOR
-    return s
+    # spodný prah, aby to nepadlo na čisté minimum
+    s = max(NIGHT_SFLOOR, s)
+    # jemná variácia podľa minúty dňa (h = hodiny s desatinnou časťou)
+    wobble = 1.0 + MDAY_WOBBLE * math.sin(2.0 * math.pi * (h / 24.0) + MDAY_WOBBLE_PHASE)
+    s = s * wobble
+    # drž v rozsahu
+    return min(1.0, max(NIGHT_SFLOOR, s))
 
 def _expected_count(dt: datetime) -> float:
     h = dt.hour + dt.minute / 60.0
@@ -146,10 +151,6 @@ def _expected_count(dt: datetime) -> float:
     return NIGHT_MIN + s * (peak - NIGHT_MIN)
 
 def _deterministic_jitter(seed_key: str | None, sigma=JITTER_SIGMA, clip=JITTER_CLIP) -> float:
-    """
-    Vráti multiplikátor (1 ± pár %) deterministicky podľa seed_key.
-    Ak seed_key nie je, použije časový seed (YYYY-mm-dd HH:MM).
-    """
     if not seed_key:
         seed_key = datetime.now(TZ).strftime("%Y-%m-%d %H:%M")
     d = hashlib.md5(seed_key.encode("utf-8")).hexdigest()
@@ -161,10 +162,6 @@ def _deterministic_jitter(seed_key: str | None, sigma=JITTER_SIGMA, clip=JITTER_
     return 1.0 + eps
 
 def estimate_listeners(dt: datetime, seed_key: str | None = None) -> int:
-    """
-    Odhad počúvanosti pre daný čas.
-    seed_key odporúčam nastaviť na 'artist|title|date|time' pre stabilný jitter.
-    """
     base = _expected_count(dt)
     v = base * _deterministic_jitter(seed_key)
     peak_cap = WEEKEND_PEAK if dt.weekday() >= 5 else WEEKDAY_PEAK
@@ -174,7 +171,6 @@ def estimate_listeners(dt: datetime, seed_key: str | None = None) -> int:
 # ----------------- Parsovanie stránky ---------------------------------------
 def parse_first_row(html: str) -> dict | None:
     soup = BeautifulSoup(html, "html.parser")
-    # najnovší riadok je prvý
     row = soup.select_one("div.row.data, div.row_data")
     if not row:
         return None

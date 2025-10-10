@@ -4,7 +4,15 @@
     "artist": "Madonna",
     "date": "10.10.2025",
     "time": "09:39",
-    "listeners": 1288
+    "listeners": 1288,
+    "lyricists": null,
+    "album": "Something to Remember",
+    "release_year": 1995,
+    "duration_ms": 278136,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Malá Nočná Búrka",

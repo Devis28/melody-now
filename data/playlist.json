@@ -1,5 +1,51 @@
 [
   {
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "10.10.2025",
+    "time": "09:26",
+    "listeners": 1600,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2008,
+    "duration_ms": 307000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  {
+    "title": "I Should Be So Lucky",
+    "artist": "Minogue Kylie",
+    "date": "10.10.2025",
+    "time": "09:23",
+    "listeners": 1570,
+    "lyricists": null,
+    "album": "Kylie",
+    "release_year": 1987,
+    "duration_ms": 204128,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
+  },
+  {
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "10.10.2025",
+    "time": "09:19",
+    "listeners": 1696,
+    "lyricists": null,
+    "album": "Barry Manilow II",
+    "release_year": 1974,
+    "duration_ms": 213333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
+  },
+  {
     "title": "La Camisa Negra",
     "artist": "Juanes",
     "date": "10.10.2025",

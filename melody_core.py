@@ -1,29 +1,32 @@
 # -*- coding: utf-8 -*-
-import re, math, hashlib, random
+import re, math, hashlib, random, os
 from datetime import datetime, date, time, timedelta
 from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
 
+# ---------------------------------------------------------------------------
+# Konštanty a HTTP
+# ---------------------------------------------------------------------------
 TZ  = ZoneInfo("Europe/Bratislava")
 URL = "https://www.radia.sk/radia/melody/playlist"
-UA  = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/129.0 Safari/537.36"
-)
+UA  = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+       "(KHTML, like Gecko) Chrome/129.0 Safari/537.36")
 
-# ----- živé parametre (krutíme nimi podľa potreby) --------------------------
-WEEKDAY_PEAK  = 3200.0
-WEEKEND_PEAK  = 2000.0
-NIGHT_MIN     = 180.0         # úplné nočné minimum
-SLOW_BUCKET_S = 30            # ako často sa mení "pomalý" jitter (s)
-SLOW_SIGMA    = 0.04          # ±4 %
-SLOW_CLIP     = 0.08          # max ±8 %
-FAST_SIGMA    = 0.02          # ±2 %
-FAST_CLIP     = 0.04          # max ±4 %
+# Live bucket pre /now (koľko sekúnd držať „pomalý“ jitter)
+SLOW_BUCKET_S = int(os.environ.get("SLOW_BUCKET_S", "30"))
 
-# ---------------------------------------------------------------------------
+# Denné špičky a minimá (reálne rozsahy)
+WEEKDAY_PEAK  = float(os.environ.get("WEEKDAY_PEAK", 3200.0))
+WEEKEND_PEAK  = float(os.environ.get("WEEKEND_PEAK", 2000.0))
+NIGHT_MIN     = float(os.environ.get("NIGHT_MIN",  180.0))
+
+# Jittery (percentá ako štandardná odchýlka a limity)
+SLOW_SIGMA = float(os.environ.get("SLOW_SIGMA", "0.04"))  # ±4 % typicky
+SLOW_CLIP  = float(os.environ.get("SLOW_CLIP",  "0.08"))  # max ±8 %
+FAST_SIGMA = float(os.environ.get("FAST_SIGMA", "0.02"))  # ±2 %
+FAST_CLIP  = float(os.environ.get("FAST_CLIP",  "0.04"))  # max ±4 %
 
 def _fetch_with_requests():
     headers = {"User-Agent": UA, "Accept-Language": "sk,en;q=0.9"}
@@ -32,17 +35,22 @@ def _fetch_with_requests():
     return r.text
 
 def fetch_html():
-    """Najprv requests; ak by sa bránil, a máme cloudscraper, použijeme ho."""
+    """Najprv requests; ak sa bráni, a máme cloudscraper, použijeme ho."""
     try:
         return _fetch_with_requests()
     except Exception:
         try:
             import cloudscraper
             s = cloudscraper.create_scraper()
-            return s.get(URL, headers={"User-Agent": UA}).text
+            r = s.get(URL, headers={"User-Agent": UA}, timeout=20)
+            r.raise_for_status()
+            return r.text
         except Exception as e:
             raise e
 
+# ---------------------------------------------------------------------------
+# Parsovanie dátumu
+# ---------------------------------------------------------------------------
 def parse_date_label(lbl: str) -> date:
     t = lbl.strip().lower()
     today = datetime.now(TZ).date()
@@ -58,8 +66,9 @@ def parse_date_label(lbl: str) -> date:
 def fmt_date(d: date) -> str:
     return d.strftime("%d.%m.%Y")
 
-# ===== denná krivka (mierne zjednodušená, ale realistická) ==================
-
+# ---------------------------------------------------------------------------
+# Denná krivka (zjednodušené, ale realistické)
+# ---------------------------------------------------------------------------
 def _gauss(x, mu, sigma, amp):
     return amp * math.exp(-0.5 * ((x - mu) / sigma) ** 2)
 
@@ -86,15 +95,13 @@ def _normalize(arr):
     return [(v - lo) / (hi - lo) for v in arr]
 
 def _day_norm(is_weekend: bool):
-    # normalizovaný denný tvar 0..1 na 5-min mriežke
-    grid = [i/12 for i in range(0, 24*12 + 1)]
+    grid = [i/12 for i in range(0, 24*12 + 1)]  # 5-min mriežka
     raw = [(_shape_weekend_raw(x) if is_weekend else _shape_weekday_raw(x)) for x in grid]
     return grid, _normalize(raw)
 
 def _night_depressor(h):
-    # silný útlm okolo 02:30
+    # silný útlm okolo 02:30 (0.2..1.0)
     valley = math.exp(-0.5 * ((h - 2.5) / 2.0) ** 2)
-    # 0.2 až 1.0 (v noci ~0.2–0.4, cez deň ~1.0)
     return max(0.2, 1.0 - 0.8 * valley)
 
 def _expected_count(dt: datetime) -> float:
@@ -111,13 +118,14 @@ def _expected_count(dt: datetime) -> float:
     peak = WEEKEND_PEAK if is_weekend else WEEKDAY_PEAK
     return NIGHT_MIN + base01 * (peak - NIGHT_MIN)
 
-# ===== jittery ===============================================================
-
+# ---------------------------------------------------------------------------
+# Jittery
+# ---------------------------------------------------------------------------
 def _gauss_jitter(seed_int: int, sigma: float, clip: float) -> float:
     """vygeneruje N(0,sigma) z deterministického seed-u a oreže na ±clip"""
     rng = random.Random(seed_int)
     u1, u2 = max(rng.random(), 1e-9), max(rng.random(), 1e-9)
-    z = ( (-2.0 * math.log(u1)) ** 0.5 ) * math.cos(2*math.pi*u2)
+    z = ((-2.0 * math.log(u1)) ** 0.5) * math.cos(2*math.pi*u2)
     eps = max(-clip, min(clip, sigma * z))
     return eps
 
@@ -134,15 +142,28 @@ def _fast_jitter(ts_ms: int | None) -> float:
     seed = int(hashlib.sha1(str(ts_ms).encode("utf-8")).hexdigest()[:16], 16)
     return _gauss_jitter(seed, FAST_SIGMA, FAST_CLIP)
 
-# ===== verejné API do zvyšku kódu ===========================================
-
-def estimate_listeners(dt: datetime, seed_key: str, ts_ms: int | None = None, debug=False) -> int | dict:
+# ---------------------------------------------------------------------------
+# Verejné API: estimate_listeners (BACKWARD-COMPATIBLE)
+# ---------------------------------------------------------------------------
+def estimate_listeners(dt: datetime,
+                       seed_key: str | None = None,
+                       ts_ms: int | None = None,
+                       debug: bool = False) -> int | dict:
     """
-    dt      = kedy hrá (z playlistu)
-    seed_key= stabilný kľúč skladby (interpret|titul|datum|cas)
-    ts_ms   = milisekundy z klienta, aby sa to menilo pri každom kliku
+    BACKWARD-COMPATIBLE:
+      - seed_key je nepovinný (pre staré volania). Ak nie je daný, použije sa
+        fallback based on dt (minútový bucket) => stabilné v rámci minúty.
+      - ts_ms je nepovinné; ak nie je, použije sa aktuálny čas v ms.
+
+    Výsledok = denná krivka (podľa dt) * (1 + slow_jitter + fast_jitter)
+    s orezaním na [NIGHT_MIN, PEAK].
     """
     base = _expected_count(dt)
+
+    # fallback pre staré volania bez seed_key (aby nespadli a boli rozumné)
+    if seed_key is None:
+        seed_key = f"fallback|{dt.strftime('%Y-%m-%d %H:%M')}"  # stabilné v rámci minúty
+
     slow = _slow_jitter(seed_key, datetime.now(TZ).timestamp())
     fast = _fast_jitter(ts_ms)
     v = base * (1.0 + slow + fast)
@@ -163,6 +184,9 @@ def estimate_listeners(dt: datetime, seed_key: str, ts_ms: int | None = None, de
         }
     }
 
+# ---------------------------------------------------------------------------
+# Parsovanie prvej (aktuálnej) položky
+# ---------------------------------------------------------------------------
 def parse_first_row(html: str) -> dict | None:
     soup = BeautifulSoup(html, "html.parser")
     row = soup.select_one("div.row.data, div.row_data")
@@ -183,9 +207,13 @@ def parse_first_row(html: str) -> dict | None:
         "artist": a_el.get_text(strip=True),
         "date":   fmt_date(d),
         "time":   tm.strftime("%H:%M"),
+        # listeners dorátame až pri get_now_playing()
     }
 
-def get_now_playing(override_ts: int | None = None, debug=False) -> dict:
+# ---------------------------------------------------------------------------
+# Public API: now-playing
+# ---------------------------------------------------------------------------
+def get_now_playing(override_ts: int | None = None, debug: bool = False) -> dict:
     html = fetch_html()
     row = parse_first_row(html)
     if not row:

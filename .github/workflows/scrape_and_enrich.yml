@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # ← prepnúť na "false" ak chceš dočasne vypnúť obohacovanie
-      ENRICH_ENABLED: "false"
+      ENRICH_ENABLED: "true"
 
     steps:
       - name: Checkout

@@ -4,28 +4,60 @@
     "artist": "Abba",
     "date": "10.10.2025",
     "time": "11:31",
-    "listeners": 1241
+    "listeners": 1241,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 2010,
+    "duration_ms": 325907,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Za Dverami Mojej Izby",
     "artist": "Beata Dubasová",
     "date": "10.10.2025",
     "time": "11:25",
-    "listeners": 1241
+    "listeners": 1241,
+    "lyricists": null,
+    "album": "Za dverami mojej izby",
+    "release_year": 1990,
+    "duration_ms": 303903,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nikita",
     "artist": "Elton John",
     "date": "10.10.2025",
     "time": "11:20",
-    "listeners": 1189
+    "listeners": 1189,
+    "lyricists": null,
+    "album": "Ice On Fire ((Remastered))",
+    "release_year": 2003,
+    "duration_ms": 343240,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Každá Trampota Má Svou Mez",
     "artist": "Vondráčková Helena &Korn Jiří",
     "date": "10.10.2025",
     "time": "11:16",
-    "listeners": 1167
+    "listeners": 1167,
+    "lyricists": null,
+    "album": "Těch Pár Dnů",
+    "release_year": 2007,
+    "duration_ms": 282827,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Absolutely Everybody",

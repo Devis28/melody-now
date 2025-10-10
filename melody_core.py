@@ -207,15 +207,16 @@ def get_now_playing() -> dict:
     if not row:
         return {"error": "Nepodarilo sa získať aktuálnu skladbu."}
 
-    # pre istotu prepočítať dt z row (máme tam už date/time)
+    # prepočítaj DT z dát v riadku
     d = datetime.strptime(row["date"], "%d.%m.%Y").date()
     hh, mm = [int(x) for x in row["time"].split(":")]
     dt = datetime.combine(d, time(hour=hh, minute=mm), TZ)
 
-    # deterministická časť + „live“ bucket (mení sa napr. každých 30 s)
+    # deterministický seed + živý „bucket“, ktorý sa mení napr. každých 30 s
     base_seed = f'{row["artist"]}|{row["title"]}|{row["date"]}|{row["time"]}'
     now_bucket = int(datetime.now(TZ).timestamp() // max(1, LIVE_JITTER_BUCKET_SEC))
     seed_live = f"{base_seed}|{now_bucket}"
 
+    # PREPÍŠ hodnotu z parse_first_row – rátaj znova pre live
     row["listeners"] = estimate_listeners(dt, seed_key=seed_live)
     return row

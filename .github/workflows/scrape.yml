@@ -1,4 +1,4 @@
-name: Scrape Melody Playlist (history)
+name: Scrape Melody Playlist (history + enrich)
 
 on:
   schedule:
@@ -8,20 +8,20 @@ on:
 permissions:
   contents: write
 
-# nedovoľ paralelné behy toho istého workflowu (nebudú si "šlapať po pätách")
+# nedovoľ paralelné behy toho istého workflowu
 concurrency:
   group: scrape-history
   cancel-in-progress: true
 
 jobs:
-  scrape:
+  scrape_and_enrich:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0    # aby fungoval pull --rebase a správna história
+          fetch-depth: 0    # kvôli rebase & korektnej histórii
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -33,7 +33,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # ⬇️ spustí tvoj scraper a zapíše outputs (added/total/dropped_oldest)
+      # 1) SCRAPE – zapíše data/playlist.json
       - name: Run scraper
         id: scrape
         env:
@@ -41,25 +41,40 @@ jobs:
           PLAYLIST_LIMIT: 50000
         run: python scrape_melody.py
 
-      # ⬇️ voliteľné: vytlačí čísla aj do logu
-      - name: Print numbers
-        run: |
-          echo "Added:  ${{ steps.scrape.outputs.added }}"
-          echo "Total:  ${{ steps.scrape.outputs.total }}"
-          echo "Dropped:${{ steps.scrape.outputs.dropped_oldest }}"
+      # 2) ENRICH – hneď po scrape doplní nové tracky (a postupne backfill)
+      #    MAX_KEYS_PER_RUN si môžeš doladiť (napr. 80–150); ak vynecháš, platí default zo skriptu.
+      - name: Run enrichment
+        env:
+          PLAYLIST_PATH: data/playlist.json
+          CACHE_PATH: data/meta_cache.json
+          MAX_KEYS_PER_RUN: "120"
+          # voliteľné doladenie noci/špičiek pre live odhad (ak chceš mať identické správanie ako v backfille):
+          # WEEKDAY_PEAK: "3260"
+          # WEEKEND_PEAK: "1820"
+          # NIGHT_MIN: "160"
+          # NIGHT_SFLOOR: "0.05"
+          # NIGHT_STRENGTH: "0.97"
+          # NIGHT_POWER: "1.7"
+          # NIGHT_WIDTH: "3.2"
+          # EVENING_TAIL_START: "21.8"
+          # EVENING_TAIL_STRENGTH: "0.45"
+          # EVENING_TAIL_SLOPE: "0.55"
+          # MDAY_WOBBLE: "0.03"
+        run: python enrich_metadata.py
 
-      # ⬇️ commit & push len ak sa JSON zmenil; bezpečne s rebase a --force-with-lease
+      # 3) COMMIT & PUSH – jedným commitom po oboch krokoch
       - name: Commit & push JSON if changed
         run: |
+          set -e
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/playlist.json
+          git add data/playlist.json data/meta_cache.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "scrape: +${{ steps.scrape.outputs.added }} (total ${{ steps.scrape.outputs.total }})"
+          git commit -m "scrape+enrich: playlist & metadata update"
           git pull --rebase origin main || true
           git push --force-with-lease origin main

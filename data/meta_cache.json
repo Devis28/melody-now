@@ -10035,5 +10035,148 @@
     "genres": [
       "Pop"
     ]
+  },
+  "pet shop boys|domino dancing": {
+    "release_year": 1991,
+    "artist_country": "GB",
+    "album": "Discography: The Complete Singles Collection",
+    "duration_ms": 258333,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "the bee gees|night fever": {
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "release_year": 1977,
+    "duration_ms": 213706,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "captain jack|captain jack": {
+    "release_year": 1996,
+    "artist_country": "DE",
+    "album": "90s in Metal",
+    "duration_ms": 249049,
+    "genres": [
+      "Electronic",
+      "Metal"
+    ]
+  },
+  "jackson michael|bad": {
+    "album": "Bad (25th Anniversary Edition)",
+    "release_year": 1987,
+    "duration_ms": 247369,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "exil|go go happy go": {
+    "release_year": 1995,
+    "artist_country": "SK",
+    "album": "Go Go!",
+    "duration_ms": 260039,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
+  },
+  "mezzoforte|garden party": {
+    "release_year": 2007,
+    "artist_country": "IS",
+    "album": "Fortissimos",
+    "duration_ms": 369290,
+    "genres": [
+      "Jazz"
+    ]
+  },
+  "sin with sebastian|shut up (and sleep with me)": {
+    "release_year": 1995,
+    "artist_country": "DE",
+    "album": "Shut Up (And Sleep With Me)",
+    "duration_ms": 226667,
+    "lyricists": [
+      "Sin With Sebastian"
+    ],
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
+  },
+  "abdul paula|straight up": {
+    "album": "Forever Your Girl",
+    "release_year": 1988,
+    "duration_ms": 251467,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
+  },
+  "the brotherhood of man|save your kisses for me": {
+    "artist_country": "GB",
+    "release_year": 1993,
+    "album": "Best of Brotherhood of Man",
+    "duration_ms": 182139,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "mc sar|it's on you": {
+    "release_year": 1994,
+    "artist_country": "DE",
+    "album": "On the Move!",
+    "duration_ms": 244595,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "ce ce peniston|finally (7'' choice mix)": {
+    "release_year": 2014,
+    "artist_country": "US",
+    "album": "Finally / We Got A Love Thang: Remix Collection",
+    "duration_ms": 251933,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "estefan gloria|conga": {
+    "album": "Primitive Love",
+    "release_year": 1985,
+    "duration_ms": 254000,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "righeira|vamos a la playa": {
+    "release_year": 2000,
+    "artist_country": "IT",
+    "album": "Vamos a la Playa - Single",
+    "duration_ms": 219469,
+    "lyricists": [
+      "Carmelo La Bionda",
+      "Johnson Righeira"
+    ],
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "black box|ride on time": {
+    "release_year": 1999,
+    "artist_country": "IT",
+    "album": "Dreamland",
+    "duration_ms": 272147,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "pointer sisters, the|jump (for my love)": {
+    "album": "Jump - The Best of the Pointer Sisters",
+    "release_year": 1983,
+    "duration_ms": 266400,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   }
 }

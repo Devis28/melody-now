@@ -10229,5 +10229,22 @@
       "Pop",
       "Rock"
     ]
+  },
+  "earth wind|september": {
+    "artist_country": "US",
+    "album": "The Best Of Earth, Wind & Fire Vol. 1",
+    "release_year": 1978,
+    "duration_ms": 215006,
+    "genres": [
+      "R&B"
+    ]
+  },
+  "abba|money , money , money": {
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 1976,
+    "duration_ms": 186070,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -26,7 +26,7 @@ import requests
 
 PLAYLIST_PATH     = os.environ.get("PLAYLIST_PATH", "data/playlist.json")
 CACHE_PATH        = os.environ.get("CACHE_PATH", "data/meta_cache.json")
-MAX_KEYS_PER_RUN  = int(os.environ.get("MAX_KEYS_PER_RUN", "120"))
+MAX_KEYS_PER_RUN  = int(os.environ.get("MAX_KEYS_PER_RUN", "0"))
 MB_THROTTLE_SEC   = float(os.environ.get("MB_THROTTLE_SEC", "1.0"))
 MB_USER_AGENT     = os.environ.get("MB_USER_AGENT", "melody-now/1.0 (contact: example@example.com)")
 

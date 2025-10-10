@@ -4,28 +4,65 @@
     "artist": "Karol Duchoň",
     "date": "10.10.2025",
     "time": "22:37",
-    "listeners": 726
+    "listeners": 726,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 198707,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Things Can Only Get Better",
     "artist": "D Ream",
     "date": "10.10.2025",
     "time": "22:33",
-    "listeners": 664
+    "listeners": 664,
+    "lyricists": null,
+    "album": "On Vol.1",
+    "release_year": 2001,
+    "duration_ms": 259994,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "A Kind Of Magic",
     "artist": "Queen",
     "date": "10.10.2025",
     "time": "22:28",
-    "listeners": 689
+    "listeners": 689,
+    "lyricists": null,
+    "album": "A Kind of Magic (Deluxe Edition)",
+    "release_year": 1993,
+    "duration_ms": 264254,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Be With You",
     "artist": "Enrique Iglesias",
     "date": "10.10.2025",
     "time": "22:25",
-    "listeners": 708
+    "listeners": 708,
+    "lyricists": [
+      "Enrique Iglesias",
+      "Mark Taylor",
+      "Paul Barry"
+    ],
+    "album": "Enrique",
+    "release_year": 1999,
+    "duration_ms": 220160,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Domino Dancing",

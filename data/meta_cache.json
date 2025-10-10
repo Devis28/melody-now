@@ -10188,5 +10188,14 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "fine young cannibals|she drives me crazy": {
+    "release_year": 1996,
+    "artist_country": "GB",
+    "album": "The Raw & the Cooked",
+    "duration_ms": 215773,
+    "genres": [
+      "Pop"
+    ]
   }
 }

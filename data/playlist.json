@@ -4,14 +4,30 @@
     "artist": "Haddaway",
     "date": "10.10.2025",
     "time": "22:43",
-    "listeners": 638
+    "listeners": 638,
+    "lyricists": null,
+    "album": "What Is Love - EP",
+    "release_year": 2003,
+    "duration_ms": 270373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "She Drives Me Crazy",
     "artist": "Fine Young Cannibals",
     "date": "10.10.2025",
     "time": "22:40",
-    "listeners": 614
+    "listeners": 614,
+    "lyricists": null,
+    "album": "The Raw & the Cooked",
+    "release_year": 1996,
+    "duration_ms": 215773,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "S Úsmevom",

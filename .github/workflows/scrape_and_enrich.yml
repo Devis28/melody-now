@@ -2,13 +2,13 @@ name: Scrape + Enrich Melody
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # každých 5 minút
+    - cron: "*/5 * * * *"   # spúšťaj každých 5 minút (zmeň podľa potreby)
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
-# nedovoľ paralelné behy (aby si kroky neliezli do cesty)
+# žiadne paralelné behy toho istého workflowu
 concurrency:
   group: scrape-and-enrich
   cancel-in-progress: true
@@ -16,12 +16,15 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
+    env:
+      # ← prepnúť na "false" ak chceš dočasne vypnúť obohacovanie
+      ENRICH_ENABLED: "false"
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0    # kvôli bezpečnému rebase/push
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -31,7 +34,7 @@ jobs:
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       # ───────────────────────────── SCRAPE ─────────────────────────────
       - name: Run scraper
@@ -40,18 +43,16 @@ jobs:
           OUT_PATH: data/playlist.json
           PLAYLIST_LIMIT: 50000
         run: |
-          set -e
+          set -euo pipefail
           python scrape_melody.py | tee scrape.log
 
-          # fallback: ak by skript neposlal outputs, skús ich vyčítať z logu
-          if ! grep -q "added=" "$GITHUB_OUTPUT" 2>/dev/null; then
-            added=$(grep -Eo "added [0-9]+" scrape.log | awk '{print $2}' | tail -1)
-            total=$(grep -Eo "total [0-9]+" scrape.log | awk '{print $2}' | tail -1)
-            dropped=$(grep -Eo "dropped_oldest [0-9]+" scrape.log | awk '{print $2}' | tail -1)
-            echo "added=${added:-0}" >> "$GITHUB_OUTPUT"
-            echo "total=${total:-0}" >> "$GITHUB_OUTPUT"
-            echo "dropped_oldest=${dropped:-0}" >> "$GITHUB_OUTPUT"
-          fi
+          # vyparsuj výstupy zo súboru/logu (fallback)
+          added=$(grep -Eo "added [0-9]+" scrape.log | awk '{print $2}' | tail -1 || true)
+          total=$(grep -Eo "total [0-9]+" scrape.log | awk '{print $2}' | tail -1 || true)
+          dropped=$(grep -Eo "dropped_oldest [0-9]+" scrape.log | awk '{print $2}' | tail -1 || true)
+          echo "added=${added:-0}" >> "$GITHUB_OUTPUT"
+          echo "total=${total:-0}" >> "$GITHUB_OUTPUT"
+          echo "dropped_oldest=${dropped:-0}" >> "$GITHUB_OUTPUT"
 
       - name: Commit & push playlist (after scrape)
         run: |
@@ -70,26 +71,26 @@ jobs:
 
       # ───────────────────────────── ENRICH ─────────────────────────────
       - name: Run enrich (metadata/backfill)
+        if: env.ENRICH_ENABLED == 'true'
         id: enrich
         env:
           PLAYLIST_PATH: data/playlist.json
           CACHE_PATH: data/meta_cache.json
-          MAX_KEYS_PER_RUN: "120"       # (necháva default zo skriptu)
+          # MAX_KEYS_PER_RUN: "120"   # nechaj zakomentované ak chceš default zo skriptu
         run: |
-          set -e
-          # spustíme a zároveň zalogujeme
+          set -euo pipefail
           python enrich_metadata.py | tee enrich.log
 
-          # vyparsovať čísla zo status riadku:
-          touched=$(grep -Eo "keys touched: [0-9]+" enrich.log | awk '{print $3}' | tail -1)
-          updated=$(grep -Eo "items updated: [0-9]+" enrich.log | awk '{print $3}' | tail -1)
-          cache=$(grep -Eo "cache size: [0-9]+" enrich.log | awk '{print $3}' | tail -1)
+          touched=$(grep -Eo "keys touched: [0-9]+" enrich.log | awk '{print $3}' | tail -1 || true)
+          updated=$(grep -Eo "items updated: [0-9]+" enrich.log | awk '{print $3}' | tail -1 || true)
+          cache=$(grep -Eo "cache size: [0-9]+" enrich.log | awk '{print $3}' | tail -1 || true)
 
           echo "keys_touched=${touched:-0}"   >> "$GITHUB_OUTPUT"
           echo "items_updated=${updated:-0}"  >> "$GITHUB_OUTPUT"
           echo "cache_size=${cache:-0}"       >> "$GITHUB_OUTPUT"
 
       - name: Commit & push JSON (after enrich)
+        if: env.ENRICH_ENABLED == 'true'
         run: |
           set -e
           git config user.name  "github-actions[bot]"
@@ -99,13 +100,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes after enrich."
           else
-            git commit -m "enrich: updated (${{
-              steps.enrich.outputs.items_updated
-            }} items, keys ${{
-              steps.enrich.outputs.keys_touched
-            }}, cache ${{
-              steps.enrich.outputs.cache_size
-            }})"
+            git commit -m "enrich: updated (${{ steps.enrich.outputs.items_updated }} items, keys ${{ steps.enrich.outputs.keys_touched }}, cache ${{ steps.enrich.outputs.cache_size }})"
             git pull --rebase origin main || true
             git push --force-with-lease origin main
           fi
@@ -121,8 +116,8 @@ jobs:
             echo "- **Celkom po uložení:** ${{ steps.scrape.outputs.total }}"
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Append Enrich – výsledky
-        if: always()
+      - name: Enrich – výsledky
+        if: always() && env.ENRICH_ENABLED == 'true'
         run: |
           {
             echo ""
@@ -130,4 +125,13 @@ jobs:
             echo "- **Spracované kľúče:** ${{ steps.enrich.outputs.keys_touched }}"
             echo "- **Aktualizované položky:** ${{ steps.enrich.outputs.items_updated }}"
             echo "- **Cache záznamov:** ${{ steps.enrich.outputs.cache_size }}"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Enrich – vypnuté
+        if: always() && env.ENRICH_ENABLED != 'true'
+        run: |
+          {
+            echo ""
+            echo "### Enrich – výsledky"
+            echo "_Enrich je dočasne vypnutý (ENRICH_ENABLED=false)._"
           } >> "$GITHUB_STEP_SUMMARY"

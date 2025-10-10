@@ -17,6 +17,8 @@ UA = (
     "(KHTML, like Gecko) Chrome/129.0 Safari/537.36"
 )
 
+LIVE_JITTER_BUCKET_SEC = int(os.environ.get("LIVE_JITTER_BUCKET_SEC", "30"))
+
 # Počúvanosť – rovnaký model aj pre backfill
 WEEKDAY_PEAK   = float(os.environ.get("WEEKDAY_PEAK", 3260))   # špička pracovného dňa
 WEEKEND_PEAK   = float(os.environ.get("WEEKEND_PEAK", 1820))   # špička víkendu
@@ -204,4 +206,16 @@ def get_now_playing() -> dict:
     row = parse_first_row(html)
     if not row:
         return {"error": "Nepodarilo sa získať aktuálnu skladbu."}
+
+    # pre istotu prepočítať dt z row (máme tam už date/time)
+    d = datetime.strptime(row["date"], "%d.%m.%Y").date()
+    hh, mm = [int(x) for x in row["time"].split(":")]
+    dt = datetime.combine(d, time(hour=hh, minute=mm), TZ)
+
+    # deterministická časť + „live“ bucket (mení sa napr. každých 30 s)
+    base_seed = f'{row["artist"]}|{row["title"]}|{row["date"]}|{row["time"]}'
+    now_bucket = int(datetime.now(TZ).timestamp() // max(1, LIVE_JITTER_BUCKET_SEC))
+    seed_live = f"{base_seed}|{now_bucket}"
+
+    row["listeners"] = estimate_listeners(dt, seed_key=seed_live)
     return row

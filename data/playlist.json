@@ -1,941 +1,2039 @@
 [
   {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "10.10.2025",
+    "time": "07:41",
+    "listeners": 2126,
+    "lyricists": null,
+    "album": "Slunce / To Nejlepsi",
+    "release_year": 2008,
+    "duration_ms": 213956,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
+  },
+  {
     "title": "The Riddle",
     "artist": "Nik Kershaw",
     "date": "10.10.2025",
     "time": "07:38",
-    "listeners": 2154
+    "listeners": 2154,
+    "lyricists": null,
+    "album": "Nik Kershaw: The Collection",
+    "release_year": 1984,
+    "duration_ms": 231133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "It's A Heartache",
     "artist": "Bonnie Tyler",
     "date": "10.10.2025",
     "time": "07:34",
-    "listeners": 2250
+    "listeners": 2250,
+    "lyricists": null,
+    "album": "It's a Heartache",
+    "release_year": 2025,
+    "duration_ms": 209760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Len S Ňou",
     "artist": "Žbirka Miroslav",
     "date": "10.10.2025",
     "time": "07:31",
-    "listeners": 2192
+    "listeners": 2192,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 1988,
+    "duration_ms": 187107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Ján Ámos Džínový",
     "artist": "Metalinda",
     "date": "10.10.2025",
     "time": "07:19",
-    "listeners": 1997
+    "listeners": 1997,
+    "lyricists": null,
+    "album": "Metalinda",
+    "release_year": 1990,
+    "duration_ms": 336968,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Ma Baker",
     "artist": "Boney M.",
     "date": "10.10.2025",
     "time": "07:15",
-    "listeners": 1908
+    "listeners": 1908,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 1976,
+    "duration_ms": 274960,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Piccolo Amore",
     "artist": "Ricchi E Poveri",
     "date": "10.10.2025",
     "time": "07:12",
-    "listeners": 1823
+    "listeners": 1823,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 2010,
+    "duration_ms": 198867,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Opri Sa O Mňa",
     "artist": "I.M.T Smile",
     "date": "10.10.2025",
     "time": "07:05",
-    "listeners": 1723
+    "listeners": 1723,
+    "lyricists": null,
+    "album": "Nech Sa Paci",
+    "release_year": 2005,
+    "duration_ms": 163267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Medulienka",
     "artist": "Hammel Pavol",
     "date": "10.10.2025",
     "time": "07:02",
-    "listeners": 1539
+    "listeners": 1539,
+    "lyricists": null,
+    "album": "Vrabec vševed",
+    "release_year": 1979,
+    "duration_ms": 201293,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Everybody Hurts",
     "artist": "R.E.M.",
     "date": "10.10.2025",
     "time": "06:52",
-    "listeners": 1243
+    "listeners": 1243,
+    "lyricists": null,
+    "album": "Automatic For The People",
+    "release_year": 1999,
+    "duration_ms": 320351,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "title": "Xanadu",
     "artist": "Olivia Newton-John And Electric Light Orchestra",
     "date": "10.10.2025",
     "time": "06:49",
-    "listeners": 1228
+    "listeners": 1228,
+    "lyricists": null,
+    "album": "Xanadu (From the Original Motion Picture Soundtrack)",
+    "release_year": 2000,
+    "duration_ms": 208240,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Báječná Ženská",
     "artist": "Tučný Michal",
     "date": "10.10.2025",
     "time": "06:43",
-    "listeners": 1227
+    "listeners": 1227,
+    "lyricists": null,
+    "album": "Poslední Kovboj",
+    "release_year": 1980,
+    "duration_ms": 250760,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "title": "Enjoy The Silence",
     "artist": "Depeche Mode",
     "date": "10.10.2025",
     "time": "06:39",
-    "listeners": 1078
+    "listeners": 1078,
+    "lyricists": null,
+    "album": "Violator (Deluxe)",
+    "release_year": 2006,
+    "duration_ms": 372827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Padá Hvězda",
     "artist": "Janda Dalibor",
     "date": "10.10.2025",
     "time": "06:36",
-    "listeners": 922
+    "listeners": 922,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 190627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Torn",
     "artist": "Imbruglia Natalie",
     "date": "10.10.2025",
     "time": "06:33",
-    "listeners": 889
+    "listeners": 889,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "We Will Rock You",
     "artist": "Queen",
     "date": "10.10.2025",
     "time": "06:30",
-    "listeners": 1016
+    "listeners": 1016,
+    "lyricists": null,
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1977,
+    "duration_ms": 121235,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Dvaja",
     "artist": "Grigorov Robo",
     "date": "10.10.2025",
     "time": "06:21",
-    "listeners": 818
+    "listeners": 818,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 288800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Over My Shoulder",
     "artist": "Mike & The Mechanics",
     "date": "10.10.2025",
     "time": "06:18",
-    "listeners": 655
+    "listeners": 655,
+    "lyricists": null,
+    "album": "Beggar On A Beach Of Gold",
+    "release_year": 2006,
+    "duration_ms": 217200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Okno Mé Lásky",
     "artist": "Olympic",
     "date": "10.10.2025",
     "time": "06:13",
-    "listeners": 598
+    "listeners": 598,
+    "lyricists": null,
+    "album": "Ulice",
+    "release_year": 2000,
+    "duration_ms": 292507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Neznáma",
     "artist": "Palonder Marcel",
     "date": "10.10.2025",
     "time": "06:06",
-    "listeners": 502
+    "listeners": 502,
+    "lyricists": null,
+    "album": "Cudzinec v tvojom srdci",
+    "release_year": 1992,
+    "duration_ms": 244000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Flashdance ( What A Feeling )",
     "artist": "Cara Irene",
     "date": "10.10.2025",
     "time": "06:02",
-    "listeners": 526
+    "listeners": 526,
+    "lyricists": null,
+    "album": "What a Feelin' (Bonus Track Version)",
+    "release_year": 1983,
+    "duration_ms": 237053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Keď Sme Sami",
     "artist": "Hex",
     "date": "10.10.2025",
     "time": "05:53",
-    "listeners": 452
+    "listeners": 452,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2013,
+    "duration_ms": 250920,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Say You, Say Me",
     "artist": "Lionel Richie",
     "date": "10.10.2025",
     "time": "05:49",
-    "listeners": 416
+    "listeners": 416,
+    "lyricists": null,
+    "album": "Hello from Las Vegas (Deluxe) [Live]",
+    "release_year": 1995,
+    "duration_ms": 266547,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "title": "Waterloo",
     "artist": "Abba",
     "date": "10.10.2025",
     "time": "05:46",
-    "listeners": 386
+    "listeners": 386,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1976,
+    "duration_ms": 165800,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Waka Waka (This Time For Africa)",
     "artist": "Shakira & Freshlyground",
     "date": "10.10.2025",
     "time": "05:43",
-    "listeners": 359
+    "listeners": 359,
+    "lyricists": null,
+    "album": "Éxitos de Verano",
+    "release_year": 2012,
+    "duration_ms": 201773,
+    "artist_country": "CO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Juliet",
     "artist": "Robin Gibb",
     "date": "10.10.2025",
     "time": "05:40",
-    "listeners": 333
+    "listeners": 333,
+    "lyricists": null,
+    "album": "How Old Are You?",
+    "release_year": 1983,
+    "duration_ms": 228000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Dve Malá Krídla Tu Nejsou",
     "artist": "Vondráčková Helena",
     "date": "10.10.2025",
     "time": "05:35",
-    "listeners": 322
+    "listeners": 322,
+    "lyricists": null,
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "release_year": 1992,
+    "duration_ms": 290640,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Stay Another Day",
     "artist": "East 17",
     "date": "10.10.2025",
     "time": "05:30",
-    "listeners": 305
+    "listeners": 305,
+    "lyricists": null,
+    "album": "Steam",
+    "release_year": 1995,
+    "duration_ms": 267133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Lietam V Tom Tiež",
     "artist": "Team",
     "date": "10.10.2025",
     "time": "05:26",
-    "listeners": 292
+    "listeners": 292,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2010,
+    "duration_ms": 233253,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Woman In Love",
     "artist": "Streisand Barbra",
     "date": "10.10.2025",
     "time": "05:23",
-    "listeners": 320
+    "listeners": 320,
+    "lyricists": null,
+    "album": "Guilty",
+    "release_year": 1980,
+    "duration_ms": 233400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Too Many Broken Hearts",
     "artist": "Donovan Jason",
     "date": "10.10.2025",
     "time": "05:19",
-    "listeners": 331
+    "listeners": 331,
+    "lyricists": null,
+    "album": "Too Many Broken Hearts",
+    "release_year": 1989,
+    "duration_ms": 208373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Rhythm Of The Night",
     "artist": "Corona",
     "date": "10.10.2025",
     "time": "05:15",
-    "listeners": 306
+    "listeners": 306,
+    "lyricists": null,
+    "album": "The Rhythm of the Night",
+    "release_year": 1994,
+    "duration_ms": 264280,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Zbohom Bud, Lipova Lyzka,...",
     "artist": "Dočolomanský Michal",
     "date": "10.10.2025",
     "time": "05:11",
-    "listeners": 311
+    "listeners": 311,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 2008,
+    "duration_ms": 187943,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Hej Pane Diskžokej",
     "artist": "Balet",
     "date": "10.10.2025",
     "time": "05:07",
-    "listeners": 337
+    "listeners": 337,
+    "lyricists": null,
+    "album": "Hej Pane Diskžokej",
+    "release_year": 2013,
+    "duration_ms": 208133,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Cheri Cheri Lady",
     "artist": "Modern Talking",
     "date": "10.10.2025",
     "time": "05:03",
-    "listeners": 343
+    "listeners": 343,
+    "lyricists": null,
+    "album": "Let's Talk About Love",
+    "release_year": 1990,
+    "duration_ms": 226333,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Kým Vieš Snívať",
     "artist": "Superstar Top 11",
     "date": "10.10.2025",
     "time": "04:59",
-    "listeners": 302
+    "listeners": 302,
+    "lyricists": null,
+    "album": "Slovensko Hlada SuperStar",
+    "release_year": 2005,
+    "duration_ms": 254773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I Will Survive",
     "artist": "Gloria Gaynor",
     "date": "10.10.2025",
     "time": "04:56",
-    "listeners": 342
+    "listeners": 342,
+    "lyricists": null,
+    "album": "I Will Survive: The Anthology",
+    "release_year": 1992,
+    "duration_ms": 481693,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "title": "All That She Wants",
     "artist": "Ace Of Base",
     "date": "10.10.2025",
     "time": "04:53",
-    "listeners": 324
+    "listeners": 324,
+    "lyricists": null,
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 1993,
+    "duration_ms": 211213,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Time Of My Life",
     "artist": "Jennifer Warnes/Bill Medley",
     "date": "10.10.2025",
     "time": "04:48",
-    "listeners": 332
+    "listeners": 332,
+    "lyricists": null,
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 1987,
+    "duration_ms": 290333,
+    "artist_country": null,
+    "genres": null
   },
   {
     "title": "It's My Life",
     "artist": "Dr. Alban",
     "date": "10.10.2025",
     "time": "04:44",
-    "listeners": 316
+    "listeners": 316,
+    "lyricists": null,
+    "album": "One Love",
+    "release_year": 1993,
+    "duration_ms": 243133,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "So Mnou Nikdy Nezostarneš",
     "artist": "Peter Nagy",
     "date": "10.10.2025",
     "time": "04:41",
-    "listeners": 319
+    "listeners": 319,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2004,
+    "duration_ms": 200400,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Taliansky Muzikál",
     "artist": "Júlia a Peter Hečkovci",
     "date": "10.10.2025",
     "time": "04:38",
-    "listeners": 324
+    "listeners": 324,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 164771,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Everybody",
     "artist": "Dj Bobo",
     "date": "10.10.2025",
     "time": "04:34",
-    "listeners": 331
+    "listeners": 331,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2003,
+    "duration_ms": 229893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Vyrobená Pre Mňa",
     "artist": "Desmod",
     "date": "10.10.2025",
     "time": "04:31",
-    "listeners": 355
+    "listeners": 355,
+    "lyricists": null,
+    "album": "SLOVENSKÉ HITY",
+    "release_year": 2007,
+    "duration_ms": 220853,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Drive",
     "artist": "Cars The",
     "date": "10.10.2025",
     "time": "04:26",
-    "listeners": 338
+    "listeners": 338,
+    "lyricists": null,
+    "album": "Heartbeat City",
+    "release_year": 1984,
+    "duration_ms": 234332,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Cukráreň Na Dlani Námestia",
     "artist": "Marika Gombitová",
     "date": "10.10.2025",
     "time": "04:22",
-    "listeners": 330
+    "listeners": 330,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 1998,
+    "duration_ms": 286013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Já Budu Chodit Po Špičkách",
     "artist": "Novák Petr",
     "date": "10.10.2025",
     "time": "04:20",
-    "listeners": 328
+    "listeners": 328,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 141027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Take On Me",
     "artist": "A-Ha",
     "date": "10.10.2025",
     "time": "04:16",
-    "listeners": 331
+    "listeners": 331,
+    "lyricists": null,
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "release_year": 2010,
+    "duration_ms": 228520,
+    "artist_country": "NO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Pozhasínané",
     "artist": "Modus",
     "date": "10.10.2025",
     "time": "04:12",
-    "listeners": 323
+    "listeners": 323,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2001,
+    "duration_ms": 257907,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Lemon Tree",
     "artist": "Fool's Garden",
     "date": "10.10.2025",
     "time": "04:08",
-    "listeners": 350
+    "listeners": 350,
+    "lyricists": null,
+    "album": "Dish of the Day",
+    "release_year": 1995,
+    "duration_ms": 191027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Léto",
     "artist": "Bartošová Iveta",
     "date": "10.10.2025",
     "time": "04:03",
-    "listeners": 354
+    "listeners": 354,
+    "lyricists": null,
+    "album": "Nekonecna/Best Of",
+    "release_year": 1998,
+    "duration_ms": 224920,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "November Rain",
     "artist": "Guns N Roses",
     "date": "10.10.2025",
     "time": "03:58",
-    "listeners": 334
+    "listeners": 334,
+    "lyricists": null,
+    "album": "Use Your Illusion I",
+    "release_year": 1991,
+    "duration_ms": 536067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Gloria",
     "artist": "Tozzi, Umberto",
     "date": "10.10.2025",
     "time": "03:54",
-    "listeners": 301
+    "listeners": 301,
+    "lyricists": null,
+    "album": "Gloria",
+    "release_year": 1979,
+    "duration_ms": 264674,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Living On My Own",
     "artist": "Mercury Freddie",
     "date": "10.10.2025",
     "time": "03:50",
-    "listeners": 312
+    "listeners": 312,
+    "lyricists": null,
+    "album": "Never Boring",
+    "release_year": 1993,
+    "duration_ms": 217411,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Cose Della Vita / Can't Stop Thinking Of You",
     "artist": "Tina Turner/Eros Ramazzotti",
     "date": "10.10.2025",
     "time": "03:45",
-    "listeners": 321
+    "listeners": 321,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 291133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Milovanie V Daždi",
     "artist": "Richard Müller",
     "date": "10.10.2025",
     "time": "03:41",
-    "listeners": 281
+    "listeners": 281,
+    "lyricists": null,
+    "album": "Hlasy",
+    "release_year": 2023,
+    "duration_ms": 353360,
+    "artist_country": "SK",
+    "genres": [
+      "Jazz",
+      "Pop"
+    ]
   },
   {
     "title": "Always",
     "artist": "Erasure",
     "date": "10.10.2025",
     "time": "03:37",
-    "listeners": 326
+    "listeners": 326,
+    "lyricists": null,
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "release_year": 1994,
+    "duration_ms": 237840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Jeden Kabát, Jedna Koža, Jedna Tvár",
     "artist": "Team",
     "date": "10.10.2025",
     "time": "03:35",
-    "listeners": 317
+    "listeners": 317,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 1994,
+    "duration_ms": 130373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Príliš Osobná Známosť",
     "artist": "I.M.T. Smile & Nikol Štíbrová",
     "date": "10.10.2025",
     "time": "03:30",
-    "listeners": 299
+    "listeners": 299,
+    "lyricists": null,
+    "album": "SRDCE ROZUM BLVD",
+    "release_year": 2021,
+    "duration_ms": 271597,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Girls Just Wanna Have Fun",
     "artist": "Cyndi Lauper",
     "date": "10.10.2025",
     "time": "03:27",
-    "listeners": 335
+    "listeners": 335,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1983,
+    "duration_ms": 224510,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Horúca Láska",
     "artist": "Lukáš Adamec",
     "date": "10.10.2025",
     "time": "03:23",
-    "listeners": 331
+    "listeners": 331,
+    "lyricists": null,
+    "album": "Lukáš Adamec",
+    "release_year": 2017,
+    "duration_ms": 208147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Always",
     "artist": "Bon Jovi",
     "date": "10.10.2025",
     "time": "03:18",
-    "listeners": 291
+    "listeners": 291,
+    "lyricists": null,
+    "album": "Cross Road",
+    "release_year": 1995,
+    "duration_ms": 353027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Neľutujem",
     "artist": "Adam Ďurica",
     "date": "10.10.2025",
     "time": "03:14",
-    "listeners": 324
+    "listeners": 324,
+    "lyricists": null,
+    "album": "Akustické koncerty (Acoustic / Live)",
+    "release_year": 2019,
+    "duration_ms": 265998,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Big Big World",
     "artist": "Emilia",
     "date": "10.10.2025",
     "time": "03:11",
-    "listeners": 312
+    "listeners": 312,
+    "lyricists": null,
+    "album": "Big Big World",
+    "release_year": 2021,
+    "duration_ms": 205467,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Right Here Waiting",
     "artist": "Marx Richard",
     "date": "10.10.2025",
     "time": "03:06",
-    "listeners": 337
+    "listeners": 337,
+    "lyricists": null,
+    "album": "Repeat Offender",
+    "release_year": 1989,
+    "duration_ms": 264333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Šípková Růženka",
     "artist": "Jiří Schelinger",
     "date": "10.10.2025",
     "time": "03:03",
-    "listeners": 314
+    "listeners": 314,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2006,
+    "duration_ms": 191475,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Keď To Nejde",
     "artist": "Zdenka Predná",
     "date": "10.10.2025",
     "time": "02:59",
-    "listeners": 316
+    "listeners": 316,
+    "lyricists": null,
+    "album": "Zdenka Predná",
+    "release_year": 2007,
+    "duration_ms": 192608,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Že Mi Je Ľúto",
     "artist": "Elán & Lojzo",
     "date": "10.10.2025",
     "time": "02:55",
-    "listeners": 340
+    "listeners": 340,
+    "lyricists": null,
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "release_year": 1998,
+    "duration_ms": 235173,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Nah Neh Nah",
     "artist": "Vaya Con Dios",
     "date": "10.10.2025",
     "time": "02:52",
-    "listeners": 337
+    "listeners": 337,
+    "lyricists": null,
+    "album": "Night Owls",
+    "release_year": 1995,
+    "duration_ms": 174533,
+    "artist_country": "BE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Gimme Gimme Gimme A Man After Midnight",
     "artist": "Abba",
     "date": "10.10.2025",
     "time": "02:47",
-    "listeners": 321
+    "listeners": 321,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 2005,
+    "duration_ms": 289887,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sacrifice",
     "artist": "Elton John",
     "date": "10.10.2025",
     "time": "02:42",
-    "listeners": 315
+    "listeners": 315,
+    "lyricists": null,
+    "album": "Sleeping With the Past (Remastered)",
+    "release_year": 1989,
+    "duration_ms": 304133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nekráčaj Predo Mnou",
     "artist": "Smatanová Zuzana",
     "date": "10.10.2025",
     "time": "02:39",
-    "listeners": 307
+    "listeners": 307,
+    "lyricists": null,
+    "album": "Rozprávač",
+    "release_year": 2005,
+    "duration_ms": 205380,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Čo O Mne Vieš",
     "artist": "Rolincova Darinka",
     "date": "10.10.2025",
     "time": "02:36",
-    "listeners": 334
+    "listeners": 334,
+    "lyricists": null,
+    "album": "Čo O Mne Vieš",
+    "release_year": 1987,
+    "duration_ms": 161133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I'll Be Missing You",
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "10.10.2025",
     "time": "02:31",
-    "listeners": 316
+    "listeners": 316,
+    "lyricists": null,
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "release_year": 1997,
+    "duration_ms": 301520,
+    "artist_country": null,
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "title": "Nevrav Mi Aký Som",
     "artist": "Desmod",
     "date": "10.10.2025",
     "time": "02:28",
-    "listeners": 295
+    "listeners": 295,
+    "lyricists": null,
+    "album": "Molekuly Zvuku",
+    "release_year": 2017,
+    "duration_ms": 207978,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Profesor Indigo",
     "artist": "Nagy Peter",
     "date": "10.10.2025",
     "time": "02:25",
-    "listeners": 298
+    "listeners": 298,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 162000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Čím To Je",
     "artist": "No Name",
     "date": "10.10.2025",
     "time": "02:22",
-    "listeners": 281
+    "listeners": 281,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2006,
+    "duration_ms": 199733,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sorry, I'm A Lady",
     "artist": "Baccara",
     "date": "10.10.2025",
     "time": "02:18",
-    "listeners": 311
+    "listeners": 311,
+    "lyricists": null,
+    "album": "Baccara: The Original Hits",
+    "release_year": 2004,
+    "duration_ms": 217027,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Reklama Na Ticho",
     "artist": "Team",
     "date": "10.10.2025",
     "time": "02:15",
-    "listeners": 313
+    "listeners": 313,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2007,
+    "duration_ms": 222427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "V nás",
     "artist": "Nocadeň",
     "date": "10.10.2025",
     "time": "02:11",
-    "listeners": 303
+    "listeners": 303,
+    "lyricists": null,
+    "album": "Nocadeň v Prahe (Live 2024)",
+    "release_year": 2015,
+    "duration_ms": 258587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "This Used To Be My Playground",
     "artist": "Madonna",
     "date": "10.10.2025",
     "time": "02:05",
-    "listeners": 325
+    "listeners": 325,
+    "lyricists": null,
+    "album": "Something to Remember",
+    "release_year": 2009,
+    "duration_ms": 310267,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Made In Italy",
     "artist": "Ricchi E Poveri",
     "date": "10.10.2025",
     "time": "02:02",
-    "listeners": 298
+    "listeners": 298,
+    "lyricists": null,
+    "album": "Ricchi e Poveri",
+    "release_year": 2010,
+    "duration_ms": 201253,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nahý 2",
     "artist": "Richard  Muller",
     "date": "10.10.2025",
     "time": "01:57",
-    "listeners": 313
+    "listeners": 313,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2006,
+    "duration_ms": 300693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Paloma Blanca",
     "artist": "The George Baker Selection",
     "date": "10.10.2025",
     "time": "01:54",
-    "listeners": 334
+    "listeners": 334,
+    "lyricists": null,
+    "album": "Paloma Blanca",
+    "release_year": 1975,
+    "duration_ms": 209360,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Road To Mandalay",
     "artist": "Williams, Robbie",
     "date": "10.10.2025",
     "time": "01:50",
-    "listeners": 314
+    "listeners": 314,
+    "lyricists": null,
+    "album": "Sing When You're Winning",
+    "release_year": 2000,
+    "duration_ms": 237401,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Po Víne",
     "artist": "Robo Grigorov",
     "date": "10.10.2025",
     "time": "01:46",
-    "listeners": 342
+    "listeners": 342,
+    "lyricists": null,
+    "album": "Balady",
+    "release_year": 2006,
+    "duration_ms": 256613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Faith",
     "artist": "Michael George",
     "date": "10.10.2025",
     "time": "01:43",
-    "listeners": 297
+    "listeners": 297,
+    "lyricists": null,
+    "album": "Faith (Deluxe Edition)",
+    "release_year": 1987,
+    "duration_ms": 193200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "An Angel",
     "artist": "Kelly Family, The",
     "date": "10.10.2025",
     "time": "01:39",
-    "listeners": 358
+    "listeners": 358,
+    "lyricists": null,
+    "album": "Over the Hump",
+    "release_year": 1994,
+    "duration_ms": 224507,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Aj Keď Bez Peňazí",
     "artist": "Elán",
     "date": "10.10.2025",
     "time": "01:35",
-    "listeners": 311
+    "listeners": 311,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 1992,
+    "duration_ms": 227560,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Klára",
     "artist": "AC+",
     "date": "10.10.2025",
     "time": "01:32",
-    "listeners": 333
+    "listeners": 333,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 1990,
+    "duration_ms": 213160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Boys",
     "artist": "Sabrina",
     "date": "10.10.2025",
     "time": "01:29",
-    "listeners": 309
+    "listeners": 309,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2003,
+    "duration_ms": 231986,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Stačí Si Priať",
     "artist": "Smatanová Zuzana",
     "date": "10.10.2025",
     "time": "01:25",
-    "listeners": 323
+    "listeners": 323,
+    "lyricists": null,
+    "album": "Gemini",
+    "release_year": 2009,
+    "duration_ms": 215439,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Vráť Trochu Lásky Medzi Nás",
     "artist": "G8",
     "date": "10.10.2025",
     "time": "01:21",
-    "listeners": 286
+    "listeners": 286,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "title": "Keď Muž Miluje Ženu",
     "artist": "Robo Opatovský",
     "date": "10.10.2025",
     "time": "01:17",
-    "listeners": 336
+    "listeners": 336,
+    "lyricists": null,
+    "album": "Keď Muž Miluje Ženu - Single",
+    "release_year": 2017,
+    "duration_ms": 249240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Coco Jambo",
     "artist": "Mr. President",
     "date": "10.10.2025",
     "time": "01:13",
-    "listeners": 281
+    "listeners": 281,
+    "lyricists": null,
+    "album": "We See The Same Sun",
+    "release_year": 1996,
+    "duration_ms": 218733,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Hurikán",
     "artist": "Janda Dalibor",
     "date": "10.10.2025",
     "time": "01:09",
-    "listeners": 334
+    "listeners": 334,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 229080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sailing",
     "artist": "Rod Stewart",
     "date": "10.10.2025",
     "time": "01:05",
-    "listeners": 358
+    "listeners": 358,
+    "lyricists": null,
+    "album": "Some Guys Have All the Luck",
+    "release_year": 2011,
+    "duration_ms": 278600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Malý Veľký Vlak",
     "artist": "Modus",
     "date": "10.10.2025",
     "time": "01:01",
-    "listeners": 303
+    "listeners": 303,
+    "lyricists": null,
+    "album": "Modus",
+    "release_year": 1979,
+    "duration_ms": 218600,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Muzikantské Byty",
     "artist": "Patejdl Vašo & Dubasová Beáta",
     "date": "10.10.2025",
     "time": "00:57",
-    "listeners": 318
+    "listeners": 318,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 1989,
+    "duration_ms": 223787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Zima, Zima",
     "artist": "Miro Žbirka",
     "date": "10.10.2025",
     "time": "00:54",
-    "listeners": 325
+    "listeners": 325,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 187773,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "San Francisco",
     "artist": "Mckenzie Scott",
     "date": "10.10.2025",
     "time": "00:51",
-    "listeners": 313
+    "listeners": 313,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Désenchantee",
     "artist": "Farmer Mylene",
     "date": "10.10.2025",
     "time": "00:46",
-    "listeners": 323
+    "listeners": 323,
+    "lyricists": null,
+    "album": "L'autre",
+    "release_year": 1991,
+    "duration_ms": 322760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Dvaja",
     "artist": "Gombitová Marika",
     "date": "10.10.2025",
     "time": "00:43",
-    "listeners": 281
+    "listeners": 281,
+    "lyricists": null,
+    "album": "Kam idú ľudia?",
+    "release_year": 1990,
+    "duration_ms": 219093,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "La Luna",
     "artist": "Belinda Carlisle",
     "date": "10.10.2025",
     "time": "00:38",
-    "listeners": 313
+    "listeners": 313,
+    "lyricists": null,
+    "album": "Runaway Horses: The Tour (Live)",
+    "release_year": 2025,
+    "duration_ms": 277933,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Where Do You Go",
     "artist": "No Mercy",
     "date": "10.10.2025",
     "time": "00:33",
-    "listeners": 314
+    "listeners": 314,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1996,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Zober Ma Domov",
     "artist": "Desmod",
     "date": "10.10.2025",
     "time": "00:28",
-    "listeners": 315
+    "listeners": 315,
+    "lyricists": null,
+    "album": "Vyberovka",
+    "release_year": 2014,
+    "duration_ms": 296520,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Balla...Balla! (Italian Hit Connection)",
     "artist": "Francesco Napoli",
     "date": "10.10.2025",
     "time": "00:24",
-    "listeners": 298
+    "listeners": 298,
+    "lyricists": null,
+    "album": "Balla... the First Dance",
+    "release_year": 2014,
+    "duration_ms": 352560,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Bonboniéra",
     "artist": "Gladiátor",
     "date": "10.10.2025",
     "time": "00:21",
-    "listeners": 319
+    "listeners": 319,
+    "lyricists": null,
+    "album": "Mesto",
+    "release_year": 2011,
+    "duration_ms": 197000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "When I Need You",
     "artist": "Leo Sayer",
     "date": "10.10.2025",
     "time": "00:17",
-    "listeners": 307
+    "listeners": 307,
+    "lyricists": null,
+    "album": "Endless Journey – The Essential Leo Sayer",
+    "release_year": 2005,
+    "duration_ms": 252728,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Dievča Neplač",
     "artist": "Brezovská Mirka",
     "date": "10.10.2025",
     "time": "00:14",
-    "listeners": 314
+    "listeners": 314,
+    "lyricists": null,
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "release_year": 2016,
+    "duration_ms": 197007,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Ona Je Taká",
     "artist": "Polemic",
     "date": "10.10.2025",
     "time": "00:11",
-    "listeners": 340
+    "listeners": 340,
+    "lyricists": null,
+    "album": "Yahman !",
+    "release_year": 1999,
+    "duration_ms": 140120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Bamboleo",
     "artist": "Garcia",
     "date": "10.10.2025",
     "time": "00:07",
-    "listeners": 305
+    "listeners": 305,
+    "lyricists": null,
+    "album": "Bamboleo - Single",
+    "release_year": 2000,
+    "duration_ms": 228963,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Věnování",
     "artist": "Filipová Lenka",
     "date": "10.10.2025",
     "time": "00:03",
-    "listeners": 285
+    "listeners": 285,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 1980,
+    "duration_ms": 245227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Knoflíky Lásky",
     "artist": "Iveta Bartošová & Petr Sepéši",
     "date": "09.10.2025",
     "time": "23:59",
-    "listeners": 307
+    "listeners": 307,
+    "lyricists": null,
+    "album": "Knoflíky Lásky",
+    "release_year": 2008,
+    "duration_ms": 188387,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Už Je Tu Láska",
     "artist": "Peter Nagy",
     "date": "09.10.2025",
     "time": "23:57",
-    "listeners": 329
+    "listeners": 329,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 177027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "It's Raining Men",
     "artist": "Geri Halliwell",
     "date": "09.10.2025",
     "time": "23:53",
-    "listeners": 313
+    "listeners": 313,
+    "lyricists": null,
+    "album": "It's Raining Men - Single",
+    "release_year": 2014,
+    "duration_ms": 255160,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Cítim",
     "artist": "Karol Duchoň",
     "date": "09.10.2025",
     "time": "23:50",
-    "listeners": 288
+    "listeners": 288,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 203093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Truly Madly Deeply",
     "artist": "Savage Garden",
     "date": "09.10.2025",
     "time": "23:45",
-    "listeners": 358
+    "listeners": 358,
+    "lyricists": null,
+    "album": "Savage Garden",
+    "release_year": 2014,
+    "duration_ms": 277194,
+    "artist_country": "AU",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Čakám Ťa, Láska",
     "artist": "Elán",
     "date": "09.10.2025",
     "time": "23:41",
-    "listeners": 305
+    "listeners": 305,
+    "lyricists": null,
+    "album": "Ôsmy svetadiel (Remastered)",
+    "release_year": 2021,
+    "duration_ms": 274480,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Všetci Sa Zídeme V Jednej Posteli",
     "artist": "Robo Grigorov",
     "date": "09.10.2025",
     "time": "23:38",
-    "listeners": 357
+    "listeners": 357,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 253597,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Some Hearts Are Diamonds",
     "artist": "Chris Norman",
     "date": "09.10.2025",
     "time": "23:34",
-    "listeners": 299
+    "listeners": 299,
+    "lyricists": null,
+    "album": "Some Hearts Are Diamonds",
+    "release_year": 2004,
+    "duration_ms": 223733,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Co Bolí To Přebolí",
     "artist": "Zbirka Miro & Martha",
     "date": "09.10.2025",
     "time": "23:31",
-    "listeners": 334
+    "listeners": 334,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2001,
+    "duration_ms": 204173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nech Sa Deje Čo Sa Má",
     "artist": "Zuzana Smatanová",
     "date": "09.10.2025",
     "time": "23:28",
-    "listeners": 313
+    "listeners": 313,
+    "lyricists": null,
+    "album": "Svet Mi Stupil Na Nohu",
+    "release_year": 2013,
+    "duration_ms": 165093,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "One Moment In Time",
     "artist": "Houston Whitney",
     "date": "09.10.2025",
     "time": "23:23",
-    "listeners": 307
+    "listeners": 307,
+    "lyricists": null,
+    "album": "The Ultimate Collection",
+    "release_year": 1988,
+    "duration_ms": 283520,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B",
+      "Rock"
+    ]
   },
   {
     "title": "Farbami Dýcha Noc",
     "artist": "Balogh Berco",
     "date": "09.10.2025",
     "time": "23:19",
-    "listeners": 301
+    "listeners": 301,
+    "lyricists": null,
+    "album": "Siedmy pád",
+    "release_year": 2007,
+    "duration_ms": 202507,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Thank You For The Music",
     "artist": "Abba",
     "date": "09.10.2025",
     "time": "23:16",
-    "listeners": 288
+    "listeners": 288,
+    "lyricists": null,
+    "album": "ABBA: The Album",
+    "release_year": 2006,
+    "duration_ms": 228700,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Ak Náhodou",
     "artist": "Rolincová Darina",
     "date": "09.10.2025",
     "time": "23:13",
-    "listeners": 353
+    "listeners": 353,
+    "lyricists": null,
+    "album": "Kto Chce & Ak Náhodou - Single",
+    "release_year": 1987,
+    "duration_ms": 163067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Anjel",
     "artist": "Desmod",
     "date": "09.10.2025",
     "time": "23:10",
-    "listeners": 337
+    "listeners": 337,
+    "lyricists": null,
+    "album": "Molekuly Zvuku",
+    "release_year": 2017,
+    "duration_ms": 188490,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Love Message",
     "artist": "Love Message",
     "date": "09.10.2025",
     "time": "23:06",
-    "listeners": 319
+    "listeners": 319,
+    "lyricists": null,
+    "album": "Love Message (The 90s Version) - Single",
+    "release_year": 1996,
+    "duration_ms": 229177,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Každý Mi Te Lásko Závidí",
     "artist": "Michal David",
     "date": "09.10.2025",
     "time": "23:02",
-    "listeners": 320
+    "listeners": 320,
+    "lyricists": null,
+    "album": "Mejdan Roku (Live)",
+    "release_year": 2010,
+    "duration_ms": 293613,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "O Bláznech",
     "artist": "Penk Michal",
     "date": "09.10.2025",
     "time": "22:57",
-    "listeners": 322
+    "listeners": 322,
+    "lyricists": null,
+    "album": "Hit Album",
+    "release_year": 1992,
+    "duration_ms": 278000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Boat On The River",
     "artist": "Styx",
     "date": "09.10.2025",
     "time": "22:54",
-    "listeners": 295
+    "listeners": 295,
+    "lyricists": null,
+    "album": "Greatest Hits, Pt. 2",
+    "release_year": 2001,
+    "duration_ms": 191093,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Som V Tom",
     "artist": "Team",
     "date": "09.10.2025",
     "time": "22:50",
-    "listeners": 312
+    "listeners": 312,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2006,
+    "duration_ms": 221933,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "One Of Us",
     "artist": "Osborne Joan",
     "date": "09.10.2025",
     "time": "22:46",
-    "listeners": 323
+    "listeners": 323,
+    "lyricists": null,
+    "album": "Relish",
+    "release_year": 1995,
+    "duration_ms": 320467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Touch Me (I Want Your Body)",
     "artist": "Fox Samantha",
     "date": "09.10.2025",
     "time": "22:43",
-    "listeners": 308
+    "listeners": 308,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1986,
+    "duration_ms": 213684,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Vráť Mi Tie Hviezdy",

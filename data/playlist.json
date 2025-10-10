@@ -1,5 +1,112 @@
 [
   {
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "10.10.2025",
+    "time": "08:43",
+    "listeners": 2315,
+    "lyricists": null,
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "release_year": 2022,
+    "duration_ms": 284310,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  {
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "date": "10.10.2025",
+    "time": "08:39",
+    "listeners": 2427,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1999,
+    "duration_ms": 213560,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
+  },
+  {
+    "title": "Veselá Pesnička",
+    "artist": "I.M.T. Smile",
+    "date": "10.10.2025",
+    "time": "08:36",
+    "listeners": 2534,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2007,
+    "duration_ms": 178840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
+  },
+  {
+    "title": "Voulez Vous",
+    "artist": "Abba",
+    "date": "10.10.2025",
+    "time": "08:31",
+    "listeners": 2637,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1994,
+    "duration_ms": 306787,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
+  },
+  {
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "10.10.2025",
+    "time": "08:21",
+    "listeners": 2821,
+    "lyricists": null,
+    "album": "The Final Countdown (Expanded Edition)",
+    "release_year": 2022,
+    "duration_ms": 310333,
+    "artist_country": "SE",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
+  },
+  {
+    "title": "Time To Say Goodbye",
+    "artist": "Brightman Sarah&Bocelli Andrea",
+    "date": "10.10.2025",
+    "time": "08:17",
+    "listeners": 2900,
+    "lyricists": null,
+    "album": "Romanza",
+    "release_year": 1995,
+    "duration_ms": 244627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
+  },
+  {
+    "title": "Šaty",
+    "artist": "Gombitová Marika",
+    "date": "10.10.2025",
+    "time": "08:14",
+    "listeners": 2903,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 250240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
+  },
+  {
     "title": "Povedzme",
     "artist": "Grigorov Robo",
     "date": "10.10.2025",

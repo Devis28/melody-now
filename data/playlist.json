@@ -4,14 +4,30 @@
     "artist": "Elán",
     "date": "11.10.2025",
     "time": "15:45",
-    "listeners": 1506
+    "listeners": 1506,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Můj Čas",
     "artist": "Zagorová Hana Kotvald Petr Hložek Stanislav",
     "date": "11.10.2025",
     "time": "15:41",
-    "listeners": 1488
+    "listeners": 1488,
+    "lyricists": null,
+    "album": "Sanitka 2",
+    "release_year": 2013,
+    "duration_ms": 217747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Spálená Láska",

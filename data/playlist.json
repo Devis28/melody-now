@@ -4,28 +4,62 @@
     "artist": "Captain Hollywood Project",
     "date": "11.10.2025",
     "time": "23:08",
-    "listeners": 370
+    "listeners": 370,
+    "lyricists": null,
+    "album": "Flying High",
+    "release_year": 1996,
+    "duration_ms": 340667,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Mám Ťa Rád",
     "artist": "Duchon  Karol",
     "date": "11.10.2025",
     "time": "23:04",
-    "listeners": 397
+    "listeners": 397,
+    "lyricists": null,
+    "album": "20 naj, Vol. 2",
+    "release_year": 2016,
+    "duration_ms": 249933,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Cotton Eye Joe",
     "artist": "Rednex",
     "date": "11.10.2025",
     "time": "23:01",
-    "listeners": 370
+    "listeners": 370,
+    "lyricists": null,
+    "album": "Sex & Violins",
+    "release_year": 2008,
+    "duration_ms": 194000,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Maniac",
     "artist": "Michael Sembello",
     "date": "11.10.2025",
     "time": "22:57",
-    "listeners": 424
+    "listeners": 424,
+    "lyricists": [
+      "Dennis Matkosky",
+      "Michael Sembello"
+    ],
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "release_year": 2022,
+    "duration_ms": 244707,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "title": "Hungry Like The Wolf",

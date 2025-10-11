@@ -4,28 +4,60 @@
     "artist": "Peha",
     "date": "11.10.2025",
     "time": "15:26",
-    "listeners": 1668
+    "listeners": 1668,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2003,
+    "duration_ms": 232616,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Všichni Jsou Už V Mexiku",
     "artist": "Michal Tučný",
     "date": "11.10.2025",
     "time": "15:22",
-    "listeners": 1786
+    "listeners": 1786,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "title": "Bez Veľkej Slávy",
     "artist": "Darina Rolincová",
     "date": "11.10.2025",
     "time": "15:17",
-    "listeners": 1778
+    "listeners": 1778,
+    "lyricists": null,
+    "album": "Skús Ma Najsť, Bez Veľkej Slávy - Single",
+    "release_year": 1998,
+    "duration_ms": 269827,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Slavíci Z Madridu",
     "artist": "Waldemar Matuška",
     "date": "11.10.2025",
     "time": "15:14",
-    "listeners": 1756
+    "listeners": 1756,
+    "lyricists": null,
+    "album": "Píseň Pro Kristýnku A Další Hity",
+    "release_year": 2001,
+    "duration_ms": 221440,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Preč, Preč",

@@ -10440,5 +10440,14 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "wham!|the edge of heaven": {
+    "artist_country": "GB",
+    "release_year": 2023,
+    "album": "Music from the Edge of Heaven",
+    "duration_ms": 270800,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -4,21 +4,43 @@
     "artist": "Iglesias, Enrique",
     "date": "11.10.2025",
     "time": "21:27",
-    "listeners": 817
+    "listeners": 817,
+    "lyricists": null,
+    "album": "Escape (Bonus Track Version)",
+    "release_year": 2001,
+    "duration_ms": 264240,
+    "artist_country": null,
+    "genres": null
   },
   {
     "title": "The Edge Of Heaven",
     "artist": "Wham!",
     "date": "11.10.2025",
     "time": "21:22",
-    "listeners": 844
+    "listeners": 844,
+    "lyricists": null,
+    "album": "Music from the Edge of Heaven",
+    "release_year": 2023,
+    "duration_ms": 270800,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Waka Waka (This Time For Africa)",
     "artist": "Shakira & Freshlyground",
     "date": "11.10.2025",
     "time": "21:19",
-    "listeners": 863
+    "listeners": 863,
+    "lyricists": null,
+    "album": "Éxitos de Verano",
+    "release_year": 2014,
+    "duration_ms": 201773,
+    "artist_country": "CO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Oh Carol",

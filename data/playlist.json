@@ -4,14 +4,33 @@
     "artist": "Elton John",
     "date": "12.10.2025",
     "time": "01:47",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Sleeping With the Past (Remastered)",
+    "release_year": 1992,
+    "duration_ms": 304133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I Want To Know What Love Is",
     "artist": "Foreigner",
     "date": "12.10.2025",
     "time": "01:43",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "No End In Sight: The Very Best of Foreigner (Remastered)",
+    "release_year": 1998,
+    "duration_ms": 301107,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "I'll Be Missing You",

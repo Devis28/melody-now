@@ -4,14 +4,30 @@
     "artist": "Uriah Heep",
     "date": "12.10.2025",
     "time": "01:55",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Best of... Pt. 1",
+    "release_year": 2003,
+    "duration_ms": 282307,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Oteckovia",
     "artist": "Hex",
     "date": "12.10.2025",
     "time": "01:52",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Oteckovia - Single",
+    "release_year": 2018,
+    "duration_ms": 208120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sacrifice",

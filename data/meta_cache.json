@@ -10609,5 +10609,15 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "ricky martin|livin' la vida loca": {
+    "release_year": 2007,
+    "artist_country": "PR",
+    "album": "Ricky Martin",
+    "duration_ms": 243160,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

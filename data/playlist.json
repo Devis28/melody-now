@@ -4,14 +4,30 @@
     "artist": "Lucie",
     "date": "11.10.2025",
     "time": "09:55",
-    "listeners": 1046
+    "listeners": 1046,
+    "lyricists": null,
+    "album": "V Opere",
+    "release_year": 2003,
+    "duration_ms": 305187,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Marcel Z Malého Mesta",
     "artist": "Peter Nagy",
     "date": "11.10.2025",
     "time": "09:52",
-    "listeners": 1004
+    "listeners": 1004,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 1996,
+    "duration_ms": 195427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Adresa Ja Adresa Ty",

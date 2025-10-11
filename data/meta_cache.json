@@ -10342,5 +10342,14 @@
     "genres": [
       "Rock"
     ]
+  },
+  "helena vondráčková|pátá": {
+    "release_year": 1996,
+    "artist_country": "CZ",
+    "album": "Mám Ráda Cestu Lesní",
+    "duration_ms": 174040,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -4,35 +4,77 @@
     "artist": "Olympic",
     "date": "11.10.2025",
     "time": "12:13",
-    "listeners": 1715
+    "listeners": 1715,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 217773,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Kým Ťa Mám",
     "artist": "Grigorov Robo",
     "date": "11.10.2025",
     "time": "12:08",
-    "listeners": 1653
+    "listeners": 1653,
+    "lyricists": null,
+    "album": "Balady",
+    "release_year": 2006,
+    "duration_ms": 261107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Neuč Vtáka Lietať",
     "artist": "Müller Richard",
     "date": "11.10.2025",
     "time": "12:05",
-    "listeners": 1767
+    "listeners": 1767,
+    "lyricists": null,
+    "album": "Neuc Vtaka Lietat!",
+    "release_year": 1992,
+    "duration_ms": 220533,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Anjelik Môj",
     "artist": "Darina Rolincová",
     "date": "11.10.2025",
     "time": "12:01",
-    "listeners": 1569
+    "listeners": 1569,
+    "lyricists": null,
+    "album": "Téměř Růžový Příběh",
+    "release_year": 1998,
+    "duration_ms": 218600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Dážď",
     "artist": "Peter Cmorík",
     "date": "11.10.2025",
     "time": "11:56",
-    "listeners": 1606
+    "listeners": 1606,
+    "lyricists": null,
+    "album": "Nadherny Den",
+    "release_year": 2006,
+    "duration_ms": 279720,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Mám Rád",

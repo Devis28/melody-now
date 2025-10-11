@@ -4,42 +4,94 @@
     "artist": "Esposito Joe",
     "date": "11.10.2025",
     "time": "05:37",
-    "listeners": 198
+    "listeners": 198,
+    "lyricists": null,
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "release_year": 1983,
+    "duration_ms": 249640,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Wind Of Change",
     "artist": "The Scorpions",
     "date": "11.10.2025",
     "time": "05:32",
-    "listeners": 208
+    "listeners": 208,
+    "lyricists": null,
+    "album": "Crazy World",
+    "release_year": 1999,
+    "duration_ms": 312360,
+    "artist_country": "DE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Kralovna Pavlaci A Dvorov",
     "artist": "Heckovci Peter A Julia",
     "date": "11.10.2025",
     "time": "05:29",
-    "listeners": 207
+    "listeners": 207,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 219095,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I'm Still Standing",
     "artist": "Elton John",
     "date": "11.10.2025",
     "time": "05:26",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Too Low For Zero (Bonus Track Version)",
+    "release_year": 1987,
+    "duration_ms": 183440,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Róberta",
     "artist": "Modus",
     "date": "11.10.2025",
     "time": "05:21",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 260800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Raindrops Keep Fallin' On My Head",
     "artist": "B. J. Thomas",
     "date": "11.10.2025",
     "time": "05:19",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Raindrops Keep Fallin' On My Head",
+    "release_year": 1996,
+    "duration_ms": 184493,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sme Svoji",

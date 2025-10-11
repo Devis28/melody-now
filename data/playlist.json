@@ -4,14 +4,30 @@
     "artist": "Dočolomanský Michal",
     "date": "11.10.2025",
     "time": "19:53",
-    "listeners": 1226
+    "listeners": 1226,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 2008,
+    "duration_ms": 187943,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Za Dverami Mojej Izby",
     "artist": "Beata Dubasová",
     "date": "11.10.2025",
     "time": "19:48",
-    "listeners": 1208
+    "listeners": 1208,
+    "lyricists": null,
+    "album": "Za dverami mojej izby",
+    "release_year": 1990,
+    "duration_ms": 303903,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Boli Sme Raz Milovaní",

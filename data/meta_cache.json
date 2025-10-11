@@ -10541,5 +10541,14 @@
     "genres": [
       "Rock"
     ]
+  },
+  "duran duran|hungry like the wolf": {
+    "release_year": 1997,
+    "artist_country": "GB",
+    "album": "Rio (Collectors Edition)",
+    "duration_ms": 220627,
+    "genres": [
+      "Pop"
+    ]
   }
 }

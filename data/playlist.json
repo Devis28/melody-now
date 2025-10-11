@@ -4,14 +4,30 @@
     "artist": "Duran Duran",
     "date": "11.10.2025",
     "time": "22:53",
-    "listeners": 387
+    "listeners": 387,
+    "lyricists": null,
+    "album": "Rio (Collectors Edition)",
+    "release_year": 1997,
+    "duration_ms": 220627,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Go West",
     "artist": "Pet Shop Boys",
     "date": "11.10.2025",
     "time": "22:49",
-    "listeners": 447
+    "listeners": 447,
+    "lyricists": null,
+    "album": "Ultimate",
+    "release_year": 2006,
+    "duration_ms": 302360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Brother Louie",

@@ -4,56 +4,124 @@
     "artist": "Dj Bobo",
     "date": "11.10.2025",
     "time": "20:44",
-    "listeners": 1004
+    "listeners": 1004,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 229893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Mamma Mia",
     "artist": "Abba",
     "date": "11.10.2025",
     "time": "20:40",
-    "listeners": 1101
+    "listeners": 1101,
+    "lyricists": null,
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 2019,
+    "duration_ms": 212304,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Say You'll Be There",
     "artist": "Spice Girls",
     "date": "11.10.2025",
     "time": "20:37",
-    "listeners": 1133
+    "listeners": 1133,
+    "lyricists": null,
+    "album": "Spice",
+    "release_year": 1997,
+    "duration_ms": 235973,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "It's A Sin",
     "artist": "Pet Shop Boys",
     "date": "11.10.2025",
     "time": "20:32",
-    "listeners": 1106
+    "listeners": 1106,
+    "lyricists": null,
+    "album": "Actually (2018 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 299253,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "United",
     "artist": "Prince Ital Joe & Marky Mark",
     "date": "11.10.2025",
     "time": "20:28",
-    "listeners": 1107
+    "listeners": 1107,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 2009,
+    "duration_ms": 241760,
+    "artist_country": "US",
+    "genres": [
+      "Hip-Hop",
+      "Pop"
+    ]
   },
   {
     "title": "We Are Family",
     "artist": "Sister Sledge",
     "date": "11.10.2025",
     "time": "20:24",
-    "listeners": 1161
+    "listeners": 1161,
+    "lyricists": null,
+    "album": "We Are Family (1995 Remaster)",
+    "release_year": 1997,
+    "duration_ms": 216733,
+    "artist_country": "US",
+    "genres": [
+      "Electronic",
+      "R&B"
+    ]
   },
   {
     "title": "Always",
     "artist": "Erasure",
     "date": "11.10.2025",
     "time": "20:20",
-    "listeners": 1066
+    "listeners": 1066,
+    "lyricists": null,
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "release_year": 1994,
+    "duration_ms": 237840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Hot Stuff",
     "artist": "Summer Donna",
     "date": "11.10.2025",
     "time": "20:16",
-    "listeners": 1139
+    "listeners": 1139,
+    "lyricists": null,
+    "album": "Hot Stuff - Single",
+    "release_year": 2020,
+    "duration_ms": 199008,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "R&B"
+    ]
   },
   {
     "title": "Sounds Like A Melody",

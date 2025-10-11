@@ -10377,5 +10377,33 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "spice girls|say you'll be there": {
+    "release_year": 1997,
+    "artist_country": "GB",
+    "album": "Spice",
+    "duration_ms": 235973,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "sister sledge|we are family": {
+    "release_year": 1997,
+    "artist_country": "US",
+    "album": "We Are Family (1995 Remaster)",
+    "duration_ms": 216733,
+    "genres": [
+      "Electronic",
+      "R&B"
+    ]
+  },
+  "summer donna|hot stuff": {
+    "album": "Hot Stuff - Single",
+    "release_year": 2020,
+    "duration_ms": 199008,
+    "genres": [
+      "Electronic",
+      "R&B"
+    ]
   }
 }

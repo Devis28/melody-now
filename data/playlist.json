@@ -4,21 +4,45 @@
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "12.10.2025",
     "time": "01:37",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "release_year": 1997,
+    "duration_ms": 301520,
+    "artist_country": null,
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "title": "S Tebou",
     "artist": "Žbirka Miro",
     "date": "12.10.2025",
     "time": "01:34",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 1983,
+    "duration_ms": 225040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Čerešne",
     "artist": "Smatanová Zuzana",
     "date": "12.10.2025",
     "time": "01:30",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 2008,
+    "duration_ms": 259387,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sealed With The Kiss",

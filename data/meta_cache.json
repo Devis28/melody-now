@@ -10304,5 +10304,15 @@
     "genres": [
       "Pop"
     ]
+  },
+  "olympic|já (sobectví)": {
+    "release_year": 1993,
+    "artist_country": "CZ",
+    "album": "Best of 43 jasných hitových zpráv",
+    "duration_ms": 259133,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

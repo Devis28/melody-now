@@ -4,14 +4,30 @@
     "artist": "Soul Asylum",
     "date": "11.10.2025",
     "time": "05:53",
-    "listeners": 200
+    "listeners": 200,
+    "lyricists": null,
+    "album": "Black Gold: The Best of Soul Asylum",
+    "release_year": 1999,
+    "duration_ms": 266067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Super Trouper",
     "artist": "Abba",
     "date": "11.10.2025",
     "time": "05:48",
-    "listeners": 205
+    "listeners": 205,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1988,
+    "duration_ms": 251298,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Pokoj V Duši",

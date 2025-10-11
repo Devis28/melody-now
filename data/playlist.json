@@ -4,35 +4,78 @@
     "artist": "No Name",
     "date": "11.10.2025",
     "time": "07:08",
-    "listeners": 355
+    "listeners": 355,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2014,
+    "duration_ms": 210307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Podvod",
     "artist": "Honza Nedvěd",
     "date": "11.10.2025",
     "time": "07:04",
-    "listeners": 341
+    "listeners": 341,
+    "lyricists": null,
+    "album": "60 Nedvedi+40 Fesaci (Live)",
+    "release_year": 2008,
+    "duration_ms": 150920,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "title": "Školská Láska",
     "artist": "Rolincová Darina",
     "date": "11.10.2025",
     "time": "07:01",
-    "listeners": 313
+    "listeners": 313,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 241867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "V Cudzom Meste",
     "artist": "Jana Kirschner",
     "date": "11.10.2025",
     "time": "06:57",
-    "listeners": 311
+    "listeners": 311,
+    "lyricists": [
+      "Ivan Tásler",
+      "Jana Kirschner"
+    ],
+    "album": "V Cudzom Meste",
+    "release_year": 2014,
+    "duration_ms": 199347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Robinson",
     "artist": "Jiří Korn",
     "date": "11.10.2025",
     "time": "06:54",
-    "listeners": 315
+    "listeners": 315,
+    "lyricists": null,
+    "album": "To nejlepší 1971-2024",
+    "release_year": 2010,
+    "duration_ms": 194516,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Voda Čo Ma Drží Nad Vodou",

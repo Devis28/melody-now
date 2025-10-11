@@ -10527,5 +10527,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "roy orbison|you got it": {
+    "release_year": 2011,
+    "artist_country": "US",
+    "album": "Mystery Girl (Bonus Track Version)",
+    "duration_ms": 210267,
+    "lyricists": [
+      "Jeff Lynne",
+      "Roy Orbison",
+      "Tom Petty"
+    ],
+    "genres": [
+      "Rock"
+    ]
   }
 }

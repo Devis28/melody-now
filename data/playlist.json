@@ -4,49 +4,106 @@
     "artist": "Michal David",
     "date": "11.10.2025",
     "time": "06:20",
-    "listeners": 228
+    "listeners": 228,
+    "lyricists": null,
+    "album": "Non Stop",
+    "release_year": 2010,
+    "duration_ms": 196840,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Setkání",
     "artist": "Zagorová Hana & Drupi",
     "date": "11.10.2025",
     "time": "06:16",
-    "listeners": 222
+    "listeners": 222,
+    "lyricists": null,
+    "album": "Střípky",
+    "release_year": 2010,
+    "duration_ms": 201040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Láska",
     "artist": "Gladiátor",
     "date": "11.10.2025",
     "time": "06:12",
-    "listeners": 241
+    "listeners": 241,
+    "lyricists": null,
+    "album": "Babylon Hotel",
+    "release_year": 2020,
+    "duration_ms": 236507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Edo",
     "artist": "Grigorov Robo",
     "date": "11.10.2025",
     "time": "06:08",
-    "listeners": 236
+    "listeners": 236,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 212402,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Pieseň Pre Nesmelých",
     "artist": "Team",
     "date": "11.10.2025",
     "time": "06:04",
-    "listeners": 224
+    "listeners": 224,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 1997,
+    "duration_ms": 270040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Úsmev A Čaj",
     "artist": "I.M.T Smile & Smatanova Zuzana",
     "date": "11.10.2025",
     "time": "06:00",
-    "listeners": 229
+    "listeners": 229,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 297920,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Oheň, Voda, Vítr",
     "artist": "Janda Dalibor",
     "date": "11.10.2025",
     "time": "05:57",
-    "listeners": 225
+    "listeners": 225,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 172707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Runaway Train",

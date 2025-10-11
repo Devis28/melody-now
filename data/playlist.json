@@ -4,14 +4,31 @@
     "artist": "Doop",
     "date": "11.10.2025",
     "time": "21:53",
-    "listeners": 675
+    "listeners": 675,
+    "lyricists": null,
+    "album": "Talking House, Vol. 7",
+    "release_year": 1994,
+    "duration_ms": 351086,
+    "artist_country": "NL",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Everlasting Love",
     "artist": "Sandra",
     "date": "11.10.2025",
     "time": "21:50",
-    "listeners": 691
+    "listeners": 691,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 1987,
+    "duration_ms": 221107,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "title": "Rhythm Of The Night",

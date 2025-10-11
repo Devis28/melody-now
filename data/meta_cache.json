@@ -10464,5 +10464,14 @@
     "artist_country": "FR",
     "album": "D.I.S.C.O. - EP",
     "duration_ms": 196507
+  },
+  "doop|doop": {
+    "release_year": 1994,
+    "artist_country": "NL",
+    "album": "Talking House, Vol. 7",
+    "duration_ms": 351086,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

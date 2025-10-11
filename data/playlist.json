@@ -4,21 +4,43 @@
     "artist": "Smokie",
     "date": "11.10.2025",
     "time": "21:15",
-    "listeners": 856
+    "listeners": 856,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 1998,
+    "duration_ms": 219267,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Bamboléo",
     "artist": "Gipsy Kings",
     "date": "11.10.2025",
     "time": "21:12",
-    "listeners": 869
+    "listeners": 869,
+    "lyricists": null,
+    "album": "Gipsy Kings",
+    "release_year": 2001,
+    "duration_ms": 203333,
+    "artist_country": "FR",
+    "genres": null
   },
   {
     "title": "Baker Street",
     "artist": "Undercover",
     "date": "11.10.2025",
     "time": "21:08",
-    "listeners": 873
+    "listeners": 873,
+    "lyricists": null,
+    "album": "Baker Street - Single",
+    "release_year": 2013,
+    "duration_ms": 311867,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Like A Prayer",

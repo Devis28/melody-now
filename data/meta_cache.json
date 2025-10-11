@@ -10422,5 +10422,23 @@
     "genres": [
       "Pop"
     ]
+  },
+  "smokie|oh carol": {
+    "release_year": 1998,
+    "artist_country": "GB",
+    "album": "The Best of Smokie",
+    "duration_ms": 219267,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "undercover|baker street": {
+    "release_year": 2013,
+    "artist_country": "GB",
+    "album": "Baker Street - Single",
+    "duration_ms": 311867,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

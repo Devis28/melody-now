@@ -4,14 +4,30 @@
     "artist": "Vondráčková Helena",
     "date": "11.10.2025",
     "time": "12:48",
-    "listeners": 1946
+    "listeners": 1946,
+    "lyricists": null,
+    "album": "Best of the Best",
+    "release_year": 1964,
+    "duration_ms": 137680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Ked Sa Baba Zblazni",
     "artist": "Pavol Habera & Team",
     "date": "11.10.2025",
     "time": "12:42",
-    "listeners": 1707
+    "listeners": 1707,
+    "lyricists": null,
+    "album": "The Best Of",
+    "release_year": 1995,
+    "duration_ms": 325507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Vyznanie",

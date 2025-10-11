@@ -4,14 +4,35 @@
     "artist": "Kristína",
     "date": "12.10.2025",
     "time": "00:39",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "album": "V Sieti Ta Mam",
+    "release_year": 2014,
+    "duration_ms": 221000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Dream On",
     "artist": "Nazareth",
     "date": "12.10.2025",
     "time": "00:35",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "2Xs",
+    "release_year": 2010,
+    "duration_ms": 204827,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "An Angel",

@@ -4,14 +4,31 @@
     "artist": "Gombitová Marika",
     "date": "11.10.2025",
     "time": "09:48",
-    "listeners": 1106
+    "listeners": 1106,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 221440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Jasná Zpráva",
     "artist": "Olympic",
     "date": "11.10.2025",
     "time": "09:43",
-    "listeners": 1041
+    "listeners": 1041,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 2000,
+    "duration_ms": 259973,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Říkej Mi",

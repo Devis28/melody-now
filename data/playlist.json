@@ -4,21 +4,45 @@
     "artist": "Olympic",
     "date": "11.10.2025",
     "time": "16:24",
-    "listeners": 1334
+    "listeners": 1334,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1996,
+    "duration_ms": 173307,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Koloseum",
     "artist": "Gombitová Marika",
     "date": "11.10.2025",
     "time": "16:18",
-    "listeners": 1363
+    "listeners": 1363,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1987,
+    "duration_ms": 333653,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Večírek",
     "artist": "Tofi Sagvan",
     "date": "11.10.2025",
     "time": "16:14",
-    "listeners": 1433
+    "listeners": 1433,
+    "lyricists": null,
+    "album": "František Janeček 80 / Autorské hity",
+    "release_year": null,
+    "duration_ms": 240000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nie Alebo Áno",

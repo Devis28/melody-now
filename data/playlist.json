@@ -4,28 +4,60 @@
     "artist": "Hana Zagorova",
     "date": "11.10.2025",
     "time": "13:13",
-    "listeners": 1900
+    "listeners": 1900,
+    "lyricists": null,
+    "album": "Singly 1981-1990",
+    "release_year": 2013,
+    "duration_ms": 235000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Matka",
     "artist": "Tublatanka",
     "date": "11.10.2025",
     "time": "13:09",
-    "listeners": 1899
+    "listeners": 1899,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 1991,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "V Dobrom Aj Zlom",
     "artist": "Zuzana Smatanová",
     "date": "11.10.2025",
     "time": "13:05",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "V Dobrom Aj V Zlom - Single",
+    "release_year": 2015,
+    "duration_ms": 176415,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Smrťka Na Pražskom Orloji",
     "artist": "Elán",
     "date": "11.10.2025",
     "time": "13:01",
-    "listeners": 1957
+    "listeners": 1957,
+    "lyricists": null,
+    "album": "Legenda 5: Posledná...",
+    "release_year": 1992,
+    "duration_ms": 271773,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Ľudia Nie Sú Zlí",

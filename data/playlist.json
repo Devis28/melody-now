@@ -4,14 +4,30 @@
     "artist": "Matuška Waldemar",
     "date": "11.10.2025",
     "time": "13:21",
-    "listeners": 1938
+    "listeners": 1938,
+    "lyricists": null,
+    "album": "Co Neodnesl Čas",
+    "release_year": 1991,
+    "duration_ms": 300107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nechodí",
     "artist": "Miro Žbirka",
     "date": "11.10.2025",
     "time": "13:17",
-    "listeners": 1962
+    "listeners": 1962,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 215027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Mimoradna Linka",

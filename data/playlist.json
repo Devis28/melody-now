@@ -4,14 +4,31 @@
     "artist": "Tina Turner",
     "date": "11.10.2025",
     "time": "23:50",
-    "listeners": 300
+    "listeners": 300,
+    "lyricists": null,
+    "album": "Simply the Best",
+    "release_year": 1994,
+    "duration_ms": 255937,
+    "artist_country": "CH",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "title": "Be My Lover",
     "artist": "La Bouche",
     "date": "11.10.2025",
     "time": "23:46",
-    "listeners": 303
+    "listeners": 303,
+    "lyricists": null,
+    "album": "La Bouche: Greatest Hits",
+    "release_year": 1996,
+    "duration_ms": 240867,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "True Blue",

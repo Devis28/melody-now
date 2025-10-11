@@ -4,14 +4,30 @@
     "artist": "Helena Vondracková",
     "date": "11.10.2025",
     "time": "11:47",
-    "listeners": 1500
+    "listeners": 1500,
+    "lyricists": null,
+    "album": "Přejdi Jordán A Další Hity...",
+    "release_year": 1982,
+    "duration_ms": 267067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Miss Moskva",
     "artist": "Korn Jiří",
     "date": "11.10.2025",
     "time": "11:43",
-    "listeners": 1512
+    "listeners": 1512,
+    "lyricists": null,
+    "album": "Zlatá Kolekce",
+    "release_year": 1971,
+    "duration_ms": 227920,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Čo S Tým",

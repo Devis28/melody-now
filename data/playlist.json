@@ -4,28 +4,66 @@
     "artist": "Snap",
     "date": "11.10.2025",
     "time": "22:25",
-    "listeners": 508
+    "listeners": 508,
+    "lyricists": null,
+    "album": "The Madman's Return",
+    "release_year": 2002,
+    "duration_ms": 332230,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Americanos",
     "artist": "Holly Johnson",
     "date": "11.10.2025",
     "time": "22:22",
-    "listeners": 550
+    "listeners": 550,
+    "lyricists": [
+      "Holly Johnson"
+    ],
+    "album": "Hollelujah (The Remix Album)",
+    "release_year": 1999,
+    "duration_ms": 373027,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "It's My Life",
     "artist": "Dr. Alban",
     "date": "11.10.2025",
     "time": "22:18",
-    "listeners": 581
+    "listeners": 581,
+    "lyricists": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ],
+    "album": "One Love",
+    "release_year": 2002,
+    "duration_ms": 243133,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Blame It On The Boogie",
     "artist": "The Jacksons",
     "date": "11.10.2025",
     "time": "22:14",
-    "listeners": 594
+    "listeners": 594,
+    "lyricists": null,
+    "album": "Destiny",
+    "release_year": 1998,
+    "duration_ms": 215319,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "title": "Zaľúbil Sa Chlapec",

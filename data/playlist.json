@@ -4,49 +4,103 @@
     "artist": "I.M.T. Smile",
     "date": "12.10.2025",
     "time": "00:20",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Acoustic Best",
+    "release_year": 1997,
+    "duration_ms": 196653,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "El Condor Pasa",
     "artist": "Simon Paul & Garfunkel Art",
     "date": "12.10.2025",
     "time": "00:17",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Bridge Over Troubled Water",
+    "release_year": 1970,
+    "duration_ms": 188595,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Hungry Eyes",
     "artist": "Carmen, Eric",
     "date": "12.10.2025",
     "time": "00:13",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 1987,
+    "duration_ms": 248427,
+    "artist_country": null,
+    "genres": null
   },
   {
     "title": "Pár Dní",
     "artist": "Desmod & Zuzana Smatanová",
     "date": "12.10.2025",
     "time": "00:10",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Skupinova Terapia",
+    "release_year": 2004,
+    "duration_ms": 210480,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Don't Cry",
     "artist": "Guns N Roses",
     "date": "12.10.2025",
     "time": "00:05",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Use Your Illusion I",
+    "release_year": 1992,
+    "duration_ms": 283733,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Hard To Say I'm Sorry",
     "artist": "Chicago",
     "date": "12.10.2025",
     "time": "00:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
+    "release_year": 1982,
+    "duration_ms": 223280,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Cruel Summer",
     "artist": "Bananarama",
     "date": "11.10.2025",
     "time": "23:59",
-    "listeners": 255
+    "listeners": 255,
+    "lyricists": null,
+    "album": "Bananarama (Collector's Edition)",
+    "release_year": 2001,
+    "duration_ms": 215326,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Livin' La Vida Loca",

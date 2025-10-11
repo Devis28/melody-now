@@ -10619,5 +10619,14 @@
       "Pop",
       "Rock"
     ]
+  },
+  "bananarama|cruel summer": {
+    "release_year": 2001,
+    "artist_country": "GB",
+    "album": "Bananarama (Collector's Edition)",
+    "duration_ms": 215326,
+    "genres": [
+      "Pop"
+    ]
   }
 }

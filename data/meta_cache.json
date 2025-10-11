@@ -10324,5 +10324,14 @@
       "Pop"
     ]
   },
-  "michal david, pavel hornak a marketa muchova|to se oslavi": {}
+  "michal david, pavel hornak a marketa muchova|to se oslavi": {},
+  "petra janů|moje malá premiera": {
+    "release_year": 2004,
+    "artist_country": "CZ",
+    "album": "Petra '88 (Live)",
+    "duration_ms": 193760,
+    "genres": [
+      "Pop"
+    ]
+  }
 }

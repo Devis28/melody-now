@@ -4,14 +4,30 @@
     "artist": "Petra Janů",
     "date": "11.10.2025",
     "time": "07:53",
-    "listeners": 465
+    "listeners": 465,
+    "lyricists": null,
+    "album": "Petra '88 (Live)",
+    "release_year": 2004,
+    "duration_ms": 193760,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Keď Sa Láska Podarí",
     "artist": "Gladiator",
     "date": "11.10.2025",
     "time": "07:50",
-    "listeners": 515
+    "listeners": 515,
+    "lyricists": null,
+    "album": "Zlate Hity",
+    "release_year": 2020,
+    "duration_ms": 215627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Vráť Trochu Lásky Medzi Nás",

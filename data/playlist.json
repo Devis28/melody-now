@@ -4,21 +4,45 @@
     "artist": "Vondrackova Lucie",
     "date": "11.10.2025",
     "time": "13:32",
-    "listeners": 1863
+    "listeners": 1863,
+    "lyricists": null,
+    "album": "Atlantida",
+    "release_year": 1995,
+    "duration_ms": 260027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Spoločne",
     "artist": "Rolincová Darina",
     "date": "11.10.2025",
     "time": "13:29",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Darinka",
+    "release_year": 1985,
+    "duration_ms": 180257,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Ďakujem Že Si",
     "artist": "No Name",
     "date": "11.10.2025",
     "time": "13:25",
-    "listeners": 1911
+    "listeners": 1911,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2014,
+    "duration_ms": 202107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "A Tak Dál Nosíš Po Kapsách Sny Mládí",

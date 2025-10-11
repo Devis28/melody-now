@@ -4,98 +4,233 @@
     "artist": "Dario G",
     "date": "11.10.2025",
     "time": "04:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Dario G",
+      "Gilbert Gabriel",
+      "Nick Laird-Clowes"
+    ],
+    "album": "Sunmachine",
+    "release_year": 1998,
+    "duration_ms": 379200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Wonderful Life",
     "artist": "Black",
     "date": "11.10.2025",
     "time": "04:34",
-    "listeners": 197
+    "listeners": 197,
+    "lyricists": null,
+    "album": "Wonderful Life",
+    "release_year": 2004,
+    "duration_ms": 287933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Dnes Už Viem",
     "artist": "Pavol Hammel",
     "date": "11.10.2025",
     "time": "04:30",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1998,
+    "duration_ms": 209533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Cause You Are Young",
     "artist": "C.C. Catch",
     "date": "11.10.2025",
     "time": "04:27",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1994,
+    "duration_ms": 209533,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Milionár",
     "artist": "Balogh Berco",
     "date": "11.10.2025",
     "time": "04:23",
-    "listeners": 203
+    "listeners": 203,
+    "lyricists": null,
+    "album": "Siedmy pád",
+    "release_year": 2007,
+    "duration_ms": 241747,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Bozk",
     "artist": "I.M.T. Smile",
     "date": "11.10.2025",
     "time": "04:19",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "2010 Odysea Dva",
+    "release_year": 2020,
+    "duration_ms": 232120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Žienka Domáca",
     "artist": "Jana Kirschner",
     "date": "11.10.2025",
     "time": "04:15",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Jana Kirschner"
+    ],
+    "album": "16 Naj Pesničiek",
+    "release_year": 2000,
+    "duration_ms": 240987,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "One",
     "artist": "U2",
     "date": "11.10.2025",
     "time": "04:11",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": [
+      "Bono",
+      "U2"
+    ],
+    "album": "U218 Singles",
+    "release_year": 1988,
+    "duration_ms": 275400,
+    "artist_country": "IE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Touch By Touch",
     "artist": "Joy",
     "date": "11.10.2025",
     "time": "04:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "TOUCH BY TOUCH - HIT-MIX",
+    "release_year": 2006,
+    "duration_ms": 180107,
+    "artist_country": "AT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Sharazan",
     "artist": "Al Bano & Romina Power",
     "date": "11.10.2025",
     "time": "04:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Al Bano Carrisi",
+      "Ciro Dammicco",
+      "Romina Power"
+    ],
+    "album": "Al Bano e Romina Power",
+    "release_year": 2010,
+    "duration_ms": 264773,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sweet Dreams",
     "artist": "Eurythmics",
     "date": "11.10.2025",
     "time": "03:59",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Annie Lennox",
+      "Dave Stewart",
+      "Eurythmics"
+    ],
+    "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
+    "release_year": 2014,
+    "duration_ms": 216933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "As Long As You Love Me",
     "artist": "Backstreet Boys",
     "date": "11.10.2025",
     "time": "03:55",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Backstreet's Back",
+    "release_year": 1998,
+    "duration_ms": 221107,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "It's A Heartache",
     "artist": "Bonnie Tyler",
     "date": "11.10.2025",
     "time": "03:52",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "It's a Heartache",
+    "release_year": 2024,
+    "duration_ms": 209760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Piú Bella Cosa",
     "artist": "Eros Ramazzotti",
     "date": "11.10.2025",
     "time": "03:47",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ],
+    "album": "Eros Best Love Songs (Special Edition)",
+    "release_year": 2013,
+    "duration_ms": 267680,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Účesy",

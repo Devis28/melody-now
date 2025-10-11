@@ -10473,5 +10473,28 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "vengaboys|we're going to ibiza": {
+    "release_year": 2001,
+    "artist_country": "NL",
+    "album": "We're Going To Ibiza! - Single",
+    "duration_ms": 217539,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "phil collins|two hearts": {
+    "release_year": 1992,
+    "artist_country": "GB",
+    "album": "Love Songs",
+    "duration_ms": 204387,
+    "lyricists": [
+      "Lamont Dozier",
+      "Phil Collins"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

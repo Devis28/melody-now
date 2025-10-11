@@ -4,35 +4,79 @@
     "artist": "Elán",
     "date": "11.10.2025",
     "time": "22:11",
-    "listeners": 577
+    "listeners": 577,
+    "lyricists": null,
+    "album": "Hodina slovenčiny",
+    "release_year": 1998,
+    "duration_ms": 195707,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "We're Going To Ibiza",
     "artist": "Vengaboys",
     "date": "11.10.2025",
     "time": "22:07",
-    "listeners": 631
+    "listeners": 631,
+    "lyricists": null,
+    "album": "We're Going To Ibiza! - Single",
+    "release_year": 2001,
+    "duration_ms": 217539,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "22 Dní",
     "artist": "Žbirka Miro",
     "date": "11.10.2025",
     "time": "22:04",
-    "listeners": 612
+    "listeners": 612,
+    "lyricists": null,
+    "album": "Nemoderný chalan",
+    "release_year": 1984,
+    "duration_ms": 222640,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Paloma Blanca",
     "artist": "The George Baker Selection",
     "date": "11.10.2025",
     "time": "22:00",
-    "listeners": 652
+    "listeners": 652,
+    "lyricists": null,
+    "album": "Paloma Blanca",
+    "release_year": 1975,
+    "duration_ms": 209360,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Two Hearts",
     "artist": "Phil Collins",
     "date": "11.10.2025",
     "time": "21:57",
-    "listeners": 649
+    "listeners": 649,
+    "lyricists": [
+      "Lamont Dozier",
+      "Phil Collins"
+    ],
+    "album": "Love Songs",
+    "release_year": 1992,
+    "duration_ms": 204387,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Doop",

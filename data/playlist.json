@@ -4,21 +4,45 @@
     "artist": "Muk Petr",
     "date": "11.10.2025",
     "time": "15:55",
-    "listeners": 1549
+    "listeners": 1549,
+    "lyricists": null,
+    "album": "Slunce / To Nejlepsi",
+    "release_year": 2000,
+    "duration_ms": 176000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Kávu Si Osladím",
     "artist": "Gott Karel",
     "date": "11.10.2025",
     "time": "15:53",
-    "listeners": 1505
+    "listeners": 1505,
+    "lyricists": null,
+    "album": "Má Píseň",
+    "release_year": 1972,
+    "duration_ms": 156347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Líška",
     "artist": "Jana Kirschner",
     "date": "11.10.2025",
     "time": "15:50",
-    "listeners": 1615
+    "listeners": 1615,
+    "lyricists": null,
+    "album": "16 Naj Pesničiek",
+    "release_year": 1999,
+    "duration_ms": 196520,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Kočka",

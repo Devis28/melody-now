@@ -4,14 +4,30 @@
     "artist": "Shalom",
     "date": "11.10.2025",
     "time": "10:43",
-    "listeners": 1299
+    "listeners": 1299,
+    "lyricists": null,
+    "album": "Bon soir, mademoiselle Paris",
+    "release_year": 2009,
+    "duration_ms": 288980,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Alenka V Ríši Divú",
     "artist": "Karel Zich",
     "date": "11.10.2025",
     "time": "10:40",
-    "listeners": 1280
+    "listeners": 1280,
+    "lyricists": null,
+    "album": "Nautilus Zdeňka Rytíře",
+    "release_year": 1997,
+    "duration_ms": 200133,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Hráli Jsme Kličkovanou",

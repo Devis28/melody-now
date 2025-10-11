@@ -4,14 +4,31 @@
     "artist": "Miro Žbirka",
     "date": "11.10.2025",
     "time": "11:53",
-    "listeners": 1546
+    "listeners": 1546,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 181307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Soumen",
     "artist": "Michal David",
     "date": "11.10.2025",
     "time": "11:50",
-    "listeners": 1573
+    "listeners": 1573,
+    "lyricists": null,
+    "album": "Funky 2",
+    "release_year": 1997,
+    "duration_ms": 180000,
+    "artist_country": "CZ",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "A Ty Se Ptáš Co Já",

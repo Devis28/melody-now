@@ -4,28 +4,60 @@
     "artist": "No Name",
     "date": "11.10.2025",
     "time": "16:10",
-    "listeners": 1355
+    "listeners": 1355,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 243480,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Mám Krásny Sen (Hawaii)",
     "artist": "Imt Smile",
     "date": "11.10.2025",
     "time": "16:05",
-    "listeners": 1442
+    "listeners": 1442,
+    "lyricists": null,
+    "album": "Hlava Ma Sedem Otvorov",
+    "release_year": 2015,
+    "duration_ms": 189787,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Možno Sa Ti Zdá",
     "artist": "Miro Žbirka",
     "date": "11.10.2025",
     "time": "16:02",
-    "listeners": 1384
+    "listeners": 1384,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 2007,
+    "duration_ms": 198160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Cigaretka Na Dva Ťahy",
     "artist": "Richard Müller",
     "date": "11.10.2025",
     "time": "15:58",
-    "listeners": 1493
+    "listeners": 1493,
+    "lyricists": null,
+    "album": "Koncert (Live)",
+    "release_year": 2001,
+    "duration_ms": 436587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Zrcadlo",

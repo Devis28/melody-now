@@ -10569,5 +10569,23 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "jimmy cliff|reggae night": {
+    "artist_country": "JM",
+    "release_year": 2002,
+    "album": "The Power and the Glory",
+    "duration_ms": 320227,
+    "genres": [
+      "R&B",
+      "Reggae"
+    ]
+  },
+  "douglas carl|kung fu fighting": {
+    "album": "The Soul of the Kung Fu Fighter",
+    "release_year": 1974,
+    "duration_ms": 197693,
+    "genres": [
+      "R&B"
+    ]
   }
 }

@@ -4,14 +4,30 @@
     "artist": "D-Night & An-Gel",
     "date": "11.10.2025",
     "time": "21:35",
-    "listeners": 825
+    "listeners": 825,
+    "lyricists": null,
+    "album": "Love Me (GAMPER & DADONI Remix) - Single",
+    "release_year": 1996,
+    "duration_ms": 164078,
+    "artist_country": "SK",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Dolce Vita",
     "artist": "Paris Ryan",
     "date": "11.10.2025",
     "time": "21:31",
-    "listeners": 821
+    "listeners": 821,
+    "lyricists": null,
+    "album": "80s Hit News",
+    "release_year": 1990,
+    "duration_ms": 235707,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Hero (Metro Mix)",

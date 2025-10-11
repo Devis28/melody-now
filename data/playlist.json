@@ -4,49 +4,105 @@
     "artist": "Peter Bič Project",
     "date": "11.10.2025",
     "time": "17:06",
-    "listeners": 1254
+    "listeners": 1254,
+    "lyricists": null,
+    "album": "Labyrint",
+    "release_year": 2024,
+    "duration_ms": 309780,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Klasika",
     "artist": "Elán",
     "date": "11.10.2025",
     "time": "17:03",
-    "listeners": 1237
+    "listeners": 1237,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 2003,
+    "duration_ms": 194973,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Zvonky Štestí",
     "artist": "Karel Gott & Darinka Rolincová",
     "date": "11.10.2025",
     "time": "16:59",
-    "listeners": 1361
+    "listeners": 1361,
+    "lyricists": null,
+    "album": "Zvonky Štěstí, Moje Druhé Já - Single",
+    "release_year": 1991,
+    "duration_ms": 236693,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Dotaznik",
     "artist": "Petr Rezek & Hana Zagorova",
     "date": "11.10.2025",
     "time": "16:56",
-    "listeners": 1254
+    "listeners": 1254,
+    "lyricists": null,
+    "album": "Nejkrásnější Déšť...",
+    "release_year": 1999,
+    "duration_ms": 185640,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Vráť Mi Tie Hviezdy",
     "artist": "Dubasová Beáta",
     "date": "11.10.2025",
     "time": "16:53",
-    "listeners": 1283
+    "listeners": 1283,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 1993,
+    "duration_ms": 215000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Dovtedy",
     "artist": "Adam Ďurica",
     "date": "11.10.2025",
     "time": "16:50",
-    "listeners": 1185
+    "listeners": 1185,
+    "lyricists": null,
+    "album": "Spolu",
+    "release_year": 2016,
+    "duration_ms": 147750,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Jednoho Dne Se Vrátíš",
     "artist": "Věra Špinarová",
     "date": "11.10.2025",
     "time": "16:45",
-    "listeners": 1304
+    "listeners": 1304,
+    "lyricists": null,
+    "album": "Jednoho Dne Se Vrátíš (Bonus Track Version)",
+    "release_year": 2011,
+    "duration_ms": 277200,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Největší Z Nálezů A Ztrát",

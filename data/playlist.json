@@ -4,70 +4,154 @@
     "artist": "Lucie",
     "date": "11.10.2025",
     "time": "14:47",
-    "listeners": 1892
+    "listeners": 1892,
+    "lyricists": null,
+    "album": "Cerny Kocky Mokry Zaby",
+    "release_year": 2009,
+    "duration_ms": 296600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "V Slepých Uličkách",
     "artist": "Zbirka Miro & Gombitova Marika",
     "date": "11.10.2025",
     "time": "14:43",
-    "listeners": 1933
+    "listeners": 1933,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 246160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Valčík Pro Mámu",
     "artist": "Michal David & Kroky Frantiska Janecka",
     "date": "11.10.2025",
     "time": "14:40",
-    "listeners": 1733
+    "listeners": 1733,
+    "lyricists": null,
+    "album": "Moje zapomenuté ploužáky",
+    "release_year": 2020,
+    "duration_ms": 217957,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Vymyslená",
     "artist": "Elán",
     "date": "11.10.2025",
     "time": "14:37",
-    "listeners": 1906
+    "listeners": 1906,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 1992,
+    "duration_ms": 138120,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Rieka",
     "artist": "Richard Müller",
     "date": "11.10.2025",
     "time": "14:34",
-    "listeners": 1889
+    "listeners": 1889,
+    "lyricists": [
+      "Ivan Tásler",
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2017,
+    "duration_ms": 307080,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Studánko Stříbrná",
     "artist": "Zagorová Hana",
     "date": "11.10.2025",
     "time": "14:31",
-    "listeners": 1944
+    "listeners": 1944,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 1995,
+    "duration_ms": 178320,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Zalúbení",
     "artist": "Dušan Hlaváček",
     "date": "11.10.2025",
     "time": "14:27",
-    "listeners": 1959
+    "listeners": 1959,
+    "lyricists": null,
+    "album": "Zaľúbení",
+    "release_year": 1987,
+    "duration_ms": 233352,
+    "artist_country": "SK",
+    "genres": [
+      "Folk",
+      "Pop"
+    ]
   },
   {
     "title": "Niekto Ako Kráľ",
     "artist": "Imt Smile",
     "date": "11.10.2025",
     "time": "14:24",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "ŽIVOT ČLOVEKA v roku 2022",
+    "release_year": 2015,
+    "duration_ms": 546993,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Řeka Lásky",
     "artist": "Marie Rottrová",
     "date": "11.10.2025",
     "time": "14:21",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2003,
+    "duration_ms": 200307,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Levandulová",
     "artist": "Hegerová Hana & Hapka Petr",
     "date": "11.10.2025",
     "time": "14:17",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Všechno Nejlepší",
+    "release_year": 1964,
+    "duration_ms": 233267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Kapely Starnú",

@@ -4,35 +4,75 @@
     "artist": "Alphaville",
     "date": "11.10.2025",
     "time": "20:12",
-    "listeners": 1153
+    "listeners": 1153,
+    "lyricists": null,
+    "album": "First Harvest 1984-1992",
+    "release_year": 2006,
+    "duration_ms": 267907,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "U Got 2 Let The Music",
     "artist": "Cappella",
     "date": "11.10.2025",
     "time": "20:08",
-    "listeners": 1132
+    "listeners": 1132,
+    "lyricists": null,
+    "album": "U Got 2 Know Album",
+    "release_year": 1994,
+    "duration_ms": 330213,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Together Forever",
     "artist": "Astley Rick",
     "date": "11.10.2025",
     "time": "20:05",
-    "listeners": 1173
+    "listeners": 1173,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 205573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Bosorka",
     "artist": "Elán",
     "date": "11.10.2025",
     "time": "20:00",
-    "listeners": 1198
+    "listeners": 1198,
+    "lyricists": null,
+    "album": "Legenda 3",
+    "release_year": 2001,
+    "duration_ms": 235000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Ach, Ta Láska Nebeská",
     "artist": "Pilarová Eva Matuška Waldemar",
     "date": "11.10.2025",
     "time": "19:56",
-    "listeners": 1208
+    "listeners": 1208,
+    "lyricists": null,
+    "album": "Láska Nebeská",
+    "release_year": 1962,
+    "duration_ms": 275693,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Zbohom Bud, Lipova Lyzka,...",

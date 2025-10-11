@@ -10368,5 +10368,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "cappella|u got 2 let the music": {
+    "release_year": 1994,
+    "artist_country": "IT",
+    "album": "U Got 2 Know Album",
+    "duration_ms": 330213,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

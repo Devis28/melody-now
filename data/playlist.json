@@ -4,21 +4,46 @@
     "artist": "Kryštof ft. Tomáš Klus",
     "date": "11.10.2025",
     "time": "16:33",
-    "listeners": 1355
+    "listeners": 1355,
+    "lyricists": null,
+    "album": "Inzerat",
+    "release_year": 2012,
+    "duration_ms": 349800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Prievan V Peňaženke",
     "artist": "Team",
     "date": "11.10.2025",
     "time": "16:30",
-    "listeners": 1307
+    "listeners": 1307,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2000,
+    "duration_ms": 180360,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Chýbanie",
     "artist": "Desmod",
     "date": "11.10.2025",
     "time": "16:27",
-    "listeners": 1493
+    "listeners": 1493,
+    "lyricists": null,
+    "album": "Molekuly Zvuku",
+    "release_year": 2017,
+    "duration_ms": 207168,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Dej Mi Víc Své Lásky",

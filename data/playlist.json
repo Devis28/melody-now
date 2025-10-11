@@ -4,35 +4,78 @@
     "artist": "Madonna",
     "date": "11.10.2025",
     "time": "23:42",
-    "listeners": 328
+    "listeners": 328,
+    "lyricists": [
+      "Madonna",
+      "Stephen Bray"
+    ],
+    "album": "True Blue",
+    "release_year": 1991,
+    "duration_ms": 257467,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Stumblin' In",
     "artist": "Norman Chris & Quatro Suzi",
     "date": "11.10.2025",
     "time": "23:39",
-    "listeners": 287
+    "listeners": 287,
+    "lyricists": null,
+    "album": "Collections: Smokie",
+    "release_year": 1977,
+    "duration_ms": 238200,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Got To Get It",
     "artist": "Culture Beat",
     "date": "11.10.2025",
     "time": "23:35",
-    "listeners": 289
+    "listeners": 289,
+    "lyricists": null,
+    "album": "Got to Get It - Single",
+    "release_year": 2004,
+    "duration_ms": 219333,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Kaskadér Bez Penazí",
     "artist": "Elán",
     "date": "11.10.2025",
     "time": "23:31",
-    "listeners": 299
+    "listeners": 299,
+    "lyricists": null,
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "release_year": 2001,
+    "duration_ms": 223027,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "There's A Party",
     "artist": "Dj Bobo",
     "date": "11.10.2025",
     "time": "23:27",
-    "listeners": 317
+    "listeners": 317,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1995,
+    "duration_ms": 252093,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Reggae Night",

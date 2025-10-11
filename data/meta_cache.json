@@ -10587,5 +10587,27 @@
     "genres": [
       "R&B"
     ]
+  },
+  "madonna|true blue": {
+    "release_year": 1991,
+    "artist_country": "US",
+    "album": "True Blue",
+    "duration_ms": 257467,
+    "lyricists": [
+      "Madonna",
+      "Stephen Bray"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "culture beat|got to get it": {
+    "release_year": 2004,
+    "artist_country": "DE",
+    "album": "Got to Get It - Single",
+    "duration_ms": 219333,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

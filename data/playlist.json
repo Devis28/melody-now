@@ -4,42 +4,89 @@
     "artist": "Pavol Habera",
     "date": "11.10.2025",
     "time": "15:11",
-    "listeners": 1733
+    "listeners": 1733,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Kométa (Pre Gumpa)",
     "artist": "Desmod & Majself",
     "date": "11.10.2025",
     "time": "15:06",
-    "listeners": 1721
+    "listeners": 1721,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "title": "Nepriznaná",
     "artist": "Vašo Patejdl",
     "date": "11.10.2025",
     "time": "15:02",
-    "listeners": 1946
+    "listeners": 1946,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2015,
+    "duration_ms": 273160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Chráň Svoje Bláznovstvá",
     "artist": "Peter Nagy",
     "date": "11.10.2025",
     "time": "14:59",
-    "listeners": 1704
+    "listeners": 1704,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 1996,
+    "duration_ms": 171240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Žily",
     "artist": "No Name",
     "date": "11.10.2025",
     "time": "14:55",
-    "listeners": 1747
+    "listeners": 1747,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 202093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Koukej Se Mnou Si Píseň Broukej",
     "artist": "Petra Černocká",
     "date": "11.10.2025",
     "time": "14:51",
-    "listeners": 1891
+    "listeners": 1891,
+    "lyricists": null,
+    "album": "Bratislavská Lyra Supraphon 3 (1973-1976)",
+    "release_year": 2010,
+    "duration_ms": 230253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sen",

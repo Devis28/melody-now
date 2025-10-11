@@ -4,14 +4,30 @@
     "artist": "Habera Pavol",
     "date": "11.10.2025",
     "time": "19:44",
-    "listeners": 1227
+    "listeners": 1227,
+    "lyricists": null,
+    "album": "Boli Sme Raz Milovani",
+    "release_year": 2000,
+    "duration_ms": 227827,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Múr Našich Lások",
     "artist": "Žbirka Miro",
     "date": "11.10.2025",
     "time": "19:40",
-    "listeners": 1334
+    "listeners": 1334,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 1983,
+    "duration_ms": 245027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Proč Mě Nikdo Nemá Rád",

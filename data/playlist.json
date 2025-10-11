@@ -4,14 +4,32 @@
     "artist": "Duran Duran",
     "date": "12.10.2025",
     "time": "00:55",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Duran Duran (The Wedding Album)",
+    "release_year": 1993,
+    "duration_ms": 340200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Kráľovná Bielych Tenisiek",
     "artist": "Elán",
     "date": "12.10.2025",
     "time": "00:51",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Živých Nás Nedostanú (Extended Version)",
+    "release_year": 1998,
+    "duration_ms": 225339,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "(Everything I Do) I Do It For You",

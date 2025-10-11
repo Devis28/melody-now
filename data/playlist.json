@@ -4,28 +4,61 @@
     "artist": "Chinaski",
     "date": "11.10.2025",
     "time": "11:16",
-    "listeners": 1363
+    "listeners": 1363,
+    "lyricists": null,
+    "album": "Premium, 1993-2003",
+    "release_year": 2000,
+    "duration_ms": 235133,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Pěkná Pěkná Pěkná",
     "artist": "Ledecký Janek",
     "date": "11.10.2025",
     "time": "11:11",
-    "listeners": 1352
+    "listeners": 1352,
+    "lyricists": null,
+    "album": "Právě teď",
+    "release_year": 1993,
+    "duration_ms": 269120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Prútikár",
     "artist": "Zuzana Smatanová & Richard Autner",
     "date": "11.10.2025",
     "time": "11:07",
-    "listeners": 1286
+    "listeners": 1286,
+    "lyricists": null,
+    "album": "Prútikár (feat. Richard Autner) - Single",
+    "release_year": 2024,
+    "duration_ms": 244947,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "To Musím Zvládnout Sám",
     "artist": "Gott Karel",
     "date": "11.10.2025",
     "time": "11:03",
-    "listeners": 1247
+    "listeners": 1247,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 233107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Maluj Zase Obrázky",

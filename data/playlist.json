@@ -4,14 +4,30 @@
     "artist": "Bartošová Iveta",
     "date": "11.10.2025",
     "time": "17:38",
-    "listeners": 1160
+    "listeners": 1160,
+    "lyricists": null,
+    "album": "Nekonecna/Best Of",
+    "release_year": 1998,
+    "duration_ms": 224920,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Prvá",
     "artist": "No Name",
     "date": "11.10.2025",
     "time": "17:35",
-    "listeners": 1141
+    "listeners": 1141,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2023,
+    "duration_ms": 197200,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Tančís Sama",

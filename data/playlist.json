@@ -4,14 +4,30 @@
     "artist": "Ricchi E Poveri",
     "date": "11.10.2025",
     "time": "20:52",
-    "listeners": 1054
+    "listeners": 1054,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1987,
+    "duration_ms": 190693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "How Will I Know",
     "artist": "Houston Whitney",
     "date": "11.10.2025",
     "time": "20:48",
-    "listeners": 1021
+    "listeners": 1021,
+    "lyricists": null,
+    "album": "Whitney Houston",
+    "release_year": 1985,
+    "duration_ms": 269696,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Everybody",

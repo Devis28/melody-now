@@ -4,7 +4,13 @@
     "artist": "Metalinda",
     "date": "11.10.2025",
     "time": "13:47",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": null,
+    "release_year": 1996,
+    "duration_ms": null,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "title": "Školská Lavica",

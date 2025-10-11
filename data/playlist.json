@@ -4,28 +4,61 @@
     "artist": "Janda Dalibor",
     "date": "11.10.2025",
     "time": "10:37",
-    "listeners": 1154
+    "listeners": 1154,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 180120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Unikát",
     "artist": "Mária Čírová",
     "date": "11.10.2025",
     "time": "10:34",
-    "listeners": 1272
+    "listeners": 1272,
+    "lyricists": null,
+    "album": "Unikát - Single",
+    "release_year": 2016,
+    "duration_ms": 206360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Dva A Dva",
     "artist": "Elán",
     "date": "11.10.2025",
     "time": "10:29",
-    "listeners": 1120
+    "listeners": 1120,
+    "lyricists": null,
+    "album": "Hodina slovenčiny",
+    "release_year": 2003,
+    "duration_ms": 275987,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Láska, Necestuj Tým Vlakom",
     "artist": "Pavol Habera",
     "date": "11.10.2025",
     "time": "10:25",
-    "listeners": 1217
+    "listeners": 1217,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 2021,
+    "duration_ms": 280600,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Malovaný Džbánku",

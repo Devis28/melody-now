@@ -4,21 +4,45 @@
     "artist": "Diana Ross",
     "date": "12.10.2025",
     "time": "21:22",
-    "listeners": 803
+    "listeners": 803,
+    "lyricists": null,
+    "album": "Diana",
+    "release_year": 1998,
+    "duration_ms": 245563,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "title": "Enjoy The Silence",
     "artist": "Depeche Mode",
     "date": "12.10.2025",
     "time": "21:17",
-    "listeners": 836
+    "listeners": 836,
+    "lyricists": null,
+    "album": "Violator (Deluxe)",
+    "release_year": 1990,
+    "duration_ms": 372827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "/I Can't Get No/ Satisfaction",
     "artist": "The Rolling Stones",
     "date": "12.10.2025",
     "time": "21:13",
-    "listeners": 856
+    "listeners": 856,
+    "lyricists": null,
+    "album": "The Rolling Stones 1963-1971",
+    "release_year": 1994,
+    "duration_ms": 223784,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Heartbreak Hotel",

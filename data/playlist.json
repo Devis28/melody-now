@@ -4,21 +4,48 @@
     "artist": "Marika Gombitová",
     "date": "12.10.2025",
     "time": "13:42",
-    "listeners": 1960
+    "listeners": 1960,
+    "lyricists": null,
+    "album": "Single (1977 - 1989)",
+    "release_year": 2000,
+    "duration_ms": 202960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Jesenná Láska",
     "artist": "Žbirka Miro",
     "date": "12.10.2025",
     "time": "13:40",
-    "listeners": 1905
+    "listeners": 1905,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 1988,
+    "duration_ms": 164347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "V Cudzom Meste",
     "artist": "Jana Kirschner",
     "date": "12.10.2025",
     "time": "13:37",
-    "listeners": 1957
+    "listeners": 1957,
+    "lyricists": [
+      "Ivan Tásler",
+      "Jana Kirschner"
+    ],
+    "album": "V Cudzom Meste",
+    "release_year": 2014,
+    "duration_ms": 199347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Večerem Zhýčkaná",

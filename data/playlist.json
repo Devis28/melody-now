@@ -5,7 +5,15 @@
     "artist": "Queen",
     "date": "13.10.2025",
     "time": "00:27",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1986,
+    "duration_ms": 314489,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Marika Gombitová",
     "date": "13.10.2025",
     "time": "00:24",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 1998,
+    "duration_ms": 146013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Nazareth",
     "date": "13.10.2025",
     "time": "00:21",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Hair of the Dog",
+    "release_year": 2002,
+    "duration_ms": 232120,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Marx Richard",
     "date": "13.10.2025",
     "time": "00:16",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Repeat Offender",
+    "release_year": 1989,
+    "duration_ms": 264333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Imt Smile",
     "date": "13.10.2025",
     "time": "00:13",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Valec Extra",
+    "release_year": 2005,
+    "duration_ms": 237813,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,13 @@
     "artist": "Whitney Houston",
     "date": "13.10.2025",
     "time": "00:08",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "release_year": 2000,
+    "duration_ms": 271093,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +99,15 @@
     "artist": "Michael, George",
     "date": "13.10.2025",
     "time": "00:03",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Make It Big",
+    "release_year": 1984,
+    "duration_ms": 392267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +115,13 @@
     "artist": "Ráž Jožo",
     "date": "12.10.2025",
     "time": "23:59",
-    "listeners": 247
+    "listeners": 247,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +129,15 @@
     "artist": "Black Box",
     "date": "12.10.2025",
     "time": "23:55",
-    "listeners": 256
+    "listeners": 256,
+    "lyricists": null,
+    "album": "Dreamland",
+    "release_year": 1998,
+    "duration_ms": 312987,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +145,15 @@
     "artist": "Boney M",
     "date": "12.10.2025",
     "time": "23:52",
-    "listeners": 265
+    "listeners": 265,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 241373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +161,19 @@
     "artist": "Billy Ocean",
     "date": "12.10.2025",
     "time": "23:47",
-    "listeners": 275
+    "listeners": 275,
+    "lyricists": [
+      "Billy Ocean",
+      "Robert John “Mutt” Lange"
+    ],
+    "album": "Love Really Hurts Without You (The Greatest Hits of Billy Ocean)",
+    "release_year": 2021,
+    "duration_ms": 283840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +181,19 @@
     "artist": "Dario G",
     "date": "12.10.2025",
     "time": "23:43",
-    "listeners": 289
+    "listeners": 289,
+    "lyricists": [
+      "Dario G",
+      "Gilbert Gabriel",
+      "Nick Laird-Clowes"
+    ],
+    "album": "Sunmachine",
+    "release_year": 2016,
+    "duration_ms": 379200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +201,15 @@
     "artist": "Ivan",
     "date": "12.10.2025",
     "time": "23:39",
-    "listeners": 286
+    "listeners": 286,
+    "lyricists": null,
+    "album": "Lo Mejor de Iván",
+    "release_year": 2000,
+    "duration_ms": 275720,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +217,17 @@
     "artist": "Abba",
     "date": "12.10.2025",
     "time": "23:35",
-    "listeners": 304
+    "listeners": 304,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 2008,
+    "duration_ms": 231844,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +235,15 @@
     "artist": "Maxx",
     "date": "12.10.2025",
     "time": "23:31",
-    "listeners": 332
+    "listeners": 332,
+    "lyricists": null,
+    "album": "Staying at Tamara's",
+    "release_year": 1994,
+    "duration_ms": 154342,
+    "artist_country": "DE",
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +251,15 @@
     "artist": "Paul Young",
     "date": "12.10.2025",
     "time": "23:28",
-    "listeners": 326
+    "listeners": 326,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2005,
+    "duration_ms": 214381,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +267,16 @@
     "artist": "Unique Ii",
     "date": "12.10.2025",
     "time": "23:24",
-    "listeners": 328
+    "listeners": 328,
+    "lyricists": null,
+    "album": "LEVEL II",
+    "release_year": 2004,
+    "duration_ms": 198200,
+    "artist_country": "AT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +284,16 @@
     "artist": "Frankie Goes To Hollywood",
     "date": "12.10.2025",
     "time": "23:20",
-    "listeners": 339
+    "listeners": 339,
+    "lyricists": null,
+    "album": "Bang! (Here Comes A Supernova)",
+    "release_year": 2003,
+    "duration_ms": 443234,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +301,16 @@
     "artist": "Army Of Lovers",
     "date": "12.10.2025",
     "time": "23:17",
-    "listeners": 377
+    "listeners": 377,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +318,15 @@
     "artist": "Anita Ward",
     "date": "12.10.2025",
     "time": "23:13",
-    "listeners": 354
+    "listeners": 354,
+    "lyricists": null,
+    "album": "Ring My Bell",
+    "release_year": 2007,
+    "duration_ms": 491933,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +334,15 @@
     "artist": "The Bangles",
     "date": "12.10.2025",
     "time": "23:10",
-    "listeners": 357
+    "listeners": 357,
+    "lyricists": null,
+    "album": "The Bangles Greatest Hits",
+    "release_year": 2022,
+    "duration_ms": 184863,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +350,15 @@
     "artist": "Technotronic",
     "date": "12.10.2025",
     "time": "23:07",
-    "listeners": 378
+    "listeners": 378,
+    "lyricists": null,
+    "album": "Pump Up the Jam",
+    "release_year": 1993,
+    "duration_ms": 320307,
+    "artist_country": "BE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +366,15 @@
     "artist": "Belinda Carlisle",
     "date": "12.10.2025",
     "time": "23:03",
-    "listeners": 382
+    "listeners": 382,
+    "lyricists": null,
+    "album": "Heaven on Earth",
+    "release_year": 2005,
+    "duration_ms": 247093,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -189,7 +382,15 @@
     "artist": "Twenty 4 Seven",
     "date": "12.10.2025",
     "time": "22:59",
-    "listeners": 399
+    "listeners": 399,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 1993,
+    "duration_ms": 237893,
+    "artist_country": "NL",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -197,7 +398,15 @@
     "artist": "Modern Talking",
     "date": "12.10.2025",
     "time": "22:55",
-    "listeners": 383
+    "listeners": 383,
+    "lyricists": null,
+    "album": "The Very Best of Modern Talking",
+    "release_year": 1986,
+    "duration_ms": 228507,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -205,7 +414,13 @@
     "artist": "Ottawan",
     "date": "12.10.2025",
     "time": "22:52",
-    "listeners": 403
+    "listeners": 403,
+    "lyricists": null,
+    "album": "Ottawan 2",
+    "release_year": 1997,
+    "duration_ms": 289027,
+    "artist_country": "FR",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -213,7 +428,15 @@
     "artist": "Moon Ray",
     "date": "12.10.2025",
     "time": "22:47",
-    "listeners": 454
+    "listeners": 454,
+    "lyricists": null,
+    "album": "Comanchero - Single",
+    "release_year": 2004,
+    "duration_ms": 237500,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -221,7 +444,16 @@
     "artist": "The Cranberries",
     "date": "12.10.2025",
     "time": "22:43",
-    "listeners": 451
+    "listeners": 451,
+    "lyricists": null,
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "release_year": 1993,
+    "duration_ms": 255107,
+    "artist_country": "IE",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -229,7 +461,16 @@
     "artist": "Scotch",
     "date": "12.10.2025",
     "time": "22:40",
-    "listeners": 455
+    "listeners": 455,
+    "lyricists": null,
+    "album": "Disco Band - Single",
+    "release_year": 2007,
+    "duration_ms": 300840,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -237,7 +478,15 @@
     "artist": "Miro Žbirka",
     "date": "12.10.2025",
     "time": "22:36",
-    "listeners": 506
+    "listeners": 506,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 2007,
+    "duration_ms": 197960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -245,7 +494,15 @@
     "artist": "Snap",
     "date": "12.10.2025",
     "time": "22:32",
-    "listeners": 528
+    "listeners": 528,
+    "lyricists": null,
+    "album": "SNAP! The Power Greatest Hits (Deluxe Version)",
+    "release_year": 2004,
+    "duration_ms": 227030,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -253,7 +510,15 @@
     "artist": "Soulsister",
     "date": "12.10.2025",
     "time": "22:29",
-    "listeners": 525
+    "listeners": 525,
+    "lyricists": null,
+    "album": "Live Savings",
+    "release_year": 1990,
+    "duration_ms": 280776,
+    "artist_country": "BE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -261,7 +526,15 @@
     "artist": "Ace Of Base",
     "date": "12.10.2025",
     "time": "22:25",
-    "listeners": 526
+    "listeners": 526,
+    "lyricists": null,
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 2007,
+    "duration_ms": 191040,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -269,7 +542,15 @@
     "artist": "Bucks Fizz",
     "date": "12.10.2025",
     "time": "22:22",
-    "listeners": 570
+    "listeners": 570,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2001,
+    "duration_ms": 218748,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -277,7 +558,15 @@
     "artist": "Imbruglia Natalie",
     "date": "12.10.2025",
     "time": "22:18",
-    "listeners": 553
+    "listeners": 553,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -285,7 +574,16 @@
     "artist": "Boney M",
     "date": "12.10.2025",
     "time": "22:14",
-    "listeners": 605
+    "listeners": 605,
+    "lyricists": null,
+    "album": "The Collection",
+    "release_year": 2012,
+    "duration_ms": 186067,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -293,7 +591,15 @@
     "artist": "Rush Jennifer",
     "date": "12.10.2025",
     "time": "22:10",
-    "listeners": 603
+    "listeners": 603,
+    "lyricists": null,
+    "album": "Jennifer Rush: Best of 1983-2010",
+    "release_year": 1985,
+    "duration_ms": 228147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -301,7 +607,16 @@
     "artist": "Sparks",
     "date": "12.10.2025",
     "time": "22:06",
-    "listeners": 655
+    "listeners": 655,
+    "lyricists": null,
+    "album": "Gratuitous Sax & Senseless Violins (Expanded Edition)",
+    "release_year": 1998,
+    "duration_ms": 276146,
+    "artist_country": "US",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -309,7 +624,15 @@
     "artist": "Queen",
     "date": "12.10.2025",
     "time": "22:02",
-    "listeners": 670
+    "listeners": 670,
+    "lyricists": null,
+    "album": "The Works (Deluxe Edition)",
+    "release_year": 2000,
+    "duration_ms": 201082,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -317,7 +640,15 @@
     "artist": "John Elton & Dee Kiki",
     "date": "12.10.2025",
     "time": "21:58",
-    "listeners": 636
+    "listeners": 636,
+    "lyricists": null,
+    "album": "Rock of the Westies (Remastered)",
+    "release_year": 1975,
+    "duration_ms": 275440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -325,7 +656,16 @@
     "artist": "Dj Bobo",
     "date": "12.10.2025",
     "time": "21:54",
-    "listeners": 696
+    "listeners": 696,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 1994,
+    "duration_ms": 225493,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -333,7 +673,15 @@
     "artist": "Desirelles",
     "date": "12.10.2025",
     "time": "21:50",
-    "listeners": 716
+    "listeners": 716,
+    "lyricists": null,
+    "album": "François",
+    "release_year": 1980,
+    "duration_ms": 264585,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -341,7 +689,15 @@
     "artist": "New Order",
     "date": "12.10.2025",
     "time": "21:45",
-    "listeners": 724
+    "listeners": 724,
+    "lyricists": null,
+    "album": "Total",
+    "release_year": 1983,
+    "duration_ms": 449907,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -349,7 +705,16 @@
     "artist": "Robert Miles",
     "date": "12.10.2025",
     "time": "21:42",
-    "listeners": 738
+    "listeners": 738,
+    "lyricists": null,
+    "album": "Dance Vault Mixes: Robert Miles - Children - EP",
+    "release_year": 1996,
+    "duration_ms": 243267,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -357,7 +722,15 @@
     "artist": "Goombay Dance Band",
     "date": "12.10.2025",
     "time": "21:38",
-    "listeners": 781
+    "listeners": 781,
+    "lyricists": null,
+    "album": "Land of Gold",
+    "release_year": 1999,
+    "duration_ms": 265500,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -365,7 +738,15 @@
     "artist": "Haddaway",
     "date": "12.10.2025",
     "time": "21:33",
-    "listeners": 770
+    "listeners": 770,
+    "lyricists": null,
+    "album": "Rock My Heart - EP",
+    "release_year": 1994,
+    "duration_ms": 250933,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -373,7 +754,18 @@
     "artist": "Madonna",
     "date": "12.10.2025",
     "time": "21:29",
-    "listeners": 805
+    "listeners": 805,
+    "lyricists": [
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Like a Prayer",
+    "release_year": 1989,
+    "duration_ms": 303493,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -381,7 +773,15 @@
     "artist": "Inner Circle",
     "date": "12.10.2025",
     "time": "21:26",
-    "listeners": 860
+    "listeners": 860,
+    "lyricists": null,
+    "album": "Sweat (A La La La La Long) - Single",
+    "release_year": 1993,
+    "duration_ms": 227067,
+    "artist_country": "JM",
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -389,7 +789,15 @@
     "artist": "Diana Ross",
     "date": "12.10.2025",
     "time": "21:22",
-    "listeners": 883
+    "listeners": 883,
+    "lyricists": null,
+    "album": "Diana",
+    "release_year": 2003,
+    "duration_ms": 245563,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -397,6 +805,14 @@
     "artist": "Depeche Mode",
     "date": "12.10.2025",
     "time": "21:17",
-    "listeners": 904
+    "listeners": 904,
+    "lyricists": null,
+    "album": "Violator (Deluxe)",
+    "release_year": 1999,
+    "duration_ms": 372827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   }
 ]

@@ -10791,5 +10791,15 @@
     "genres": [
       "Hip-Hop"
     ]
+  },
+  "opus iii|it's a fine day": {
+    "release_year": 2004,
+    "artist_country": "GB",
+    "album": "100 Greatest Motivation Songs",
+    "duration_ms": 218893,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

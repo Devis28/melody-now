@@ -22,7 +22,7 @@ def health(response: Response):
     _no_cache(response)
     return {"ok": True}
 
-@app.get("/now")
+@app.get("/noww")
 def now(
     ts: int | None = Query(default=None, description="client Date.now() in ms"),
     debug: int | None = Query(default=None),

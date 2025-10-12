@@ -4,21 +4,45 @@
     "artist": "Nagy Peter Muk Petr",
     "date": "12.10.2025",
     "time": "12:39",
-    "listeners": 1741
+    "listeners": 1741,
+    "lyricists": null,
+    "album": "Spolu",
+    "release_year": 1989,
+    "duration_ms": 204040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Hráč",
     "artist": "Turbo",
     "date": "12.10.2025",
     "time": "12:34",
-    "listeners": 1726
+    "listeners": 1726,
+    "lyricists": null,
+    "album": "To Byla, Pánové, Jízda",
+    "release_year": 2004,
+    "duration_ms": 284733,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Bol Raz Jeden Žiak",
     "artist": "Grigorov Robo",
     "date": "12.10.2025",
     "time": "12:31",
-    "listeners": 1630
+    "listeners": 1630,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 191373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Lékořice",

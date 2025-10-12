@@ -2,8 +2,11 @@ from fastapi import FastAPI, Query, Response, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from melody_core import get_now_playing
 from fastapi.responses import PlainTextResponse
+import  os
 
 app = FastAPI(title="Melody Now - live", version="0.2.0")
+
+STATION_NAME = os.getenv("STATION_NAME", "Rádio Melody")
 
 # ak potrebuješ CORS pre GitHub Pages
 app.add_middleware(
@@ -33,7 +36,9 @@ def now(
     data = get_now_playing(override_ts=ts, debug=bool(debug))
     if response is not None:
         _no_cache(response)
-    return data
+    out = {"station": STATION_NAME}
+    out.update(data)
+    return out
 
 @app.get("/listeners", response_class=PlainTextResponse)
 def listeners_plain(

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Blaze Of Glory",
+    "artist": "Bon Jovi, Jon",
+    "date": "13.10.2025",
+    "time": "00:48",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Balada O Polných Vtákoch",
+    "artist": "Žbirka Miro",
+    "date": "13.10.2025",
+    "time": "00:45",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nekráčaj Predo Mnou",
+    "artist": "Smatanová Zuzana",
+    "date": "13.10.2025",
+    "time": "00:42",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Up Where We Belong",
     "artist": "Cocker Joe/Jennifer Warnes",
     "date": "13.10.2025",

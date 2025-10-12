@@ -4,63 +4,137 @@
     "artist": "Tučný Michal",
     "date": "12.10.2025",
     "time": "14:47",
-    "listeners": 1831
+    "listeners": 1831,
+    "lyricists": null,
+    "album": "Poslední Kovboj",
+    "release_year": 1980,
+    "duration_ms": 250760,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "title": "Líbezná",
     "artist": "David Michal",
     "date": "12.10.2025",
     "time": "14:44",
-    "listeners": 1784
+    "listeners": 1784,
+    "lyricists": null,
+    "album": "Mejdan Roku (Live)",
+    "release_year": 2010,
+    "duration_ms": 262853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Je To Vo Hviezdach",
     "artist": "Pavol Habera",
     "date": "12.10.2025",
     "time": "14:40",
-    "listeners": 1896
+    "listeners": 1896,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 1991,
+    "duration_ms": 198533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Všechno Nebo Nic",
     "artist": "Ewa Farna",
     "date": "12.10.2025",
     "time": "14:37",
-    "listeners": 1977
+    "listeners": 1977,
+    "lyricists": null,
+    "album": "Všechno nebo nic (z filmu \"Všechno Nebo Nic\") - Single",
+    "release_year": 2020,
+    "duration_ms": 176400,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Milujem",
     "artist": "Zenit",
     "date": "12.10.2025",
     "time": "14:33",
-    "listeners": 1744
+    "listeners": 1744,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 1989,
+    "duration_ms": 233960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Šumienky Z Polomu",
     "artist": "Dubasová Beáta",
     "date": "12.10.2025",
     "time": "14:28",
-    "listeners": 1885
+    "listeners": 1885,
+    "lyricists": null,
+    "album": "Úschovňa pohľadov",
+    "release_year": 1988,
+    "duration_ms": 288747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "A Tak Dál Nosíš Po Kapsách Sny Mládí",
     "artist": "Matuška Waldemar",
     "date": "12.10.2025",
     "time": "14:23",
-    "listeners": 1734
+    "listeners": 1734,
+    "lyricists": null,
+    "album": "Co Neodnesl Čas",
+    "release_year": 1991,
+    "duration_ms": 300107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Korálky Od Natálky",
     "artist": "Peter Nagy",
     "date": "12.10.2025",
     "time": "14:20",
-    "listeners": 1843
+    "listeners": 1843,
+    "lyricists": null,
+    "album": "Šachy robia človeka",
+    "release_year": 2015,
+    "duration_ms": 196627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Spěchám",
     "artist": "Hana Zagorová, Stanislav Hložek & Petr Kotvald",
     "date": "12.10.2025",
     "time": "14:17",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Můj čas",
+    "release_year": null,
+    "duration_ms": 193000,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Láska Moja",

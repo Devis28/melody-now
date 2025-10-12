@@ -4,140 +4,314 @@
     "artist": "Vidiek",
     "date": "12.10.2025",
     "time": "03:17",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Nechajte si ju!",
+    "release_year": 2012,
+    "duration_ms": 171013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "High Hopes",
     "artist": "Pink Floyd",
     "date": "12.10.2025",
     "time": "03:12",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Division Bell",
+    "release_year": 1994,
+    "duration_ms": 511013,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Live Is Life",
     "artist": "Opus",
     "date": "12.10.2025",
     "time": "03:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Live Is Life - Single",
+    "release_year": 1991,
+    "duration_ms": 249500,
+    "artist_country": "AT",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "SOS",
     "artist": "ABBA",
     "date": "12.10.2025",
     "time": "03:04",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ],
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1994,
+    "duration_ms": 201959,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Holding Out For A Hero",
     "artist": "Tyler Bonnie",
     "date": "12.10.2025",
     "time": "02:59",
-    "listeners": 200
+    "listeners": 200,
+    "lyricists": null,
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "release_year": 1984,
+    "duration_ms": 350705,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Free",
     "artist": "Lighthouse Family",
     "date": "12.10.2025",
     "time": "02:55",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "The Very Best Of",
+    "release_year": 2001,
+    "duration_ms": 317000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "San Francisco",
     "artist": "Mckenzie Scott",
     "date": "12.10.2025",
     "time": "02:53",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Always",
     "artist": "Bon Jovi",
     "date": "12.10.2025",
     "time": "02:47",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": [
+      "Jon Bon Jovi"
+    ],
+    "album": "Cross Road",
+    "release_year": 1995,
+    "duration_ms": 353027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Skúšame Sa Nájsť",
     "artist": "Peter Bič Project",
     "date": "12.10.2025",
     "time": "02:44",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Skúšame sa nájsť - Single",
+    "release_year": 2024,
+    "duration_ms": 187187,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Carrie",
     "artist": "Europe",
     "date": "12.10.2025",
     "time": "02:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Final Countdown (Expanded Edition)",
+    "release_year": 2013,
+    "duration_ms": 272133,
+    "artist_country": "SE",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
   },
   {
     "title": "Sweet Harmony",
     "artist": "Beloved, The",
     "date": "12.10.2025",
     "time": "02:34",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Sweet Harmony",
+    "release_year": 1993,
+    "duration_ms": 230911,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Srdce Jako Kniže Rohan",
     "artist": "Muller Richard",
     "date": "12.10.2025",
     "time": "02:30",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Power Of Love",
     "artist": "Rush Jennifer",
     "date": "12.10.2025",
     "time": "02:24",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Jennifer Rush",
+    "release_year": 1984,
+    "duration_ms": 361231,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Ty A Tvoja Sestra",
     "artist": "No Name",
     "date": "12.10.2025",
     "time": "02:21",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Best Of",
+    "release_year": 2022,
+    "duration_ms": 203107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I'd Love You To Want Me",
     "artist": "Lobo",
     "date": "12.10.2025",
     "time": "02:17",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Lobo"
+    ],
+    "album": "I'd Love You To Want Me - Single",
+    "release_year": 2008,
+    "duration_ms": 248973,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Youre My Heart Youre My Soul",
     "artist": "Modern Talking",
     "date": "12.10.2025",
     "time": "02:14",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1984,
+    "duration_ms": 202228,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Anjel",
     "artist": "Komajota",
     "date": "12.10.2025",
     "time": "02:11",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Casopriestor",
+    "release_year": 2007,
+    "duration_ms": 186613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Crying In Rain",
     "artist": "A-Ha",
     "date": "12.10.2025",
     "time": "02:07",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Hunting High & Low (Remastered)",
+    "release_year": 1985,
+    "duration_ms": 228480,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Moonlight Shadow",
     "artist": "Oldfield Mike & Reilly Maggie",
     "date": "12.10.2025",
     "time": "02:03",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "The Mike Oldfield Collection",
+    "release_year": 1983,
+    "duration_ms": 218187,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Show Me Heaven",
     "artist": "Mckee Maria",
     "date": "12.10.2025",
     "time": "02:00",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": null,
+    "album": "Ultimate Collection: Maria McKee",
+    "release_year": 1993,
+    "duration_ms": 224707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Lady In Black",

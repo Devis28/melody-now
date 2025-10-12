@@ -4,14 +4,30 @@
     "artist": "Neckář Václav",
     "date": "12.10.2025",
     "time": "15:45",
-    "listeners": 1551
+    "listeners": 1551,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 1965,
+    "duration_ms": 323453,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Včely",
     "artist": "Smatanová Zuzana",
     "date": "12.10.2025",
     "time": "15:42",
-    "listeners": 1427
+    "listeners": 1427,
+    "lyricists": null,
+    "album": "Tabletky Odvahy",
+    "release_year": 2007,
+    "duration_ms": 185587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Aj Keď Bez Peňazí",

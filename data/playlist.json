@@ -4,14 +4,37 @@
     "artist": "Toto Cutugno",
     "date": "12.10.2025",
     "time": "21:02",
-    "listeners": 943
+    "listeners": 943,
+    "lyricists": null,
+    "album": "The Great Italian Songbook",
+    "release_year": 2000,
+    "duration_ms": 254987,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Holiday Rap",
     "artist": "Mc Miker G. & Dj Sven",
     "date": "12.10.2025",
     "time": "20:57",
-    "listeners": 920
+    "listeners": 920,
+    "lyricists": [
+      "Brian Bennett",
+      "Bruce Welch",
+      "Curtis Hudson",
+      "DJ Sven",
+      "Lisa Stevens",
+      "MC Miker G"
+    ],
+    "album": "Holiday Rap - Single",
+    "release_year": 2004,
+    "duration_ms": 267889,
+    "artist_country": "NL",
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "title": "Cheri Cheri Lady",

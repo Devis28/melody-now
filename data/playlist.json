@@ -5,7 +5,16 @@
     "artist": "Scotch",
     "date": "12.10.2025",
     "time": "22:40",
-    "listeners": 480
+    "listeners": 480,
+    "lyricists": null,
+    "album": "Disco Band - Single",
+    "release_year": 2001,
+    "duration_ms": 300840,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Miro Žbirka",
     "date": "12.10.2025",
     "time": "22:36",
-    "listeners": 486
+    "listeners": 486,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 2007,
+    "duration_ms": 197960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Power",

@@ -1,6 +1,7 @@
-from fastapi import FastAPI, Query, Response
+from fastapi import FastAPI, Query, Response, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from melody_core import get_now_playing
+from fastapi.responses import PlainTextResponse
 
 app = FastAPI(title="Melody Now - live", version="0.2.0")
 
@@ -33,3 +34,18 @@ def now(
     if response is not None:
         _no_cache(response)
     return data
+
+@app.get("/listeners", response_class=PlainTextResponse)
+def listeners_plain(
+    ts: int | None = Query(default=None, description="client Date.now() in ms"),
+    response: Response = None
+):
+    try:
+        data = get_now_playing(override_ts=ts)
+        n = int(data.get("listeners", 0))
+    except Exception:
+        # keď sa nepodarí dohľadať, vráť HTTP 503
+        raise HTTPException(status_code=503, detail="listeners unavailable")
+    if response is not None:
+        _no_cache(response)
+    return str(n)

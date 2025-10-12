@@ -73430,5 +73430,305 @@
     "genres": [
       "Pop"
     ]
-  }
+  },
+  {
+		"title": "Everybody Hurts",
+		"artist": "R.E.M.",
+		"date": "29.09.2025",
+		"time": "15:18"
+	},
+	{
+		"title": "Love Of The Common People",
+		"artist": "Paul Young",
+		"date": "29.09.2025",
+		"time": "15:13"
+	},
+	{
+		"title": "Be My Baby",
+		"artist": "Ronettes, The",
+		"date": "29.09.2025",
+		"time": "15:11"
+	},
+	{
+		"title": "Because You Loved Me",
+		"artist": "Céline Dion",
+		"date": "29.09.2025",
+		"time": "15:06"
+	},
+	{
+		"title": "Dávej, Ber",
+		"artist": "Tofi Sagvan",
+		"date": "29.09.2025",
+		"time": "15:03"
+	},
+	{
+		"title": "Bed Of Roses",
+		"artist": "Bon Jovi",
+		"date": "29.09.2025",
+		"time": "14:52"
+	},
+	{
+		"title": "Čerešně",
+		"artist": "Hana Hegerová",
+		"date": "29.09.2025",
+		"time": "14:49"
+	},
+	{
+		"title": "Maniac",
+		"artist": "Michael Sembello",
+		"date": "29.09.2025",
+		"time": "14:45"
+	},
+	{
+		"title": "Eternal Flame",
+		"artist": "The Bangles",
+		"date": "29.09.2025",
+		"time": "14:39"
+	},
+	{
+		"title": "Can't Help Falling In Love",
+		"artist": "Ub 40",
+		"date": "29.09.2025",
+		"time": "14:36"
+	},
+	{
+		"title": "Eldorado",
+		"artist": "Goombay Dance Band",
+		"date": "29.09.2025",
+		"time": "14:32"
+	},
+	{
+		"title": "I'm Still Standing",
+		"artist": "Elton John",
+		"date": "29.09.2025",
+		"time": "14:29"
+	},
+	{
+		"title": "Pokoj V Duši",
+		"artist": "Jana Kirschner",
+		"date": "29.09.2025",
+		"time": "14:24"
+	},
+	{
+		"title": "We Will Rock You",
+		"artist": "Queen",
+		"date": "29.09.2025",
+		"time": "14:22"
+	},
+	{
+		"title": "Forever Young",
+		"artist": "Alphaville",
+		"date": "29.09.2025",
+		"time": "14:18"
+	},
+	{
+		"title": "Strong Enough",
+		"artist": "Cher",
+		"date": "29.09.2025",
+		"time": "14:13"
+	},
+	{
+		"title": "Ti Amo",
+		"artist": "Umberto Tozzi",
+		"date": "29.09.2025",
+		"time": "14:09"
+	},
+	{
+		"title": "Jump",
+		"artist": "Van Halen",
+		"date": "29.09.2025",
+		"time": "14:05"
+	},
+	{
+		"title": "S Nohami Na Stole",
+		"artist": "Nagy Peter",
+		"date": "29.09.2025",
+		"time": "14:01"
+	},
+	{
+		"title": "Say You, Say Me",
+		"artist": "Lionel Richie",
+		"date": "29.09.2025",
+		"time": "13:54"
+	},
+	{
+		"title": "Yesterday",
+		"artist": "The Beatles",
+		"date": "29.09.2025",
+		"time": "13:52"
+	},
+	{
+		"title": "Chlap Z Kríža",
+		"artist": "Tobias Szidi",
+		"date": "29.09.2025",
+		"time": "13:47"
+	},
+	{
+		"title": "La Luna",
+		"artist": "Belinda Carlisle",
+		"date": "29.09.2025",
+		"time": "13:43"
+	},
+	{
+		"title": "One Way Ticket",
+		"artist": "Eruption",
+		"date": "29.09.2025",
+		"time": "13:40"
+	},
+	{
+		"title": "The River Of Dreams",
+		"artist": "Joel Billy",
+		"date": "29.09.2025",
+		"time": "13:36"
+	},
+	{
+		"title": "Modlitba Lásky",
+		"artist": "Robo Grigorov",
+		"date": "29.09.2025",
+		"time": "13:32"
+	},
+	{
+		"title": "Tri Slová",
+		"artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+		"date": "29.09.2025",
+		"time": "13:28"
+	},
+	{
+		"title": "(Everything I Do) I Do It For You",
+		"artist": "Adams Bryan",
+		"date": "29.09.2025",
+		"time": "13:24"
+	},
+	{
+		"title": "Nothing's Gonna Stop Me Now",
+		"artist": "Samantha Fox",
+		"date": "29.09.2025",
+		"time": "13:20"
+	},
+	{
+		"title": "Honey Honey",
+		"artist": "Abba",
+		"date": "29.09.2025",
+		"time": "13:17"
+	},
+	{
+		"title": "Only Time (Two Tribes Remix)",
+		"artist": "Enya",
+		"date": "29.09.2025",
+		"time": "13:14"
+	},
+	{
+		"title": "Voňavky Dievčat",
+		"artist": "Patejdl Vašo",
+		"date": "29.09.2025",
+		"time": "13:09"
+	},
+	{
+		"title": "How Deep Is Your Love",
+		"artist": "The Bee Gees",
+		"date": "29.09.2025",
+		"time": "13:05"
+	},
+	{
+		"title": "It's My Life",
+		"artist": "Dr. Alban",
+		"date": "29.09.2025",
+		"time": "13:01"
+	},
+	{
+		"title": "Sweet Harmony",
+		"artist": "Beloved, The",
+		"date": "29.09.2025",
+		"time": "12:53"
+	},
+	{
+		"title": "Zbohom Buď, Lipova Lyzka,…",
+		"artist": "Dočolomanský Michal",
+		"date": "29.09.2025",
+		"time": "12:50"
+	},
+	{
+		"title": "Maria Magdalena",
+		"artist": "Sandra",
+		"date": "29.09.2025",
+		"time": "12:46"
+	},
+	{
+		"title": "Za Dverami Mojej Izby",
+		"artist": "Beata Dubasová",
+		"date": "29.09.2025",
+		"time": "12:41"
+	},
+	{
+		"title": "Lay Back In The Arms Of Someone",
+		"artist": "Smokie",
+		"date": "29.09.2025",
+		"time": "12:37"
+	},
+	{
+		"title": "Skúšky Z Lásky",
+		"artist": "Gravis",
+		"date": "29.09.2025",
+		"time": "12:34"
+	},
+	{
+		"title": "One Of Us",
+		"artist": "Osborne Joan",
+		"date": "29.09.2025",
+		"time": "12:29"
+	},
+	{
+		"title": "Oh, Pretty Woman",
+		"artist": "Orbison Roy",
+		"date": "29.09.2025",
+		"time": "12:26"
+	},
+	{
+		"title": "I Got You Babe",
+		"artist": "Ub 40 Hynde Chrissie",
+		"date": "29.09.2025",
+		"time": "12:23"
+	},
+	{
+		"title": "Beautiful Life",
+		"artist": "Ace Of Base",
+		"date": "29.09.2025",
+		"time": "12:19"
+	},
+	{
+		"title": "Ma Baker",
+		"artist": "Boney M.",
+		"date": "29.09.2025",
+		"time": "12:15"
+	},
+	{
+		"title": "Človečina",
+		"artist": "Elán",
+		"date": "29.09.2025",
+		"time": "12:09"
+	},
+	{
+		"title": "To Be With You",
+		"artist": "Mr. Big",
+		"date": "29.09.2025",
+		"time": "12:06"
+	},
+	{
+		"title": "Okno Mé Lásky",
+		"artist": "Olympic",
+		"date": "29.09.2025",
+		"time": "12:01"
+	},
+	{
+		"title": "Careless Whisper",
+		"artist": "Michael, George",
+		"date": "29.09.2025",
+		"time": "11:54"
+	},
+	{
+		"title": "Yes Sir, I Can Boogie",
+		"artist": "Baccara",
+		"date": "29.09.2025",
+		"time": "11:49"
+	}
 ]

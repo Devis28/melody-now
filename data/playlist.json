@@ -4,14 +4,31 @@
     "artist": "Pavel Roth",
     "date": "12.10.2025",
     "time": "07:54",
-    "listeners": 471
+    "listeners": 471,
+    "lyricists": null,
+    "album": "Krásnější Než Růže",
+    "release_year": 1998,
+    "duration_ms": 257253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Snad Jsem To Zavinil Já",
     "artist": "Olympic",
     "date": "12.10.2025",
     "time": "07:50",
-    "listeners": 465
+    "listeners": 465,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 183200,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Lovesong",

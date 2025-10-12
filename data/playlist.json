@@ -4,14 +4,30 @@
     "artist": "Miro Žbirka",
     "date": "12.10.2025",
     "time": "11:41",
-    "listeners": 1416
+    "listeners": 1416,
+    "lyricists": null,
+    "album": "Samozrejmy Svet",
+    "release_year": 2002,
+    "duration_ms": 237400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Chýbaš Mi",
     "artist": "Grigorov Robo Midi",
     "date": "12.10.2025",
     "time": "11:37",
-    "listeners": 1397
+    "listeners": 1397,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Cecka Sbira Cecka",

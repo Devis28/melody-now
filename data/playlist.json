@@ -4,42 +4,90 @@
     "artist": "Matuška Waldemar",
     "date": "12.10.2025",
     "time": "18:32",
-    "listeners": 1164
+    "listeners": 1164,
+    "lyricists": null,
+    "album": "Zpívá Waldemar Matuška",
+    "release_year": 1963,
+    "duration_ms": 239947,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nonstop",
     "artist": "David Michal",
     "date": "12.10.2025",
     "time": "18:29",
-    "listeners": 1205
+    "listeners": 1205,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 211960,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Čo Ak",
     "artist": "I.M.T. Smile",
     "date": "12.10.2025",
     "time": "18:26",
-    "listeners": 1198
+    "listeners": 1198,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2020,
+    "duration_ms": 197947,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Řeka Lásky",
     "artist": "Marie Rottrová",
     "date": "12.10.2025",
     "time": "18:22",
-    "listeners": 1255
+    "listeners": 1255,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2003,
+    "duration_ms": 200307,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Ak Náhodou",
     "artist": "Rolincová Darina",
     "date": "12.10.2025",
     "time": "18:20",
-    "listeners": 1229
+    "listeners": 1229,
+    "lyricists": null,
+    "album": "Kto Chce & Ak Náhodou - Single",
+    "release_year": 1987,
+    "duration_ms": 163067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Na Ptáky Jsme Krátký",
     "artist": "Ledecký Janek",
     "date": "12.10.2025",
     "time": "18:16",
-    "listeners": 1205
+    "listeners": 1205,
+    "lyricists": null,
+    "album": "Na ptáky jsme krátký",
+    "release_year": 1992,
+    "duration_ms": 215333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Láska",

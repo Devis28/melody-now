@@ -36,16 +36,7 @@ def now(
     return data
 
 @app.get("/listeners", response_class=PlainTextResponse)
-def listeners_plain(
-    ts: int | None = Query(default=None, description="client Date.now() in ms"),
-    response: Response = None
-):
-    try:
-        data = get_now_playing(override_ts=ts)
-        n = int(data.get("listeners", 0))
-    except Exception:
-        # keď sa nepodarí dohľadať, vráť HTTP 503
-        raise HTTPException(status_code=503, detail="listeners unavailable")
-    if response is not None:
-        _no_cache(response)
-    return str(n)
+def listeners_plain(ts: int | None = Query(default=None), response: Response = None):
+    data = get_now_playing(override_ts=ts)
+    if response is not None: _no_cache(response)
+    return str(int(data.get("listeners", 0)))

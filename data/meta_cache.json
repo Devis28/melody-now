@@ -605,5 +605,20 @@
     "genres": [
       "Pop"
     ]
+  },
+  "r.e.m.|everybody hurts": {
+    "release_year": 1999,
+    "artist_country": "US",
+    "album": "Automatic For The People",
+    "duration_ms": 320351
+  },
+  "iveta bartošová|knoflíky lásky": {
+    "release_year": 2008,
+    "artist_country": "CZ",
+    "album": "Knoflíky Lásky",
+    "duration_ms": 188387,
+    "genres": [
+      "Pop"
+    ]
   }
 }

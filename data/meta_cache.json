@@ -10670,5 +10670,22 @@
     "genres": [
       "Pop"
     ]
+  },
+  "zagorová hana|duhová víla": {
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "release_year": 1995,
+    "duration_ms": 169400,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "marika gombitová|budem tu s vami": {
+    "artist_country": "SK",
+    "release_year": 2001,
+    "album": "Nevy(í)dané Rarity",
+    "duration_ms": 165600,
+    "genres": [
+      "Pop"
+    ]
   }
 }

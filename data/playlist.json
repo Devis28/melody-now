@@ -73220,87 +73220,101 @@
     ]
   },
   {
-		"title": "Duhová Víla",
-		"artist": "Zagorová Hana & Rezek Petr",
-		"date": "29.09.2025",
-		"time": "16:18"
-	},
-	{
-		"title": "There's A Party",
-		"artist": "DJ Bobo",
-		"date": "29.09.2025",
-		"time": "16:14"
-	},
-	{
-		"title": "V Slovenských Dolinách",
-		"artist": "Duchoň Karol",
-		"date": "29.09.2025",
-		"time": "16:12"
-	},
-	{
-		"title": "Beds Are Burning",
-		"artist": "Midnight Oil",
-		"date": "29.09.2025",
-		"time": "16:07"
-	},
-	{
-		"title": "Stín Katedrál",
-		"artist": "Shalom",
-		"date": "29.09.2025",
-		"time": "16:04"
-	},
-	{
-		"title": "Budem Tu S Vami",
-		"artist": "Marika Gombitová",
-		"date": "29.09.2025",
-		"time": "16:03"
-	},
-	{
-		"title": "When I Need You",
-		"artist": "Leo Sayer",
-		"date": "29.09.2025",
-		"time": "15:56"
-	},
-	{
-		"title": "Kristínka Iba Spí",
-		"artist": "Nagy Peter",
-		"date": "29.09.2025",
-		"time": "15:51"
-	},
-	{
-		"title": "Ako Obrázok",
-		"artist": "Miro Žbirka",
-		"date": "29.09.2025",
-		"time": "15:49"
-	},
-	{
-		"title": "I Promised Myself",
-		"artist": "Kamen, Nick",
-		"date": "29.09.2025",
-		"time": "15:41"
-	},
-	{
-		"title": "You Win Again",
-		"artist": "The Bee Gees",
-		"date": "29.09.2025",
-		"time": "15:38"
-	},
-	{
-		"title": "An Angel",
-		"artist": "Kelly Family, The",
-		"date": "29.09.2025",
-		"time": "15:34"
-	},
-	{
-		"title": "Gloria",
-		"artist": "Tozzi, Umberto",
-		"date": "29.09.2025",
-		"time": "15:26"
-	},
-	{
-		"title": "Muzikantské Byty",
-		"artist": "Patejdl Vašo & Dubasová Beáta",
-		"date": "29.09.2025",
-		"time": "15:23"
-	}
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana & Rezek Petr",
+    "date": "29.09.2025",
+    "time": "16:18",
+    "listeners": 2352
+  },
+  {
+    "title": "There's A Party",
+    "artist": "DJ Bobo",
+    "date": "29.09.2025",
+    "time": "16:14",
+    "listeners": 2518
+  },
+  {
+    "title": "V Slovenských Dolinách",
+    "artist": "Duchoň Karol",
+    "date": "29.09.2025",
+    "time": "16:12",
+    "listeners": 2054
+  },
+  {
+    "title": "Beds Are Burning",
+    "artist": "Midnight Oil",
+    "date": "29.09.2025",
+    "time": "16:07",
+    "listeners": 2146
+  },
+  {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "29.09.2025",
+    "time": "16:04",
+    "listeners": 1969
+  },
+  {
+    "title": "Budem Tu S Vami",
+    "artist": "Marika Gombitová",
+    "date": "29.09.2025",
+    "time": "16:03",
+    "listeners": 2063
+  },
+  {
+    "title": "When I Need You",
+    "artist": "Leo Sayer",
+    "date": "29.09.2025",
+    "time": "15:56",
+    "listeners": 1800
+  },
+  {
+    "title": "Kristínka Iba Spí",
+    "artist": "Nagy Peter",
+    "date": "29.09.2025",
+    "time": "15:51",
+    "listeners": 1768
+  },
+  {
+    "title": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "date": "29.09.2025",
+    "time": "15:49",
+    "listeners": 1703
+  },
+  {
+    "title": "I Promised Myself",
+    "artist": "Kamen, Nick",
+    "date": "29.09.2025",
+    "time": "15:41",
+    "listeners": 1601
+  },
+  {
+    "title": "You Win Again",
+    "artist": "The Bee Gees",
+    "date": "29.09.2025",
+    "time": "15:38",
+    "listeners": 1494
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "29.09.2025",
+    "time": "15:34",
+    "listeners": 1425
+  },
+  {
+    "title": "Gloria",
+    "artist": "Tozzi, Umberto",
+    "date": "29.09.2025",
+    "time": "15:26",
+    "listeners": 1203
+  },
+  {
+    "title": "Muzikantské Byty",
+    "artist": "Patejdl Vašo & Dubasová Beáta",
+    "date": "29.09.2025",
+    "time": "15:23",
+    "listeners": 1312
+  }
 ]

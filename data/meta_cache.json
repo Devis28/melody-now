@@ -10636,5 +10636,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "whigfield|saturday night": {
+    "release_year": 1999,
+    "artist_country": "DK",
+    "album": "Whigfield",
+    "duration_ms": 223827,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

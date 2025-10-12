@@ -31,13 +31,10 @@ def now(
     debug: int | None = Query(default=None),
     response: Response = None
 ):
-    """Živá skladba. `ts` spôsobí jemnú (±2 %) zmenu na každý klik."""
     data = get_now_playing(override_ts=ts, debug=bool(debug))
-
     if response is not None:
         _no_cache(response)
-
-    # 'station' bude prvý kľúč v odpovedi
+    # 'station' prvý, ostatné polia za ním
     return {"station": STATION_NAME, **data}
 
 @app.get("/listeners")

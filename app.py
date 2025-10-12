@@ -35,8 +35,11 @@ def now(
         _no_cache(response)
     return data
 
-@app.get("/listeners", response_class=PlainTextResponse)
-def listeners_plain(ts: int | None = Query(default=None), response: Response = None):
+@app.get("/listeners")
+def listeners(
+    ts: int | None = Query(default=None, description="client Date.now() in ms"),
+    response: Response = None,
+):
     data = get_now_playing(override_ts=ts)
-    if response is not None: _no_cache(response)
-    return str(int(data.get("listeners", 0)))
+    _no_cache(response)
+    return {"listeners": int(data.get("listeners", 0))}

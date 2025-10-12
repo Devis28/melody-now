@@ -4,21 +4,45 @@
     "artist": "Zuzana Smatanová",
     "date": "12.10.2025",
     "time": "11:52",
-    "listeners": 1443
+    "listeners": 1443,
+    "lyricists": null,
+    "album": "Horou - Single",
+    "release_year": 2023,
+    "duration_ms": 246659,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Obchodník S Deštěm",
     "artist": "Kryštof",
     "date": "12.10.2025",
     "time": "11:48",
-    "listeners": 1499
+    "listeners": 1499,
+    "lyricists": null,
+    "album": "Polocas",
+    "release_year": 2008,
+    "duration_ms": 206667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Já Půjdu Tam A Ty Tam",
     "artist": "Vondrackova Helena + Korn Jiri",
     "date": "12.10.2025",
     "time": "11:45",
-    "listeners": 1501
+    "listeners": 1501,
+    "lyricists": null,
+    "album": "Těch Pár Dnů",
+    "release_year": null,
+    "duration_ms": 179000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Zlodejka Snov Ii",

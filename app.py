@@ -26,13 +26,19 @@ def health(response: Response):
     return {"ok": True}
 
 @app.get("/now")
-def now(ts: int | None = None, debug: int | None = None, response: Response = None):
+def now(
+    ts: int | None = Query(default=None, description="client Date.now() in ms"),
+    debug: int | None = Query(default=None),
+    response: Response = None
+):
+    """Živá skladba. `ts` spôsobí jemnú (±2 %) zmenu na každý klik."""
     data = get_now_playing(override_ts=ts, debug=bool(debug))
+
     if response is not None:
         _no_cache(response)
-    # 'station' bude prvý
-    return {"station": STATION_NAME, **data}
 
+    # 'station' bude prvý kľúč v odpovedi
+    return {"station": STATION_NAME, **data}
 
 @app.get("/listeners")
 def listeners(

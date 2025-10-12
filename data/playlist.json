@@ -4,14 +4,30 @@
     "artist": "I.M.T. Smile",
     "date": "12.10.2025",
     "time": "09:28",
-    "listeners": 920
+    "listeners": 920,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2007,
+    "duration_ms": 178840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Mosty",
     "artist": "Zich Karel & Filipová Lenka",
     "date": "12.10.2025",
     "time": "09:24",
-    "listeners": 986
+    "listeners": 986,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 1981,
+    "duration_ms": 218240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Víc Než Přítel",

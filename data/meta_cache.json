@@ -10904,5 +10904,23 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "technotronic|pump up the jam": {
+    "release_year": 1993,
+    "artist_country": "BE",
+    "album": "Pump Up the Jam",
+    "duration_ms": 320307,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "twenty 4 seven|is it love": {
+    "release_year": 2004,
+    "artist_country": "NL",
+    "album": "Best Of",
+    "duration_ms": 237893,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

@@ -5,7 +5,16 @@
     "artist": "Army Of Lovers",
     "date": "12.10.2025",
     "time": "23:17",
-    "listeners": 347
+    "listeners": 347,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 2005,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Anita Ward",
     "date": "12.10.2025",
     "time": "23:13",
-    "listeners": 352
+    "listeners": 352,
+    "lyricists": null,
+    "album": "Ring My Bell",
+    "release_year": 2005,
+    "duration_ms": 491933,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "The Bangles",
     "date": "12.10.2025",
     "time": "23:10",
-    "listeners": 352
+    "listeners": 352,
+    "lyricists": null,
+    "album": "The Bangles Greatest Hits",
+    "release_year": 1986,
+    "duration_ms": 184863,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Technotronic",
     "date": "12.10.2025",
     "time": "23:07",
-    "listeners": 391
+    "listeners": 391,
+    "lyricists": null,
+    "album": "Pump Up the Jam",
+    "release_year": 1993,
+    "duration_ms": 320307,
+    "artist_country": "BE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Belinda Carlisle",
     "date": "12.10.2025",
     "time": "23:03",
-    "listeners": 378
+    "listeners": 378,
+    "lyricists": null,
+    "album": "Runaway Horses: The Tour (Live)",
+    "release_year": 2008,
+    "duration_ms": 319467,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Twenty 4 Seven",
     "date": "12.10.2025",
     "time": "22:59",
-    "listeners": 398
+    "listeners": 398,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 2004,
+    "duration_ms": 237893,
+    "artist_country": "NL",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

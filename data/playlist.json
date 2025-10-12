@@ -5,7 +5,15 @@
     "artist": "No Name",
     "date": "13.10.2025",
     "time": "01:13",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2014,
+    "duration_ms": 199733,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Fugees",
     "date": "13.10.2025",
     "time": "01:09",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Score",
+    "release_year": 1996,
+    "duration_ms": 298733,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Nagy Peter",
     "date": "13.10.2025",
     "time": "01:05",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Šachy robia človeka",
+    "release_year": 1989,
+    "duration_ms": 201813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "13.10.2025",
     "time": "01:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Bookends",
+    "release_year": 1968,
+    "duration_ms": 247420,
+    "artist_country": null,
+    "genres": [
+      "Classical"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Vengaboys",
     "date": "13.10.2025",
     "time": "00:58",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Boom, Boom, Boom, Boom!! - Single",
+    "release_year": 1998,
+    "duration_ms": 202583,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

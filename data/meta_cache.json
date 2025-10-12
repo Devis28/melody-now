@@ -513,5 +513,47 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "no name|čím to je": {
+    "release_year": 2014,
+    "artist_country": "SK",
+    "album": "Love Songs",
+    "duration_ms": 199733,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "the fugees|killing me softly": {
+    "artist_country": "US",
+    "album": "The Score",
+    "release_year": 1996,
+    "duration_ms": 298733,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "nagy peter|aj tak sme frajeri": {
+    "album": "Šachy robia človeka",
+    "release_year": 1989,
+    "duration_ms": 201813,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "simon, paul|mrs. robinson": {
+    "album": "Bookends",
+    "release_year": 1968,
+    "duration_ms": 247420,
+    "genres": [
+      "Classical"
+    ]
+  },
+  "vengaboys|sha la la": {
+    "album": "Boom, Boom, Boom, Boom!! - Single",
+    "release_year": 1998,
+    "duration_ms": 202583,
+    "genres": [
+      "Pop"
+    ]
   }
 }

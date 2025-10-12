@@ -4,21 +4,46 @@
     "artist": "Vondráčková Helena Neckář Václav",
     "date": "12.10.2025",
     "time": "19:43",
-    "listeners": 1217
+    "listeners": 1217,
+    "lyricists": null,
+    "album": "Rendez Vous",
+    "release_year": 1965,
+    "duration_ms": 143680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Ona Je Taká",
     "artist": "Polemic",
     "date": "12.10.2025",
     "time": "19:41",
-    "listeners": 1265
+    "listeners": 1265,
+    "lyricists": null,
+    "album": "Yahman !",
+    "release_year": 2007,
+    "duration_ms": 140120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Atlantída",
     "artist": "Miro Žbirka",
     "date": "12.10.2025",
     "time": "19:37",
-    "listeners": 1212
+    "listeners": 1212,
+    "lyricists": null,
+    "album": "Sezónne lásky",
+    "release_year": 2013,
+    "duration_ms": 223787,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Kapela",

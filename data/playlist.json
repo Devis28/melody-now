@@ -4,42 +4,91 @@
     "artist": "Hana Zagorová",
     "date": "12.10.2025",
     "time": "10:18",
-    "listeners": 1181
+    "listeners": 1181,
+    "lyricists": null,
+    "album": "Singly 1981-1990",
+    "release_year": 2004,
+    "duration_ms": 205000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Máma",
     "artist": "Lunetic",
     "date": "12.10.2025",
     "time": "10:15",
-    "listeners": 1083
+    "listeners": 1083,
+    "lyricists": null,
+    "album": "Cik-Cak",
+    "release_year": 2002,
+    "duration_ms": 213040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Povedzme",
     "artist": "Grigorov Robo",
     "date": "12.10.2025",
     "time": "10:10",
-    "listeners": 1054
+    "listeners": 1054,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2006,
+    "duration_ms": 294013,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Mám Pocit",
     "artist": "Cmorík Peter",
     "date": "12.10.2025",
     "time": "10:05",
-    "listeners": 1049
+    "listeners": 1049,
+    "lyricists": null,
+    "album": "Nadherny Den",
+    "release_year": 2006,
+    "duration_ms": 267587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Padá Hvězda",
     "artist": "Janda Dalibor",
     "date": "12.10.2025",
     "time": "10:02",
-    "listeners": 1112
+    "listeners": 1112,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 190627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Držím Ti Miesto",
     "artist": "Team",
     "date": "12.10.2025",
     "time": "09:56",
-    "listeners": 1033
+    "listeners": 1033,
+    "lyricists": null,
+    "album": "Team 3",
+    "release_year": 1994,
+    "duration_ms": 242760,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Škandál",

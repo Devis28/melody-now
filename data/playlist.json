@@ -4,28 +4,58 @@
     "artist": "Grigorov Robo",
     "date": "12.10.2025",
     "time": "07:08",
-    "listeners": 315
+    "listeners": 315,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "title": "Láska Je Tu S Nami",
     "artist": "Peter Nagy",
     "date": "12.10.2025",
     "time": "07:04",
-    "listeners": 321
+    "listeners": 321,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2011,
+    "duration_ms": 256667,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Kino Gloria",
     "artist": "Petr Rezek",
     "date": "12.10.2025",
     "time": "07:00",
-    "listeners": 308
+    "listeners": 308,
+    "lyricists": null,
+    "album": "Nejkrásnější Déšť...",
+    "release_year": 2004,
+    "duration_ms": 223573,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Klid, Mír A Pokora",
     "artist": "Muller Richard A Tereza Kerndlová",
     "date": "12.10.2025",
     "time": "06:55",
-    "listeners": 289
+    "listeners": 289,
+    "lyricists": null,
+    "album": "Výberovka",
+    "release_year": 2011,
+    "duration_ms": 273813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Dve Malá Krídla Tu Nejsou",

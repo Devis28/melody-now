@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Cherish",
+    "artist": "Madonna",
+    "date": "12.10.2025",
+    "time": "21:29",
+    "listeners": 220
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sweat (A La La La Long)",
+    "artist": "Inner Circle",
+    "date": "12.10.2025",
+    "time": "21:26",
+    "listeners": 211
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Upside Down",
     "artist": "Diana Ross",
     "date": "12.10.2025",

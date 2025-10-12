@@ -4,3 +4,6 @@ requests[standard]
 beautifulsoup4
 cloudscraper
 tzdata
+uvicorn==0.30.5
+websockets==12.*
+

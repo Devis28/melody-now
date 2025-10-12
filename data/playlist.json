@@ -4,28 +4,60 @@
     "artist": "Snap",
     "date": "12.10.2025",
     "time": "22:32",
-    "listeners": 499
+    "listeners": 499,
+    "lyricists": null,
+    "album": "SNAP! The Power Greatest Hits (Deluxe Version)",
+    "release_year": 1997,
+    "duration_ms": 227030,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "The Way To Your Heart",
     "artist": "Soulsister",
     "date": "12.10.2025",
     "time": "22:29",
-    "listeners": 507
+    "listeners": 507,
+    "lyricists": null,
+    "album": "Live Savings",
+    "release_year": 2024,
+    "duration_ms": 280776,
+    "artist_country": "BE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Sign",
     "artist": "Ace Of Base",
     "date": "12.10.2025",
     "time": "22:25",
-    "listeners": 521
+    "listeners": 521,
+    "lyricists": null,
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 2003,
+    "duration_ms": 191040,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Land Of Make Believe",
     "artist": "Bucks Fizz",
     "date": "12.10.2025",
     "time": "22:22",
-    "listeners": 508
+    "listeners": 508,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2005,
+    "duration_ms": 218748,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Torn",

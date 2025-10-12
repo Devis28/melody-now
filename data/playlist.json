@@ -4,28 +4,60 @@
     "artist": "Adam Ďurica",
     "date": "12.10.2025",
     "time": "16:28",
-    "listeners": 1210
+    "listeners": 1210,
+    "lyricists": null,
+    "album": "Akustické koncerty (Acoustic / Live)",
+    "release_year": 2023,
+    "duration_ms": 251033,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Lásko Voníš Deštem",
     "artist": "Marie Rottrová",
     "date": "12.10.2025",
     "time": "16:23",
-    "listeners": 1295
+    "listeners": 1295,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2002,
+    "duration_ms": 292333,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Poraď Si Sám",
     "artist": "Žbirka Miro",
     "date": "12.10.2025",
     "time": "16:21",
-    "listeners": 1350
+    "listeners": 1350,
+    "lyricists": null,
+    "album": "Nemoderný chalan",
+    "release_year": 1984,
+    "duration_ms": 142307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Až Jednou",
     "artist": "Shalom",
     "date": "12.10.2025",
     "time": "16:16",
-    "listeners": 1255
+    "listeners": 1255,
+    "lyricists": null,
+    "album": "5.4.3.2.1. Shalom!",
+    "release_year": 2008,
+    "duration_ms": 303933,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Malý Princ",

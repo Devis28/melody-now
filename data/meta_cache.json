@@ -10932,5 +10932,14 @@
       "Electronic",
       "Rock"
     ]
+  },
+  "maxx|get away": {
+    "release_year": 1994,
+    "artist_country": "DE",
+    "album": "Staying at Tamara's",
+    "duration_ms": 154342,
+    "genres": [
+      "Hip-Hop"
+    ]
   }
 }

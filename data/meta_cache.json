@@ -620,5 +620,23 @@
     "genres": [
       "Pop"
     ]
+  },
+  "the beatles|here comes the sun": {
+    "release_year": 1978,
+    "artist_country": "GB",
+    "album": "Abbey Road (Remastered)",
+    "duration_ms": 185733,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "imt smile|mám krásny sen (hawaii)": {
+    "release_year": 2015,
+    "artist_country": "SK",
+    "album": "Hlava Ma Sedem Otvorov",
+    "duration_ms": 189787,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Take Control",
+    "artist": "Dj Bobo",
+    "date": "12.10.2025",
+    "time": "21:54",
+    "listeners": 201
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voyage Voyage",
+    "artist": "Desirelles",
+    "date": "12.10.2025",
+    "time": "21:50",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Blue Monday",
     "artist": "New Order",
     "date": "12.10.2025",

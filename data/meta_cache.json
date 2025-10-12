@@ -10895,5 +10895,14 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "moon ray|comanchero": {
+    "release_year": 2004,
+    "artist_country": "IT",
+    "album": "Comanchero - Single",
+    "duration_ms": 237500,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

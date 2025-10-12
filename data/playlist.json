@@ -4,21 +4,45 @@
     "artist": "Habera Pavol",
     "date": "12.10.2025",
     "time": "17:45",
-    "listeners": 1139
+    "listeners": 1139,
+    "lyricists": null,
+    "album": "The Best Of",
+    "release_year": 1995,
+    "duration_ms": 250427,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Čoskoro",
     "artist": "Peter Bič Project",
     "date": "12.10.2025",
     "time": "17:42",
-    "listeners": 1226
+    "listeners": 1226,
+    "lyricists": null,
+    "album": "Čoskoro - Single",
+    "release_year": 2024,
+    "duration_ms": 207516,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Že Mi Je Ľúto",
     "artist": "Elán & Lojzo",
     "date": "12.10.2025",
     "time": "17:38",
-    "listeners": 1170
+    "listeners": 1170,
+    "lyricists": null,
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "release_year": 2008,
+    "duration_ms": 235173,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Miliónkrát",

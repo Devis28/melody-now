@@ -4,21 +4,46 @@
     "artist": "Michal David",
     "date": "12.10.2025",
     "time": "06:42",
-    "listeners": 255
+    "listeners": 255,
+    "lyricists": null,
+    "album": "Bláznivá Noc",
+    "release_year": 1983,
+    "duration_ms": 212253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Je Naprosto Nezbytné",
     "artist": "Hana Zagorová",
     "date": "12.10.2025",
     "time": "06:39",
-    "listeners": 264
+    "listeners": 264,
+    "lyricists": null,
+    "album": "Hanka",
+    "release_year": 2001,
+    "duration_ms": 180373,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Otázky",
     "artist": "Olympic",
     "date": "12.10.2025",
     "time": "06:34",
-    "listeners": 275
+    "listeners": 275,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1970,
+    "duration_ms": 253387,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Pieseň O Kamarátstve",

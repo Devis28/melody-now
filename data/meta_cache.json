@@ -10950,5 +10950,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "billy ocean|get outta my dreams, get into my car": {
+    "release_year": 1994,
+    "artist_country": "GB",
+    "album": "Love Really Hurts Without You (The Greatest Hits of Billy Ocean)",
+    "duration_ms": 283840,
+    "lyricists": [
+      "Billy Ocean",
+      "Robert John “Mutt” Lange"
+    ],
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   }
 }

@@ -503,5 +503,15 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bad boys blue|pretty young girl": {
+    "release_year": 1988,
+    "artist_country": "DE",
+    "album": "Super 20",
+    "duration_ms": 346507,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

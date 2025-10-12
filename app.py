@@ -1,3 +1,5 @@
+from datetime import time
+
 from fastapi import FastAPI, Query, Response, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from melody_core import get_now_playing
@@ -31,10 +33,10 @@ def now(
     debug: int | None = Query(default=None),
     response: Response = None
 ):
-    data = get_now_playing(override_ts=ts, debug=bool(debug))
+    effective_ts = ts if ts is not None else int(time.time() * 1000)
+    data = get_now_playing(override_ts=effective_ts, debug=bool(debug))
     if response is not None:
         _no_cache(response)
-    # 'station' prvý, ostatné polia za ním
     return {"station": STATION_NAME, **data}
 
 @app.get("/listeners")
@@ -42,6 +44,7 @@ def listeners(
     ts: int | None = Query(default=None, description="client Date.now() in ms"),
     response: Response = None,
 ):
-    data = get_now_playing(override_ts=ts)
+    effective_ts = ts if ts is not None else int(time.time() * 1000)
+    data = get_now_playing(override_ts=effective_ts)
     _no_cache(response)
     return {"listeners": int(data.get("listeners", 0))}

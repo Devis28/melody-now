@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "date": "13.10.2025",
+    "time": "00:08",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "13.10.2025",
+    "time": "00:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá Láska",
+    "artist": "Ráž Jožo",
+    "date": "12.10.2025",
+    "time": "23:59",
+    "listeners": 265
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fantasy",
+    "artist": "Black Box",
+    "date": "12.10.2025",
+    "time": "23:55",
+    "listeners": 263
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sunny",
     "artist": "Boney M",
     "date": "12.10.2025",

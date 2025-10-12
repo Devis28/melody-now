@@ -10757,5 +10757,22 @@
     "genres": [
       "Pop"
     ]
+  },
+  "zbirka miro|v slepych uličkách": {
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 246160,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "hex|mató a linda": {
+    "release_year": 1997,
+    "artist_country": "SK",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "duration_ms": 254000,
+    "genres": [
+      "Pop"
+    ]
   }
 }

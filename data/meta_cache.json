@@ -10828,5 +10828,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "new order|blue monday": {
+    "release_year": 2002,
+    "artist_country": "GB",
+    "album": "Total",
+    "duration_ms": 449907,
+    "genres": [
+      "Pop"
+    ]
   }
 }

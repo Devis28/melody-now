@@ -10847,5 +10847,25 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "boney m|brown girl in the ring": {
+    "release_year": 1978,
+    "artist_country": "DE",
+    "album": "The Collection",
+    "duration_ms": 186067,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
+  },
+  "sparks|when do i get to sing my way": {
+    "artist_country": "US",
+    "release_year": 1997,
+    "album": "Gratuitous Sax & Senseless Violins (Expanded Edition)",
+    "duration_ms": 276146,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

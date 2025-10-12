@@ -4,42 +4,92 @@
     "artist": "Imbruglia Natalie",
     "date": "12.10.2025",
     "time": "22:18",
-    "listeners": 580
+    "listeners": 580,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Brown Girl In The Ring",
     "artist": "Boney M",
     "date": "12.10.2025",
     "time": "22:14",
-    "listeners": 596
+    "listeners": 596,
+    "lyricists": null,
+    "album": "The Collection",
+    "release_year": 1978,
+    "duration_ms": 186067,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "title": "Ave Maria",
     "artist": "Rush Jennifer",
     "date": "12.10.2025",
     "time": "22:10",
-    "listeners": 577
+    "listeners": 577,
+    "lyricists": null,
+    "album": "Jennifer Rush: Best of 1983-2010",
+    "release_year": 1985,
+    "duration_ms": 228147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "When Do I Get To Sing My Way",
     "artist": "Sparks",
     "date": "12.10.2025",
     "time": "22:06",
-    "listeners": 616
+    "listeners": 616,
+    "lyricists": null,
+    "album": "Gratuitous Sax & Senseless Violins (Expanded Edition)",
+    "release_year": 1997,
+    "duration_ms": 276146,
+    "artist_country": "US",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "I Want To Break Free",
     "artist": "Queen",
     "date": "12.10.2025",
     "time": "22:02",
-    "listeners": 655
+    "listeners": 655,
+    "lyricists": null,
+    "album": "The Works (Deluxe Edition)",
+    "release_year": 1984,
+    "duration_ms": 201082,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Don't Go Breaking My Heart",
     "artist": "John Elton & Dee Kiki",
     "date": "12.10.2025",
     "time": "21:58",
-    "listeners": 659
+    "listeners": 659,
+    "lyricists": null,
+    "album": "Rock of the Westies (Remastered)",
+    "release_year": 1975,
+    "duration_ms": 275440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

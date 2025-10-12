@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Over The Rainbow/What A Wonderful World",
+    "artist": "Israel",
+    "date": "13.10.2025",
+    "time": "01:36",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ak Nie Si Moja",
+    "artist": "Patejdl, Vaso",
+    "date": "13.10.2025",
+    "time": "01:32",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neľutujem",
+    "artist": "Adam Ďurica",
+    "date": "13.10.2025",
+    "time": "01:29",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Something's Gotten Hold Of My Heart",
     "artist": "Gene Pitney/Marc Almond",
     "date": "13.10.2025",

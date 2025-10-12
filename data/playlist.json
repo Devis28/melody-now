@@ -4,14 +4,31 @@
     "artist": "Vidiek",
     "date": "12.10.2025",
     "time": "09:36",
-    "listeners": 936
+    "listeners": 936,
+    "lyricists": null,
+    "album": "Nechajte si ju!",
+    "release_year": 2012,
+    "duration_ms": 221040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nenapovídej",
     "artist": "David Michal",
     "date": "12.10.2025",
     "time": "09:31",
-    "listeners": 957
+    "listeners": 957,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 307853,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Veselá Pesnička",

@@ -74357,349 +74357,780 @@
     "artist": "Metalinda",
     "date": "29.09.2025",
     "time": "11:45",
-    "listeners": 1365
+    "listeners": 1365,
+    "lyricists": null,
+    "album": null,
+    "release_year": 1996,
+    "duration_ms": null,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "title": "She's Like The Wind",
     "artist": "Patrick Swayze",
     "date": "29.09.2025",
     "time": "11:41",
-    "listeners": 1347
+    "listeners": 1347,
+    "lyricists": [
+      "Patrick Swayze",
+      "Stacy Widelitz"
+    ],
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 2007,
+    "duration_ms": 232907,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "title": "Povídej",
     "artist": "Novák Petr",
     "date": "29.09.2025",
     "time": "11:39",
-    "listeners": 1338
+    "listeners": 1338,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 125867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Will You Be There",
     "artist": "Michael Jackson",
     "date": "29.09.2025",
     "time": "11:35",
-    "listeners": 1265
+    "listeners": 1265,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
+    "release_year": 1997,
+    "duration_ms": 219560,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Holding Out For A Hero",
     "artist": "Tyler Bonnie",
     "date": "29.09.2025",
     "time": "11:31",
-    "listeners": 1105
+    "listeners": 1105,
+    "lyricists": null,
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "release_year": 1984,
+    "duration_ms": 350705,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Znala Panna Pána",
     "artist": "Vondráčková Helena Neckář Václav",
     "date": "29.09.2025",
     "time": "11:29",
-    "listeners": 1307
+    "listeners": 1307,
+    "lyricists": null,
+    "album": "Rendez Vous",
+    "release_year": 1965,
+    "duration_ms": 143680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I'll Be Missing You",
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "29.09.2025",
     "time": "11:23",
-    "listeners": 1096
+    "listeners": 1096,
+    "lyricists": null,
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "release_year": 1997,
+    "duration_ms": 301520,
+    "artist_country": null,
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "title": "Balla...Balla! (Italian Hit Connection)",
     "artist": "Francesco Napoli",
     "date": "29.09.2025",
     "time": "11:19",
-    "listeners": 1103
+    "listeners": 1103,
+    "lyricists": null,
+    "album": "Balla... the First Dance",
+    "release_year": 2014,
+    "duration_ms": 352560,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Holubí Dům",
     "artist": "Jiří Schelinger",
     "date": "29.09.2025",
     "time": "11:15",
-    "listeners": 1105
+    "listeners": 1105,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 1990,
+    "duration_ms": 238640,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I Don't Want To Miss A Thing",
     "artist": "Aerosmith",
     "date": "29.09.2025",
     "time": "11:10",
-    "listeners": 1015
+    "listeners": 1015,
+    "lyricists": null,
+    "album": "I Don't Want To Miss A Thing EP",
+    "release_year": 2004,
+    "duration_ms": 299723,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Discopříběh",
     "artist": "David Michal",
     "date": "29.09.2025",
     "time": "11:07",
-    "listeners": 1123
+    "listeners": 1123,
+    "lyricists": null,
+    "album": "Discopříběh",
+    "release_year": 1987,
+    "duration_ms": 191443,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "California Dreamin'",
     "artist": "Mamas & The Papas",
     "date": "29.09.2025",
     "time": "11:04",
-    "listeners": 1050
+    "listeners": 1050,
+    "lyricists": null,
+    "album": "If You Can Believe Your Eyes and Ears",
+    "release_year": 1991,
+    "duration_ms": 162373,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Fading Like A Flower",
     "artist": "Roxette",
     "date": "29.09.2025",
     "time": "11:01",
-    "listeners": 999
+    "listeners": 999,
+    "lyricists": null,
+    "album": "Fading Like A Flower - Single",
+    "release_year": 2002,
+    "duration_ms": 145808,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Innocent Love",
     "artist": "Sandra",
     "date": "29.09.2025",
     "time": "10:55",
-    "listeners": 919
+    "listeners": 919,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 1987,
+    "duration_ms": 257160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "title": "Sha La La",
     "artist": "Vengaboys",
     "date": "29.09.2025",
     "time": "10:51",
-    "listeners": 954
+    "listeners": 954,
+    "lyricists": null,
+    "album": "Genie:Us - EP",
+    "release_year": 2019,
+    "duration_ms": 194904,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Lady Carneval",
     "artist": "Gott Karel",
     "date": "29.09.2025",
     "time": "10:48",
-    "listeners": 825
+    "listeners": 825,
+    "lyricists": null,
+    "album": "Lady Carneval",
+    "release_year": 1987,
+    "duration_ms": 180227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Holky Z Naší Školky",
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "29.09.2025",
     "time": "10:44",
-    "listeners": 886
+    "listeners": 886,
+    "lyricists": null,
+    "album": "Holky Z Naší Školky",
+    "release_year": 2004,
+    "duration_ms": 232493,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Whenever, Wherever",
     "artist": "Shakira",
     "date": "29.09.2025",
     "time": "10:41",
-    "listeners": 816
+    "listeners": 816,
+    "lyricists": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ],
+    "album": "Laundry Service",
+    "release_year": 2001,
+    "duration_ms": 196160,
+    "artist_country": "CO",
+    "genres": null
   },
   {
     "title": "Candle In The Wind",
     "artist": "Elton John",
     "date": "29.09.2025",
     "time": "10:37",
-    "listeners": 805
+    "listeners": 805,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition)",
+    "release_year": 1993,
+    "duration_ms": 228928,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "V Období Dažďa",
     "artist": "Gombitová Marika",
     "date": "29.09.2025",
     "time": "10:33",
-    "listeners": 871
+    "listeners": 871,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1987,
+    "duration_ms": 237587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Coco Jambo",
     "artist": "Mr. President",
     "date": "29.09.2025",
     "time": "10:29",
-    "listeners": 874
+    "listeners": 874,
+    "lyricists": null,
+    "album": "We See The Same Sun",
+    "release_year": 1996,
+    "duration_ms": 218733,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Sharazan",
     "artist": "Al Bano & Romina Power",
     "date": "29.09.2025",
     "time": "10:25",
-    "listeners": 774
+    "listeners": 774,
+    "lyricists": [
+      "Al Bano Carrisi",
+      "Ciro Dammicco",
+      "Romina Power"
+    ],
+    "album": "Al Bano e Romina Power",
+    "release_year": 2010,
+    "duration_ms": 264773,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Lambada",
     "artist": "Kaoma",
     "date": "29.09.2025",
     "time": "10:22",
-    "listeners": 857
+    "listeners": 857,
+    "lyricists": [
+      "Kaoma"
+    ],
+    "album": "La Lambada",
+    "release_year": 1991,
+    "duration_ms": 207467,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Ján Ámos Džínový",
     "artist": "Metalinda",
     "date": "29.09.2025",
     "time": "10:16",
-    "listeners": 779
+    "listeners": 779,
+    "lyricists": null,
+    "album": "Metalinda",
+    "release_year": 1990,
+    "duration_ms": 336968,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Fernando",
     "artist": "Abba",
     "date": "29.09.2025",
     "time": "10:12",
-    "listeners": 758
+    "listeners": 758,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 2006,
+    "duration_ms": 253220,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Locomotion",
     "artist": "Kylie Minogue",
     "date": "29.09.2025",
     "time": "10:08",
-    "listeners": 762
+    "listeners": 762,
+    "lyricists": null,
+    "album": "Showgirl - Homecoming (Live)",
+    "release_year": 1998,
+    "duration_ms": 283333,
+    "artist_country": "AU",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Fields Of Gold",
     "artist": "Sting",
     "date": "29.09.2025",
     "time": "10:04",
-    "listeners": 784
+    "listeners": 784,
+    "lyricists": [
+      "Sting"
+    ],
+    "album": "Ten Summoner's Tales",
+    "release_year": 1993,
+    "duration_ms": 222120,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "It's A Heartache",
     "artist": "Bonnie Tyler",
     "date": "29.09.2025",
     "time": "10:01",
-    "listeners": 845
+    "listeners": 845,
+    "lyricists": null,
+    "album": "It's a Heartache",
+    "release_year": 2024,
+    "duration_ms": 209760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Best",
     "artist": "Tina Turner",
     "date": "29.09.2025",
     "time": "09:53",
-    "listeners": 1017
+    "listeners": 1017,
+    "lyricists": null,
+    "album": "Simply the Best",
+    "release_year": 1994,
+    "duration_ms": 255937,
+    "artist_country": "CH",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "title": "Paloma Blanca",
     "artist": "The George Baker Selection",
     "date": "29.09.2025",
     "time": "09:49",
-    "listeners": 1055
+    "listeners": 1055,
+    "lyricists": null,
+    "album": "Paloma Blanca",
+    "release_year": 1975,
+    "duration_ms": 209360,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Voda Čo Ma Drží Nad Vodou",
     "artist": "Jožo Ráž",
     "date": "29.09.2025",
     "time": "09:44",
-    "listeners": 1076
+    "listeners": 1076,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2005,
+    "duration_ms": 309392,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Boys",
     "artist": "Sabrina",
     "date": "29.09.2025",
     "time": "09:40",
-    "listeners": 1222
+    "listeners": 1222,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2003,
+    "duration_ms": 231986,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "A Ty Se Ptáš Co Já",
     "artist": "Helena Vondráčková",
     "date": "29.09.2025",
     "time": "09:37",
-    "listeners": 1300
+    "listeners": 1300,
+    "lyricists": null,
+    "album": "Písničky Pro Dávné Lásky",
+    "release_year": 2007,
+    "duration_ms": 276000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Sign",
     "artist": "Ace Of Base",
     "date": "29.09.2025",
     "time": "09:34",
-    "listeners": 1043
+    "listeners": 1043,
+    "lyricists": null,
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 2003,
+    "duration_ms": 191040,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Live Is Life",
     "artist": "Opus",
     "date": "29.09.2025",
     "time": "09:30",
-    "listeners": 1331
+    "listeners": 1331,
+    "lyricists": null,
+    "album": "Live Is Life - Single",
+    "release_year": 1991,
+    "duration_ms": 249500,
+    "artist_country": "AT",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Kávu Si Osladím",
     "artist": "Gott Karel",
     "date": "29.09.2025",
     "time": "09:27",
-    "listeners": 1387
+    "listeners": 1387,
+    "lyricists": null,
+    "album": "Má Píseň",
+    "release_year": 1972,
+    "duration_ms": 156347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Krátke Lásky",
     "artist": "Team",
     "date": "29.09.2025",
     "time": "09:24",
-    "listeners": 1257
+    "listeners": 1257,
+    "lyricists": null,
+    "album": "7edem",
+    "release_year": 2001,
+    "duration_ms": 172547,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nothing's Gonna Change My Love For You",
     "artist": "Glenn Medeiros",
     "date": "29.09.2025",
     "time": "09:21",
-    "listeners": 1432
+    "listeners": 1432,
+    "lyricists": null,
+    "album": "Nothing's Gonna Change My Love for You",
+    "release_year": 1994,
+    "duration_ms": 231587,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I Will Survive",
     "artist": "Gloria Gaynor",
     "date": "29.09.2025",
     "time": "09:17",
-    "listeners": 1538
+    "listeners": 1538,
+    "lyricists": null,
+    "album": "I Will Survive: The Anthology",
+    "release_year": 2006,
+    "duration_ms": 481693,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "title": "Land Of Dreaming",
     "artist": "Masterboy",
     "date": "29.09.2025",
     "time": "09:14",
-    "listeners": 1417
+    "listeners": 1417,
+    "lyricists": null,
+    "album": "Generation of Love",
+    "release_year": 1995,
+    "duration_ms": 243000,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Flames Of Love",
     "artist": "Fancy",
     "date": "29.09.2025",
     "time": "09:09",
-    "listeners": 1495
+    "listeners": 1495,
+    "lyricists": [
+      "Alfons Weindorf",
+      "Fancy",
+      "Sabrina Lorenz"
+    ],
+    "album": "Hit Collection",
+    "release_year": 1998,
+    "duration_ms": 217880,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Unchained Melody",
     "artist": "The Righteous Brothers",
     "date": "29.09.2025",
     "time": "09:06",
-    "listeners": 1776
+    "listeners": 1776,
+    "lyricists": null,
+    "album": "The Very Best of the Righteous Brothers - Unchained Melody",
+    "release_year": 2003,
+    "duration_ms": 216267,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sunchyme",
     "artist": "Dario G",
     "date": "29.09.2025",
     "time": "09:02",
-    "listeners": 1601
+    "listeners": 1601,
+    "lyricists": [
+      "Dario G",
+      "Gilbert Gabriel",
+      "Nick Laird-Clowes"
+    ],
+    "album": "Sunmachine",
+    "release_year": 1998,
+    "duration_ms": 379200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Heal The World",
     "artist": "Jackson, Michael",
     "date": "29.09.2025",
     "time": "08:52",
-    "listeners": 1829
+    "listeners": 1829,
+    "lyricists": null,
+    "album": "The Essential Michael Jackson",
+    "release_year": 1991,
+    "duration_ms": 385713,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "O Bláznech",
     "artist": "Penk Michal",
     "date": "29.09.2025",
     "time": "08:47",
-    "listeners": 1895
+    "listeners": 1895,
+    "lyricists": null,
+    "album": "Hit Album",
+    "release_year": 1992,
+    "duration_ms": 278000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Living Next Door To Alice",
     "artist": "Smokie",
     "date": "29.09.2025",
     "time": "08:42",
-    "listeners": 2096
+    "listeners": 2096,
+    "lyricists": null,
+    "album": "Collections: Smokie",
+    "release_year": 1998,
+    "duration_ms": 207133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Vráť Mi Tie Hviezdy",
     "artist": "Dubasová Beáta",
     "date": "29.09.2025",
     "time": "08:39",
-    "listeners": 2068
+    "listeners": 2068,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 1993,
+    "duration_ms": 215000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Big In Japan",
     "artist": "Alphaville",
     "date": "29.09.2025",
     "time": "08:35",
-    "listeners": 2073
+    "listeners": 2073,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2008,
+    "duration_ms": 286160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sunny",
     "artist": "Boney M",
     "date": "29.09.2025",
     "time": "08:31",
-    "listeners": 2089
+    "listeners": 2089,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 1988,
+    "duration_ms": 241373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Chráň Svoje Bláznovstvá",
     "artist": "Peter Nagy",
     "date": "29.09.2025",
     "time": "08:22",
-    "listeners": 2076
+    "listeners": 2076,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 1996,
+    "duration_ms": 171240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   }
 ]

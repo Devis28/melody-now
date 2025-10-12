@@ -10712,5 +10712,23 @@
       "Pop",
       "Rock"
     ]
+  },
+  "jiří schelinger|holubí dům": {
+    "artist_country": "XC",
+    "release_year": 1990,
+    "album": "Holubí Dům",
+    "duration_ms": 238640,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "helena vondráčková|a ty se ptáš co já": {
+    "release_year": 2007,
+    "artist_country": "CZ",
+    "album": "Písničky Pro Dávné Lásky",
+    "duration_ms": 276000,
+    "genres": [
+      "Pop"
+    ]
   }
 }

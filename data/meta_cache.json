@@ -10645,5 +10645,30 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "maduar|do it": {
+    "release_year": 1994,
+    "artist_country": "SK",
+    "album": "Hafanana the Best of, Vol. 2",
+    "duration_ms": 258027,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "somerville jimmy|you make me feel (mighty real)": {
+    "album": "Read My Lips",
+    "release_year": 1989,
+    "duration_ms": 315427,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "the bee gees|tragedy": {
+    "album": "Spirits Having Flown",
+    "release_year": 1979,
+    "duration_ms": 303333,
+    "genres": [
+      "Pop"
+    ]
   }
 }

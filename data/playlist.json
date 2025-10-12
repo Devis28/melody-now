@@ -5,7 +5,15 @@
     "artist": "Bon Jovi, Jon",
     "date": "13.10.2025",
     "time": "00:48",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Blaze of Glory (Inspired by the Film \"Young Guns II\")",
+    "release_year": 1990,
+    "duration_ms": 335240,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Žbirka Miro",
     "date": "13.10.2025",
     "time": "00:45",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 190587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Smatanová Zuzana",
     "date": "13.10.2025",
     "time": "00:42",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Rozprávač",
+    "release_year": 2005,
+    "duration_ms": 205380,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

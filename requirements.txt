@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-requests
+requests[standard]
 beautifulsoup4
 cloudscraper
 tzdata

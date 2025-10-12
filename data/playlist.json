@@ -4,42 +4,94 @@
     "artist": "Bon Jovi",
     "date": "12.10.2025",
     "time": "05:46",
-    "listeners": 216
+    "listeners": 216,
+    "lyricists": [
+      "Jon Bon Jovi"
+    ],
+    "album": "Keep the Faith",
+    "release_year": 2016,
+    "duration_ms": 394528,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Susanna",
     "artist": "The Art Company",
     "date": "12.10.2025",
     "time": "05:41",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Susanna - Single",
+    "release_year": 2023,
+    "duration_ms": 285062,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Spending My Time",
     "artist": "Roxette",
     "date": "12.10.2025",
     "time": "05:36",
-    "listeners": 198
+    "listeners": 198,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 1992,
+    "duration_ms": 275667,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Neverending Story",
     "artist": "Limahl",
     "date": "12.10.2025",
     "time": "05:33",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
+    "release_year": 2008,
+    "duration_ms": 210013,
+    "artist_country": "GB",
+    "genres": null
   },
   {
     "title": "Nenahraditeľná",
     "artist": "Sima Martausová & For You",
     "date": "12.10.2025",
     "time": "05:29",
-    "listeners": 200
+    "listeners": 200,
+    "lyricists": null,
+    "album": "Len Tak Sa Stíšim",
+    "release_year": 2019,
+    "duration_ms": 252405,
+    "artist_country": "SK",
+    "genres": [
+      "Folk"
+    ]
   },
   {
     "title": "Time After Time",
     "artist": "Cyndi Lauper",
     "date": "12.10.2025",
     "time": "05:25",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": [
+      "Cyndi Lauper",
+      "Rob Hyman"
+    ],
+    "album": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+    "release_year": 2006,
+    "duration_ms": 243067,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Cirkus Leto",

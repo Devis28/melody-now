@@ -10730,5 +10730,15 @@
     "genres": [
       "Pop"
     ]
+  },
+  "aswad|shine": {
+    "release_year": 2005,
+    "artist_country": "GB",
+    "album": "Greatest Hits",
+    "duration_ms": 219560,
+    "genres": [
+      "Pop",
+      "Reggae"
+    ]
   }
 }

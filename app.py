@@ -1,13 +1,9 @@
-from datetime import time
-
 from fastapi import FastAPI, Query, Response, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from melody_core import get_now_playing
 from fastapi.responses import PlainTextResponse
-import os
 
 app = FastAPI(title="Melody Now - live", version="0.2.0")
-STATION_NAME = os.getenv("STATION_NAME", "Rádio Melody")
 
 # ak potrebuješ CORS pre GitHub Pages
 app.add_middleware(
@@ -33,18 +29,23 @@ def now(
     debug: int | None = Query(default=None),
     response: Response = None
 ):
-    effective_ts = ts if ts is not None else int(time.time() * 1000)
-    data = get_now_playing(override_ts=effective_ts, debug=bool(debug))
+    """Živá skladba. `ts` spôsobí jemnú (±2 %) zmenu na každý klik."""
+    data = get_now_playing(override_ts=ts, debug=bool(debug))
     if response is not None:
         _no_cache(response)
-    return {"station": STATION_NAME, **data}
+    return data
 
-@app.get("/listeners")
-def listeners(
+@app.get("/listeners", response_class=PlainTextResponse)
+def listeners_plain(
     ts: int | None = Query(default=None, description="client Date.now() in ms"),
-    response: Response = None,
+    response: Response = None
 ):
-    effective_ts = ts if ts is not None else int(time.time() * 1000)
-    data = get_now_playing(override_ts=effective_ts)
-    _no_cache(response)
-    return {"listeners": int(data.get("listeners", 0))}
+    try:
+        data = get_now_playing(override_ts=ts)
+        n = int(data.get("listeners", 0))
+    except Exception:
+        # keď sa nepodarí dohľadať, vráť HTTP 503
+        raise HTTPException(status_code=503, detail="listeners unavailable")
+    if response is not None:
+        _no_cache(response)
+    return str(n)

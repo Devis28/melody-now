@@ -10964,5 +10964,14 @@
       "Pop",
       "R&B"
     ]
+  },
+  "black box|fantasy": {
+    "release_year": 1997,
+    "artist_country": "IT",
+    "album": "Dreamland",
+    "duration_ms": 312987,
+    "genres": [
+      "Pop"
+    ]
   }
 }

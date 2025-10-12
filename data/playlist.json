@@ -5,7 +5,18 @@
     "artist": "Madonna",
     "date": "12.10.2025",
     "time": "21:29",
-    "listeners": 220
+    "listeners": 220,
+    "lyricists": [
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Like a Prayer",
+    "release_year": 1990,
+    "duration_ms": 303493,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Inner Circle",
     "date": "12.10.2025",
     "time": "21:26",
-    "listeners": 211
+    "listeners": 211,
+    "lyricists": null,
+    "album": "Sweat (A La La La La Long) - Single",
+    "release_year": 1993,
+    "duration_ms": 227067,
+    "artist_country": "JM",
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",

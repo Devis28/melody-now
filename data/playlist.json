@@ -4,42 +4,90 @@
     "artist": "Michal David",
     "date": "12.10.2025",
     "time": "17:16",
-    "listeners": 1187
+    "listeners": 1187,
+    "lyricists": null,
+    "album": "Non Stop",
+    "release_year": 2010,
+    "duration_ms": 196840,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Jó Tresne Zraly",
     "artist": "Matuška Waldemar",
     "date": "12.10.2025",
     "time": "17:13",
-    "listeners": 1157
+    "listeners": 1157,
+    "lyricists": null,
+    "album": "Textempore (Písně s texty Ivo Fischera)",
+    "release_year": 1965,
+    "duration_ms": 233240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Láska",
     "artist": "Gladiátor",
     "date": "12.10.2025",
     "time": "17:09",
-    "listeners": 1269
+    "listeners": 1269,
+    "lyricists": null,
+    "album": "Babylon Hotel",
+    "release_year": 2020,
+    "duration_ms": 236507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Veľa Lásky",
     "artist": "I.M.T. Smile",
     "date": "12.10.2025",
     "time": "17:05",
-    "listeners": 1191
+    "listeners": 1191,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2012,
+    "duration_ms": 195293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Dievča Neplač",
     "artist": "Brezovská Mirka",
     "date": "12.10.2025",
     "time": "17:02",
-    "listeners": 1203
+    "listeners": 1203,
+    "lyricists": null,
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "release_year": 2016,
+    "duration_ms": 197007,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Spomaľ",
     "artist": "Peha",
     "date": "12.10.2025",
     "time": "16:58",
-    "listeners": 1099
+    "listeners": 1099,
+    "lyricists": null,
+    "album": "Největší slovenské hity všech dob",
+    "release_year": 2008,
+    "duration_ms": 250027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Krátke Lásky",

@@ -4,42 +4,93 @@
     "artist": "Rottrová Marie",
     "date": "12.10.2025",
     "time": "07:28",
-    "listeners": 400
+    "listeners": 400,
+    "lyricists": null,
+    "album": "To Mám Tak Ráda",
+    "release_year": 1975,
+    "duration_ms": 222067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nervózna Família",
     "artist": "Ventil Rg",
     "date": "12.10.2025",
     "time": "07:25",
-    "listeners": 378
+    "listeners": 378,
+    "lyricists": null,
+    "album": "Ventil RG",
+    "release_year": 1991,
+    "duration_ms": 191067,
+    "artist_country": "SK",
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "title": "Mladosť",
     "artist": "Pavol Hammel",
     "date": "12.10.2025",
     "time": "07:23",
-    "listeners": 384
+    "listeners": 384,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 2013,
+    "duration_ms": 168587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Vždycky Jsem To Já",
     "artist": "Janda Dalibor",
     "date": "12.10.2025",
     "time": "07:18",
-    "listeners": 356
+    "listeners": 356,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 262147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Tabáček",
     "artist": "Chinaski",
     "date": "12.10.2025",
     "time": "07:15",
-    "listeners": 356
+    "listeners": 356,
+    "lyricists": null,
+    "album": "Na vlnách spolu tělem i duší (Best of Chinaski)",
+    "release_year": 2005,
+    "duration_ms": 209040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Pokoj V Duši",
     "artist": "Jana Kirschner",
     "date": "12.10.2025",
     "time": "07:12",
-    "listeners": 356
+    "listeners": 356,
+    "lyricists": null,
+    "album": "Živá",
+    "release_year": 2017,
+    "duration_ms": 228594,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Žuvačka Za Uchom",

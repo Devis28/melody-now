@@ -4,21 +4,45 @@
     "artist": "Gravis",
     "date": "12.10.2025",
     "time": "17:28",
-    "listeners": 1277
+    "listeners": 1277,
+    "lyricists": null,
+    "album": "Kolotoč masiek",
+    "release_year": 1989,
+    "duration_ms": 194235,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Chvíľu áno, chvíľu nie",
     "artist": "Hex",
     "date": "12.10.2025",
     "time": "17:24",
-    "listeners": 1116
+    "listeners": 1116,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2002,
+    "duration_ms": 226493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Všichni Jsou Už V Mexiku",
     "artist": "Michal Tučný",
     "date": "12.10.2025",
     "time": "17:20",
-    "listeners": 1172
+    "listeners": 1172,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "title": "Colu, Pijeme Colu",

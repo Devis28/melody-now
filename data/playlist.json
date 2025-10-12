@@ -4,14 +4,30 @@
     "artist": "Pavol Hammel",
     "date": "12.10.2025",
     "time": "11:19",
-    "listeners": 1325
+    "listeners": 1325,
+    "lyricists": null,
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1995,
+    "duration_ms": 152573,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nebude To Ľahké",
     "artist": "Müller Richard",
     "date": "12.10.2025",
     "time": "11:15",
-    "listeners": 1440
+    "listeners": 1440,
+    "lyricists": null,
+    "album": "Neuc Vtaka Lietat!",
+    "release_year": 1992,
+    "duration_ms": 233573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Maťo A Linda",

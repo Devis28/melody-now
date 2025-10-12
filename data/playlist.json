@@ -4,14 +4,30 @@
     "artist": "Žbirka Miro",
     "date": "12.10.2025",
     "time": "17:34",
-    "listeners": 1244
+    "listeners": 1244,
+    "lyricists": null,
+    "album": "Modrý album (Deluxe Edition 2021)",
+    "release_year": 2001,
+    "duration_ms": 287373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Hej Mistre Basu",
     "artist": "Hana Zagorova & Karel Wagner",
     "date": "12.10.2025",
     "time": "17:31",
-    "listeners": 1169
+    "listeners": 1169,
+    "lyricists": null,
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "release_year": 1996,
+    "duration_ms": 155227,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Daruj Mi Svoj Najkrajší Deň",

@@ -10687,5 +10687,21 @@
     "genres": [
       "Pop"
     ]
+  },
+  "enya|only time (two tribes remix)": {
+    "album": "Intense (Bonus Track Version)",
+    "release_year": 2013,
+    "duration_ms": 203307,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "dočolomanský michal|zbohom buď, lipova lyzka,…": {
+    "album": "14 naj",
+    "release_year": 2008,
+    "duration_ms": 187943,
+    "genres": [
+      "Pop"
+    ]
   }
 }

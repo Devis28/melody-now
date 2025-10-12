@@ -10837,5 +10837,15 @@
     "genres": [
       "Pop"
     ]
+  },
+  "dj bobo|take control": {
+    "release_year": 1994,
+    "artist_country": "CH",
+    "album": "Best Of",
+    "duration_ms": 225493,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

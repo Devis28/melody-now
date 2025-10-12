@@ -5,7 +5,16 @@
     "artist": "Dj Bobo",
     "date": "12.10.2025",
     "time": "21:54",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 1994,
+    "duration_ms": 225493,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Desirelles",
     "date": "12.10.2025",
     "time": "21:50",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "François",
+    "release_year": 1980,
+    "duration_ms": 264585,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

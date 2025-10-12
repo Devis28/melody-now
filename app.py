@@ -54,3 +54,21 @@ def listeners_plain(
     if response is not None:
         _no_cache(response)
     return str(n)
+
+from fastapi import WebSocket, WebSocketDisconnect
+
+@app.websocket("/ws/now")
+async def ws_now(ws: WebSocket):
+    await ws.accept()
+    last = None
+    try:
+        while True:
+            d = get_now_playing()
+            payload = {"station": STATION_NAME, **d}
+            if payload != last:
+                await ws.send_json(payload)
+                last = payload
+            await asyncio.sleep(5)
+    except WebSocketDisconnect:
+        pass
+

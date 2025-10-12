@@ -6,6 +6,7 @@ import  os
 from fastapi import WebSocket, WebSocketDisconnect
 import asyncio
 
+
 app = FastAPI(title="Melody Now - live", version="0.2.0")
 
 STATION_NAME = os.getenv("STATION_NAME", "Rádio Melody")
@@ -57,9 +58,9 @@ def listeners_plain(
         _no_cache(response)
     return str(n)
 
-from fastapi import WebSocket, WebSocketDisconnect
 
 @app.websocket("/ws/now")
+@app.websocket("/ws/now/")
 async def ws_now(ws: WebSocket):
     await ws.accept()
     last = None

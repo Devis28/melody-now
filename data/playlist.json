@@ -75169,349 +75169,772 @@
     "artist": "Myles Alannah",
     "date": "29.09.2025",
     "time": "08:17",
-    "listeners": 2276
+    "listeners": 2276,
+    "lyricists": null,
+    "album": "Alannah Myles",
+    "release_year": 1989,
+    "duration_ms": 287440,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "San Francisco",
     "artist": "Mckenzie Scott",
     "date": "29.09.2025",
     "time": "08:14",
-    "listeners": 2363
+    "listeners": 2363,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Love Message",
     "artist": "Love Message",
     "date": "29.09.2025",
     "time": "08:06",
-    "listeners": 2510
+    "listeners": 2510,
+    "lyricists": null,
+    "album": "Love Message (The 90s Version) - Single",
+    "release_year": 1996,
+    "duration_ms": 229177,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "The Look",
     "artist": "Roxette",
     "date": "29.09.2025",
     "time": "08:02",
-    "listeners": 2420
+    "listeners": 2420,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 1988,
+    "duration_ms": 237320,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Wonderful Life",
     "artist": "Black",
     "date": "29.09.2025",
     "time": "07:53",
-    "listeners": 2410
+    "listeners": 2410,
+    "lyricists": null,
+    "album": "Wonderful Life",
+    "release_year": 2004,
+    "duration_ms": 287933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Que Sera Mi Vida",
     "artist": "The Gibson Brothers",
     "date": "29.09.2025",
     "time": "07:49",
-    "listeners": 2173
+    "listeners": 2173,
+    "lyricists": null,
+    "album": "Cuba",
+    "release_year": 1992,
+    "duration_ms": 352533,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Nah Neh Nah",
     "artist": "Vaya Con Dios",
     "date": "29.09.2025",
     "time": "07:44",
-    "listeners": 2026
+    "listeners": 2026,
+    "lyricists": null,
+    "album": "Night Owls",
+    "release_year": 2002,
+    "duration_ms": 174533,
+    "artist_country": "BE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sen",
     "artist": "Mc Erik And Barbara",
     "date": "29.09.2025",
     "time": "07:41",
-    "listeners": 2324
+    "listeners": 2324,
+    "lyricists": null,
+    "album": "Second",
+    "release_year": 2023,
+    "duration_ms": 218427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Tell It To My Heart",
     "artist": "Taylor Dayne",
     "date": "29.09.2025",
     "time": "07:37",
-    "listeners": 2384
+    "listeners": 2384,
+    "lyricists": null,
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "release_year": 1988,
+    "duration_ms": 220880,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Tancujem S Tebou Rád",
     "artist": "Karol Duchoň",
     "date": "29.09.2025",
     "time": "07:34",
-    "listeners": 2017
+    "listeners": 2017,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 2006,
+    "duration_ms": 191960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Anjelik Môj",
     "artist": "Darina Rolincová",
     "date": "29.09.2025",
     "time": "07:30",
-    "listeners": 2254
+    "listeners": 2254,
+    "lyricists": null,
+    "album": "Téměř Růžový Příběh",
+    "release_year": 1998,
+    "duration_ms": 218600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Désenchantée",
     "artist": "Farmer Mylene",
     "date": "29.09.2025",
     "time": "07:20",
-    "listeners": 1769
+    "listeners": 1769,
+    "lyricists": null,
+    "album": "L'autre",
+    "release_year": 1991,
+    "duration_ms": 322760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Boat On The River",
     "artist": "Styx",
     "date": "29.09.2025",
     "time": "07:17",
-    "listeners": 1806
+    "listeners": 1806,
+    "lyricists": null,
+    "album": "Greatest Hits, Pt. 2",
+    "release_year": 1997,
+    "duration_ms": 191093,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Ty Ja A Moj Brat (Sklicka Dotykov)",
     "artist": "Modus",
     "date": "29.09.2025",
     "time": "07:13",
-    "listeners": 1728
+    "listeners": 1728,
+    "lyricists": null,
+    "album": "Kamil Peteraj \"80\"",
+    "release_year": 2005,
+    "duration_ms": 242787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "My Heart Will Go On",
     "artist": "Céline Dion",
     "date": "29.09.2025",
     "time": "07:06",
-    "listeners": 1661
+    "listeners": 1661,
+    "lyricists": null,
+    "album": "Let's Talk About Love",
+    "release_year": 1997,
+    "duration_ms": 280000,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Rivers Of Babylon",
     "artist": "Boney M.",
     "date": "29.09.2025",
     "time": "07:02",
-    "listeners": 1549
+    "listeners": 1549,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2018,
+    "duration_ms": 261200,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Leave A Light On",
     "artist": "Carlisle Belinda",
     "date": "29.09.2025",
     "time": "06:54",
-    "listeners": 1391
+    "listeners": 1391,
+    "lyricists": null,
+    "album": "Runaway Horses",
+    "release_year": 1989,
+    "duration_ms": 278360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Matka",
     "artist": "Tublatanka",
     "date": "29.09.2025",
     "time": "06:50",
-    "listeners": 1443
+    "listeners": 1443,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 1991,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Sugar Baby Love",
     "artist": "Rubettes, The",
     "date": "29.09.2025",
     "time": "06:46",
-    "listeners": 1341
+    "listeners": 1341,
+    "lyricists": null,
+    "album": "The Best of the Rubettes",
+    "release_year": 1974,
+    "duration_ms": 209893,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Love To Hate You",
     "artist": "Erasure",
     "date": "29.09.2025",
     "time": "06:41",
-    "listeners": 1166
+    "listeners": 1166,
+    "lyricists": null,
+    "album": "Chorus (2020 Expanded Edition)",
+    "release_year": 1991,
+    "duration_ms": 236027,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "One Of Us",
     "artist": "Abba",
     "date": "29.09.2025",
     "time": "06:37",
-    "listeners": 964
+    "listeners": 964,
+    "lyricists": null,
+    "album": "The Visitors (Bonus Track Version)",
+    "release_year": 2011,
+    "duration_ms": 236770,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Psi Sa Bránia Útokom",
     "artist": "Nagy, Peter A Raz, Jozef",
     "date": "29.09.2025",
     "time": "06:34",
-    "listeners": 997
+    "listeners": 997,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "title": "Waka Waka (This Time For Africa)",
     "artist": "Shakira & Freshlyground",
     "date": "29.09.2025",
     "time": "06:31",
-    "listeners": 889
+    "listeners": 889,
+    "lyricists": null,
+    "album": "Éxitos de Verano",
+    "release_year": 2014,
+    "duration_ms": 201773,
+    "artist_country": "CO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Here Comes The Sun",
     "artist": "The Beatles",
     "date": "29.09.2025",
     "time": "06:24",
-    "listeners": 891
+    "listeners": 891,
+    "lyricists": null,
+    "album": "Abbey Road (Remastered)",
+    "release_year": 1969,
+    "duration_ms": 185733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "It Must Have Been Love",
     "artist": "Roxette",
     "date": "29.09.2025",
     "time": "06:20",
-    "listeners": 735
+    "listeners": 735,
+    "lyricists": null,
+    "album": "It Must Have Been Love - Single",
+    "release_year": 1995,
+    "duration_ms": 259666,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Hero (Metro Mix)",
     "artist": "Iglesias, Enrique",
     "date": "29.09.2025",
     "time": "06:16",
-    "listeners": 689
+    "listeners": 689,
+    "lyricists": null,
+    "album": "Escape (Bonus Track Version)",
+    "release_year": 2001,
+    "duration_ms": 264240,
+    "artist_country": null,
+    "genres": null
   },
   {
     "title": "No Milk Today",
     "artist": "Herman's Hermits",
     "date": "29.09.2025",
     "time": "06:13",
-    "listeners": 660
+    "listeners": 660,
+    "lyricists": null,
+    "album": "The BEST EVER: Sixties",
+    "release_year": 2012,
+    "duration_ms": 174333,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Crazy",
     "artist": "Seal",
     "date": "29.09.2025",
     "time": "06:06",
-    "listeners": 515
+    "listeners": 515,
+    "lyricists": [
+      "Guy Sigsworth",
+      "Seal"
+    ],
+    "album": "Seal: Hits (Deluxe Version)",
+    "release_year": 2003,
+    "duration_ms": 356520,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Made In Italy",
     "artist": "Ricchi E Poveri",
     "date": "29.09.2025",
     "time": "06:02",
-    "listeners": 500
+    "listeners": 500,
+    "lyricists": null,
+    "album": "Ricchi e Poveri",
+    "release_year": 2010,
+    "duration_ms": 201253,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Living On My Own",
     "artist": "Mercury Freddie",
     "date": "29.09.2025",
     "time": "05:56",
-    "listeners": 479
+    "listeners": 479,
+    "lyricists": null,
+    "album": "Never Boring",
+    "release_year": 1993,
+    "duration_ms": 217411,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "We Love To Love",
     "artist": "P. M. Sampson & Double Key",
     "date": "29.09.2025",
     "time": "05:53",
-    "listeners": 487
+    "listeners": 487,
+    "lyricists": null,
+    "album": "Listen to My Heartbeat",
+    "release_year": 1993,
+    "duration_ms": 262947,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Za Všechno Může Čas",
     "artist": "Filipová Lenka",
     "date": "29.09.2025",
     "time": "05:50",
-    "listeners": 429
+    "listeners": 429,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 1980,
+    "duration_ms": 243173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Go West",
     "artist": "Pet Shop Boys",
     "date": "29.09.2025",
     "time": "05:45",
-    "listeners": 378
+    "listeners": 378,
+    "lyricists": null,
+    "album": "Ultimate",
+    "release_year": 2006,
+    "duration_ms": 302360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I'd Love You To Want Me",
     "artist": "Lobo",
     "date": "29.09.2025",
     "time": "05:41",
-    "listeners": 319
+    "listeners": 319,
+    "lyricists": [
+      "Lobo"
+    ],
+    "album": "I'd Love You To Want Me - Single",
+    "release_year": 2008,
+    "duration_ms": 248973,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Karma Chameleon",
     "artist": "Culture Club",
     "date": "29.09.2025",
     "time": "05:37",
-    "listeners": 322
+    "listeners": 322,
+    "lyricists": null,
+    "album": "Colour By Numbers",
+    "release_year": 1997,
+    "duration_ms": 252773,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Sailing",
     "artist": "Rod Stewart",
     "date": "29.09.2025",
     "time": "05:33",
-    "listeners": 344
+    "listeners": 344,
+    "lyricists": null,
+    "album": "Some Guys Have All the Luck",
+    "release_year": 2011,
+    "duration_ms": 278600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Free",
     "artist": "Lighthouse Family",
     "date": "29.09.2025",
     "time": "05:29",
-    "listeners": 309
+    "listeners": 309,
+    "lyricists": null,
+    "album": "The Very Best Of",
+    "release_year": 2001,
+    "duration_ms": 317000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Wake Me Up Before You Go Go",
     "artist": "Wham!",
     "date": "29.09.2025",
     "time": "05:25",
-    "listeners": 313
+    "listeners": 313,
+    "lyricists": null,
+    "album": "The Final: 14 Greatest Hits",
+    "release_year": 2005,
+    "duration_ms": 230667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Stand By Me",
     "artist": "Ben E. King",
     "date": "29.09.2025",
     "time": "05:22",
-    "listeners": 355
+    "listeners": 355,
+    "lyricists": [
+      "Ben E. King",
+      "Jerry Leiber",
+      "Mike Stoller"
+    ],
+    "album": "The Very Best of Ben E. King",
+    "release_year": 1960,
+    "duration_ms": 174800,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "title": "My, Oh My",
     "artist": "Slade",
     "date": "29.09.2025",
     "time": "05:18",
-    "listeners": 324
+    "listeners": 324,
+    "lyricists": null,
+    "album": "The Amazing Kamikaze Syndrome (Expanded)",
+    "release_year": 2002,
+    "duration_ms": 334427,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "It's Raining Men",
     "artist": "Geri Halliwell",
     "date": "29.09.2025",
     "time": "05:15",
-    "listeners": 302
+    "listeners": 302,
+    "lyricists": null,
+    "album": "It's Raining Men - Single",
+    "release_year": 2005,
+    "duration_ms": 255160,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Šaty",
     "artist": "Gombitová Marika",
     "date": "29.09.2025",
     "time": "05:11",
-    "listeners": 324
+    "listeners": 324,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 250240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "I Swear",
     "artist": "All-4-One",
     "date": "29.09.2025",
     "time": "05:06",
-    "listeners": 307
+    "listeners": 307,
+    "lyricists": null,
+    "album": "All-4-One",
+    "release_year": 1994,
+    "duration_ms": 259853,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "You're A Woman",
     "artist": "Bad Boys Blue",
     "date": "29.09.2025",
     "time": "05:02",
-    "listeners": 310
+    "listeners": 310,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 2009,
+    "duration_ms": 321840,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "La Isla Bonita",
     "artist": "Madonna",
     "date": "29.09.2025",
     "time": "04:59",
-    "listeners": 299
+    "listeners": 299,
+    "lyricists": [
+      "Bruce Gaitsch",
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Celebration (Deluxe Version)",
+    "release_year": 1989,
+    "duration_ms": 242947,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Wild World",
     "artist": "Mr. Big",
     "date": "29.09.2025",
     "time": "04:55",
-    "listeners": 316
+    "listeners": 316,
+    "lyricists": null,
+    "album": "Big, Bigger, Biggest! The Best of Mr. Big",
+    "release_year": 1998,
+    "duration_ms": 208507,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Super Trouper",
     "artist": "Abba",
     "date": "29.09.2025",
     "time": "04:54",
-    "listeners": 302
+    "listeners": 302,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1988,
+    "duration_ms": 251298,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Where Do You Go",
     "artist": "No Mercy",
     "date": "29.09.2025",
     "time": "04:46",
-    "listeners": 332
+    "listeners": 332,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2009,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Keď Sa Baba Zblázni",
     "artist": "Pavol Habera & Team",
     "date": "29.09.2025",
     "time": "04:41",
-    "listeners": 319
+    "listeners": 319,
+    "lyricists": null,
+    "album": "Zhasni a Svieť",
+    "release_year": 1995,
+    "duration_ms": 329000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Time After Time",
     "artist": "Cyndi Lauper",
     "date": "29.09.2025",
     "time": "04:37",
-    "listeners": 347
+    "listeners": 347,
+    "lyricists": [
+      "Cyndi Lauper",
+      "Rob Hyman"
+    ],
+    "album": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+    "release_year": 2006,
+    "duration_ms": 243067,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   }
 ]

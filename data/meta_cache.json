@@ -10740,5 +10740,22 @@
       "Pop",
       "Reggae"
     ]
+  },
+  "farmer mylene|désenchantée": {
+    "album": "L'autre",
+    "release_year": 1991,
+    "duration_ms": 322760,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "pavol habera|keď sa baba zblázni": {
+    "release_year": 1995,
+    "artist_country": "SK",
+    "album": "Zhasni a Svieť",
+    "duration_ms": 329000,
+    "genres": [
+      "Pop"
+    ]
   }
 }

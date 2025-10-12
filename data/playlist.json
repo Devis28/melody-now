@@ -4,28 +4,63 @@
     "artist": "Jiří Schelinger",
     "date": "12.10.2025",
     "time": "18:44",
-    "listeners": 1200
+    "listeners": 1200,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2004,
+    "duration_ms": 240880,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Všetci Sa Zídeme V Jednej Posteli",
     "artist": "Robo Grigorov",
     "date": "12.10.2025",
     "time": "18:41",
-    "listeners": 1295
+    "listeners": 1295,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 253597,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Kamarátka Nádej",
     "artist": "Vašo Patejdl",
     "date": "12.10.2025",
     "time": "18:38",
-    "listeners": 1209
+    "listeners": 1209,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2005,
+    "duration_ms": 192507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Povídej",
     "artist": "Novák Petr",
     "date": "12.10.2025",
     "time": "18:36",
-    "listeners": 1308
+    "listeners": 1308,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 125867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Růže Z Texasu",

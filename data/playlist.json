@@ -5,7 +5,15 @@
     "artist": "Goombay Dance Band",
     "date": "12.10.2025",
     "time": "21:38",
-    "listeners": 212
+    "listeners": 212,
+    "lyricists": null,
+    "album": "Land of Gold",
+    "release_year": 1991,
+    "duration_ms": 265500,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Haddaway",
     "date": "12.10.2025",
     "time": "21:33",
-    "listeners": 225
+    "listeners": 225,
+    "lyricists": null,
+    "album": "Rock My Heart - EP",
+    "release_year": 1994,
+    "duration_ms": 250933,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

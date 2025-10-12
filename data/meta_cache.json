@@ -10819,5 +10819,14 @@
     "genres": [
       "Rock"
     ]
+  },
+  "haddaway|rock my heart": {
+    "release_year": 1994,
+    "artist_country": "DE",
+    "album": "Rock My Heart - EP",
+    "duration_ms": 250933,
+    "genres": [
+      "Pop"
+    ]
   }
 }

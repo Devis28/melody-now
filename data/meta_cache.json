@@ -10941,5 +10941,14 @@
     "genres": [
       "Hip-Hop"
     ]
+  },
+  "ivan|fotonovela": {
+    "release_year": 2000,
+    "artist_country": "US",
+    "album": "Lo Mejor de Iván",
+    "duration_ms": 275720,
+    "genres": [
+      "Pop"
+    ]
   }
 }

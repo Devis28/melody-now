@@ -4,14 +4,31 @@
     "artist": "Habera Pavol",
     "date": "12.10.2025",
     "time": "07:46",
-    "listeners": 478
+    "listeners": 478,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2001,
+    "duration_ms": 241000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Tam Kde Sa Neumiera",
     "artist": "Smatanová Zuzana",
     "date": "12.10.2025",
     "time": "07:43",
-    "listeners": 449
+    "listeners": 449,
+    "lyricists": null,
+    "album": "Entirely Good",
+    "release_year": 2003,
+    "duration_ms": 231611,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Od Tatier K Dunaju",

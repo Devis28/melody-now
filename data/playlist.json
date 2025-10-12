@@ -1,5 +1,21 @@
 [
   {
+    "station": "Rádio Melody",
+    "title": "Disco Band",
+    "artist": "Scotch",
+    "date": "12.10.2025",
+    "time": "22:40",
+    "listeners": 480
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "date": "12.10.2025",
+    "time": "22:36",
+    "listeners": 486
+  },
+  {
     "title": "The Power",
     "artist": "Snap",
     "date": "12.10.2025",

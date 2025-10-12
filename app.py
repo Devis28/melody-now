@@ -75,3 +75,15 @@ async def ws_now(ws: WebSocket):
     except WebSocketDisconnect:
         pass
 
+# jednoduchý testovací WS – pošle „pong“ a zatvorí
+@app.websocket("/ws/ping")
+async def ws_ping(ws: WebSocket):
+    await ws.accept()
+    await ws.send_text("pong")
+    await ws.close()
+
+# voliteľné: rýchly prehľad trás (pre debug v prehliadači)
+@app.get("/_routes")
+def _routes():
+    return [getattr(r, "path", None) or getattr(r, "path_format", None)
+            for r in app.routes]

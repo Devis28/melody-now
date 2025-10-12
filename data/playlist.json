@@ -4,35 +4,77 @@
     "artist": "Palonder Marcel",
     "date": "12.10.2025",
     "time": "18:12",
-    "listeners": 1115
+    "listeners": 1115,
+    "lyricists": null,
+    "album": "Cudzinec v tvojom srdci",
+    "release_year": 1992,
+    "duration_ms": 223000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Keď Odchádzajú Lásky",
     "artist": "Richard Müller",
     "date": "12.10.2025",
     "time": "18:07",
-    "listeners": 1168
+    "listeners": 1168,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2017,
+    "duration_ms": 297640,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Hurikán",
     "artist": "Janda Dalibor",
     "date": "12.10.2025",
     "time": "18:03",
-    "listeners": 1250
+    "listeners": 1250,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 229080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Adresa Ja Adresa Ty",
     "artist": "Gombitová Marika",
     "date": "12.10.2025",
     "time": "17:59",
-    "listeners": 1214
+    "listeners": 1214,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 221440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Milujem Se Čím Dál Víc",
     "artist": "Kotvald Petr",
     "date": "12.10.2025",
     "time": "17:56",
-    "listeners": 1199
+    "listeners": 1199,
+    "lyricists": null,
+    "album": "Gejzír",
+    "release_year": 1990,
+    "duration_ms": 227267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Mám Rozprávkový Dom",

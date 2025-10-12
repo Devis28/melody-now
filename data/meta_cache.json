@@ -10703,5 +10703,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "youngblood sydney|sit and wait": {
+    "album": "1990 Best of by uDiscover",
+    "release_year": 1989,
+    "duration_ms": 240493,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

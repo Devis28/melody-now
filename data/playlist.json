@@ -4,63 +4,137 @@
     "artist": "Kiss",
     "date": "12.10.2025",
     "time": "20:45",
-    "listeners": 946
+    "listeners": 946,
+    "lyricists": null,
+    "album": "KISS Off The Soundboard: Live In Virginia Beach",
+    "release_year": 2023,
+    "duration_ms": 372867,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Sit And Wait",
     "artist": "Youngblood Sydney",
     "date": "12.10.2025",
     "time": "20:41",
-    "listeners": 1090
+    "listeners": 1090,
+    "lyricists": null,
+    "album": "1990 Best of by uDiscover",
+    "release_year": 1989,
+    "duration_ms": 240493,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Love To Hate You",
     "artist": "Erasure",
     "date": "12.10.2025",
     "time": "20:37",
-    "listeners": 1010
+    "listeners": 1010,
+    "lyricists": null,
+    "album": "Chorus (2020 Expanded Edition)",
+    "release_year": 1991,
+    "duration_ms": 236027,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Do It",
     "artist": "Maduar",
     "date": "12.10.2025",
     "time": "20:33",
-    "listeners": 1053
+    "listeners": 1053,
+    "lyricists": null,
+    "album": "Hafanana the Best of, Vol. 2",
+    "release_year": 1994,
+    "duration_ms": 258027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sempre Sempre",
     "artist": "Al Bano & Romina Power",
     "date": "12.10.2025",
     "time": "20:29",
-    "listeners": 1070
+    "listeners": 1070,
+    "lyricists": null,
+    "album": "Al Bano",
+    "release_year": 2007,
+    "duration_ms": 240987,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "The Shoop Shoop Song",
     "artist": "Cher",
     "date": "12.10.2025",
     "time": "20:26",
-    "listeners": 1101
+    "listeners": 1101,
+    "lyricists": null,
+    "album": "Love Hurts",
+    "release_year": 1996,
+    "duration_ms": 170000,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "You Make Me Feel (Mighty Real)",
     "artist": "Somerville Jimmy",
     "date": "12.10.2025",
     "time": "20:23",
-    "listeners": 1055
+    "listeners": 1055,
+    "lyricists": null,
+    "album": "Read My Lips",
+    "release_year": 1989,
+    "duration_ms": 315427,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "It's Raining Men",
     "artist": "Geri Halliwell",
     "date": "12.10.2025",
     "time": "20:19",
-    "listeners": 1052
+    "listeners": 1052,
+    "lyricists": null,
+    "album": "It's Raining Men - Single",
+    "release_year": 2005,
+    "duration_ms": 255160,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Tragedy",
     "artist": "The Bee Gees",
     "date": "12.10.2025",
     "time": "20:14",
-    "listeners": 1114
+    "listeners": 1114,
+    "lyricists": null,
+    "album": "Spirits Having Flown",
+    "release_year": 1979,
+    "duration_ms": 303333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Leave A Light On",

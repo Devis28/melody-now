@@ -5,7 +5,16 @@
     "artist": "Unique Ii",
     "date": "12.10.2025",
     "time": "23:24",
-    "listeners": 328
+    "listeners": 328,
+    "lyricists": null,
+    "album": "LEVEL II",
+    "release_year": 1997,
+    "duration_ms": 198200,
+    "artist_country": "AT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Frankie Goes To Hollywood",
     "date": "12.10.2025",
     "time": "23:20",
-    "listeners": 330
+    "listeners": 330,
+    "lyricists": null,
+    "album": "Bang! (Here Comes A Supernova)",
+    "release_year": 2003,
+    "duration_ms": 443234,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

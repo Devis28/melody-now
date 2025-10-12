@@ -10922,5 +10922,15 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "frankie goes to hollywood|relax": {
+    "release_year": 2003,
+    "artist_country": "GB",
+    "album": "Bang! (Here Comes A Supernova)",
+    "duration_ms": 443234,
+    "genres": [
+      "Electronic",
+      "Rock"
+    ]
   }
 }

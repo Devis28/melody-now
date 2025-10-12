@@ -4,49 +4,106 @@
     "artist": "Modus",
     "date": "12.10.2025",
     "time": "08:24",
-    "listeners": 620
+    "listeners": 620,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 1998,
+    "duration_ms": 208853,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Čas Je Proti Nám",
     "artist": "Helena Vondráčková",
     "date": "12.10.2025",
     "time": "08:18",
-    "listeners": 588
+    "listeners": 588,
+    "lyricists": null,
+    "album": "Nejkrásnější na světě je láska",
+    "release_year": 2017,
+    "duration_ms": 249373,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Chtěl Bych Žít, Tak Jak Se Má",
     "artist": "David Michal",
     "date": "12.10.2025",
     "time": "08:14",
-    "listeners": 593
+    "listeners": 593,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 224280,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Nikdy Nebolo Lepšie",
     "artist": "Hex",
     "date": "12.10.2025",
     "time": "08:10",
-    "listeners": 519
+    "listeners": 519,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2015,
+    "duration_ms": 232840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Zatancuj Si So Mnou",
     "artist": "Adam Ďurica",
     "date": "12.10.2025",
     "time": "08:07",
-    "listeners": 511
+    "listeners": 511,
+    "lyricists": null,
+    "album": "30",
+    "release_year": 2019,
+    "duration_ms": 198444,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Biograf Láska",
     "artist": "Hana Zagorová",
     "date": "12.10.2025",
     "time": "08:02",
-    "listeners": 455
+    "listeners": 455,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 2013,
+    "duration_ms": 277067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Trouba",
     "artist": "Bilá Lucie",
     "date": "12.10.2025",
     "time": "07:57",
-    "listeners": 466
+    "listeners": 466,
+    "lyricists": null,
+    "album": "Platinum Collection",
+    "release_year": 1998,
+    "duration_ms": 211897,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Krásnejší Než Rúže",

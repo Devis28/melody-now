@@ -4,77 +4,170 @@
     "artist": "Pavol Hammel",
     "date": "12.10.2025",
     "time": "05:22",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "THE BEST OF PAVOL HAMMEL",
+    "release_year": 1999,
+    "duration_ms": 164947,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "The Show Must Go On",
     "artist": "Queen",
     "date": "12.10.2025",
     "time": "05:18",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Innuendo (Deluxe Edition)",
+    "release_year": 2006,
+    "duration_ms": 275647,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Anjel",
     "artist": "Karmen Pál-Baláž",
     "date": "12.10.2025",
     "time": "05:14",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Anjel - Single",
+    "release_year": 2023,
+    "duration_ms": 255102,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Only Time (Two Tribes Remix))",
     "artist": "Enya",
     "date": "12.10.2025",
     "time": "05:11",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Great Spirit (feat. Hilight Tribe) - Single",
+    "release_year": 2015,
+    "duration_ms": 215773,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "title": "Made In Italy",
     "artist": "Ricchi E Poveri",
     "date": "12.10.2025",
     "time": "05:07",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Ricchi e Poveri",
+    "release_year": 2010,
+    "duration_ms": 201253,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sailing",
     "artist": "Rod Stewart",
     "date": "12.10.2025",
     "time": "05:02",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Some Guys Have All the Luck",
+    "release_year": 2011,
+    "duration_ms": 278600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Every Breath You Take",
     "artist": "The Police",
     "date": "12.10.2025",
     "time": "04:58",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Synchronicity (Remastered 2003)",
+    "release_year": 2003,
+    "duration_ms": 253960,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Frozen",
     "artist": "Madonna",
     "date": "12.10.2025",
     "time": "04:53",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": [
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Ray of Light",
+    "release_year": 2007,
+    "duration_ms": 367333,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Daddy Cool",
     "artist": "Boney M",
     "date": "12.10.2025",
     "time": "04:50",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Daddy Cool",
+    "release_year": 2019,
+    "duration_ms": 206086,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "title": "Can You Feel The Love Tonight",
     "artist": "John, Elton",
     "date": "12.10.2025",
     "time": "04:46",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "release_year": 1994,
+    "duration_ms": 241907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "title": "Vetroň",
     "artist": "Hex",
     "date": "12.10.2025",
     "time": "04:42",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 1997,
+    "duration_ms": 240320,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Twist In My Sobriety",

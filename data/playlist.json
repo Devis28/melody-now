@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "13.10.2025",
+    "time": "01:53",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Krásny Sen (Hawaii)",
+    "artist": "Imt Smile",
+    "date": "13.10.2025",
+    "time": "01:50",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Everybody Hurts",
     "artist": "R.E.M.",
     "date": "13.10.2025",

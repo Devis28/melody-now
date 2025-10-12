@@ -1,6 +1,11 @@
-import requests
+import asyncio, json, websockets
 
-URL = "https://shaggy-lorna-melody-now-eea13251.koyeb.app/now"
+URL = "wss://…koyeb.app/ws/now"
 
-data = requests.get(URL, timeout=10, headers={"Accept":"application/json"}).json()
-print(f"{data['station']} | {data['artist']} — {data['title']} | {data['date']} {data['time']} | poslucháči: {data['listeners']}")
+async def main():
+    async with websockets.connect(URL) as ws:
+        async for msg in ws:
+            data = json.loads(msg)
+            print(f"{data['station']} — {data['artist']} — {data['title']} | {data['date']} {data['time']} | poslucháči: {data['listeners']}")
+
+asyncio.run(main())

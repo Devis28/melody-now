@@ -3,6 +3,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from melody_core import get_now_playing
 from fastapi.responses import PlainTextResponse
 import  os
+from fastapi import WebSocket, WebSocketDisconnect
+import asyncio
 
 app = FastAPI(title="Melody Now - live", version="0.2.0")
 

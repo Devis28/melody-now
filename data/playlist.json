@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "12.10.2025",
+    "time": "21:38",
+    "listeners": 212
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rock My Heart",
+    "artist": "Haddaway",
+    "date": "12.10.2025",
+    "time": "21:33",
+    "listeners": 225
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cherish",
     "artist": "Madonna",
     "date": "12.10.2025",

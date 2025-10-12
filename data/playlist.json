@@ -4,14 +4,30 @@
     "artist": "Modus",
     "date": "12.10.2025",
     "time": "13:50",
-    "listeners": 1969
+    "listeners": 1969,
+    "lyricists": null,
+    "album": "Kamil Peteraj \"80\"",
+    "release_year": 2005,
+    "duration_ms": 242787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Kým Vieš Snívať",
     "artist": "Superstar Top 11",
     "date": "12.10.2025",
     "time": "13:46",
-    "listeners": 1920
+    "listeners": 1920,
+    "lyricists": null,
+    "album": "Slovensko Hlada SuperStar",
+    "release_year": 2005,
+    "duration_ms": 254773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Študentská Láska",

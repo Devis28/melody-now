@@ -555,5 +555,31 @@
     "genres": [
       "Pop"
     ]
+  },
+  "gene pitney/marc almond|something's gotten hold of my heart": {
+    "album": "Hits and Pieces – The Best of Marc Almond & Soft Cell",
+    "release_year": 2016,
+    "duration_ms": 277140,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "lukáš adamec|horúca láska": {
+    "album": "Lukáš Adamec",
+    "release_year": 2017,
+    "duration_ms": 208147,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "no doubt|don't speak": {
+    "release_year": 1997,
+    "artist_country": "US",
+    "album": "Tragic Kingdom",
+    "duration_ms": 263533,
+    "genres": [
+      "Pop"
+    ]
   }
 }

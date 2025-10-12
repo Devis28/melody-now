@@ -4,21 +4,45 @@
     "artist": "Elán",
     "date": "12.10.2025",
     "time": "07:39",
-    "listeners": 453
+    "listeners": 453,
+    "lyricists": null,
+    "album": "Rabaka",
+    "release_year": 2003,
+    "duration_ms": 254333,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "title": "Nespáľme To Krásne V Nás",
     "artist": "Zbirka Miro & Gombitova Marika",
     "date": "12.10.2025",
     "time": "07:35",
-    "listeners": 390
+    "listeners": 390,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2001,
+    "duration_ms": 203280,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Sbohem Lásko, Já Jedu Dál",
     "artist": "Josef Laufer",
     "date": "12.10.2025",
     "time": "07:32",
-    "listeners": 387
+    "listeners": 387,
+    "lyricists": null,
+    "album": "Důvěrně Známý",
+    "release_year": 2007,
+    "duration_ms": 212240,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Stestí",

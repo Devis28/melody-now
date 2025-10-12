@@ -4,35 +4,77 @@
     "artist": "Kratochvílová Jana",
     "date": "12.10.2025",
     "time": "16:48",
-    "listeners": 1281
+    "listeners": 1281,
+    "lyricists": null,
+    "album": "Jana Kratochvílová",
+    "release_year": 1976,
+    "duration_ms": 273560,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "title": "Nemožná",
     "artist": "Slivová Silvia",
     "date": "12.10.2025",
     "time": "16:44",
-    "listeners": 1196
+    "listeners": 1196,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 233373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Anjel",
     "artist": "Maduar",
     "date": "12.10.2025",
     "time": "16:39",
-    "listeners": 1315
+    "listeners": 1315,
+    "lyricists": null,
+    "album": "Hafanana the Best of, Vol. 2",
+    "release_year": 1994,
+    "duration_ms": 336773,
+    "artist_country": "SK",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "title": "Obyčejný Muž",
     "artist": "Spálený Petr",
     "date": "12.10.2025",
     "time": "16:35",
-    "listeners": 1262
+    "listeners": 1262,
+    "lyricists": null,
+    "album": "Největší hity (Díky)",
+    "release_year": 1998,
+    "duration_ms": 259240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Bílá Královna",
     "artist": "Stanislav Hlozek & Petr Kotvald",
     "date": "12.10.2025",
     "time": "16:31",
-    "listeners": 1306
+    "listeners": 1306,
+    "lyricists": null,
+    "album": "Holky Z Naší Školky",
+    "release_year": 2004,
+    "duration_ms": 217400,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "title": "Mandolína",

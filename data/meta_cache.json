@@ -1304,5 +1304,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "haddaway|what is love": {
+    "release_year": 1996,
+    "artist_country": "DE",
+    "album": "What Is Love - EP",
+    "duration_ms": 270373,
+    "genres": [
+      "Pop"
+    ]
   }
 }

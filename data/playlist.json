@@ -5,7 +5,15 @@
     "artist": "Haddaway",
     "date": "13.10.2025",
     "time": "06:53",
-    "listeners": 2242
+    "listeners": 2242,
+    "lyricists": null,
+    "album": "What Is Love - EP",
+    "release_year": 1996,
+    "duration_ms": 270373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

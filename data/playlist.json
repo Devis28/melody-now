@@ -5,7 +5,15 @@
     "artist": "Queen",
     "date": "13.10.2025",
     "time": "07:36",
-    "listeners": 2823
+    "listeners": 2823,
+    "lyricists": null,
+    "album": "The Works (Deluxe Edition)",
+    "release_year": 1997,
+    "duration_ms": 349187,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Duchoň Karol",
     "date": "13.10.2025",
     "time": "07:33",
-    "listeners": 2917
+    "listeners": 2917,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1974,
+    "duration_ms": 208160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

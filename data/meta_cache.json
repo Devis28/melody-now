@@ -9767,5 +9767,20 @@
     "genres": [
       "Pop"
     ]
+  },
+  "van halen|jump": {
+    "artist_country": "US",
+    "album": "1984",
+    "release_year": 1983,
+    "duration_ms": 241643,
+    "lyricists": [
+      "Alex Van Halen",
+      "David Lee Roth",
+      "Edward Van Halen",
+      "Michael Anthony"
+    ],
+    "genres": [
+      "Rock"
+    ]
   }
 }

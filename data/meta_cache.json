@@ -9847,5 +9847,18 @@
       "Pop",
       "R&B"
     ]
+  },
+  "lobo|i'd love you to want me": {
+    "release_year": 2008,
+    "artist_country": "US",
+    "album": "I'd Love You To Want Me - Single",
+    "duration_ms": 248973,
+    "lyricists": [
+      "Lobo"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

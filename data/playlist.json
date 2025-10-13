@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Búrka",
+    "artist": "Čírová Mária",
+    "date": "14.10.2025",
+    "time": "00:33",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Win Again",
+    "artist": "The Bee Gees",
+    "date": "14.10.2025",
+    "time": "00:29",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Asi Nie Si",
+    "artist": "Richard Müller",
+    "date": "14.10.2025",
+    "time": "00:25",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nie Alebo Áno",
+    "artist": "No Name",
+    "date": "14.10.2025",
+    "time": "00:21",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cesta do rozprávky",
     "artist": "Darina Rolincová",
     "date": "14.10.2025",

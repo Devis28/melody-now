@@ -1313,5 +1313,56 @@
     "genres": [
       "Pop"
     ]
+  },
+  "david michal kroky františka janečka|decibely lásky": {
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 193239,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "kamen, nick|i promised myself": {
+    "album": "Move Until We Fly",
+    "release_year": 1990,
+    "duration_ms": 240773,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "louis armstrong|what a wonderful world": {
+    "release_year": 1996,
+    "artist_country": "US",
+    "album": "What a Wonderful World",
+    "duration_ms": 139434,
+    "genres": [
+      "Jazz"
+    ]
+  },
+  "team|lietam v tom tiež": {
+    "release_year": 2010,
+    "artist_country": "SK",
+    "album": "Prichytený pri živote",
+    "duration_ms": 233253,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "alizee|moi...lolita": {
+    "artist_country": "FR",
+    "release_year": 2001,
+    "album": "Gourmandises",
+    "duration_ms": 264283,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "gombitova marika|tri slová": {
+    "album": "Happy Valentine",
+    "release_year": 2001,
+    "duration_ms": 182773,
+    "genres": [
+      "Pop"
+    ]
   }
 }

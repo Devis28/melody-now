@@ -1244,5 +1244,47 @@
       "Pop",
       "R&B"
     ]
+  },
+  "ramazzotti eros|un emozione per sempre": {
+    "album": "9",
+    "release_year": 2003,
+    "duration_ms": 237880,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "black|wonderful life": {
+    "release_year": 2003,
+    "artist_country": "GB",
+    "album": "Wonderful Life",
+    "duration_ms": 287933,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "no name|nie alebo áno": {
+    "release_year": 2001,
+    "artist_country": "SK",
+    "album": "Love Songs",
+    "duration_ms": 243480,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "ben e. king|stand by me": {
+    "release_year": 2024,
+    "artist_country": "US",
+    "album": "The Very Best of Ben E. King",
+    "duration_ms": 174800,
+    "lyricists": [
+      "Ben E. King",
+      "Jerry Leiber",
+      "Mike Stoller"
+    ],
+    "genres": [
+      "R&B"
+    ]
   }
 }

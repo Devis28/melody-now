@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Riddle",
+    "artist": "Nik Kershaw",
+    "date": "13.10.2025",
+    "time": "13:21",
+    "listeners": 1327
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šaty",
+    "artist": "Gombitová Marika",
+    "date": "13.10.2025",
+    "time": "13:18",
+    "listeners": 1402
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "date": "13.10.2025",
+    "time": "13:13",
+    "listeners": 1494
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Flashdance ( What A Feeling )",
+    "artist": "Cara Irene",
+    "date": "13.10.2025",
+    "time": "13:07",
+    "listeners": 1466
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Sound Of Silence",
     "artist": "Simon Paul & Garfunkel Art",
     "date": "13.10.2025",

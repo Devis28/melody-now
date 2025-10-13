@@ -9700,5 +9700,29 @@
     "genres": [
       "Pop"
     ]
+  },
+  "harpo|moviestar": {
+    "release_year": 2002,
+    "artist_country": "SE",
+    "album": "Moviestar",
+    "duration_ms": 202280,
+    "lyricists": [
+      "Harpo"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "nik kershaw|the riddle": {
+    "release_year": 2023,
+    "artist_country": "GB",
+    "album": "Nik Kershaw: The Collection",
+    "duration_ms": 231133,
+    "lyricists": [
+      "Nik Kershaw"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

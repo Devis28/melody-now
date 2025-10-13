@@ -5,7 +5,15 @@
     "artist": "Mr. Big",
     "date": "13.10.2025",
     "time": "14:11",
-    "listeners": 946
+    "listeners": 946,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2005,
+    "duration_ms": 206973,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Ronettes, The",
     "date": "13.10.2025",
     "time": "14:09",
-    "listeners": 973
+    "listeners": 973,
+    "lyricists": null,
+    "album": "Be My Baby: The Very Best of The Ronettes",
+    "release_year": 1963,
+    "duration_ms": 160907,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Guru Josh",
     "date": "13.10.2025",
     "time": "14:06",
-    "listeners": 1049
+    "listeners": 1049,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Elán",
     "date": "13.10.2025",
     "time": "14:02",
-    "listeners": 1110
+    "listeners": 1110,
+    "lyricists": null,
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "release_year": 2008,
+    "duration_ms": 231067,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,16 @@
     "artist": "Whitney Houston",
     "date": "13.10.2025",
     "time": "13:53",
-    "listeners": 1010
+    "listeners": 1010,
+    "lyricists": null,
+    "album": "Whitney",
+    "release_year": 1987,
+    "duration_ms": 292875,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,17 @@
     "artist": "Harpo",
     "date": "13.10.2025",
     "time": "13:50",
-    "listeners": 1148
+    "listeners": 1148,
+    "lyricists": [
+      "Harpo"
+    ],
+    "album": "Moviestar",
+    "release_year": 2002,
+    "duration_ms": 202280,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,16 @@
     "artist": "Pavol Habera",
     "date": "13.10.2025",
     "time": "13:46",
-    "listeners": 1107
+    "listeners": 1107,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +123,15 @@
     "artist": "Hana Hegerová",
     "date": "13.10.2025",
     "time": "13:43",
-    "listeners": 1102
+    "listeners": 1102,
+    "lyricists": null,
+    "album": "Paběrky",
+    "release_year": 2015,
+    "duration_ms": 183600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +139,15 @@
     "artist": "Gloria Gaynor",
     "date": "13.10.2025",
     "time": "13:40",
-    "listeners": 1160
+    "listeners": 1160,
+    "lyricists": null,
+    "album": "I Will Survive: The Anthology",
+    "release_year": 2001,
+    "duration_ms": 481693,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +155,15 @@
     "artist": "Love Message",
     "date": "13.10.2025",
     "time": "13:36",
-    "listeners": 1218
+    "listeners": 1218,
+    "lyricists": null,
+    "album": "Love Message (The 90s Version) - Single",
+    "release_year": 1996,
+    "duration_ms": 229177,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +171,15 @@
     "artist": "Bartošová Iveta",
     "date": "13.10.2025",
     "time": "13:32",
-    "listeners": 1262
+    "listeners": 1262,
+    "lyricists": null,
+    "album": "Nekonecna/Best Of",
+    "release_year": 1998,
+    "duration_ms": 224920,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +187,15 @@
     "artist": "Gott Karel",
     "date": "13.10.2025",
     "time": "13:29",
-    "listeners": 1242
+    "listeners": 1242,
+    "lyricists": null,
+    "album": "Má Píseň",
+    "release_year": 1972,
+    "duration_ms": 156347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +203,15 @@
     "artist": "Rimes Leann",
     "date": "13.10.2025",
     "time": "13:25",
-    "listeners": 1354
+    "listeners": 1354,
+    "lyricists": null,
+    "album": "Coyote Ugly",
+    "release_year": 2000,
+    "duration_ms": 215507,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +219,17 @@
     "artist": "Nik Kershaw",
     "date": "13.10.2025",
     "time": "13:21",
-    "listeners": 1327
+    "listeners": 1327,
+    "lyricists": [
+      "Nik Kershaw"
+    ],
+    "album": "Nik Kershaw: The Collection",
+    "release_year": 2023,
+    "duration_ms": 231133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +237,15 @@
     "artist": "Gombitová Marika",
     "date": "13.10.2025",
     "time": "13:18",
-    "listeners": 1402
+    "listeners": 1402,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 250240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +253,15 @@
     "artist": "All-4-One",
     "date": "13.10.2025",
     "time": "13:13",
-    "listeners": 1494
+    "listeners": 1494,
+    "lyricists": null,
+    "album": "All-4-One",
+    "release_year": 2012,
+    "duration_ms": 259853,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +269,15 @@
     "artist": "Cara Irene",
     "date": "13.10.2025",
     "time": "13:07",
-    "listeners": 1466
+    "listeners": 1466,
+    "lyricists": null,
+    "album": "What a Feelin' (Bonus Track Version)",
+    "release_year": 1983,
+    "duration_ms": 237053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +285,16 @@
     "artist": "Simon Paul & Garfunkel Art",
     "date": "13.10.2025",
     "time": "13:04",
-    "listeners": 1556
+    "listeners": 1556,
+    "lyricists": null,
+    "album": "Sounds of Silence",
+    "release_year": 1965,
+    "duration_ms": 190102,
+    "artist_country": null,
+    "genres": [
+      "Folk",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +302,15 @@
     "artist": "No Name",
     "date": "13.10.2025",
     "time": "13:01",
-    "listeners": 1680
+    "listeners": 1680,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 202093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +318,15 @@
     "artist": "Francesco Napoli",
     "date": "13.10.2025",
     "time": "12:54",
-    "listeners": 1558
+    "listeners": 1558,
+    "lyricists": null,
+    "album": "Balla... the First Dance",
+    "release_year": 2014,
+    "duration_ms": 352560,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +334,15 @@
     "artist": "Exil",
     "date": "13.10.2025",
     "time": "12:50",
-    "listeners": 1629
+    "listeners": 1629,
+    "lyricists": null,
+    "album": "Kamarát - EP",
+    "release_year": 1996,
+    "duration_ms": 215615,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +350,15 @@
     "artist": "Abba",
     "date": "13.10.2025",
     "time": "12:46",
-    "listeners": 1527
+    "listeners": 1527,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1989,
+    "duration_ms": 251298,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "date": "13.10.2025",
+    "time": "21:37",
+    "listeners": 977
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vyrobená Pre Mňa",
+    "artist": "Desmod",
+    "date": "13.10.2025",
+    "time": "21:33",
+    "listeners": 1141
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Big L.",
     "artist": "Roxette",
     "date": "13.10.2025",

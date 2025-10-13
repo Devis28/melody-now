@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Zdá Sa Že To Stací",
+    "artist": "Smatanová Zuzana",
+    "date": "13.10.2025",
+    "time": "20:21",
+    "listeners": 1438
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Take A Chance On Me",
+    "artist": "Abba",
+    "date": "13.10.2025",
+    "time": "20:17",
+    "listeners": 1490
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "13.10.2025",
+    "time": "20:14",
+    "listeners": 1557
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvaja",
+    "artist": "Gombitová Marika",
+    "date": "13.10.2025",
+    "time": "20:10",
+    "listeners": 1461
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Will You Be There",
+    "artist": "Michael Jackson",
+    "date": "13.10.2025",
+    "time": "20:07",
+    "listeners": 1562
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "date": "13.10.2025",
+    "time": "20:03",
+    "listeners": 1570
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľúbim Ťa",
+    "artist": "Michal Dočolomanský",
+    "date": "13.10.2025",
+    "time": "19:58",
+    "listeners": 1674
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Proč Mě Nikdo Nemá Rád",
     "artist": "Ilona Csáková",
     "date": "13.10.2025",

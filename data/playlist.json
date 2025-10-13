@@ -5,7 +5,21 @@
     "artist": "Toto",
     "date": "13.10.2025",
     "time": "14:54",
-    "listeners": 1018
+    "listeners": 1018,
+    "lyricists": [
+      "Graham Johnson",
+      "Pasquale Losito",
+      "Toto Cutugno",
+      "Vito Pallavicini"
+    ],
+    "album": "Toto IV",
+    "release_year": 1994,
+    "duration_ms": 295283,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +27,19 @@
     "artist": "Maggie Reilly",
     "date": "13.10.2025",
     "time": "14:51",
-    "listeners": 833
+    "listeners": 833,
+    "lyricists": [
+      "Maggie Reilly",
+      "Peter Risavy",
+      "Stuart MacKillop"
+    ],
+    "album": "Everytime We Touch (Remastered) - Single",
+    "release_year": 1999,
+    "duration_ms": 242974,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +47,15 @@
     "artist": "The Bee Gees",
     "date": "13.10.2025",
     "time": "14:46",
-    "listeners": 896
+    "listeners": 896,
+    "lyricists": null,
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "release_year": 2000,
+    "duration_ms": 246241,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +63,18 @@
     "artist": "Gazebo",
     "date": "13.10.2025",
     "time": "14:40",
-    "listeners": 894
+    "listeners": 894,
+    "lyricists": [
+      "Gazebo",
+      "Pierluigi Giombini"
+    ],
+    "album": "The Collection",
+    "release_year": 2000,
+    "duration_ms": 248440,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +82,15 @@
     "artist": "Corona",
     "date": "13.10.2025",
     "time": "14:36",
-    "listeners": 899
+    "listeners": 899,
+    "lyricists": null,
+    "album": "The Rhythm of the Night",
+    "release_year": 1994,
+    "duration_ms": 264280,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +98,16 @@
     "artist": "Smokie",
     "date": "13.10.2025",
     "time": "14:32",
-    "listeners": 915
+    "listeners": 915,
+    "lyricists": null,
+    "album": "Collections: Smokie",
+    "release_year": 2000,
+    "duration_ms": 207133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +115,15 @@
     "artist": "Yazoo",
     "date": "13.10.2025",
     "time": "14:29",
-    "listeners": 877
+    "listeners": 877,
+    "lyricists": null,
+    "album": "Upstairs at Eric's (Remastered)",
+    "release_year": 2008,
+    "duration_ms": 195213,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +131,16 @@
     "artist": "Dj Bobo",
     "date": "13.10.2025",
     "time": "14:24",
-    "listeners": 902
+    "listeners": 902,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 229893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +148,15 @@
     "artist": "Rubettes, The",
     "date": "13.10.2025",
     "time": "14:20",
-    "listeners": 883
+    "listeners": 883,
+    "lyricists": null,
+    "album": "The Best of the Rubettes",
+    "release_year": 1974,
+    "duration_ms": 209893,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +164,16 @@
     "artist": "Europe",
     "date": "13.10.2025",
     "time": "14:16",
-    "listeners": 954
+    "listeners": 954,
+    "lyricists": null,
+    "album": "The Final Countdown (Expanded Edition)",
+    "release_year": 1996,
+    "duration_ms": 310333,
+    "artist_country": "SE",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

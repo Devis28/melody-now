@@ -9724,5 +9724,48 @@
     "genres": [
       "Pop"
     ]
+  },
+  "toto|africa": {
+    "release_year": 1994,
+    "artist_country": "US",
+    "album": "Toto IV",
+    "duration_ms": 295283,
+    "lyricists": [
+      "Graham Johnson",
+      "Pasquale Losito",
+      "Toto Cutugno",
+      "Vito Pallavicini"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "maggie reilly|everytime we touch": {
+    "release_year": 1999,
+    "artist_country": "GB",
+    "album": "Everytime We Touch (Remastered) - Single",
+    "duration_ms": 242974,
+    "lyricists": [
+      "Maggie Reilly",
+      "Peter Risavy",
+      "Stuart MacKillop"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "gazebo|i like chopin": {
+    "release_year": 2000,
+    "artist_country": "IT",
+    "album": "The Collection",
+    "duration_ms": 248440,
+    "lyricists": [
+      "Gazebo",
+      "Pierluigi Giombini"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

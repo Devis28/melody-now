@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hľadám",
+    "artist": "No Name",
+    "date": "13.10.2025",
+    "time": "20:41",
+    "listeners": 1443
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Joe Le Taxi",
+    "artist": "Paradis, Vanessa",
+    "date": "13.10.2025",
+    "time": "20:38",
+    "listeners": 1409
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'll Stand By You",
+    "artist": "Pretenders, The",
+    "date": "13.10.2025",
+    "time": "20:34",
+    "listeners": 1473
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Preco Nie Som Pekna",
+    "artist": "Madam",
+    "date": "13.10.2025",
+    "time": "20:29",
+    "listeners": 1430
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sunshine Reggae",
+    "artist": "Laid Back",
+    "date": "13.10.2025",
+    "time": "20:25",
+    "listeners": 1450
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Zdá Sa Že To Stací",
     "artist": "Smatanová Zuzana",
     "date": "13.10.2025",

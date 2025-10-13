@@ -1468,5 +1468,58 @@
     "genres": [
       "Pop"
     ]
+  },
+  "janda dalibor|hráli jsme kličkovanou": {
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 180120,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "abba|one of us": {
+    "release_year": 2005,
+    "artist_country": "SE",
+    "album": "The Visitors (Bonus Track Version)",
+    "duration_ms": 236770,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "brontosauři|růže z papíru": {
+    "release_year": 2001,
+    "artist_country": "CZ",
+    "album": "Vsechny Hity",
+    "duration_ms": 139747,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "elán|tanečnice z lúčnice": {
+    "release_year": 1992,
+    "artist_country": "SK",
+    "album": "Detektívka",
+    "duration_ms": 170800,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "tublatanka|matka": {
+    "release_year": 2006,
+    "artist_country": "SK",
+    "album": "Nebo, Peklo, Raj",
+    "duration_ms": 292000,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "baccara|yes sir, i can boogie": {
+    "release_year": 1997,
+    "artist_country": "ES",
+    "album": "70s 100 Hits",
+    "duration_ms": 274581,
+    "genres": [
+      "Pop"
+    ]
   }
 }

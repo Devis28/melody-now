@@ -5,7 +5,16 @@
     "artist": "Habera Pavol",
     "date": "13.10.2025",
     "time": "15:33",
-    "listeners": 1439
+    "listeners": 1439,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2001,
+    "duration_ms": 241000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "B. J. Thomas",
     "date": "13.10.2025",
     "time": "15:26",
-    "listeners": 1223
+    "listeners": 1223,
+    "lyricists": null,
+    "album": "Raindrops Keep Fallin' On My Head",
+    "release_year": 1996,
+    "duration_ms": 184493,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Miro Žbirka",
     "date": "13.10.2025",
     "time": "15:23",
-    "listeners": 1266
+    "listeners": 1266,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 198027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Grigorov Robo",
     "date": "13.10.2025",
     "time": "15:19",
-    "listeners": 1186
+    "listeners": 1186,
+    "lyricists": null,
+    "album": "Balady",
+    "release_year": 2006,
+    "duration_ms": 261107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Belinda Carlisle",
     "date": "13.10.2025",
     "time": "15:13",
-    "listeners": 1184
+    "listeners": 1184,
+    "lyricists": null,
+    "album": "Runaway Horses",
+    "release_year": 2013,
+    "duration_ms": 285027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Manilow Barry",
     "date": "13.10.2025",
     "time": "15:10",
-    "listeners": 1079
+    "listeners": 1079,
+    "lyricists": null,
+    "album": "Barry Manilow II",
+    "release_year": 1974,
+    "duration_ms": 213333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Garcia",
     "date": "13.10.2025",
     "time": "15:06",
-    "listeners": 962
+    "listeners": 962,
+    "lyricists": null,
+    "album": "Bamboleo - Single",
+    "release_year": 2000,
+    "duration_ms": 228963,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Ricchi E Poveri",
     "date": "13.10.2025",
     "time": "15:03",
-    "listeners": 971
+    "listeners": 971,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1984,
+    "duration_ms": 198867,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

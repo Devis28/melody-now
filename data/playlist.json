@@ -5,7 +5,15 @@
     "artist": "Haddaway",
     "date": "14.10.2025",
     "time": "00:48",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "What Is Love - EP",
+    "release_year": 1996,
+    "duration_ms": 270373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Queen",
     "date": "14.10.2025",
     "time": "00:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Works (Deluxe Edition)",
+    "release_year": 1997,
+    "duration_ms": 349187,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

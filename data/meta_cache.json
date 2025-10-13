@@ -9955,5 +9955,17 @@
     "genres": [
       "Pop"
     ]
+  },
+  "peter nagy|so mnou nikdy nezostarneš": {
+    "artist_country": "SK",
+    "release_year": 1996,
+    "album": "Aj tak sme frajeri",
+    "duration_ms": 200400,
+    "lyricists": [
+      "Peter Nagy"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -5,7 +5,16 @@
     "artist": "Tobias Szidi",
     "date": "13.10.2025",
     "time": "22:35",
-    "listeners": 675
+    "listeners": 675,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2008,
+    "duration_ms": 307000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Zuzana Smatanová",
     "date": "13.10.2025",
     "time": "22:31",
-    "listeners": 665
+    "listeners": 665,
+    "lyricists": null,
+    "album": "Jediný A Jediná - Single",
+    "release_year": 2018,
+    "duration_ms": 258669,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Taylor Dayne",
     "date": "13.10.2025",
     "time": "22:27",
-    "listeners": 737
+    "listeners": 737,
+    "lyricists": null,
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "release_year": 2004,
+    "duration_ms": 220880,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Gladiátor",
     "date": "13.10.2025",
     "time": "22:24",
-    "listeners": 735
+    "listeners": 735,
+    "lyricists": null,
+    "album": "Hlavu Maj Hore",
+    "release_year": 2020,
+    "duration_ms": 203929,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

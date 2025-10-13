@@ -117,7 +117,15 @@
     "artist": "Farmer Mylene",
     "date": "13.10.2025",
     "time": "10:53",
-    "listeners": 935
+    "listeners": 935,
+    "lyricists": null,
+    "album": "L'autre",
+    "release_year": 1991,
+    "duration_ms": 322760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +133,15 @@
     "artist": "Karol Duchoň",
     "date": "13.10.2025",
     "time": "10:50",
-    "listeners": 944
+    "listeners": 944,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 1976,
+    "duration_ms": 191960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +149,16 @@
     "artist": "Culture Club",
     "date": "13.10.2025",
     "time": "10:46",
-    "listeners": 833
+    "listeners": 833,
+    "lyricists": null,
+    "album": "Colour By Numbers",
+    "release_year": 2004,
+    "duration_ms": 252773,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +166,15 @@
     "artist": "Dubasová Beáta",
     "date": "13.10.2025",
     "time": "10:42",
-    "listeners": 891
+    "listeners": 891,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 1993,
+    "duration_ms": 215000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +182,15 @@
     "artist": "Smokie",
     "date": "13.10.2025",
     "time": "10:38",
-    "listeners": 920
+    "listeners": 920,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 1998,
+    "duration_ms": 244733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +198,19 @@
     "artist": "Madonna",
     "date": "13.10.2025",
     "time": "10:35",
-    "listeners": 914
+    "listeners": 914,
+    "lyricists": [
+      "Bruce Gaitsch",
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Celebration (Deluxe Version)",
+    "release_year": 1989,
+    "duration_ms": 242947,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +218,13 @@
     "artist": "R.E.M.",
     "date": "13.10.2025",
     "time": "10:30",
-    "listeners": 901
+    "listeners": 901,
+    "lyricists": null,
+    "album": "Out of Time (25th Anniversary Edition)",
+    "release_year": 2004,
+    "duration_ms": 268427,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +232,15 @@
     "artist": "Abba",
     "date": "13.10.2025",
     "time": "10:27",
-    "listeners": 890
+    "listeners": 890,
+    "lyricists": null,
+    "album": "Waterloo",
+    "release_year": 1994,
+    "duration_ms": 176440,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +248,15 @@
     "artist": "Wilde Kim",
     "date": "13.10.2025",
     "time": "10:23",
-    "listeners": 982
+    "listeners": 982,
+    "lyricists": null,
+    "album": "Another Step",
+    "release_year": 1986,
+    "duration_ms": 255220,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -189,7 +264,15 @@
     "artist": "Zbirka Miro & Martha",
     "date": "13.10.2025",
     "time": "10:20",
-    "listeners": 920
+    "listeners": 920,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2001,
+    "duration_ms": 204173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -197,7 +280,18 @@
     "artist": "Eric Carmen",
     "date": "13.10.2025",
     "time": "10:15",
-    "listeners": 877
+    "listeners": 877,
+    "lyricists": [
+      "Eric Carmen",
+      "Сергей Васильевич Рахманинов"
+    ],
+    "album": "Eric Carmen",
+    "release_year": 2012,
+    "duration_ms": 429997,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -205,7 +299,16 @@
     "artist": "Team",
     "date": "13.10.2025",
     "time": "10:08",
-    "listeners": 916
+    "listeners": 916,
+    "lyricists": null,
+    "album": "Team Hity",
+    "release_year": 2011,
+    "duration_ms": 307467,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -213,7 +316,18 @@
     "artist": "Seal",
     "date": "13.10.2025",
     "time": "10:03",
-    "listeners": 976
+    "listeners": 976,
+    "lyricists": [
+      "Guy Sigsworth",
+      "Seal"
+    ],
+    "album": "Seal: Hits (Deluxe Version)",
+    "release_year": 2001,
+    "duration_ms": 356520,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -221,7 +335,15 @@
     "artist": "Hammel Pavol",
     "date": "13.10.2025",
     "time": "10:00",
-    "listeners": 1089
+    "listeners": 1089,
+    "lyricists": null,
+    "album": "Pavol Hammel & Prúdy 1966 – 1975",
+    "release_year": 1969,
+    "duration_ms": 154490,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -229,7 +351,16 @@
     "artist": "Boney M.",
     "date": "13.10.2025",
     "time": "09:52",
-    "listeners": 1152
+    "listeners": 1152,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2012,
+    "duration_ms": 274960,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -237,7 +368,15 @@
     "artist": "Richard  Muller",
     "date": "13.10.2025",
     "time": "09:48",
-    "listeners": 1225
+    "listeners": 1225,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2006,
+    "duration_ms": 300693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -245,7 +384,22 @@
     "artist": "Queen",
     "date": "13.10.2025",
     "time": "09:44",
-    "listeners": 1170
+    "listeners": 1170,
+    "lyricists": [
+      "Angie Stone",
+      "Bahamadia",
+      "Erykah Badu",
+      "James Poyser",
+      "Queen Latifah",
+      "Rashad Smith"
+    ],
+    "album": "A Night at the Opera",
+    "release_year": 1975,
+    "duration_ms": 219055,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -253,7 +407,18 @@
     "artist": "Umberto Tozzi",
     "date": "13.10.2025",
     "time": "09:40",
-    "listeners": 1421
+    "listeners": 1421,
+    "lyricists": [
+      "Giancarlo Bigazzi",
+      "Umberto Tozzi"
+    ],
+    "album": "E' nell' aria…ti amo",
+    "release_year": 2006,
+    "duration_ms": 245693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -261,7 +426,15 @@
     "artist": "Iglesias Enrique",
     "date": "13.10.2025",
     "time": "09:36",
-    "listeners": 1358
+    "listeners": 1358,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 209200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -269,7 +442,15 @@
     "artist": "Vondráčková Helena",
     "date": "13.10.2025",
     "time": "09:33",
-    "listeners": 1367
+    "listeners": 1367,
+    "lyricists": null,
+    "album": "Ode Mne K Tobě",
+    "release_year": 1975,
+    "duration_ms": 180253,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -277,7 +458,15 @@
     "artist": "Karol Duchoň",
     "date": "13.10.2025",
     "time": "09:30",
-    "listeners": 1494
+    "listeners": 1494,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 2006,
+    "duration_ms": 210347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -285,7 +474,19 @@
     "artist": "Eros Ramazzotti",
     "date": "13.10.2025",
     "time": "09:25",
-    "listeners": 1525
+    "listeners": 1525,
+    "lyricists": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ],
+    "album": "Eros Best Love Songs (Special Edition)",
+    "release_year": 1996,
+    "duration_ms": 267680,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -293,7 +494,15 @@
     "artist": "The Belle Stars",
     "date": "13.10.2025",
     "time": "09:22",
-    "listeners": 1748
+    "listeners": 1748,
+    "lyricists": null,
+    "album": "The Belle Stars",
+    "release_year": 1981,
+    "duration_ms": 178720,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -301,7 +510,19 @@
     "artist": "Al Bano & Romina Power",
     "date": "13.10.2025",
     "time": "09:18",
-    "listeners": 1626
+    "listeners": 1626,
+    "lyricists": [
+      "Al Bano Carrisi",
+      "Ciro Dammicco",
+      "Romina Power"
+    ],
+    "album": "Al Bano e Romina Power",
+    "release_year": 2007,
+    "duration_ms": 264773,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -309,7 +530,16 @@
     "artist": "Mr. President",
     "date": "13.10.2025",
     "time": "09:14",
-    "listeners": 1891
+    "listeners": 1891,
+    "lyricists": null,
+    "album": "We See The Same Sun",
+    "release_year": 2022,
+    "duration_ms": 218733,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -317,7 +547,15 @@
     "artist": "Bartosova, Iveta",
     "date": "13.10.2025",
     "time": "09:09",
-    "listeners": 1849
+    "listeners": 1849,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 208667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -325,7 +563,15 @@
     "artist": "Styx",
     "date": "13.10.2025",
     "time": "09:06",
-    "listeners": 2047
+    "listeners": 2047,
+    "lyricists": null,
+    "album": "Greatest Hits, Pt. 2",
+    "release_year": 2001,
+    "duration_ms": 191093,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -333,7 +579,16 @@
     "artist": "No Mercy",
     "date": "13.10.2025",
     "time": "09:03",
-    "listeners": 2069
+    "listeners": 2069,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1997,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -7724,7 +7979,8 @@
     "duration_ms": 317000,
     "artist_country": "GB",
     "genres": [
-      "Pop"
+      "Pop",
+      "Rock"
     ]
   },
   {
@@ -13515,7 +13771,8 @@
     "duration_ms": 180107,
     "artist_country": "AT",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -16685,7 +16942,8 @@
     "duration_ms": 374251,
     "artist_country": null,
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -17844,7 +18102,8 @@
     "duration_ms": 180107,
     "artist_country": "AT",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -31237,7 +31496,8 @@
     "duration_ms": 317000,
     "artist_country": "GB",
     "genres": [
-      "Pop"
+      "Pop",
+      "Rock"
     ]
   },
   {
@@ -33290,7 +33550,8 @@
     "duration_ms": 180107,
     "artist_country": "AT",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -34527,7 +34788,8 @@
     "duration_ms": 374251,
     "artist_country": null,
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -35715,7 +35977,8 @@
     "duration_ms": 317000,
     "artist_country": "GB",
     "genres": [
-      "Pop"
+      "Pop",
+      "Rock"
     ]
   },
   {
@@ -43369,11 +43632,13 @@
     "time": "23:14",
     "listeners": 222,
     "lyricists": null,
-    "album": null,
-    "release_year": null,
-    "duration_ms": null,
+    "album": "Best of the Saragossa Band",
+    "release_year": 1991,
+    "duration_ms": 237413,
     "artist_country": null,
-    "genres": null
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -43697,7 +43962,8 @@
     "duration_ms": 180107,
     "artist_country": "AT",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -48212,7 +48478,8 @@
     "duration_ms": 374251,
     "artist_country": null,
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -56231,7 +56498,8 @@
     "duration_ms": 374251,
     "artist_country": null,
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -60499,7 +60767,8 @@
     "duration_ms": 180107,
     "artist_country": "AT",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -63505,7 +63774,8 @@
     "duration_ms": 317000,
     "artist_country": "GB",
     "genres": [
-      "Pop"
+      "Pop",
+      "Rock"
     ]
   },
   {
@@ -64860,7 +65130,8 @@
     "duration_ms": 180107,
     "artist_country": "AT",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -72354,7 +72625,8 @@
     "duration_ms": 374251,
     "artist_country": null,
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -76751,7 +77023,8 @@
     "duration_ms": 374251,
     "artist_country": null,
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -81268,7 +81541,8 @@
     "duration_ms": 180107,
     "artist_country": "AT",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Pop"
     ]
   },
   {
@@ -83846,7 +84120,8 @@
     "duration_ms": 317000,
     "artist_country": "GB",
     "genres": [
-      "Pop"
+      "Pop",
+      "Rock"
     ]
   },
   {

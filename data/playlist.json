@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "To Musím Zvládnout Sám",
+    "artist": "Gott Karel",
+    "date": "13.10.2025",
+    "time": "17:45",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'd Love You To Want Me",
+    "artist": "Lobo",
+    "date": "13.10.2025",
+    "time": "17:40",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
     "title": "(We Want) The Same Thing",
     "artist": "Belinda Carlisle",
     "date": "13.10.2025",

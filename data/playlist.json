@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "date": "14.10.2025",
+    "time": "01:49",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "14.10.2025",
+    "time": "01:47",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Slnečná Balada",
     "artist": "Peha",
     "date": "14.10.2025",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "13.10.2025",
+    "time": "21:48",
+    "listeners": 995
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Another Brick In The Wall Part 2",
+    "artist": "Pink Floyd",
+    "date": "13.10.2025",
+    "time": "21:44",
+    "listeners": 1021
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska, Necestuj Tým Vlakom",
+    "artist": "Pavol Habera",
+    "date": "13.10.2025",
+    "time": "21:41",
+    "listeners": 1096
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Never Gonna Give You Up",
     "artist": "Rick Astley",
     "date": "13.10.2025",

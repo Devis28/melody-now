@@ -9894,5 +9894,18 @@
     "genres": [
       "Rock"
     ]
+  },
+  "lionel richie|say you, say me": {
+    "release_year": 1995,
+    "artist_country": "US",
+    "album": "Hello from Las Vegas (Deluxe) [Live]",
+    "duration_ms": 266547,
+    "lyricists": [
+      "Lionel Richie"
+    ],
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   }
 }

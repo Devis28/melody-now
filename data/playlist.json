@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sometimes",
+    "artist": "Erasure",
+    "date": "13.10.2025",
+    "time": "05:54",
+    "listeners": 770
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hey Jude",
+    "artist": "Beatles, The",
+    "date": "13.10.2025",
+    "time": "05:50",
+    "listeners": 705
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Time Of My Life",
+    "artist": "Jennifer Warnes/Bill Medley",
+    "date": "13.10.2025",
+    "time": "05:46",
+    "listeners": 656
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Když Muž Se Ženou Snída",
+    "artist": "Gott Karel",
+    "date": "13.10.2025",
+    "time": "05:42",
+    "listeners": 589
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Especially For You",
+    "artist": "Minogue Kylie & Donovan Jason",
+    "date": "13.10.2025",
+    "time": "05:38",
+    "listeners": 573
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "13.10.2025",
+    "time": "05:35",
+    "listeners": 503
+  },
+  {
+    "station": "Rádio Melody",
     "title": "My Heart Will Go On",
     "artist": "Céline Dion",
     "date": "13.10.2025",

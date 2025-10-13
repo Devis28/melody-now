@@ -5,7 +5,15 @@
     "artist": "Banket",
     "date": "13.10.2025",
     "time": "19:24",
-    "listeners": 1900
+    "listeners": 1900,
+    "lyricists": null,
+    "album": "Bioelektrovízia",
+    "release_year": 2017,
+    "duration_ms": 282613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Miro Žbirka",
     "date": "13.10.2025",
     "time": "19:21",
-    "listeners": 1986
+    "listeners": 1986,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 181307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Matuška Waldemar",
     "date": "13.10.2025",
     "time": "19:18",
-    "listeners": 1909
+    "listeners": 1909,
+    "lyricists": null,
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "release_year": 1964,
+    "duration_ms": 145680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "13.10.2025",
     "time": "19:15",
-    "listeners": 2008
+    "listeners": 2008,
+    "lyricists": null,
+    "album": "V Pohodě (Bonus Track Version)",
+    "release_year": 2010,
+    "duration_ms": 205333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Hana Zagorová",
     "date": "13.10.2025",
     "time": "19:11",
-    "listeners": 1968
+    "listeners": 1968,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 2011,
+    "duration_ms": 220773,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

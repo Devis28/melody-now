@@ -5,7 +5,15 @@
     "artist": "Žbirka Miroslav",
     "date": "13.10.2025",
     "time": "20:52",
-    "listeners": 1399
+    "listeners": 1399,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 1988,
+    "duration_ms": 187107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Take That",
     "date": "13.10.2025",
     "time": "20:48",
-    "listeners": 1331
+    "listeners": 1331,
+    "lyricists": null,
+    "album": "Nobody Else (Expanded Edition)",
+    "release_year": 1996,
+    "duration_ms": 242267,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Herman's Hermits",
     "date": "13.10.2025",
     "time": "20:45",
-    "listeners": 1262
+    "listeners": 1262,
+    "lyricists": null,
+    "album": "The BEST EVER: Sixties",
+    "release_year": 1991,
+    "duration_ms": 174333,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

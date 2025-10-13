@@ -1521,5 +1521,15 @@
     "genres": [
       "Pop"
     ]
+  },
+  "usa for africa|we are the world": {
+    "artist_country": "US",
+    "album": "We Are the World - Single",
+    "release_year": 1985,
+    "duration_ms": 427333,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

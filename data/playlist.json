@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "13.10.2025",
+    "time": "09:25",
+    "listeners": 1525
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Iko Iko",
+    "artist": "The Belle Stars",
+    "date": "13.10.2025",
+    "time": "09:22",
+    "listeners": 1748
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sharazan",
+    "artist": "Al Bano & Romina Power",
+    "date": "13.10.2025",
+    "time": "09:18",
+    "listeners": 1626
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Coco Jambo",
+    "artist": "Mr. President",
+    "date": "13.10.2025",
+    "time": "09:14",
+    "listeners": 1891
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Útoč Láskou",
+    "artist": "Bartosova, Iveta",
+    "date": "13.10.2025",
+    "time": "09:09",
+    "listeners": 1849
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Boat On The River",
     "artist": "Styx",
     "date": "13.10.2025",

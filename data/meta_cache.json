@@ -9820,5 +9820,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "madonna|like a prayer": {
+    "release_year": 1989,
+    "artist_country": "US",
+    "album": "Like a Prayer",
+    "duration_ms": 340867,
+    "lyricists": [
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

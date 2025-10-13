@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "To Be With You",
+    "artist": "Mr. Big",
+    "date": "13.10.2025",
+    "time": "14:11",
+    "listeners": 946
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Be My Baby",
+    "artist": "Ronettes, The",
+    "date": "13.10.2025",
+    "time": "14:09",
+    "listeners": 973
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Infinity",
+    "artist": "Guru Josh",
+    "date": "13.10.2025",
+    "time": "14:06",
+    "listeners": 1049
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neviem Byť Sám",
+    "artist": "Elán",
+    "date": "13.10.2025",
+    "time": "14:02",
+    "listeners": 1110
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Wanna Dance With Somebody",
+    "artist": "Whitney Houston",
+    "date": "13.10.2025",
+    "time": "13:53",
+    "listeners": 1010
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Moviestar",
     "artist": "Harpo",
     "date": "13.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Alizee",
     "date": "14.10.2025",
     "time": "01:08",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Gourmandises",
+    "release_year": 2001,
+    "duration_ms": 264283,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Team",
     "date": "14.10.2025",
     "time": "01:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2010,
+    "duration_ms": 233253,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Enrique Iglesias",
     "date": "14.10.2025",
     "time": "01:00",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Enrique",
+    "release_year": 1999,
+    "duration_ms": 212693,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,19 @@
     "artist": "Ben E. King",
     "date": "14.10.2025",
     "time": "00:57",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": [
+      "Ben E. King",
+      "Jerry Leiber",
+      "Mike Stoller"
+    ],
+    "album": "The Very Best of Ben E. King",
+    "release_year": 2024,
+    "duration_ms": 174800,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Elán",
     "date": "14.10.2025",
     "time": "00:53",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Ôsmy svetadiel (Remastered)",
+    "release_year": 2015,
+    "duration_ms": 239107,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,16 @@
     "artist": "Meat Loaf",
     "date": "13.10.2025",
     "time": "15:52",
-    "listeners": 1806
+    "listeners": 1806,
+    "lyricists": null,
+    "album": "Bat Out Of Hell II: Back Into Hell (Deluxe)",
+    "release_year": 1996,
+    "duration_ms": 316467,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

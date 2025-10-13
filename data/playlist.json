@@ -5,7 +5,15 @@
     "artist": "Gloria Gaynor",
     "date": "13.10.2025",
     "time": "23:10",
-    "listeners": 477
+    "listeners": 477,
+    "lyricists": null,
+    "album": "Make It 80's & 90's",
+    "release_year": 2000,
+    "duration_ms": 254600,
+    "artist_country": "US",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bartošová Iveta",
     "date": "13.10.2025",
     "time": "23:06",
-    "listeners": 500
+    "listeners": 500,
+    "lyricists": null,
+    "album": "I.B.",
+    "release_year": 1987,
+    "duration_ms": 221205,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Boney M.",
     "date": "13.10.2025",
     "time": "23:02",
-    "listeners": 573
+    "listeners": 573,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2025,
+    "duration_ms": 261200,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Janda Dalibor",
     "date": "13.10.2025",
     "time": "23:00",
-    "listeners": 513
+    "listeners": 513,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 172707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Erasure",
     "date": "13.10.2025",
     "time": "22:56",
-    "listeners": 565
+    "listeners": 565,
+    "lyricists": null,
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "release_year": 2005,
+    "duration_ms": 237840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

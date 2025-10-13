@@ -5,7 +5,15 @@
     "artist": "Streisand Barbra",
     "date": "13.10.2025",
     "time": "22:20",
-    "listeners": 743
+    "listeners": 743,
+    "lyricists": null,
+    "album": "Guilty",
+    "release_year": 1980,
+    "duration_ms": 233400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Brontosauři",
     "date": "13.10.2025",
     "time": "22:18",
-    "listeners": 754
+    "listeners": 754,
+    "lyricists": null,
+    "album": "Vsechny Hity",
+    "release_year": 1991,
+    "duration_ms": 133293,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Hex",
     "date": "13.10.2025",
     "time": "22:14",
-    "listeners": 814
+    "listeners": 814,
+    "lyricists": null,
+    "album": "Kde je tu láska?",
+    "release_year": 2023,
+    "duration_ms": 260316,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "The Connells",
     "date": "13.10.2025",
     "time": "22:08",
-    "listeners": 901
+    "listeners": 901,
+    "lyricists": null,
+    "album": "Ring (Deluxe Edition)",
+    "release_year": 1995,
+    "duration_ms": 279107,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Bano Al & Power Romina",
     "date": "13.10.2025",
     "time": "22:04",
-    "listeners": 886
+    "listeners": 886,
+    "lyricists": null,
+    "album": "Al Bano e Romina Power",
+    "release_year": 1982,
+    "duration_ms": 192853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Ub 40",
     "date": "13.10.2025",
     "time": "22:01",
-    "listeners": 893
+    "listeners": 893,
+    "lyricists": null,
+    "album": "The Very Best of UB40: 1980-2000",
+    "release_year": 1993,
+    "duration_ms": 208733,
+    "artist_country": null,
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Abba",
     "date": "13.10.2025",
     "time": "21:57",
-    "listeners": 938
+    "listeners": 938,
+    "lyricists": null,
+    "album": "ABBA: The Album",
+    "release_year": 2006,
+    "duration_ms": 228700,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

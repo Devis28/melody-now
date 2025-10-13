@@ -1425,5 +1425,48 @@
       "Pop",
       "Rock"
     ]
+  },
+  "camouflage|love is the shield": {
+    "album": "Love Is A Shield - Single",
+    "release_year": 1989,
+    "duration_ms": 241013,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "shakespear's sister|stay": {
+    "release_year": 1993,
+    "artist_country": "GB",
+    "album": "Hormonally Yours",
+    "duration_ms": 229000,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "hammel, pavol|zrpš": {
+    "album": "Čas malín",
+    "release_year": 1981,
+    "duration_ms": 179747,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "roxette|joyride": {
+    "release_year": 1995,
+    "artist_country": "SE",
+    "album": "Joyride (30th Anniversary Edition)",
+    "duration_ms": 263093,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "bad boys blue|you're a woman": {
+    "release_year": 2009,
+    "artist_country": "DE",
+    "album": "Super 20",
+    "duration_ms": 321840,
+    "genres": [
+      "Pop"
+    ]
   }
 }

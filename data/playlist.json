@@ -5,7 +5,15 @@
     "artist": "Camouflage",
     "date": "13.10.2025",
     "time": "08:20",
-    "listeners": 2863
+    "listeners": 2863,
+    "lyricists": null,
+    "album": "Love Is A Shield - Single",
+    "release_year": 1989,
+    "duration_ms": 241013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Shakespear's Sister",
     "date": "13.10.2025",
     "time": "08:17",
-    "listeners": 2891
+    "listeners": 2891,
+    "lyricists": null,
+    "album": "Hormonally Yours",
+    "release_year": 1993,
+    "duration_ms": 229000,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Hammel, Pavol",
     "date": "13.10.2025",
     "time": "08:14",
-    "listeners": 2961
+    "listeners": 2961,
+    "lyricists": null,
+    "album": "Čas malín",
+    "release_year": 1981,
+    "duration_ms": 179747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Roxette",
     "date": "13.10.2025",
     "time": "08:06",
-    "listeners": 2918
+    "listeners": 2918,
+    "lyricists": null,
+    "album": "Joyride (30th Anniversary Edition)",
+    "release_year": 1995,
+    "duration_ms": 263093,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Bad Boys Blue",
     "date": "13.10.2025",
     "time": "08:02",
-    "listeners": 3134
+    "listeners": 3134,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 2009,
+    "duration_ms": 321840,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

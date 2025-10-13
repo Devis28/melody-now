@@ -9980,5 +9980,17 @@
     "genres": [
       "Pop"
     ]
+  },
+  "richard müller|už asi nie si": {
+    "release_year": 2011,
+    "artist_country": "SK",
+    "album": "Výberovka",
+    "duration_ms": 229507,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

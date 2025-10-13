@@ -5,7 +5,15 @@
     "artist": "Čírová Mária",
     "date": "14.10.2025",
     "time": "00:33",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Búrka",
+    "release_year": 2008,
+    "duration_ms": 245680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Bee Gees",
     "date": "14.10.2025",
     "time": "00:29",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "E.S.P.",
+    "release_year": 2004,
+    "duration_ms": 241400,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,17 @@
     "artist": "Richard Müller",
     "date": "14.10.2025",
     "time": "00:25",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2011,
+    "duration_ms": 229507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "No Name",
     "date": "14.10.2025",
     "time": "00:21",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 243480,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

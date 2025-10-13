@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tisíckrát Krásnější",
+    "artist": "Dalibor Janda",
+    "date": "13.10.2025",
+    "time": "19:47",
+    "listeners": 1866
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ja Viem",
+    "artist": "Grigorov Robo",
+    "date": "13.10.2025",
+    "time": "19:43",
+    "listeners": 1775
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hrám",
+    "artist": "Karol Duchoň",
+    "date": "13.10.2025",
+    "time": "19:39",
+    "listeners": 1800
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Netrpezliví",
     "artist": "Elán",
     "date": "13.10.2025",

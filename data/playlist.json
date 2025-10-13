@@ -5,7 +5,15 @@
     "artist": "Rick Astley",
     "date": "13.10.2025",
     "time": "21:37",
-    "listeners": 977
+    "listeners": 977,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1999,
+    "duration_ms": 213560,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Desmod",
     "date": "13.10.2025",
     "time": "21:33",
-    "listeners": 1141
+    "listeners": 1141,
+    "lyricists": null,
+    "album": "SLOVENSKÉ HITY",
+    "release_year": 2014,
+    "duration_ms": 220853,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

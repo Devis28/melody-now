@@ -9943,5 +9943,17 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bon jovi|always": {
+    "release_year": 2004,
+    "artist_country": "US",
+    "album": "Cross Road",
+    "duration_ms": 353027,
+    "lyricists": [
+      "Jon Bon Jovi"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

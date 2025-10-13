@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hej Pane Diskžokej",
+    "artist": "Balet",
+    "date": "13.10.2025",
+    "time": "19:07",
+    "listeners": 1985
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bonboniéra",
+    "artist": "Gladiátor",
+    "date": "13.10.2025",
+    "time": "19:04",
+    "listeners": 2027
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jeden Kabát, Jedna Koža, Jedna Tvár",
+    "artist": "Team",
+    "date": "13.10.2025",
+    "time": "19:02",
+    "listeners": 2169
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kdyz Se Narodime",
+    "artist": "Jitka Zelenkova",
+    "date": "13.10.2025",
+    "time": "18:58",
+    "listeners": 1983
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sme Svoji",
+    "artist": "Nagy Peter",
+    "date": "13.10.2025",
+    "time": "18:55",
+    "listeners": 2061
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ľudia Nie Sú Zlí",
     "artist": "I.M.T. Smile",
     "date": "13.10.2025",

@@ -9833,5 +9833,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "lionel richie|hello": {
+    "artist_country": "US",
+    "album": "Can't Slow Down",
+    "release_year": 1983,
+    "duration_ms": 248401,
+    "lyricists": [
+      "James Anthony Carmichael",
+      "Lionel Richie"
+    ],
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   }
 }

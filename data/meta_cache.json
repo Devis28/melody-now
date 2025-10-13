@@ -1152,5 +1152,52 @@
     "genres": [
       "Pop"
     ]
+  },
+  "erasure|sometimes": {
+    "artist_country": "GB",
+    "album": "The Circus (2011 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 217056,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "beatles, the|hey jude": {
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "release_year": 1968,
+    "duration_ms": 431333,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "jennifer warnes/bill medley|the time of my life": {
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 1987,
+    "duration_ms": 290333
+  },
+  "gott karel|když muž se ženou snída": {
+    "album": "Jágr vs Gott - Single",
+    "release_year": 2018,
+    "duration_ms": 190549,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "minogue kylie|especially for you": {
+    "album": "Greatest Hits",
+    "release_year": 1988,
+    "duration_ms": 240371,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "bonnie tyler|it's a heartache": {
+    "release_year": 1991,
+    "artist_country": "GB",
+    "album": "It's a Heartache",
+    "duration_ms": 209760,
+    "genres": [
+      "Pop"
+    ]
   }
 }

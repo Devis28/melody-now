@@ -5,7 +5,15 @@
     "artist": "Erasure",
     "date": "13.10.2025",
     "time": "05:54",
-    "listeners": 770
+    "listeners": 770,
+    "lyricists": null,
+    "album": "The Circus (2011 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 217056,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Beatles, The",
     "date": "13.10.2025",
     "time": "05:50",
-    "listeners": 705
+    "listeners": 705,
+    "lyricists": null,
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "release_year": 1968,
+    "duration_ms": 431333,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,13 @@
     "artist": "Jennifer Warnes/Bill Medley",
     "date": "13.10.2025",
     "time": "05:46",
-    "listeners": 656
+    "listeners": 656,
+    "lyricists": null,
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 1987,
+    "duration_ms": 290333,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Gott Karel",
     "date": "13.10.2025",
     "time": "05:42",
-    "listeners": 589
+    "listeners": 589,
+    "lyricists": null,
+    "album": "Jágr vs Gott - Single",
+    "release_year": 2018,
+    "duration_ms": 190549,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,15 @@
     "artist": "Minogue Kylie & Donovan Jason",
     "date": "13.10.2025",
     "time": "05:38",
-    "listeners": 573
+    "listeners": 573,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1988,
+    "duration_ms": 240371,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +83,15 @@
     "artist": "Bonnie Tyler",
     "date": "13.10.2025",
     "time": "05:35",
-    "listeners": 503
+    "listeners": 503,
+    "lyricists": null,
+    "album": "It's a Heartache",
+    "release_year": 1991,
+    "duration_ms": 209760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

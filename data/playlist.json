@@ -5,7 +5,15 @@
     "artist": "No Name",
     "date": "13.10.2025",
     "time": "20:41",
-    "listeners": 1443
+    "listeners": 1443,
+    "lyricists": null,
+    "album": "25 The Best Of No Name",
+    "release_year": 2003,
+    "duration_ms": 211507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Paradis, Vanessa",
     "date": "13.10.2025",
     "time": "20:38",
-    "listeners": 1409
+    "listeners": 1409,
+    "lyricists": null,
+    "album": "M & J (CD2)",
+    "release_year": 1987,
+    "duration_ms": 235227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Pretenders, The",
     "date": "13.10.2025",
     "time": "20:34",
-    "listeners": 1473
+    "listeners": 1473,
+    "lyricists": null,
+    "album": "Last of the Independents",
+    "release_year": 1994,
+    "duration_ms": 238827,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Madam",
     "date": "13.10.2025",
     "time": "20:29",
-    "listeners": 1430
+    "listeners": 1430,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 269880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Laid Back",
     "date": "13.10.2025",
     "time": "20:25",
-    "listeners": 1450
+    "listeners": 1450,
+    "lyricists": null,
+    "album": "Good Vibes - The Very Best of Laid Back",
+    "release_year": 1983,
+    "duration_ms": 257667,
+    "artist_country": "DK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

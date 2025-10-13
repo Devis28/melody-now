@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Milionár",
+    "artist": "Balogh Berco",
+    "date": "13.10.2025",
+    "time": "22:44",
+    "listeners": 652
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jeanny (Part 1)",
+    "artist": "Falco",
+    "date": "13.10.2025",
+    "time": "22:40",
+    "listeners": 660
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Chlap Z Kríža",
     "artist": "Tobias Szidi",
     "date": "13.10.2025",

@@ -1381,5 +1381,31 @@
     "genres": [
       "Pop"
     ]
+  },
+  "lenka filipová|prý se tomu říká láska": {
+    "release_year": 2007,
+    "artist_country": "CZ",
+    "album": "1982-92",
+    "duration_ms": 213253,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "orbison roy|oh, pretty woman": {
+    "album": "Oh! Pretty Woman",
+    "release_year": 1964,
+    "duration_ms": 178929,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "grigorov robo|ona je madona": {
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "genres": [
+      "Pop"
+    ]
   }
 }

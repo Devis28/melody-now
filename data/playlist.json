@@ -5,7 +5,16 @@
     "artist": "Céline Dion",
     "date": "13.10.2025",
     "time": "05:30",
-    "listeners": 471
+    "listeners": 471,
+    "lyricists": null,
+    "album": "Let's Talk About Love",
+    "release_year": 1998,
+    "duration_ms": 280000,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Karol Duchoň",
     "date": "13.10.2025",
     "time": "05:27",
-    "listeners": 432
+    "listeners": 432,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1985,
+    "duration_ms": 203093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "I Santo California",
     "date": "13.10.2025",
     "time": "05:24",
-    "listeners": 447
+    "listeners": 447,
+    "lyricists": null,
+    "album": "Tornerò/Volveré - Single",
+    "release_year": 2001,
+    "duration_ms": 226355,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Chris Norman",
     "date": "13.10.2025",
     "time": "05:20",
-    "listeners": 379
+    "listeners": 379,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2002,
+    "duration_ms": 250000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Roxette",
     "date": "13.10.2025",
     "time": "05:16",
-    "listeners": 364
+    "listeners": 364,
+    "lyricists": null,
+    "album": "Fading Like A Flower - Single",
+    "release_year": 1992,
+    "duration_ms": 145808,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Hammel Pavol",
     "date": "13.10.2025",
     "time": "05:13",
-    "listeners": 347
+    "listeners": 347,
+    "lyricists": null,
+    "album": "Vrabec vševed",
+    "release_year": 1979,
+    "duration_ms": 201293,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,18 @@
     "artist": "Sting",
     "date": "13.10.2025",
     "time": "05:08",
-    "listeners": 331
+    "listeners": 331,
+    "lyricists": [
+      "Sting"
+    ],
+    "album": "Ten Summoner's Tales",
+    "release_year": 2024,
+    "duration_ms": 222120,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +121,15 @@
     "artist": "Nagy Peter",
     "date": "13.10.2025",
     "time": "05:04",
-    "listeners": 295
+    "listeners": 295,
+    "lyricists": null,
+    "album": "Chrán svoje bláznovstvá",
+    "release_year": 1984,
+    "duration_ms": 292040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +137,15 @@
     "artist": "Elán",
     "date": "13.10.2025",
     "time": "05:00",
-    "listeners": 268
+    "listeners": 268,
+    "lyricists": null,
+    "album": "Netvor z čiernej hviezdy Q7A",
+    "release_year": 2004,
+    "duration_ms": 238000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +153,15 @@
     "artist": "Mariah Carey",
     "date": "13.10.2025",
     "time": "04:56",
-    "listeners": 245
+    "listeners": 245,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 214040,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +169,15 @@
     "artist": "Queen",
     "date": "13.10.2025",
     "time": "04:51",
-    "listeners": 245
+    "listeners": 245,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1975,
+    "duration_ms": 354947,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +185,16 @@
     "artist": "Ramazzotti Eros",
     "date": "13.10.2025",
     "time": "04:46",
-    "listeners": 247
+    "listeners": 247,
+    "lyricists": null,
+    "album": "Eros 30 (Deluxe Version)",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +202,19 @@
     "artist": "Richard Müller",
     "date": "13.10.2025",
     "time": "04:42",
-    "listeners": 198
+    "listeners": 198,
+    "lyricists": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ],
+    "album": "Hlasy",
+    "release_year": 2011,
+    "duration_ms": 353360,
+    "artist_country": "SK",
+    "genres": [
+      "Jazz",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +222,15 @@
     "artist": "Ub 40",
     "date": "13.10.2025",
     "time": "04:38",
-    "listeners": 225
+    "listeners": 225,
+    "lyricists": null,
+    "album": "The Very Best Of",
+    "release_year": 1989,
+    "duration_ms": 230000,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +238,17 @@
     "artist": "Shakira",
     "date": "13.10.2025",
     "time": "04:35",
-    "listeners": 215
+    "listeners": 215,
+    "lyricists": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ],
+    "album": "Laundry Service",
+    "release_year": 2001,
+    "duration_ms": 196160,
+    "artist_country": "CO",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +256,18 @@
     "artist": "Robo Grigorov",
     "date": "13.10.2025",
     "time": "04:31",
-    "listeners": 221
+    "listeners": 221,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "album": "Balady",
+    "release_year": 1997,
+    "duration_ms": 256613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +275,16 @@
     "artist": "Richard Cliff",
     "date": "13.10.2025",
     "time": "04:27",
-    "listeners": 208
+    "listeners": 208,
+    "lyricists": null,
+    "album": "Always Guaranteed (Remastered)",
+    "release_year": 1987,
+    "duration_ms": 231560,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +292,15 @@
     "artist": "Čírová Mária",
     "date": "13.10.2025",
     "time": "04:23",
-    "listeners": 202
+    "listeners": 202,
+    "lyricists": null,
+    "album": "Na Dosah",
+    "release_year": 2011,
+    "duration_ms": 247707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +308,16 @@
     "artist": "Leo Sayer",
     "date": "13.10.2025",
     "time": "04:19",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Endless Journey – The Essential Leo Sayer",
+    "release_year": 2005,
+    "duration_ms": 252728,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +325,15 @@
     "artist": "The Bangles",
     "date": "13.10.2025",
     "time": "04:15",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "Eternal Flame: The Best of Bangles",
+    "release_year": 2001,
+    "duration_ms": 240160,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +341,15 @@
     "artist": "Peter Bič Project",
     "date": "13.10.2025",
     "time": "04:13",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Len sa smej - Single",
+    "release_year": 2025,
+    "duration_ms": 164897,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +357,15 @@
     "artist": "Zucchero,Paul Young",
     "date": "13.10.2025",
     "time": "04:08",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "All the Best",
+    "release_year": 1991,
+    "duration_ms": 267080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +373,15 @@
     "artist": "Gott Karel",
     "date": "13.10.2025",
     "time": "04:03",
-    "listeners": 199
+    "listeners": 199,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 239600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -189,7 +389,15 @@
     "artist": "Ten Sharp",
     "date": "13.10.2025",
     "time": "03:59",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "You - Single",
+    "release_year": 2000,
+    "duration_ms": 272984,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -197,7 +405,18 @@
     "artist": "Elton John",
     "date": "13.10.2025",
     "time": "03:55",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition)",
+    "release_year": 2003,
+    "duration_ms": 228928,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -205,7 +424,15 @@
     "artist": "Kryštof ft. Sima Martausová",
     "date": "13.10.2025",
     "time": "03:51",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Hvězdáři (feat. Sima Martausová) - Single",
+    "release_year": 2019,
+    "duration_ms": 242553,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -213,7 +440,15 @@
     "artist": "The Scorpions",
     "date": "13.10.2025",
     "time": "03:46",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Crazy World",
+    "release_year": 1999,
+    "duration_ms": 312360,
+    "artist_country": "DE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -221,7 +456,13 @@
     "artist": "Masquerade",
     "date": "13.10.2025",
     "time": "03:42",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Echoes",
+    "release_year": 1998,
+    "duration_ms": 259814,
+    "artist_country": "DE",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -229,7 +470,15 @@
     "artist": "Cher",
     "date": "13.10.2025",
     "time": "03:38",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 1999,
+    "duration_ms": 239027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -237,7 +486,15 @@
     "artist": "Elán",
     "date": "13.10.2025",
     "time": "03:34",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 1992,
+    "duration_ms": 232613,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -245,7 +502,16 @@
     "artist": "Team",
     "date": "13.10.2025",
     "time": "03:30",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Team Hity",
+    "release_year": 1991,
+    "duration_ms": 267693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -253,7 +519,13 @@
     "artist": "Berlin",
     "date": "13.10.2025",
     "time": "03:26",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "Top Gun (Original Motion Picture Soundtrack) [Special Expanded Edition]",
+    "release_year": 2009,
+    "duration_ms": 255733,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -261,7 +533,15 @@
     "artist": "Patejdl Vašo",
     "date": "13.10.2025",
     "time": "03:22",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1986,
+    "duration_ms": 287667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -269,7 +549,18 @@
     "artist": "Michael Jackson",
     "date": "13.10.2025",
     "time": "03:18",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "release_year": 2005,
+    "duration_ms": 284310,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -277,7 +568,15 @@
     "artist": "Nocadeň",
     "date": "13.10.2025",
     "time": "03:14",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Nocadeň v Prahe (Live 2024)",
+    "release_year": 2015,
+    "duration_ms": 258587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -285,7 +584,15 @@
     "artist": "Mr. Big",
     "date": "13.10.2025",
     "time": "03:11",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Big, Bigger, Biggest! The Best of Mr. Big",
+    "release_year": 2018,
+    "duration_ms": 208507,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -293,7 +600,15 @@
     "artist": "Roxette",
     "date": "13.10.2025",
     "time": "03:06",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "It Must Have Been Love - Single",
+    "release_year": 1992,
+    "duration_ms": 259666,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -301,7 +616,15 @@
     "artist": "Ricchi E Poveri",
     "date": "13.10.2025",
     "time": "03:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1998,
+    "duration_ms": 175667,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

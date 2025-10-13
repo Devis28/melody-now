@@ -798,5 +798,359 @@
     "genres": [
       "Rock"
     ]
+  },
+  "céline dion|my heart will go on": {
+    "release_year": 1998,
+    "artist_country": "CA",
+    "album": "Let's Talk About Love",
+    "duration_ms": 280000,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "karol duchoň|cítim": {
+    "release_year": 1985,
+    "artist_country": "SK",
+    "album": "20 naj",
+    "duration_ms": 203093,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "i santo california|tornero": {
+    "release_year": 2001,
+    "artist_country": "IT",
+    "album": "Tornerò/Volveré - Single",
+    "duration_ms": 226355,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "chris norman|midnight lady": {
+    "release_year": 2002,
+    "artist_country": "GB",
+    "album": "Greatest Hits",
+    "duration_ms": 250000,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "roxette|fading like a flower": {
+    "artist_country": "SE",
+    "release_year": 1992,
+    "album": "Fading Like A Flower - Single",
+    "duration_ms": 145808,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "hammel pavol|medulienka": {
+    "album": "Vrabec vševed",
+    "release_year": 1979,
+    "duration_ms": 201293,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "sting|fields of gold": {
+    "release_year": 2024,
+    "artist_country": "GB",
+    "album": "Ten Summoner's Tales",
+    "duration_ms": 222120,
+    "lyricists": [
+      "Sting"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "nagy peter|kristínka iba spí": {
+    "album": "Chrán svoje bláznovstvá",
+    "release_year": 1984,
+    "duration_ms": 292040,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "elán|sestrička z kramárov": {
+    "release_year": 2004,
+    "artist_country": "SK",
+    "album": "Netvor z čiernej hviezdy Q7A",
+    "duration_ms": 238000,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "mariah carey|without you": {
+    "artist_country": "US",
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 214040,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "queen|bohemian rhapsody": {
+    "artist_country": "GB",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1975,
+    "duration_ms": 354947,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "ramazzotti eros|fuoco nel fuoco": {
+    "album": "Eros 30 (Deluxe Version)",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "richard müller|milovanie v daždi": {
+    "release_year": 2011,
+    "artist_country": "SK",
+    "album": "Hlasy",
+    "duration_ms": 353360,
+    "lyricists": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ],
+    "genres": [
+      "Jazz",
+      "Pop"
+    ]
+  },
+  "ub 40|kingston town": {
+    "album": "The Very Best Of",
+    "release_year": 1989,
+    "duration_ms": 230000,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "shakira|whenever, wherever": {
+    "artist_country": "CO",
+    "album": "Laundry Service",
+    "release_year": 2001,
+    "duration_ms": 196160,
+    "lyricists": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ]
+  },
+  "robo grigorov|po víne": {
+    "release_year": 1997,
+    "artist_country": "SK",
+    "album": "Balady",
+    "duration_ms": 256613,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "richard cliff|some people": {
+    "album": "Always Guaranteed (Remastered)",
+    "release_year": 1987,
+    "duration_ms": 231560,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "čírová mária|bez obáv": {
+    "album": "Na Dosah",
+    "release_year": 2011,
+    "duration_ms": 247707,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "leo sayer|when i need you": {
+    "release_year": 2005,
+    "artist_country": "GB",
+    "album": "Endless Journey – The Essential Leo Sayer",
+    "duration_ms": 252728,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "the bangles|eternal flame": {
+    "artist_country": "US",
+    "album": "Eternal Flame: The Best of Bangles",
+    "release_year": 2001,
+    "duration_ms": 240160,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "peter bič project|len sa smej": {
+    "artist_country": "SK",
+    "release_year": 2025,
+    "album": "Len sa smej - Single",
+    "duration_ms": 164897,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "zucchero,paul young|senza una donna": {
+    "album": "All the Best",
+    "release_year": 1991,
+    "duration_ms": 267080,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "gott karel|zústanu svúj": {
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 239600,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "ten sharp|you": {
+    "release_year": 2000,
+    "artist_country": "NL",
+    "album": "You - Single",
+    "duration_ms": 272984,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "elton john|candle in the wind": {
+    "release_year": 2003,
+    "artist_country": "GB",
+    "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition)",
+    "duration_ms": 228928,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "genres": [
+      "Rock"
+    ]
+  },
+  "kryštof ft. sima martausová|hvězdáři": {
+    "album": "Hvězdáři (feat. Sima Martausová) - Single",
+    "release_year": 2019,
+    "duration_ms": 242553,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "the scorpions|wind of change": {
+    "release_year": 1999,
+    "artist_country": "DE",
+    "album": "Crazy World",
+    "duration_ms": 312360,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "masquerade|guardian angel": {
+    "release_year": 1998,
+    "artist_country": "DE",
+    "album": "Echoes",
+    "duration_ms": 259814
+  },
+  "cher|believe": {
+    "artist_country": "US",
+    "release_year": 1999,
+    "album": "Believe",
+    "duration_ms": 239027,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "elán|mám, kým nemám": {
+    "release_year": 1992,
+    "artist_country": "SK",
+    "album": "Elán 3",
+    "duration_ms": 232613,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "team|ženská menom panika": {
+    "release_year": 1991,
+    "artist_country": "SK",
+    "album": "Team Hity",
+    "duration_ms": 267693,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "berlin|take my breath away": {
+    "release_year": 2009,
+    "artist_country": "US",
+    "album": "Top Gun (Original Motion Picture Soundtrack) [Special Expanded Edition]",
+    "duration_ms": 255733
+  },
+  "patejdl vašo|dvojčatá": {
+    "album": "Chlapcenský úsmev",
+    "release_year": 1986,
+    "duration_ms": 287667,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "michael jackson|they don't care about us": {
+    "release_year": 2005,
+    "artist_country": "US",
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "duration_ms": 284310,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "nocadeň|v nás": {
+    "artist_country": "SK",
+    "release_year": 2015,
+    "album": "Nocadeň v Prahe (Live 2024)",
+    "duration_ms": 258587,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "mr. big|wild world": {
+    "release_year": 2018,
+    "artist_country": "US",
+    "album": "Big, Bigger, Biggest! The Best of Mr. Big",
+    "duration_ms": 208507,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "roxette|it must have been love": {
+    "release_year": 1992,
+    "artist_country": "SE",
+    "album": "It Must Have Been Love - Single",
+    "duration_ms": 259666,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "ricchi e poveri|mamma maria": {
+    "release_year": 1998,
+    "artist_country": "IT",
+    "album": "Ricchi e Poveri: The Collection",
+    "duration_ms": 175667,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kamarát",
+    "artist": "Exil",
+    "date": "13.10.2025",
+    "time": "12:50",
+    "listeners": 1629
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Super Trouper",
+    "artist": "Abba",
+    "date": "13.10.2025",
+    "time": "12:46",
+    "listeners": 1527
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Za Dverami Mojej Izby",
     "artist": "Beata Dubasová",
     "date": "13.10.2025",

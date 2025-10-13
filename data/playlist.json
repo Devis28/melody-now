@@ -5,7 +5,15 @@
     "artist": "Suzi Quatro",
     "date": "13.10.2025",
     "time": "15:49",
-    "listeners": 1778
+    "listeners": 1778,
+    "lyricists": null,
+    "album": "If You Knew Suzi… (2017 Remaster)",
+    "release_year": 1988,
+    "duration_ms": 232994,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Westlife",
     "date": "13.10.2025",
     "time": "15:44",
-    "listeners": 1796
+    "listeners": 1796,
+    "lyricists": null,
+    "album": "The Love Album",
+    "release_year": 2007,
+    "duration_ms": 279619,
+    "artist_country": "IE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Sabrina",
     "date": "13.10.2025",
     "time": "15:40",
-    "listeners": 1506
+    "listeners": 1506,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1999,
+    "duration_ms": 231986,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "13.10.2025",
+    "time": "12:41",
+    "listeners": 1707
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "California Dreamin'",
+    "artist": "Mamas & The Papas",
+    "date": "13.10.2025",
+    "time": "12:38",
+    "listeners": 1727
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "C�est La Vie",
+    "artist": "Miro Zbirka",
+    "date": "13.10.2025",
+    "time": "12:34",
+    "listeners": 1628
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "This Used To Be My Playground",
+    "artist": "Madonna",
+    "date": "13.10.2025",
+    "time": "12:28",
+    "listeners": 1632
+  },
+  {
+    "station": "Rádio Melody",
     "title": "S Úsmevom",
     "artist": "Karol Duchoň",
     "date": "13.10.2025",

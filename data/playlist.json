@@ -5,7 +5,15 @@
     "artist": "Dalibor Janda",
     "date": "13.10.2025",
     "time": "19:47",
-    "listeners": 1866
+    "listeners": 1866,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1993,
+    "duration_ms": 293667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Grigorov Robo",
     "date": "13.10.2025",
     "time": "19:43",
-    "listeners": 1775
+    "listeners": 1775,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2008,
+    "duration_ms": 209427,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Karol Duchoň",
     "date": "13.10.2025",
     "time": "19:39",
-    "listeners": 1800
+    "listeners": 1800,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 220693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

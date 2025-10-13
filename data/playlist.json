@@ -5,7 +5,15 @@
     "artist": "Cutting Crew",
     "date": "13.10.2025",
     "time": "23:42",
-    "listeners": 398
+    "listeners": 398,
+    "lyricists": null,
+    "album": "Broadcast",
+    "release_year": 2019,
+    "duration_ms": 280400,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Adams Bryan",
     "date": "13.10.2025",
     "time": "23:38",
-    "listeners": 373
+    "listeners": 373,
+    "lyricists": null,
+    "album": "Waking Up the Neighbours",
+    "release_year": 1991,
+    "duration_ms": 393640,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Elán",
     "date": "13.10.2025",
     "time": "23:34",
-    "listeners": 383
+    "listeners": 383,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 2003,
+    "duration_ms": 215067,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

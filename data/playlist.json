@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ver mi",
+    "artist": "Elán",
+    "date": "13.10.2025",
+    "time": "18:18",
+    "listeners": 2961
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rozvíjej Se Poupátko",
+    "artist": "Iveta Bartošová",
+    "date": "13.10.2025",
+    "time": "18:15",
+    "listeners": 2819
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Michaela",
+    "artist": "Hex",
+    "date": "13.10.2025",
+    "time": "18:11",
+    "listeners": 2730
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Uličník Bozk",
+    "artist": "Gombitová Marika & Patejdl Vašo",
+    "date": "13.10.2025",
+    "time": "18:05",
+    "listeners": 2870
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá",
+    "artist": "Miro Žbirka",
+    "date": "13.10.2025",
+    "time": "18:00",
+    "listeners": 3157
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hero",
     "artist": "Carey Mariah",
     "date": "13.10.2025",

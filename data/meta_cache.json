@@ -9931,5 +9931,17 @@
     "genres": [
       "Pop"
     ]
+  },
+  "kaoma|lambada": {
+    "artist_country": "FR",
+    "release_year": 1991,
+    "album": "La Lambada",
+    "duration_ms": 207467,
+    "lyricists": [
+      "Kaoma"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Désenchantee",
+    "artist": "Farmer Mylene",
+    "date": "13.10.2025",
+    "time": "10:53",
+    "listeners": 935
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tancujem S Tebou Rád",
+    "artist": "Karol Duchoň",
+    "date": "13.10.2025",
+    "time": "10:50",
+    "listeners": 944
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "13.10.2025",
+    "time": "10:46",
+    "listeners": 833
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Vráť Mi Tie Hviezdy",
     "artist": "Dubasová Beáta",
     "date": "13.10.2025",

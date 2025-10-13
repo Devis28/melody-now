@@ -5,7 +5,17 @@
     "artist": "Vangelis",
     "date": "13.10.2025",
     "time": "21:48",
-    "listeners": 995
+    "listeners": 995,
+    "lyricists": [
+      "Vangelis"
+    ],
+    "album": "1492 - Conquest of Paradise",
+    "release_year": 2001,
+    "duration_ms": 278200,
+    "artist_country": "GR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "Pink Floyd",
     "date": "13.10.2025",
     "time": "21:44",
-    "listeners": 1021
+    "listeners": 1021,
+    "lyricists": null,
+    "album": "The Wall",
+    "release_year": 1994,
+    "duration_ms": 238947,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,16 @@
     "artist": "Pavol Habera",
     "date": "13.10.2025",
     "time": "21:41",
-    "listeners": 1096
+    "listeners": 1096,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 2021,
+    "duration_ms": 280600,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -9907,5 +9907,17 @@
       "Pop",
       "R&B"
     ]
+  },
+  "vangelis|conquest of paradise": {
+    "release_year": 2001,
+    "artist_country": "GR",
+    "album": "1492 - Conquest of Paradise",
+    "duration_ms": 278200,
+    "lyricists": [
+      "Vangelis"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

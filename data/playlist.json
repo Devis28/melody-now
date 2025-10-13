@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Lovesong",
+    "artist": "Habera Pavol",
+    "date": "13.10.2025",
+    "time": "15:33",
+    "listeners": 1439
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Raindrops Keep Fallin' On My Head",
+    "artist": "B. J. Thomas",
+    "date": "13.10.2025",
+    "time": "15:26",
+    "listeners": 1223
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Motýl Admirál",
+    "artist": "Miro Žbirka",
+    "date": "13.10.2025",
+    "time": "15:23",
+    "listeners": 1266
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "13.10.2025",
+    "time": "15:19",
+    "listeners": 1186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "La Luna",
+    "artist": "Belinda Carlisle",
+    "date": "13.10.2025",
+    "time": "15:13",
+    "listeners": 1184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "13.10.2025",
+    "time": "15:10",
+    "listeners": 1079
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bamboleo",
+    "artist": "Garcia",
+    "date": "13.10.2025",
+    "time": "15:06",
+    "listeners": 962
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piccolo Amore",
+    "artist": "Ricchi E Poveri",
+    "date": "13.10.2025",
+    "time": "15:03",
+    "listeners": 971
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Africa",
     "artist": "Toto",
     "date": "13.10.2025",

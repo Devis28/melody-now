@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hráli Jsme Kličkovanou",
+    "artist": "Janda Dalibor",
+    "date": "13.10.2025",
+    "time": "08:50",
+    "listeners": 2284
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Of Us",
+    "artist": "Abba",
+    "date": "13.10.2025",
+    "time": "08:44",
+    "listeners": 2545
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "13.10.2025",
+    "time": "08:43",
+    "listeners": 2545
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tanečnice Z Lúčnice",
+    "artist": "Elán",
+    "date": "13.10.2025",
+    "time": "08:39",
+    "listeners": 2618
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Matka",
+    "artist": "Tublatanka",
+    "date": "13.10.2025",
+    "time": "08:35",
+    "listeners": 2687
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yes Sir, I Can Boogie",
+    "artist": "Baccara",
+    "date": "13.10.2025",
+    "time": "08:30",
+    "listeners": 2576
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Love Is The Shield",
     "artist": "Camouflage",
     "date": "13.10.2025",

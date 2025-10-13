@@ -5,7 +5,18 @@
     "artist": "Umberto Tozzi",
     "date": "14.10.2025",
     "time": "01:49",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Giancarlo Bigazzi",
+      "Umberto Tozzi"
+    ],
+    "album": "E' nell' aria…ti amo",
+    "release_year": 2006,
+    "duration_ms": 245693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Grigorov Robo",
     "date": "14.10.2025",
     "time": "01:47",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

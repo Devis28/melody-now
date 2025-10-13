@@ -5,7 +5,15 @@
     "artist": "Balet",
     "date": "13.10.2025",
     "time": "19:07",
-    "listeners": 1985
+    "listeners": 1985,
+    "lyricists": null,
+    "album": "Hej Pane Diskžokej",
+    "release_year": 2013,
+    "duration_ms": 208133,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gladiátor",
     "date": "13.10.2025",
     "time": "19:04",
-    "listeners": 2027
+    "listeners": 2027,
+    "lyricists": null,
+    "album": "Mesto",
+    "release_year": 2020,
+    "duration_ms": 197000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Team",
     "date": "13.10.2025",
     "time": "19:02",
-    "listeners": 2169
+    "listeners": 2169,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2005,
+    "duration_ms": 130373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Jitka Zelenkova",
     "date": "13.10.2025",
     "time": "18:58",
-    "listeners": 1983
+    "listeners": 1983,
+    "lyricists": null,
+    "album": "Bez Lásky Láska Není",
+    "release_year": 2016,
+    "duration_ms": 193200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Nagy Peter",
     "date": "13.10.2025",
     "time": "18:55",
-    "listeners": 2061
+    "listeners": 2061,
+    "lyricists": null,
+    "album": "Mne sa neschováš",
+    "release_year": 1985,
+    "duration_ms": 197013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

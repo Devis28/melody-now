@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "13.10.2025",
+    "time": "22:35",
+    "listeners": 675
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jediný A Jediná",
+    "artist": "Zuzana Smatanová",
+    "date": "13.10.2025",
+    "time": "22:31",
+    "listeners": 665
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "13.10.2025",
+    "time": "22:27",
+    "listeners": 737
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hlavu Maj Hore",
+    "artist": "Gladiátor",
+    "date": "13.10.2025",
+    "time": "22:24",
+    "listeners": 735
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Woman In Love",
     "artist": "Streisand Barbra",
     "date": "13.10.2025",

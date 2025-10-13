@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ľudia Nie Sú Zlí",
+    "artist": "I.M.T. Smile",
+    "date": "13.10.2025",
+    "time": "18:51",
+    "listeners": 2286
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Každá Trampota Má Svou Mez",
+    "artist": "Vondráčková Helena &Korn Jiří",
+    "date": "13.10.2025",
+    "time": "18:45",
+    "listeners": 2584
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Loď do neznáma",
+    "artist": "Uherčík, Ďurinda, Griglák, Horváth",
+    "date": "13.10.2025",
+    "time": "18:42",
+    "listeners": 2365
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pěkná Pěkná Pěkná",
     "artist": "Ledecký Janek",
     "date": "13.10.2025",

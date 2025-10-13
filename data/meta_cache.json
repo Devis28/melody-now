@@ -1286,5 +1286,23 @@
     "genres": [
       "R&B"
     ]
+  },
+  "the bee gees|you win again": {
+    "release_year": 2004,
+    "artist_country": "GB",
+    "album": "E.S.P.",
+    "duration_ms": 241400,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "abba|chiquitita": {
+    "release_year": 2007,
+    "artist_country": "SE",
+    "album": "ABBA Gold: Greatest Hits",
+    "duration_ms": 325907,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -5,7 +5,15 @@
     "artist": "The Bee Gees",
     "date": "13.10.2025",
     "time": "06:49",
-    "listeners": 1900
+    "listeners": 1900,
+    "lyricists": null,
+    "album": "E.S.P.",
+    "release_year": 2004,
+    "duration_ms": 241400,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "13.10.2025",
     "time": "06:42",
-    "listeners": 1644
+    "listeners": 1644,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 325907,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

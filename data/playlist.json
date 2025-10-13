@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sacrifice",
+    "artist": "Elton John",
+    "date": "13.10.2025",
+    "time": "16:38",
+    "listeners": 2940
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Way Ticket",
+    "artist": "Eruption",
+    "date": "13.10.2025",
+    "time": "16:35",
+    "listeners": 2696
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Alone",
+    "artist": "Heart",
+    "date": "13.10.2025",
+    "time": "16:31",
+    "listeners": 2650
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "13.10.2025",
+    "time": "16:26",
+    "listeners": 2320
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waterloo",
+    "artist": "Abba",
+    "date": "13.10.2025",
+    "time": "16:23",
+    "listeners": 2343
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The River Of Dreams",
     "artist": "Joel Billy",
     "date": "13.10.2025",

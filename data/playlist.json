@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hungry Eyes",
+    "artist": "Carmen, Eric",
+    "date": "13.10.2025",
+    "time": "17:23",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "13.10.2025",
+    "time": "17:20",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hello",
+    "artist": "Lionel Richie",
+    "date": "13.10.2025",
+    "time": "17:14",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Slovenských Dolinách",
+    "artist": "Duchoň Karol",
+    "date": "13.10.2025",
+    "time": "17:11",
+    "listeners": 3053
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Road To Mandalay",
+    "artist": "Williams, Robbie",
+    "date": "13.10.2025",
+    "time": "17:07",
+    "listeners": 2746
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Brother Louie",
     "artist": "Modern Talking",
     "date": "13.10.2025",

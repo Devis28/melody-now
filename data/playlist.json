@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "13.10.2025",
     "time": "19:35",
-    "listeners": 1783
+    "listeners": 1783,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 1992,
+    "duration_ms": 250547,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karel Gott & Darinka Rolincová",
     "date": "13.10.2025",
     "time": "19:32",
-    "listeners": 1758
+    "listeners": 1758,
+    "lyricists": null,
+    "album": "Zvonky Štěstí, Moje Druhé Já - Single",
+    "release_year": 2007,
+    "duration_ms": 236693,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Dubasová Beáta",
     "date": "13.10.2025",
     "time": "19:29",
-    "listeners": 1716
+    "listeners": 1716,
+    "lyricists": null,
+    "album": "Najväčšie hity 1985 - 2020",
+    "release_year": 2020,
+    "duration_ms": 173880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

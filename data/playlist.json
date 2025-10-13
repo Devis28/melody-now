@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "13.10.2025",
     "time": "21:20",
-    "listeners": 1209
+    "listeners": 1209,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "I.M.T. Smile & Nikol Štíbrová",
     "date": "13.10.2025",
     "time": "21:16",
-    "listeners": 1263
+    "listeners": 1263,
+    "lyricists": null,
+    "album": "SRDCE ROZUM BLVD",
+    "release_year": 2021,
+    "duration_ms": 271597,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Enigma",
     "date": "13.10.2025",
     "time": "21:12",
-    "listeners": 1136
+    "listeners": 1136,
+    "lyricists": null,
+    "album": "Love Sensuality Devotion: The Greatest Hits",
+    "release_year": 2001,
+    "duration_ms": 255533,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

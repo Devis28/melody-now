@@ -1199,5 +1199,50 @@
     "genres": [
       "Pop"
     ]
+  },
+  "michal david|každý mi te lásko závidí": {
+    "release_year": 2010,
+    "artist_country": "CZ",
+    "album": "Love Songs",
+    "duration_ms": 283933,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "enrique iglesias|bailamos": {
+    "artist_country": "ES",
+    "release_year": 1999,
+    "album": "Enrique",
+    "duration_ms": 212693,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "modus|dievčatá": {
+    "release_year": 2005,
+    "artist_country": "SK",
+    "album": "GOLD",
+    "duration_ms": 144240,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "duran duran|perfect day": {
+    "release_year": 1995,
+    "artist_country": "GB",
+    "album": "Thank You",
+    "duration_ms": 230933,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "wonder stevie|i just called to say i love you": {
+    "album": "The Definitive Collection",
+    "release_year": 2002,
+    "duration_ms": 262598,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   }
 }

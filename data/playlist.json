@@ -5,7 +5,15 @@
     "artist": "Michal David",
     "date": "13.10.2025",
     "time": "06:19",
-    "listeners": 1236
+    "listeners": 1236,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2010,
+    "duration_ms": 283933,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Enrique Iglesias",
     "date": "13.10.2025",
     "time": "06:16",
-    "listeners": 1179
+    "listeners": 1179,
+    "lyricists": null,
+    "album": "Enrique",
+    "release_year": 1999,
+    "duration_ms": 212693,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Modus",
     "date": "13.10.2025",
     "time": "06:13",
-    "listeners": 1186
+    "listeners": 1186,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 144240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Duran Duran",
     "date": "13.10.2025",
     "time": "06:06",
-    "listeners": 932
+    "listeners": 932,
+    "lyricists": null,
+    "album": "Thank You",
+    "release_year": 1995,
+    "duration_ms": 230933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,16 @@
     "artist": "Wonder Stevie",
     "date": "13.10.2025",
     "time": "06:02",
-    "listeners": 908
+    "listeners": 908,
+    "lyricists": null,
+    "album": "The Definitive Collection",
+    "release_year": 2002,
+    "duration_ms": 262598,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

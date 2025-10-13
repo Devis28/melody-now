@@ -5,7 +5,15 @@
     "artist": "Ilona Csáková",
     "date": "13.10.2025",
     "time": "19:55",
-    "listeners": 1575
+    "listeners": 1575,
+    "lyricists": null,
+    "album": "22x Ilona - Best Of",
+    "release_year": 1999,
+    "duration_ms": 205147,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bartošová Iveta Sepéši Petr",
     "date": "13.10.2025",
     "time": "19:51",
-    "listeners": 1700
+    "listeners": 1700,
+    "lyricists": null,
+    "album": "Knoflíky Lásky",
+    "release_year": 1984,
+    "duration_ms": 208760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

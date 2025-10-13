@@ -9860,5 +9860,13 @@
       "Pop",
       "Rock"
     ]
+  },
+  "bartošová iveta sepéši petr|červenám": {
+    "album": "Knoflíky Lásky",
+    "release_year": 1984,
+    "duration_ms": 208760,
+    "genres": [
+      "Pop"
+    ]
   }
 }

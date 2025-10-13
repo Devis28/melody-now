@@ -5,7 +5,15 @@
     "artist": "Smatanová Zuzana",
     "date": "13.10.2025",
     "time": "20:21",
-    "listeners": 1438
+    "listeners": 1438,
+    "lyricists": null,
+    "album": "Tabletky Odvahy",
+    "release_year": 2007,
+    "duration_ms": 240883,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "13.10.2025",
     "time": "20:17",
-    "listeners": 1490
+    "listeners": 1490,
+    "lyricists": null,
+    "album": "ABBA: The Album",
+    "release_year": 1994,
+    "duration_ms": 245540,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "A-Ha",
     "date": "13.10.2025",
     "time": "20:14",
-    "listeners": 1557
+    "listeners": 1557,
+    "lyricists": null,
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "release_year": 2003,
+    "duration_ms": 228520,
+    "artist_country": "NO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Gombitová Marika",
     "date": "13.10.2025",
     "time": "20:10",
-    "listeners": 1461
+    "listeners": 1461,
+    "lyricists": null,
+    "album": "Kam idú ľudia?",
+    "release_year": 1990,
+    "duration_ms": 219093,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,17 @@
     "artist": "Michael Jackson",
     "date": "13.10.2025",
     "time": "20:07",
-    "listeners": 1562
+    "listeners": 1562,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
+    "release_year": 1993,
+    "duration_ms": 219560,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,19 @@
     "artist": "Bon Jovi",
     "date": "13.10.2025",
     "time": "20:03",
-    "listeners": 1570
+    "listeners": 1570,
+    "lyricists": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ],
+    "album": "Slippery When Wet",
+    "release_year": 2022,
+    "duration_ms": 249581,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +107,15 @@
     "artist": "Michal Dočolomanský",
     "date": "13.10.2025",
     "time": "19:58",
-    "listeners": 1674
+    "listeners": 1674,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 1993,
+    "duration_ms": 231831,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

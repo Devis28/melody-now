@@ -5,7 +5,15 @@
     "artist": "Carey Mariah",
     "date": "13.10.2025",
     "time": "17:53",
-    "listeners": 3185
+    "listeners": 3185,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 257973,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Norman Chris & Quatro Suzi",
     "date": "13.10.2025",
     "time": "17:49",
-    "listeners": 2936
+    "listeners": 2936,
+    "lyricists": null,
+    "album": "Collections: Smokie",
+    "release_year": 1977,
+    "duration_ms": 238200,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

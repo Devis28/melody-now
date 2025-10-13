@@ -5,7 +5,15 @@
     "artist": "Beata Dubasová",
     "date": "13.10.2025",
     "time": "12:41",
-    "listeners": 1707
+    "listeners": 1707,
+    "lyricists": null,
+    "album": "Za dverami mojej izby",
+    "release_year": 1990,
+    "duration_ms": 303903,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Mamas & The Papas",
     "date": "13.10.2025",
     "time": "12:38",
-    "listeners": 1727
+    "listeners": 1727,
+    "lyricists": null,
+    "album": "If You Can Believe Your Eyes and Ears",
+    "release_year": 1991,
+    "duration_ms": 162373,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Miro Zbirka",
     "date": "13.10.2025",
     "time": "12:34",
-    "listeners": 1628
+    "listeners": 1628,
+    "lyricists": null,
+    "album": "K.O.",
+    "release_year": 1990,
+    "duration_ms": 277053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,18 @@
     "artist": "Madonna",
     "date": "13.10.2025",
     "time": "12:28",
-    "listeners": 1632
+    "listeners": 1632,
+    "lyricists": [
+      "Madonna",
+      "Shep Pettibone"
+    ],
+    "album": "Something to Remember",
+    "release_year": 1992,
+    "duration_ms": 310267,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Karol Duchoň",
     "date": "13.10.2025",
     "time": "12:25",
-    "listeners": 1698
+    "listeners": 1698,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 198707,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,16 @@
     "artist": "Blondie",
     "date": "13.10.2025",
     "time": "12:20",
-    "listeners": 1710
+    "listeners": 1710,
+    "lyricists": null,
+    "album": "Autoamerican (Bonus Track) [2001 Remaster]",
+    "release_year": 2002,
+    "duration_ms": 280267,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,15 @@
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "13.10.2025",
     "time": "12:17",
-    "listeners": 1518
+    "listeners": 1518,
+    "lyricists": null,
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "release_year": 1997,
+    "duration_ms": 301520,
+    "artist_country": null,
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +121,17 @@
     "artist": "Queen",
     "date": "13.10.2025",
     "time": "12:15",
-    "listeners": 1570
+    "listeners": 1570,
+    "lyricists": [
+      "Queen"
+    ],
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1994,
+    "duration_ms": 121235,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +139,15 @@
     "artist": "Bartošová Iveta",
     "date": "13.10.2025",
     "time": "12:10",
-    "listeners": 1532
+    "listeners": 1532,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 172600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +155,16 @@
     "artist": "Big Mountain",
     "date": "13.10.2025",
     "time": "12:06",
-    "listeners": 1520
+    "listeners": 1520,
+    "lyricists": null,
+    "album": "Unity",
+    "release_year": 1994,
+    "duration_ms": 249520,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +172,15 @@
     "artist": "Elán",
     "date": "13.10.2025",
     "time": "12:01",
-    "listeners": 1469
+    "listeners": 1469,
+    "lyricists": null,
+    "album": "Ôsmy svetadiel (Remastered)",
+    "release_year": 1998,
+    "duration_ms": 274480,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +188,16 @@
     "artist": "Beloved, The",
     "date": "13.10.2025",
     "time": "11:54",
-    "listeners": 1446
+    "listeners": 1446,
+    "lyricists": null,
+    "album": "Conscience",
+    "release_year": 1989,
+    "duration_ms": 301467,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +205,15 @@
     "artist": "The Righteous Brothers",
     "date": "13.10.2025",
     "time": "11:50",
-    "listeners": 1425
+    "listeners": 1425,
+    "lyricists": null,
+    "album": "The Very Best of the Righteous Brothers - Unchained Melody",
+    "release_year": 1965,
+    "duration_ms": 216267,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +221,15 @@
     "artist": "Donna Summer",
     "date": "13.10.2025",
     "time": "11:47",
-    "listeners": 1428
+    "listeners": 1428,
+    "lyricists": null,
+    "album": "Another Place & Time",
+    "release_year": 1993,
+    "duration_ms": 208773,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +237,15 @@
     "artist": "Olympic",
     "date": "13.10.2025",
     "time": "11:43",
-    "listeners": 1332
+    "listeners": 1332,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 2001,
+    "duration_ms": 257853,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +253,15 @@
     "artist": "Londonbeat",
     "date": "13.10.2025",
     "time": "11:39",
-    "listeners": 1423
+    "listeners": 1423,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 228280,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +269,15 @@
     "artist": "Tublatanka",
     "date": "13.10.2025",
     "time": "11:34",
-    "listeners": 1327
+    "listeners": 1327,
+    "lyricists": null,
+    "album": "Skúsime to cez vesmír",
+    "release_year": 2002,
+    "duration_ms": 298893,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +285,15 @@
     "artist": "Helena Vondráčková",
     "date": "13.10.2025",
     "time": "11:30",
-    "listeners": 1293
+    "listeners": 1293,
+    "lyricists": null,
+    "album": "Best of the Best",
+    "release_year": 2009,
+    "duration_ms": 233507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +301,15 @@
     "artist": "Kelly Family, The",
     "date": "13.10.2025",
     "time": "11:26",
-    "listeners": 1209
+    "listeners": 1209,
+    "lyricists": null,
+    "album": "Over the Hump",
+    "release_year": 1994,
+    "duration_ms": 224507,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +317,18 @@
     "artist": "Enya",
     "date": "13.10.2025",
     "time": "11:22",
-    "listeners": 1227
+    "listeners": 1227,
+    "lyricists": [
+      "Enya",
+      "Roma Ryan"
+    ],
+    "album": "Watermark (Remastered Bonus Track Version)",
+    "release_year": 1994,
+    "duration_ms": 266200,
+    "artist_country": "IE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +336,15 @@
     "artist": "The Goombay Dance Band",
     "date": "13.10.2025",
     "time": "11:18",
-    "listeners": 1211
+    "listeners": 1211,
+    "lyricists": null,
+    "album": "Sun of Jamaica",
+    "release_year": 1980,
+    "duration_ms": 264000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +352,15 @@
     "artist": "Orchestral Manoeuvres In The Dark",
     "date": "13.10.2025",
     "time": "11:14",
-    "listeners": 1128
+    "listeners": 1128,
+    "lyricists": null,
+    "album": "Sugar Tax",
+    "release_year": 2011,
+    "duration_ms": 249173,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +368,15 @@
     "artist": "Gott Karel",
     "date": "13.10.2025",
     "time": "11:09",
-    "listeners": 1104
+    "listeners": 1104,
+    "lyricists": null,
+    "album": "Lidovky Mého Srdce",
+    "release_year": 2010,
+    "duration_ms": 102427,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -189,7 +384,15 @@
     "artist": "The Gibson Brothers",
     "date": "13.10.2025",
     "time": "11:05",
-    "listeners": 1111
+    "listeners": 1111,
+    "lyricists": null,
+    "album": "Cuba",
+    "release_year": 2005,
+    "duration_ms": 352533,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -197,7 +400,15 @@
     "artist": "Penk Michal",
     "date": "13.10.2025",
     "time": "11:00",
-    "listeners": 1040
+    "listeners": 1040,
+    "lyricists": null,
+    "album": "Hit Album",
+    "release_year": 1992,
+    "duration_ms": 278000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

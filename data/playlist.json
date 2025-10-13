@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Slnečná Balada",
+    "artist": "Peha",
+    "date": "14.10.2025",
+    "time": "01:43",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "14.10.2025",
+    "time": "01:38",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I Promised Myself",
     "artist": "Kamen, Nick",
     "date": "14.10.2025",

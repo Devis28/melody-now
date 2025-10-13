@@ -9782,5 +9782,43 @@
     "genres": [
       "Rock"
     ]
+  },
+  "elton john|sacrifice": {
+    "artist_country": "GB",
+    "album": "Sleeping With the Past (Remastered)",
+    "release_year": 1989,
+    "duration_ms": 304133,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "eruption|one way ticket": {
+    "release_year": 2016,
+    "artist_country": "GB",
+    "album": "4 Hits: Eruption - EP",
+    "duration_ms": 213200,
+    "lyricists": [
+      "Eruption"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "dr. alban|it's my life": {
+    "release_year": 1994,
+    "artist_country": "SE",
+    "album": "One Love",
+    "duration_ms": 243133,
+    "lyricists": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

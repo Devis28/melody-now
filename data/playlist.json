@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Rhythm Divine",
+    "artist": "Iglesias Enrique",
+    "date": "13.10.2025",
+    "time": "09:36",
+    "listeners": 1358
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "13.10.2025",
+    "time": "09:33",
+    "listeners": 1367
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čardáš Dvoch Sŕdc",
+    "artist": "Karol Duchoň",
+    "date": "13.10.2025",
+    "time": "09:30",
+    "listeners": 1494
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Piú Bella Cosa",
     "artist": "Eros Ramazzotti",
     "date": "13.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Roxette",
     "date": "13.10.2025",
     "time": "21:29",
-    "listeners": 1061
+    "listeners": 1061,
+    "lyricists": null,
+    "album": "Joyride (30th Anniversary Edition)",
+    "release_year": 2011,
+    "duration_ms": 265733,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vašo Patejdl",
     "date": "13.10.2025",
     "time": "21:25",
-    "listeners": 1121
+    "listeners": 1121,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1994,
+    "duration_ms": 298267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

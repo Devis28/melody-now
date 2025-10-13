@@ -638,5 +638,165 @@
     "genres": [
       "Pop"
     ]
+  },
+  "desmod|zober ma domov": {
+    "release_year": 2009,
+    "artist_country": "SK",
+    "album": "Vyberovka",
+    "duration_ms": 296520,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "bano al|ci sarà": {
+    "album": "Al Bano e Romina Power",
+    "release_year": 1982,
+    "duration_ms": 206040,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "phil collins|true colors": {
+    "release_year": 1999,
+    "artist_country": "GB",
+    "album": "Testify (Deluxe Edition) [Remastered]",
+    "duration_ms": 331573,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "abba|lay all your love on me": {
+    "release_year": 1981,
+    "artist_country": "SE",
+    "album": "Super Trouper (Bonus Track Version)",
+    "duration_ms": 274867,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "robbie williams|angels": {
+    "artist_country": "GB",
+    "album": "Life Thru a Lens",
+    "release_year": 1997,
+    "duration_ms": 265000,
+    "lyricists": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "heckovci peter a julia|kralovna pavlaci a dvorov": {
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 219095,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "milli vanilli|girl i'm gonna miss you": {
+    "artist_country": "DE",
+    "album": "80s 100 Hits – Volume 2",
+    "release_year": 2001,
+    "duration_ms": 225253,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "fun factory|i wanna b with u": {
+    "release_year": 1995,
+    "artist_country": "DE",
+    "album": "Back to the Factory",
+    "duration_ms": 213600,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "smatanová zuzana|stačí si priať": {
+    "album": "Gemini",
+    "release_year": 2009,
+    "duration_ms": 215439,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "status quo|in the army now": {
+    "release_year": 2010,
+    "artist_country": "GB",
+    "album": "In the Army Now - The Collection",
+    "duration_ms": 281147,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "robo opatovský|keď muž miluje ženu": {
+    "release_year": 2017,
+    "artist_country": "SK",
+    "album": "Keď Muž Miluje Ženu - Single",
+    "duration_ms": 249240,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "queen|we are the champions": {
+    "artist_country": "GB",
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1977,
+    "duration_ms": 179191,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "kylie minogue|the locomotion": {
+    "release_year": 2012,
+    "artist_country": "AU",
+    "album": "Showgirl - Homecoming (Live)",
+    "duration_ms": 283333,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "mária čírová|unikát": {
+    "album": "Unikát - Single",
+    "release_year": 2016,
+    "duration_ms": 206360,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "springsteen bruce|streets of philadelphia": {
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 196813,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "elán|ulica": {
+    "release_year": 2001,
+    "artist_country": "SK",
+    "album": "Nie sme zlí",
+    "duration_ms": 184880,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "bryan adams|please forgive me": {
+    "release_year": 1999,
+    "artist_country": "CA",
+    "album": "Classic",
+    "duration_ms": 312984,
+    "lyricists": [
+      "Bryan Adams",
+      "Robert John “Mutt” Lange"
+    ],
+    "genres": [
+      "Rock"
+    ]
   }
 }

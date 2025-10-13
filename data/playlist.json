@@ -5,7 +5,15 @@
     "artist": "Desmod",
     "date": "13.10.2025",
     "time": "02:58",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Vyberovka",
+    "release_year": 2009,
+    "duration_ms": 296520,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bano Al & Power Romina",
     "date": "13.10.2025",
     "time": "02:54",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Al Bano e Romina Power",
+    "release_year": 1982,
+    "duration_ms": 206040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Phil Collins",
     "date": "13.10.2025",
     "time": "02:50",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Testify (Deluxe Edition) [Remastered]",
+    "release_year": 1999,
+    "duration_ms": 331573,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Abba",
     "date": "13.10.2025",
     "time": "02:46",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1981,
+    "duration_ms": 274867,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,19 @@
     "artist": "Robbie Williams",
     "date": "13.10.2025",
     "time": "02:41",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ],
+    "album": "Life Thru a Lens",
+    "release_year": 1997,
+    "duration_ms": 265000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,15 @@
     "artist": "Heckovci Peter A Julia",
     "date": "13.10.2025",
     "time": "02:38",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 219095,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,15 @@
     "artist": "Milli Vanilli",
     "date": "13.10.2025",
     "time": "02:34",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "80s 100 Hits – Volume 2",
+    "release_year": 2001,
+    "duration_ms": 225253,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +122,15 @@
     "artist": "Fun Factory",
     "date": "13.10.2025",
     "time": "02:30",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 213600,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +138,15 @@
     "artist": "Smatanová Zuzana",
     "date": "13.10.2025",
     "time": "02:27",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Gemini",
+    "release_year": 2009,
+    "duration_ms": 215439,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +154,16 @@
     "artist": "Status Quo",
     "date": "13.10.2025",
     "time": "02:23",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "In the Army Now - The Collection",
+    "release_year": 2010,
+    "duration_ms": 281147,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +171,15 @@
     "artist": "Robo Opatovský",
     "date": "13.10.2025",
     "time": "02:19",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Keď Muž Miluje Ženu - Single",
+    "release_year": 2017,
+    "duration_ms": 249240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +187,15 @@
     "artist": "Queen",
     "date": "13.10.2025",
     "time": "02:16",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1977,
+    "duration_ms": 179191,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +203,16 @@
     "artist": "Kylie Minogue",
     "date": "13.10.2025",
     "time": "02:13",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Showgirl - Homecoming (Live)",
+    "release_year": 2012,
+    "duration_ms": 283333,
+    "artist_country": "AU",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +220,15 @@
     "artist": "Mária Čírová",
     "date": "13.10.2025",
     "time": "02:09",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "Unikát - Single",
+    "release_year": 2016,
+    "duration_ms": 206360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +236,15 @@
     "artist": "Springsteen Bruce",
     "date": "13.10.2025",
     "time": "02:06",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 196813,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +252,15 @@
     "artist": "Elán",
     "date": "13.10.2025",
     "time": "02:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2001,
+    "duration_ms": 184880,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +268,18 @@
     "artist": "Bryan Adams",
     "date": "13.10.2025",
     "time": "01:56",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": [
+      "Bryan Adams",
+      "Robert John “Mutt” Lange"
+    ],
+    "album": "Classic",
+    "release_year": 1999,
+    "duration_ms": 312984,
+    "artist_country": "CA",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

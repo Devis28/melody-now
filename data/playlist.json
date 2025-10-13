@@ -1,6 +1,86 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Africa",
+    "artist": "Toto",
+    "date": "13.10.2025",
+    "time": "14:54",
+    "listeners": 1018
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everytime We Touch",
+    "artist": "Maggie Reilly",
+    "date": "13.10.2025",
+    "time": "14:51",
+    "listeners": 833
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "How Deep Is Your Love",
+    "artist": "The Bee Gees",
+    "date": "13.10.2025",
+    "time": "14:46",
+    "listeners": 896
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Like Chopin",
+    "artist": "Gazebo",
+    "date": "13.10.2025",
+    "time": "14:40",
+    "listeners": 894
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "13.10.2025",
+    "time": "14:36",
+    "listeners": 899
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Living Next Door To Alice",
+    "artist": "Smokie",
+    "date": "13.10.2025",
+    "time": "14:32",
+    "listeners": 915
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Only You",
+    "artist": "Yazoo",
+    "date": "13.10.2025",
+    "time": "14:29",
+    "listeners": 877
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "13.10.2025",
+    "time": "14:24",
+    "listeners": 902
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "13.10.2025",
+    "time": "14:20",
+    "listeners": 883
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "13.10.2025",
+    "time": "14:16",
+    "listeners": 954
+  },
+  {
+    "station": "Rádio Melody",
     "title": "To Be With You",
     "artist": "Mr. Big",
     "date": "13.10.2025",

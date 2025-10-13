@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "date": "13.10.2025",
+    "time": "21:07",
+    "listeners": 1243
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veľký Sen Mora",
+    "artist": "Modus",
+    "date": "13.10.2025",
+    "time": "21:03",
+    "listeners": 1299
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dážď",
+    "artist": "Peter Cmorík",
+    "date": "13.10.2025",
+    "time": "20:58",
+    "listeners": 1301
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "13.10.2025",
+    "time": "20:55",
+    "listeners": 1294
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Len S Ňou",
     "artist": "Žbirka Miroslav",
     "date": "13.10.2025",

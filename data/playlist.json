@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I Promised Myself",
+    "artist": "Kamen, Nick",
+    "date": "14.10.2025",
+    "time": "01:34",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Holubička",
+    "artist": "Adam Ďurica",
+    "date": "14.10.2025",
+    "time": "01:29",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Iko Iko",
+    "artist": "The Belle Stars",
+    "date": "14.10.2025",
+    "time": "01:26",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cukráreň Na Dlani Námestia",
     "artist": "Marika Gombitová",
     "date": "14.10.2025",

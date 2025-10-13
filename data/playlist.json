@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "S Úsmevom",
+    "artist": "Karol Duchoň",
+    "date": "13.10.2025",
+    "time": "12:25",
+    "listeners": 1698
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Tide Is High",
+    "artist": "Blondie",
+    "date": "13.10.2025",
+    "time": "12:20",
+    "listeners": 1710
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'll Be Missing You",
+    "artist": "Daddy, Puff & Evans, Faith",
+    "date": "13.10.2025",
+    "time": "12:17",
+    "listeners": 1518
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "date": "13.10.2025",
+    "time": "12:15",
+    "listeners": 1570
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dva Roky Prázdnin",
+    "artist": "Bartošová Iveta",
+    "date": "13.10.2025",
+    "time": "12:10",
+    "listeners": 1532
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Baby, I Love Your Way",
+    "artist": "Big Mountain",
+    "date": "13.10.2025",
+    "time": "12:06",
+    "listeners": 1520
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čakám Ťa, Láska",
+    "artist": "Elán",
+    "date": "13.10.2025",
+    "time": "12:01",
+    "listeners": 1469
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sweet Harmony",
     "artist": "Beloved, The",
     "date": "13.10.2025",

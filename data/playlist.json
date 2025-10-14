@@ -5,7 +5,15 @@
     "artist": "David Michal",
     "date": "14.10.2025",
     "time": "19:53",
-    "listeners": 1672
+    "listeners": 1672,
+    "lyricists": null,
+    "album": "Discopříběh",
+    "release_year": 1987,
+    "duration_ms": 191443,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Beata Dubasová",
     "date": "14.10.2025",
     "time": "19:49",
-    "listeners": 1668
+    "listeners": 1668,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 2001,
+    "duration_ms": 269000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Vondráčková Helena",
     "date": "14.10.2025",
     "time": "19:46",
-    "listeners": 1652
+    "listeners": 1652,
+    "lyricists": null,
+    "album": "Kam Zmizel Ten Starý Song",
+    "release_year": 1992,
+    "duration_ms": 136800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "David Michal Kroky Františka Janečka",
     "date": "14.10.2025",
     "time": "01:58",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 193239,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Braxton Toni",
     "date": "14.10.2025",
     "time": "01:54",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Secrets",
+    "release_year": 1996,
+    "duration_ms": 270333,
+    "artist_country": null,
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

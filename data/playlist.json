@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Boli Sme Raz Milovaní",
+    "artist": "Habera Pavol",
+    "date": "15.10.2025",
+    "time": "01:57",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "All That She Wants",
+    "artist": "Ace Of Base",
+    "date": "15.10.2025",
+    "time": "01:53",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Gloria",
+    "artist": "Tozzi, Umberto",
+    "date": "15.10.2025",
+    "time": "01:49",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pár Dní",
     "artist": "Desmod & Zuzana Smatanová",
     "date": "15.10.2025",

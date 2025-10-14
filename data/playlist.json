@@ -5,7 +5,15 @@
     "artist": "Zich Karel",
     "date": "14.10.2025",
     "time": "10:28",
-    "listeners": 941
+    "listeners": 941,
+    "lyricists": null,
+    "album": "...To Nejlepší",
+    "release_year": 1981,
+    "duration_ms": 207133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "14.10.2025",
     "time": "10:23",
-    "listeners": 899
+    "listeners": 899,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2007,
+    "duration_ms": 304554,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Men At Work",
     "date": "14.10.2025",
     "time": "10:20",
-    "listeners": 869
+    "listeners": 869,
+    "lyricists": null,
+    "album": "Business As Usual",
+    "release_year": 2001,
+    "duration_ms": 222320,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Zbirka Miro & Gombitova Marika",
     "date": "14.10.2025",
     "time": "10:16",
-    "listeners": 974
+    "listeners": 974,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 246160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Adiemus",
     "date": "14.10.2025",
     "time": "10:12",
-    "listeners": 961
+    "listeners": 961,
+    "lyricists": null,
+    "album": "Classic Summer Chillout",
+    "release_year": 1998,
+    "duration_ms": 225529,
+    "artist_country": "GB",
+    "genres": [
+      "Classical"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Team",
     "date": "14.10.2025",
     "time": "10:06",
-    "listeners": 991
+    "listeners": 991,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 1989,
+    "duration_ms": 270040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Baccara",
     "date": "14.10.2025",
     "time": "10:02",
-    "listeners": 1053
+    "listeners": 1053,
+    "lyricists": null,
+    "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire",
+    "release_year": 2004,
+    "duration_ms": 219067,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +117,15 @@
     "artist": "Brontosauři",
     "date": "14.10.2025",
     "time": "10:00",
-    "listeners": 968
+    "listeners": 968,
+    "lyricists": null,
+    "album": "Na Kameni Kamen",
+    "release_year": 2007,
+    "duration_ms": 159227,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "14.10.2025",
+    "time": "20:19",
+    "listeners": 1496
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stonka",
+    "artist": "Kristína",
+    "date": "14.10.2025",
+    "time": "20:15",
+    "listeners": 1533
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Un-Break My Heart",
+    "artist": "Braxton Toni",
+    "date": "14.10.2025",
+    "time": "20:11",
+    "listeners": 1590
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch By Touch",
+    "artist": "Joy",
+    "date": "14.10.2025",
+    "time": "20:07",
+    "listeners": 1587
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Daddy Cool",
+    "artist": "Boney M",
+    "date": "14.10.2025",
+    "time": "20:03",
+    "listeners": 1546
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rieka",
+    "artist": "Richard Müller",
+    "date": "14.10.2025",
+    "time": "20:00",
+    "listeners": 1619
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stokrat Chvalim Cas",
+    "artist": "Karel Gott",
+    "date": "14.10.2025",
+    "time": "19:56",
+    "listeners": 1645
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Discopříběh",
     "artist": "David Michal",
     "date": "14.10.2025",

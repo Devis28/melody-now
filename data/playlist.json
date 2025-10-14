@@ -5,7 +5,15 @@
     "artist": "East 17",
     "date": "14.10.2025",
     "time": "21:48",
-    "listeners": 965
+    "listeners": 965,
+    "lyricists": null,
+    "album": "Steam",
+    "release_year": 1994,
+    "duration_ms": 267133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Zuzana Smatanová",
     "date": "14.10.2025",
     "time": "21:45",
-    "listeners": 987
+    "listeners": 987,
+    "lyricists": null,
+    "album": "V Dobrom Aj V Zlom - Single",
+    "release_year": 2015,
+    "duration_ms": 176415,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Pet Shop Boys",
     "date": "14.10.2025",
     "time": "21:41",
-    "listeners": 972
+    "listeners": 972,
+    "lyricists": null,
+    "album": "Discography: The Complete Singles Collection",
+    "release_year": 1992,
+    "duration_ms": 234907,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

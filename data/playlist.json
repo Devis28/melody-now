@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "14.10.2025",
     "time": "19:27",
-    "listeners": 1791
+    "listeners": 1791,
+    "lyricists": null,
+    "album": "Meky",
+    "release_year": 1997,
+    "duration_ms": 188467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Michal Tučný",
     "date": "14.10.2025",
     "time": "19:23",
-    "listeners": 1935
+    "listeners": 1935,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Patejdl Vašo",
     "date": "14.10.2025",
     "time": "19:19",
-    "listeners": 1921
+    "listeners": 1921,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1986,
+    "duration_ms": 203867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Olympic",
     "date": "14.10.2025",
     "time": "19:15",
-    "listeners": 1973
+    "listeners": 1973,
+    "lyricists": null,
+    "album": "Django - Hudba k filmu",
+    "release_year": 1992,
+    "duration_ms": 228800,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Tublatanka",
     "date": "14.10.2025",
     "time": "19:11",
-    "listeners": 2070
+    "listeners": 2070,
+    "lyricists": null,
+    "album": "Rockové Balady",
+    "release_year": 1992,
+    "duration_ms": 327893,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

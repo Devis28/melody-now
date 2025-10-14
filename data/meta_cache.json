@@ -10090,5 +10090,19 @@
       "Pop",
       "R&B"
     ]
+  },
+  "enrique iglesias|be with you": {
+    "release_year": 2000,
+    "artist_country": "ES",
+    "album": "Enrique",
+    "duration_ms": 220160,
+    "lyricists": [
+      "Enrique Iglesias",
+      "Mark Taylor",
+      "Paul Barry"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

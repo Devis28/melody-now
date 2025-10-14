@@ -5,7 +5,15 @@
     "artist": "Gladiator",
     "date": "14.10.2025",
     "time": "11:16",
-    "listeners": 1206
+    "listeners": 1206,
+    "lyricists": null,
+    "album": "Zlate Hity",
+    "release_year": 2011,
+    "duration_ms": 215627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The George Baker Selection",
     "date": "14.10.2025",
     "time": "11:13",
-    "listeners": 1129
+    "listeners": 1129,
+    "lyricists": null,
+    "album": "Paloma Blanca",
+    "release_year": 1975,
+    "duration_ms": 209360,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gravis",
     "date": "14.10.2025",
     "time": "11:07",
-    "listeners": 1030
+    "listeners": 1030,
+    "lyricists": null,
+    "album": "Kolotoč masiek",
+    "release_year": 2007,
+    "duration_ms": 245180,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,19 @@
     "artist": "Enrique Iglesias",
     "date": "14.10.2025",
     "time": "11:04",
-    "listeners": 1081
+    "listeners": 1081,
+    "lyricists": [
+      "Enrique Iglesias",
+      "Mark Taylor",
+      "Paul Barry"
+    ],
+    "album": "Enrique",
+    "release_year": 2000,
+    "duration_ms": 220160,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Věra Špinarová",
     "date": "14.10.2025",
     "time": "10:59",
-    "listeners": 1015
+    "listeners": 1015,
+    "lyricists": null,
+    "album": "Jednoho Dne Se Vrátíš (Bonus Track Version)",
+    "release_year": 2011,
+    "duration_ms": 277200,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

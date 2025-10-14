@@ -10272,5 +10272,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "mc erik|keď príde láska": {
+    "release_year": 2023,
+    "artist_country": "SK",
+    "album": "U Can't Stop (96 Version)",
+    "duration_ms": 248867,
+    "lyricists": [
+      "Barbara Haščáková",
+      "MC Erik"
+    ],
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

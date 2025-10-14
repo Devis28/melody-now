@@ -10217,5 +10217,33 @@
     "genres": [
       "Pop"
     ]
+  },
+  "kristína|stonka": {
+    "release_year": 2014,
+    "artist_country": "SK",
+    "album": "V Sieti Ta Mam",
+    "duration_ms": 227267,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "richard müller|rieka": {
+    "release_year": 2017,
+    "artist_country": "SK",
+    "album": "Výberovka",
+    "duration_ms": 307080,
+    "lyricists": [
+      "Ivan Tásler",
+      "Richard Müller"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

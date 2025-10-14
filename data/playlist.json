@@ -5,7 +5,16 @@
     "artist": "Keating Ronan",
     "date": "14.10.2025",
     "time": "08:52",
-    "listeners": 2371
+    "listeners": 2371,
+    "lyricists": null,
+    "album": "Ronan",
+    "release_year": 1999,
+    "duration_ms": 256827,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Olympic",
     "date": "14.10.2025",
     "time": "08:48",
-    "listeners": 2249
+    "listeners": 2249,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1993,
+    "duration_ms": 259973,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

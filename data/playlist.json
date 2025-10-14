@@ -5,7 +5,15 @@
     "artist": "Patejdl Vašo",
     "date": "14.10.2025",
     "time": "21:33",
-    "listeners": 1046
+    "listeners": 1046,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 1989,
+    "duration_ms": 262387,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Donovan Jason",
     "date": "14.10.2025",
     "time": "21:29",
-    "listeners": 1057
+    "listeners": 1057,
+    "lyricists": null,
+    "album": "Too Many Broken Hearts",
+    "release_year": 1989,
+    "duration_ms": 208373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Karmen Pál-Baláž",
     "date": "14.10.2025",
     "time": "21:25",
-    "listeners": 1192
+    "listeners": 1192,
+    "lyricists": null,
+    "album": "Anjel - Single",
+    "release_year": 2023,
+    "duration_ms": 255102,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

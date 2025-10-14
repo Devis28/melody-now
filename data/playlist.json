@@ -5,7 +5,15 @@
     "artist": "Müller Richard",
     "date": "14.10.2025",
     "time": "09:42",
-    "listeners": 1396
+    "listeners": 1396,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2012,
+    "duration_ms": 280013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,20 @@
     "artist": "Barry White",
     "date": "14.10.2025",
     "time": "09:38",
-    "listeners": 1201
+    "listeners": 1201,
+    "lyricists": [
+      "Barry White",
+      "Peter Sterling Radcliffe",
+      "Tony Sepe"
+    ],
+    "album": "The Complete 20th Century Records Singles (1973-1979)",
+    "release_year": 2005,
+    "duration_ms": 212987,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +42,15 @@
     "artist": "Vašo Patejdl",
     "date": "14.10.2025",
     "time": "09:34",
-    "listeners": 1367
+    "listeners": 1367,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2005,
+    "duration_ms": 273160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

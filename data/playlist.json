@@ -5,7 +5,15 @@
     "artist": "Cher",
     "date": "14.10.2025",
     "time": "17:51",
-    "listeners": 3075
+    "listeners": 3075,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 2003,
+    "duration_ms": 224000,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karel Zich",
     "date": "14.10.2025",
     "time": "17:48",
-    "listeners": 3058
+    "listeners": 3058,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 2004,
+    "duration_ms": 198040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

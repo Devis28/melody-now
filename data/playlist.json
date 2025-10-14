@@ -5,7 +5,15 @@
     "artist": "Habera Pavol",
     "date": "15.10.2025",
     "time": "01:57",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Boli Sme Raz Milovani",
+    "release_year": 2000,
+    "duration_ms": 227827,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Ace Of Base",
     "date": "15.10.2025",
     "time": "01:53",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Ace of Base"
+    ],
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 1995,
+    "duration_ms": 211213,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Tozzi, Umberto",
     "date": "15.10.2025",
     "time": "01:49",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Gloria",
+    "release_year": 1979,
+    "duration_ms": 264674,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

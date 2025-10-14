@@ -5,7 +5,15 @@
     "artist": "Brightman Sarah&Bocelli Andrea",
     "date": "14.10.2025",
     "time": "16:55",
-    "listeners": 3050
+    "listeners": 3050,
+    "lyricists": null,
+    "album": "Romanza",
+    "release_year": 1995,
+    "duration_ms": 244627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Novák Petr",
     "date": "14.10.2025",
     "time": "16:52",
-    "listeners": 3053
+    "listeners": 3053,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 141027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Vengaboys",
     "date": "14.10.2025",
     "time": "16:49",
-    "listeners": 3019
+    "listeners": 3019,
+    "lyricists": null,
+    "album": "Boom, Boom, Boom, Boom!! - Single",
+    "release_year": 1998,
+    "duration_ms": 202583,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

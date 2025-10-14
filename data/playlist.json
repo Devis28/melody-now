@@ -5,7 +5,13 @@
     "artist": "John, Elton",
     "date": "14.10.2025",
     "time": "07:34",
-    "listeners": 2783
+    "listeners": 2783,
+    "lyricists": null,
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "release_year": 1994,
+    "duration_ms": 241907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",

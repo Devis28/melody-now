@@ -5,7 +5,16 @@
     "artist": "Mckenzie Scott",
     "date": "14.10.2025",
     "time": "12:15",
-    "listeners": 1665
+    "listeners": 1665,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Lighthouse Family",
     "date": "14.10.2025",
     "time": "12:11",
-    "listeners": 1546
+    "listeners": 1546,
+    "lyricists": null,
+    "album": "Whatever Gets You Through the Day",
+    "release_year": 2001,
+    "duration_ms": 316360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Oldfield Mike & Reilly Maggie",
     "date": "14.10.2025",
     "time": "12:06",
-    "listeners": 1563
+    "listeners": 1563,
+    "lyricists": null,
+    "album": "The Mike Oldfield Collection",
+    "release_year": 1983,
+    "duration_ms": 218187,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,18 @@
     "artist": "Pavol Hammel",
     "date": "14.10.2025",
     "time": "12:03",
-    "listeners": 1613
+    "listeners": 1613,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1997,
+    "duration_ms": 168587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "Kotvald Petr",
     "date": "14.10.2025",
     "time": "12:00",
-    "listeners": 1589
+    "listeners": 1589,
+    "lyricists": null,
+    "album": "Exxxclusive (Best Of - Zlatá Kolekce)",
+    "release_year": 2016,
+    "duration_ms": 197000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

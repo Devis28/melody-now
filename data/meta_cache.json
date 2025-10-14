@@ -10104,5 +10104,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "pavol hammel|mladosť": {
+    "artist_country": "SK",
+    "release_year": 1997,
+    "album": "The Best Of Pavol Hammel",
+    "duration_ms": 168587,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

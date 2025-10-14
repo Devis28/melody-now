@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Cheri Cheri Lady",
+    "artist": "Modern Talking",
+    "date": "14.10.2025",
+    "time": "17:43",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Obchodník S Deštěm",
+    "artist": "Kryštof",
+    "date": "14.10.2025",
+    "time": "17:40",
+    "listeners": 3173
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I Was Made For Loving You",
     "artist": "Kiss",
     "date": "14.10.2025",

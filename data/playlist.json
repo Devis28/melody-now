@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Maluj Zase Obrázky",
+    "artist": "Hana Zagorová",
+    "date": "14.10.2025",
+    "time": "18:45",
+    "listeners": 2347
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My Máme Prima Rodiče",
+    "artist": "David Michal",
+    "date": "14.10.2025",
+    "time": "18:43",
+    "listeners": 2149
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Som On (Snežný Pluh)",
     "artist": "Hex",
     "date": "14.10.2025",

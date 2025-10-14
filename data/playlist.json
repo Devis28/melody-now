@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dancing Queen",
+    "artist": "Abba",
+    "date": "14.10.2025",
+    "time": "12:37",
+    "listeners": 1650
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá",
+    "artist": "No Name",
+    "date": "14.10.2025",
+    "time": "12:34",
+    "listeners": 1625
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tisíc A Jedenkrát",
+    "artist": "Elán",
+    "date": "14.10.2025",
+    "time": "12:29",
+    "listeners": 1646
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lady Carneval",
+    "artist": "Gott Karel",
+    "date": "14.10.2025",
+    "time": "12:26",
+    "listeners": 1643
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "14.10.2025",
+    "time": "12:22",
+    "listeners": 1642
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kúp Mi Knihu",
+    "artist": "Miro Žbirka",
+    "date": "14.10.2025",
+    "time": "12:18",
+    "listeners": 1551
+  },
+  {
+    "station": "Rádio Melody",
     "title": "San Francisco",
     "artist": "Mckenzie Scott",
     "date": "14.10.2025",

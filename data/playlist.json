@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Učiteľka Tanca",
+    "artist": "Pavol Hammel",
+    "date": "14.10.2025",
+    "time": "07:46",
+    "listeners": 3012
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnko Nevychádzaj",
+    "artist": "Metalinda",
+    "date": "14.10.2025",
+    "time": "07:42",
+    "listeners": 3027
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "14.10.2025",
+    "time": "07:38",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Can You Feel The Love Tonight",
     "artist": "John, Elton",
     "date": "14.10.2025",

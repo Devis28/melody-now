@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I Was Made For Loving You",
+    "artist": "Kiss",
+    "date": "14.10.2025",
+    "time": "17:36",
+    "listeners": 3153
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Should Be So Lucky",
+    "artist": "Minogue Kylie",
+    "date": "14.10.2025",
+    "time": "17:32",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "14.10.2025",
+    "time": "17:26",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cez Plece",
+    "artist": "Pavol Hammel",
+    "date": "14.10.2025",
+    "time": "17:23",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Flames Of Love",
     "artist": "Fancy",
     "date": "14.10.2025",

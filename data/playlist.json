@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "14.10.2025",
     "time": "05:47",
-    "listeners": 649
+    "listeners": 649,
+    "lyricists": null,
+    "album": "The Visitors (Bonus Track Version)",
+    "release_year": 2005,
+    "duration_ms": 236770,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Penk Michal",
     "date": "14.10.2025",
     "time": "05:42",
-    "listeners": 576
+    "listeners": 576,
+    "lyricists": null,
+    "album": "Hit Album",
+    "release_year": 1992,
+    "duration_ms": 278000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Europe",
     "date": "14.10.2025",
     "time": "05:39",
-    "listeners": 582
+    "listeners": 582,
+    "lyricists": null,
+    "album": "The Final Countdown (Expanded Edition)",
+    "release_year": 1996,
+    "duration_ms": 310333,
+    "artist_country": "SE",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

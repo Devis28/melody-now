@@ -5,7 +5,15 @@
     "artist": "Ub 40 Hynde Chrissie",
     "date": "15.10.2025",
     "time": "01:38",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Very Best Of",
+    "release_year": 1985,
+    "duration_ms": 189733,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Metalinda",
     "date": "15.10.2025",
     "time": "01:33",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": null,
+    "release_year": 1996,
+    "duration_ms": null,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

@@ -10019,5 +10019,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "phil collins|one more night": {
+    "artist_country": "GB",
+    "album": "No Jacket Required (Deluxe Edition) [Remastered]",
+    "release_year": 1985,
+    "duration_ms": 291253,
+    "lyricists": [
+      "Phil Collins"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

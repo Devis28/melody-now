@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Som On (Snežný Pluh)",
+    "artist": "Hex",
+    "date": "14.10.2025",
+    "time": "18:39",
+    "listeners": 2506
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tak Si So Mnou Opakuj",
+    "artist": "Gombitová Marika",
+    "date": "14.10.2025",
+    "time": "18:35",
+    "listeners": 2308
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Castecne Zatmneni Srdce",
+    "artist": "Filipova Lenka",
+    "date": "14.10.2025",
+    "time": "18:32",
+    "listeners": 2519
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bozk",
+    "artist": "I.M.T. Smile",
+    "date": "14.10.2025",
+    "time": "18:28",
+    "listeners": 2576
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "A Tak Dál Nosíš Po Kapsách Sny Mládí",
+    "artist": "Matuška Waldemar",
+    "date": "14.10.2025",
+    "time": "18:23",
+    "listeners": 2834
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čau, Lásko",
+    "artist": "Gott Karel & Holanová Marcela",
+    "date": "14.10.2025",
+    "time": "18:20",
+    "listeners": 2834
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tentokrát Se Budu Smát Já",
+    "artist": "Vondráčková Helena",
+    "date": "14.10.2025",
+    "time": "18:16",
+    "listeners": 3043
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čo S Tým",
     "artist": "Team",
     "date": "14.10.2025",

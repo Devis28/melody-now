@@ -5,7 +5,19 @@
     "artist": "Fancy",
     "date": "14.10.2025",
     "time": "17:20",
-    "listeners": 3000
+    "listeners": 3000,
+    "lyricists": [
+      "Alfons Weindorf",
+      "Fancy",
+      "Sabrina Lorenz"
+    ],
+    "album": "Hit Collection",
+    "release_year": 1998,
+    "duration_ms": 217880,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,18 @@
     "artist": "Savage Garden",
     "date": "14.10.2025",
     "time": "17:14",
-    "listeners": 3098
+    "listeners": 3098,
+    "lyricists": [
+      "Daniel Jones",
+      "Darren Hayes"
+    ],
+    "album": "Savage Garden",
+    "release_year": 2014,
+    "duration_ms": 277194,
+    "artist_country": "AU",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +44,15 @@
     "artist": "Vondrackova Helena + Korn Jiri",
     "date": "14.10.2025",
     "time": "17:11",
-    "listeners": 3181
+    "listeners": 3181,
+    "lyricists": null,
+    "album": "Těch Pár Dnů",
+    "release_year": null,
+    "duration_ms": 179000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +60,15 @@
     "artist": "Olivia Newton-John And Electric Light Orchestra",
     "date": "14.10.2025",
     "time": "17:08",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Xanadu (From the Original Motion Picture Soundtrack)",
+    "release_year": 1980,
+    "duration_ms": 208240,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +76,13 @@
     "artist": "Israel",
     "date": "14.10.2025",
     "time": "17:03",
-    "listeners": 2995
+    "listeners": 2995,
+    "lyricists": null,
+    "album": "Unforgettable",
+    "release_year": 2006,
+    "duration_ms": 244013,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

@@ -10190,5 +10190,32 @@
     "genres": [
       "Pop"
     ]
+  },
+  "fancy|flames of love": {
+    "release_year": 1998,
+    "artist_country": "DE",
+    "album": "Hit Collection",
+    "duration_ms": 217880,
+    "lyricists": [
+      "Alfons Weindorf",
+      "Fancy",
+      "Sabrina Lorenz"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "savage garden|truly madly deeply": {
+    "release_year": 2014,
+    "artist_country": "AU",
+    "album": "Savage Garden",
+    "duration_ms": 277194,
+    "lyricists": [
+      "Daniel Jones",
+      "Darren Hayes"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

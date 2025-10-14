@@ -5,7 +5,15 @@
     "artist": "Peter Bič Project",
     "date": "14.10.2025",
     "time": "22:45",
-    "listeners": 644
+    "listeners": 644,
+    "lyricists": null,
+    "album": "Labyrint",
+    "release_year": 2019,
+    "duration_ms": 309780,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Cyndi Lauper",
     "date": "14.10.2025",
     "time": "22:42",
-    "listeners": 657
+    "listeners": 657,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 224510,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Palonder Marcel",
     "date": "14.10.2025",
     "time": "22:38",
-    "listeners": 635
+    "listeners": 635,
+    "lyricists": null,
+    "album": "Cudzinec v tvojom srdci",
+    "release_year": 1992,
+    "duration_ms": 223000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Elán",
     "date": "14.10.2025",
     "time": "22:35",
-    "listeners": 723
+    "listeners": 723,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2004,
+    "duration_ms": 138120,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "No Name",
     "date": "14.10.2025",
     "time": "22:32",
-    "listeners": 702
+    "listeners": 702,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2006,
+    "duration_ms": 202107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Erasure",
     "date": "14.10.2025",
     "time": "22:28",
-    "listeners": 668
+    "listeners": 668,
+    "lyricists": null,
+    "album": "Hits! The Very Best of Erasure",
+    "release_year": 2003,
+    "duration_ms": 260227,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,13 @@
     "artist": "Katarina Knechtova",
     "date": "14.10.2025",
     "time": "22:24",
-    "listeners": 709
+    "listeners": 709,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",

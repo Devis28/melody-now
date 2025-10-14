@@ -5,7 +5,13 @@
     "artist": "R.E.M.",
     "date": "14.10.2025",
     "time": "11:52",
-    "listeners": 1448
+    "listeners": 1448,
+    "lyricists": null,
+    "album": "Automatic For The People",
+    "release_year": 1999,
+    "duration_ms": 320351,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,15 @@
     "artist": "Vondráčková Helena",
     "date": "14.10.2025",
     "time": "11:48",
-    "listeners": 1534
+    "listeners": 1534,
+    "lyricists": null,
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "release_year": 1992,
+    "duration_ms": 290640,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

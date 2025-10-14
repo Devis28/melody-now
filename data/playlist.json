@@ -5,7 +5,15 @@
     "artist": "Jackson, Michael",
     "date": "14.10.2025",
     "time": "23:35",
-    "listeners": 381
+    "listeners": 381,
+    "lyricists": null,
+    "album": "The Essential Michael Jackson",
+    "release_year": 1991,
+    "duration_ms": 385713,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Fun Factory",
     "date": "14.10.2025",
     "time": "23:31",
-    "listeners": 426
+    "listeners": 426,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 213600,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

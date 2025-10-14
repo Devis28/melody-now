@@ -5,7 +5,16 @@
     "artist": "Pavol Habera",
     "date": "15.10.2025",
     "time": "00:39",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 1991,
+    "duration_ms": 201667,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,18 @@
     "artist": "Phil Collins",
     "date": "15.10.2025",
     "time": "00:34",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Phil Collins"
+    ],
+    "album": "No Jacket Required (Deluxe Edition) [Remastered]",
+    "release_year": 1985,
+    "duration_ms": 291253,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

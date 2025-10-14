@@ -5,7 +5,15 @@
     "artist": "I.M.T. Smile",
     "date": "14.10.2025",
     "time": "21:57",
-    "listeners": 977
+    "listeners": 977,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2003,
+    "duration_ms": 277120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "14.10.2025",
     "time": "21:52",
-    "listeners": 1044
+    "listeners": 1044,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 295280,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

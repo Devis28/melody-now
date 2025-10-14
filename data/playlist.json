@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Time To Say Goodbye",
+    "artist": "Brightman Sarah&Bocelli Andrea",
+    "date": "14.10.2025",
+    "time": "16:55",
+    "listeners": 3050
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Já Budu Chodit Po Špičkách",
+    "artist": "Novák Petr",
+    "date": "14.10.2025",
+    "time": "16:52",
+    "listeners": 3053
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sha La La",
+    "artist": "Vengaboys",
+    "date": "14.10.2025",
+    "time": "16:49",
+    "listeners": 3019
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Správne Dievčatá",
     "artist": "Gombitová Marika",
     "date": "14.10.2025",

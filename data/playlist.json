@@ -5,7 +5,18 @@
     "artist": "Bon Jovi",
     "date": "14.10.2025",
     "time": "20:37",
-    "listeners": 1394
+    "listeners": 1394,
+    "lyricists": [
+      "Jon Bon Jovi"
+    ],
+    "album": "Keep the Faith",
+    "release_year": 2016,
+    "duration_ms": 394528,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,19 @@
     "artist": "Eurythmics",
     "date": "14.10.2025",
     "time": "20:34",
-    "listeners": 1545
+    "listeners": 1545,
+    "lyricists": [
+      "Annie Lennox",
+      "Dave Stewart",
+      "Eurythmics"
+    ],
+    "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
+    "release_year": 2005,
+    "duration_ms": 216933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +44,15 @@
     "artist": "Grigorov Robo",
     "date": "14.10.2025",
     "time": "20:29",
-    "listeners": 1427
+    "listeners": 1427,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 261016,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +60,15 @@
     "artist": "Roxette",
     "date": "14.10.2025",
     "time": "20:24",
-    "listeners": 1315
+    "listeners": 1315,
+    "lyricists": null,
+    "album": "Look Sharp!",
+    "release_year": 1995,
+    "duration_ms": 328093,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +76,15 @@
     "artist": "Zuzana Smatanová",
     "date": "14.10.2025",
     "time": "20:21",
-    "listeners": 1522
+    "listeners": 1522,
+    "lyricists": null,
+    "album": "Dvere",
+    "release_year": 2011,
+    "duration_ms": 192467,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

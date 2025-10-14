@@ -10245,5 +10245,32 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bon jovi|bed of roses": {
+    "release_year": 2016,
+    "artist_country": "US",
+    "album": "Keep the Faith",
+    "duration_ms": 394528,
+    "lyricists": [
+      "Jon Bon Jovi"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "eurythmics|sweet dreams": {
+    "release_year": 2005,
+    "artist_country": "GB",
+    "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
+    "duration_ms": 216933,
+    "lyricists": [
+      "Annie Lennox",
+      "Dave Stewart",
+      "Eurythmics"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

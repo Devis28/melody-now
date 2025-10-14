@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Love Is In The Air",
+    "artist": "John Paul Young",
+    "date": "14.10.2025",
+    "time": "22:55",
+    "listeners": 526
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Se Bastasse Una Canzone",
+    "artist": "Ramazzotti Eros",
+    "date": "14.10.2025",
+    "time": "22:50",
+    "listeners": 601
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Stoj",
     "artist": "Peter Bič Project",
     "date": "14.10.2025",

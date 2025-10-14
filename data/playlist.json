@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "14.10.2025",
     "time": "23:52",
-    "listeners": 359
+    "listeners": 359,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1987,
+    "duration_ms": 194973,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,19 @@
     "artist": "Robbie Williams",
     "date": "14.10.2025",
     "time": "23:48",
-    "listeners": 321
+    "listeners": 321,
+    "lyricists": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ],
+    "album": "Life Thru a Lens",
+    "release_year": 1997,
+    "duration_ms": 265000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Aerosmith",
     "date": "14.10.2025",
     "time": "20:48",
-    "listeners": 1422
+    "listeners": 1422,
+    "lyricists": null,
+    "album": "I Don't Want To Miss A Thing EP",
+    "release_year": 1998,
+    "duration_ms": 299723,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Sandra",
     "date": "14.10.2025",
     "time": "20:44",
-    "listeners": 1378
+    "listeners": 1378,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 2000,
+    "duration_ms": 257160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

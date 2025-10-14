@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pár Přátel",
+    "artist": "Michal David",
+    "date": "14.10.2025",
+    "time": "15:43",
+    "listeners": 1698
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "14.10.2025",
+    "time": "15:39",
+    "listeners": 1514
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Smútok Krásnych Dievčat",
+    "artist": "Duchoň Karol",
+    "date": "14.10.2025",
+    "time": "15:36",
+    "listeners": 1580
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Come Back And Stay",
+    "artist": "Bad Boys Blue",
+    "date": "14.10.2025",
+    "time": "15:32",
+    "listeners": 1348
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chci Tě Líbat",
+    "artist": "Václav Neckář",
+    "date": "14.10.2025",
+    "time": "15:25",
+    "listeners": 1326
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Nejsem Volná",
+    "artist": "Petra Janů",
+    "date": "14.10.2025",
+    "time": "15:21",
+    "listeners": 1134
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nah Neh Nah",
+    "artist": "Vaya Con Dios",
+    "date": "14.10.2025",
+    "time": "15:18",
+    "listeners": 1210
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Severní Vítr",
     "artist": "Jaroslav Uhlíř",
     "date": "14.10.2025",

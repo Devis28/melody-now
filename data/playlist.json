@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "United",
+    "artist": "Prince Ital Joe & Marky Mark",
+    "date": "14.10.2025",
+    "time": "09:30",
+    "listeners": 1495
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Holubí Dúm",
+    "artist": "Jiří Schelinger",
+    "date": "14.10.2025",
+    "time": "09:26",
+    "listeners": 1657
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Came",
+    "artist": "Wilde Kim",
+    "date": "14.10.2025",
+    "time": "09:23",
+    "listeners": 1567
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ján Ámos Džínový",
+    "artist": "Metalinda",
+    "date": "14.10.2025",
+    "time": "09:17",
+    "listeners": 1811
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Maniac",
     "artist": "Michael Sembello",
     "date": "14.10.2025",

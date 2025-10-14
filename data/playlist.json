@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mám Ťa Rád",
+    "artist": "Duchon  Karol",
+    "date": "14.10.2025",
+    "time": "19:42",
+    "listeners": 1720
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neznáma",
+    "artist": "Palonder Marcel",
+    "date": "14.10.2025",
+    "time": "19:38",
+    "listeners": 1711
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kým Pri Mne Spíš",
     "artist": "Habera Pavol",
     "date": "14.10.2025",

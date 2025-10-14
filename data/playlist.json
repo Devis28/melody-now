@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Do Čista",
+    "artist": "Müller Richard",
+    "date": "14.10.2025",
+    "time": "09:42",
+    "listeners": 1396
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "14.10.2025",
+    "time": "09:38",
+    "listeners": 1201
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nepriznaná",
+    "artist": "Vašo Patejdl",
+    "date": "14.10.2025",
+    "time": "09:34",
+    "listeners": 1367
+  },
+  {
+    "station": "Rádio Melody",
     "title": "United",
     "artist": "Prince Ital Joe & Marky Mark",
     "date": "14.10.2025",

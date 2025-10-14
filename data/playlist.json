@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "14.10.2025",
+    "time": "20:37",
+    "listeners": 1394
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sweet Dreams",
+    "artist": "Eurythmics",
+    "date": "14.10.2025",
+    "time": "20:34",
+    "listeners": 1545
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Monika",
+    "artist": "Grigorov Robo",
+    "date": "14.10.2025",
+    "time": "20:29",
+    "listeners": 1427
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Listen To Your Heart",
+    "artist": "Roxette",
+    "date": "14.10.2025",
+    "time": "20:24",
+    "listeners": 1315
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvere",
+    "artist": "Zuzana Smatanová",
+    "date": "14.10.2025",
+    "time": "20:21",
+    "listeners": 1522
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Růže Z Papíru",
     "artist": "Brontosauři",
     "date": "14.10.2025",

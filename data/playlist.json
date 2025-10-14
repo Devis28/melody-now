@@ -5,7 +5,15 @@
     "artist": "Gombitová Marika",
     "date": "14.10.2025",
     "time": "08:42",
-    "listeners": 2465
+    "listeners": 2465,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 191333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Geri Halliwell",
     "date": "14.10.2025",
     "time": "08:38",
-    "listeners": 2446
+    "listeners": 2446,
+    "lyricists": null,
+    "album": "It's Raining Men - Single",
+    "release_year": 2002,
+    "duration_ms": 255160,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Abba",
     "date": "14.10.2025",
     "time": "08:35",
-    "listeners": 2737
+    "listeners": 2737,
+    "lyricists": null,
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 212304,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "David Michal Bartošová Iveta",
     "date": "14.10.2025",
     "time": "08:30",
-    "listeners": 2472
+    "listeners": 2472,
+    "lyricists": null,
+    "album": "Moje zapomenuté ploužáky 2",
+    "release_year": 2021,
+    "duration_ms": 230846,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

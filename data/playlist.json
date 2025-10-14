@@ -5,7 +5,15 @@
     "artist": "Queen",
     "date": "14.10.2025",
     "time": "12:46",
-    "listeners": 1529
+    "listeners": 1529,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1991,
+    "duration_ms": 271610,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Tikaram Tanita",
     "date": "14.10.2025",
     "time": "12:41",
-    "listeners": 1740
+    "listeners": 1740,
+    "lyricists": null,
+    "album": "Ancient Heart",
+    "release_year": 1987,
+    "duration_ms": 290787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

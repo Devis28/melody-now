@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "14.10.2025",
+    "time": "11:16",
+    "listeners": 1206
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "14.10.2025",
+    "time": "11:13",
+    "listeners": 1129
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skúšky Z Lásky",
+    "artist": "Gravis",
+    "date": "14.10.2025",
+    "time": "11:07",
+    "listeners": 1030
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Be With You",
+    "artist": "Enrique Iglesias",
+    "date": "14.10.2025",
+    "time": "11:04",
+    "listeners": 1081
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jednoho Dne Se Vrátíš",
+    "artist": "Věra Špinarová",
+    "date": "14.10.2025",
+    "time": "10:59",
+    "listeners": 1015
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Don't Go Breaking My Heart",
     "artist": "John Elton & Dee Kiki",
     "date": "14.10.2025",

@@ -1,6 +1,86 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I've Been Thinking About You",
+    "artist": "Londonbeat",
+    "date": "14.10.2025",
+    "time": "05:35",
+    "listeners": 499
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čerešně",
+    "artist": "Hana Hegerová",
+    "date": "14.10.2025",
+    "time": "05:32",
+    "listeners": 478
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ma Baker",
+    "artist": "Boney M.",
+    "date": "14.10.2025",
+    "time": "05:27",
+    "listeners": 467
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Balla...Balla! (Italian Hit Connection)",
+    "artist": "Francesco Napoli",
+    "date": "14.10.2025",
+    "time": "05:23",
+    "listeners": 464
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Co Bolí To Přebolí",
+    "artist": "Zbirka Miro & Martha",
+    "date": "14.10.2025",
+    "time": "05:20",
+    "listeners": 376
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Flashdance ( What A Feeling )",
+    "artist": "Cara Irene",
+    "date": "14.10.2025",
+    "time": "05:16",
+    "listeners": 341
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Losing My Religion",
+    "artist": "R.E.M.",
+    "date": "14.10.2025",
+    "time": "05:11",
+    "listeners": 330
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zrpš",
+    "artist": "Hammel, Pavol",
+    "date": "14.10.2025",
+    "time": "05:07",
+    "listeners": 315
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dva Roky Prázdnin",
+    "artist": "Bartošová Iveta",
+    "date": "14.10.2025",
+    "time": "05:05",
+    "listeners": 304
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kométa (Pre Gumpa)",
+    "artist": "Desmod & Majself",
+    "date": "14.10.2025",
+    "time": "05:01",
+    "listeners": 292
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pandora's Box",
     "artist": "Orchestral Manoeuvres In The Dark",
     "date": "14.10.2025",

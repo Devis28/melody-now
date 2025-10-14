@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čo S Tým",
+    "artist": "Team",
+    "date": "14.10.2025",
+    "time": "18:11",
+    "listeners": 2867
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Kúp Mi Rontgen",
+    "artist": "Yps",
+    "date": "14.10.2025",
+    "time": "18:06",
+    "listeners": 3045
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvaja",
+    "artist": "Grigorov Robo",
+    "date": "14.10.2025",
+    "time": "18:02",
+    "listeners": 3079
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voyage Voyage",
+    "artist": "Desirelles",
+    "date": "14.10.2025",
+    "time": "17:54",
+    "listeners": 3028
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Strong Enough",
     "artist": "Cher",
     "date": "14.10.2025",

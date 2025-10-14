@@ -5,7 +5,15 @@
     "artist": "Gombitová Marika",
     "date": "14.10.2025",
     "time": "23:27",
-    "listeners": 431
+    "listeners": 431,
+    "lyricists": null,
+    "album": "Mince na dne fontán",
+    "release_year": 1983,
+    "duration_ms": 224013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Samantha Fox",
     "date": "14.10.2025",
     "time": "23:23",
-    "listeners": 423
+    "listeners": 423,
+    "lyricists": null,
+    "album": "Samantha Fox",
+    "release_year": 1999,
+    "duration_ms": 225147,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Pavol Habera & Team",
     "date": "14.10.2025",
     "time": "23:18",
-    "listeners": 442
+    "listeners": 442,
+    "lyricists": null,
+    "album": "The Best Of",
+    "release_year": 2021,
+    "duration_ms": 325507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "John Lennon, The Plastic Ono Band",
     "date": "14.10.2025",
     "time": "23:15",
-    "listeners": 481
+    "listeners": 481,
+    "lyricists": null,
+    "album": "Power To The People (Live At The One To One Concert - Afternoon & Evening Shows)",
+    "release_year": 2025,
+    "duration_ms": 202891,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Modrá",
+    "artist": "Kirschner Jana",
+    "date": "14.10.2025",
+    "time": "19:07",
+    "listeners": 2081
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skorápky Orechú",
+    "artist": "Marie Rottrová",
+    "date": "14.10.2025",
+    "time": "19:03",
+    "listeners": 2100
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My To Zvladnem",
+    "artist": "Iveta Bartosova & Petr Sepesi",
+    "date": "14.10.2025",
+    "time": "19:00",
+    "listeners": 2257
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Psi Sa Bránia Útokom",
+    "artist": "Nagy, Peter A Raz, Jozef",
+    "date": "14.10.2025",
+    "time": "18:56",
+    "listeners": 2247
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "14.10.2025",
+    "time": "18:53",
+    "listeners": 2281
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Maluj Zase Obrázky",
     "artist": "Hana Zagorová",
     "date": "14.10.2025",

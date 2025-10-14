@@ -5,7 +5,15 @@
     "artist": "Adam Ďurica",
     "date": "15.10.2025",
     "time": "01:20",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Spolu",
+    "release_year": 2016,
+    "duration_ms": 147750,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "John, Elton",
     "date": "15.10.2025",
     "time": "01:16",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "release_year": 1994,
+    "duration_ms": 241907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Miro Žbirka",
     "date": "15.10.2025",
     "time": "01:13",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2020,
+    "duration_ms": 193373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,16 @@
     "artist": "Dj Bobo",
     "date": "15.10.2025",
     "time": "01:09",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 1999,
+    "duration_ms": 212893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +68,15 @@
     "artist": "Gott Karel",
     "date": "15.10.2025",
     "time": "01:06",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 184307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +84,16 @@
     "artist": "Pavol Hammel",
     "date": "15.10.2025",
     "time": "01:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "Hráč",
+    "release_year": 1998,
+    "duration_ms": 155240,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

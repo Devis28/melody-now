@@ -10044,5 +10044,36 @@
     "genres": [
       "Pop"
     ]
+  },
+  "barbra streisand|memory": {
+    "release_year": 1982,
+    "artist_country": "US",
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "duration_ms": 233280,
+    "lyricists": [
+      "Barbra Streisand"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "kool|cherish": {
+    "artist_country": "US",
+    "album": "Emergency",
+    "release_year": 1984,
+    "duration_ms": 290600,
+    "lyricists": [
+      "Claydes Smith",
+      "Clifford Adams",
+      "Curtis “Fitz” Williams",
+      "George Brown",
+      "James “J.T.” Taylor",
+      "Jim Bonnefond",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ],
+    "genres": [
+      "R&B"
+    ]
   }
 }

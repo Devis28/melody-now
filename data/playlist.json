@@ -5,7 +5,15 @@
     "artist": "John Paul Young",
     "date": "14.10.2025",
     "time": "22:55",
-    "listeners": 526
+    "listeners": 526,
+    "lyricists": null,
+    "album": "Vanda and Young: The Official Songbook",
+    "release_year": 1996,
+    "duration_ms": 208413,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ramazzotti Eros",
     "date": "14.10.2025",
     "time": "22:50",
-    "listeners": 601
+    "listeners": 601,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 323867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

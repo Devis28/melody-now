@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Strong Enough",
+    "artist": "Cher",
+    "date": "14.10.2025",
+    "time": "17:51",
+    "listeners": 3075
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Máš Chuť Majoránky",
+    "artist": "Karel Zich",
+    "date": "14.10.2025",
+    "time": "17:48",
+    "listeners": 3058
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cheri Cheri Lady",
     "artist": "Modern Talking",
     "date": "14.10.2025",

@@ -10131,5 +10131,32 @@
       "Pop",
       "Rock"
     ]
+  },
+  "jaroslav uhlíř|severní vítr": {
+    "release_year": 1998,
+    "artist_country": "CZ",
+    "album": "Country Gold 80. léta",
+    "duration_ms": 189787,
+    "lyricists": [
+      "Jaroslav Uhlíř",
+      "Zdeněk Svěrák"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "abba|sos": {
+    "artist_country": "SE",
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 201959,
+    "lyricists": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

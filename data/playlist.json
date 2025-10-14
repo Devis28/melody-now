@@ -1,6 +1,262 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Rhythm Divine",
+    "artist": "Iglesias Enrique",
+    "date": "14.10.2025",
+    "time": "03:57",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nároční",
+    "artist": "Team",
+    "date": "14.10.2025",
+    "time": "03:52",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "14.10.2025",
+    "time": "03:47",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šiel, Šiel",
+    "artist": "Duchoň Karol",
+    "date": "14.10.2025",
+    "time": "03:44",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Edo",
+    "artist": "Grigorov Robo",
+    "date": "14.10.2025",
+    "time": "03:40",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Orinoco Flow",
+    "artist": "Enya",
+    "date": "14.10.2025",
+    "time": "03:37",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Where Do You Go",
+    "artist": "No Mercy",
+    "date": "14.10.2025",
+    "time": "03:32",
+    "listeners": 200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kapely Starnú",
+    "artist": "Modus",
+    "date": "14.10.2025",
+    "time": "03:29",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "14.10.2025",
+    "time": "03:25",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zhorí Všetko Čo Mám",
+    "artist": "Desmod",
+    "date": "14.10.2025",
+    "time": "03:20",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yes Sir, I Can Boogie",
+    "artist": "Baccara",
+    "date": "14.10.2025",
+    "time": "03:16",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "14.10.2025",
+    "time": "03:13",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Myslis Na To Na Co Myslim Ja?",
+    "artist": "Peter Nagy",
+    "date": "14.10.2025",
+    "time": "03:10",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Coco Jambo",
+    "artist": "Mr. President",
+    "date": "14.10.2025",
+    "time": "03:06",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Útoč Láskou",
+    "artist": "Bartosova, Iveta",
+    "date": "14.10.2025",
+    "time": "03:02",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tanečnice Z Lúčnice",
+    "artist": "Elán",
+    "date": "14.10.2025",
+    "time": "02:59",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Naveky",
+    "artist": "Katarína Knechtová",
+    "date": "14.10.2025",
+    "time": "02:56",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stay",
+    "artist": "Shakespear's Sister",
+    "date": "14.10.2025",
+    "time": "02:52",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Komplikovaná",
+    "artist": "Polemic",
+    "date": "14.10.2025",
+    "time": "02:49",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hotel California",
+    "artist": "Eagles The",
+    "date": "14.10.2025",
+    "time": "02:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hráli Jsme Kličkovanou",
+    "artist": "Janda Dalibor",
+    "date": "14.10.2025",
+    "time": "02:42",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Of My Life",
+    "artist": "Queen",
+    "date": "14.10.2025",
+    "time": "02:38",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "14.10.2025",
+    "time": "02:35",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Is The Shield",
+    "artist": "Camouflage",
+    "date": "14.10.2025",
+    "time": "02:32",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lekná",
+    "artist": "No Name",
+    "date": "14.10.2025",
+    "time": "02:28",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Keep Me Hanging On",
+    "artist": "Wilde Kim",
+    "date": "14.10.2025",
+    "time": "02:24",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Som V Tom",
+    "artist": "Team",
+    "date": "14.10.2025",
+    "time": "02:21",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Matka",
+    "artist": "Tublatanka",
+    "date": "14.10.2025",
+    "time": "02:17",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "Money Factor",
+    "date": "14.10.2025",
+    "time": "02:13",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Joyride",
+    "artist": "Roxette",
+    "date": "14.10.2025",
+    "time": "02:09",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're A Woman",
+    "artist": "Bad Boys Blue",
+    "date": "14.10.2025",
+    "time": "02:04",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oh, Pretty Woman",
+    "artist": "Orbison Roy",
+    "date": "14.10.2025",
+    "time": "02:01",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Decibely Lásky",
     "artist": "David Michal Kroky Františka Janečka",
     "date": "14.10.2025",

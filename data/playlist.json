@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Školská Lavica",
+    "artist": "Gombitová Marika",
+    "date": "14.10.2025",
+    "time": "23:27",
+    "listeners": 431
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nothing's Gonna Stop Me Now",
+    "artist": "Samantha Fox",
+    "date": "14.10.2025",
+    "time": "23:23",
+    "listeners": 423
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ked Sa Baba Zblazni",
+    "artist": "Pavol Habera & Team",
+    "date": "14.10.2025",
+    "time": "23:18",
+    "listeners": 442
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Imagine",
+    "artist": "John Lennon, The Plastic Ono Band",
+    "date": "14.10.2025",
+    "time": "23:15",
+    "listeners": 481
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Můj Čas",
     "artist": "Zagorová Hana Kotvald Petr Hložek Stanislav",
     "date": "14.10.2025",

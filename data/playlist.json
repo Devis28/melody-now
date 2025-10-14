@@ -5,7 +5,15 @@
     "artist": "Vondráčková Helena Neckář Václav",
     "date": "14.10.2025",
     "time": "09:50",
-    "listeners": 1085
+    "listeners": 1085,
+    "lyricists": null,
+    "album": "Rendez Vous",
+    "release_year": 1965,
+    "duration_ms": 143680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Queen",
     "date": "14.10.2025",
     "time": "09:46",
-    "listeners": 1179
+    "listeners": 1179,
+    "lyricists": null,
+    "album": "A Kind of Magic (Deluxe Edition)",
+    "release_year": 1993,
+    "duration_ms": 264254,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

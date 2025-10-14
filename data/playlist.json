@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "14.10.2025",
+    "time": "09:13",
+    "listeners": 1707
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Big In Japan",
+    "artist": "Alphaville",
+    "date": "14.10.2025",
+    "time": "09:08",
+    "listeners": 1963
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Secret Love",
+    "artist": "The Bee Gees",
+    "date": "14.10.2025",
+    "time": "09:05",
+    "listeners": 2105
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šípková Růženka",
+    "artist": "Jiří Schelinger",
+    "date": "14.10.2025",
+    "time": "09:01",
+    "listeners": 2162
+  },
+  {
+    "station": "Rádio Melody",
     "title": "When You Say Nothing At All",
     "artist": "Keating Ronan",
     "date": "14.10.2025",

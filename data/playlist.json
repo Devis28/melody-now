@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Stoj",
+    "artist": "Peter Bič Project",
+    "date": "14.10.2025",
+    "time": "22:45",
+    "listeners": 644
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Girls Just Wanna Have Fun",
+    "artist": "Cyndi Lauper",
+    "date": "14.10.2025",
+    "time": "22:42",
+    "listeners": 657
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Palonder Marcel",
+    "date": "14.10.2025",
+    "time": "22:38",
+    "listeners": 635
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vymyslená",
+    "artist": "Elán",
+    "date": "14.10.2025",
+    "time": "22:35",
+    "listeners": 723
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ďakujem Že Si",
+    "artist": "No Name",
+    "date": "14.10.2025",
+    "time": "22:32",
+    "listeners": 702
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blue Savannah",
+    "artist": "Erasure",
+    "date": "14.10.2025",
+    "time": "22:28",
+    "listeners": 668
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mmuoj Boze",
+    "artist": "Katarina Knechtova",
+    "date": "14.10.2025",
+    "time": "22:24",
+    "listeners": 709
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Malý Princ",
     "artist": "Aya",
     "date": "14.10.2025",

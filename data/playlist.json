@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Malý Princ",
+    "artist": "Aya",
+    "date": "14.10.2025",
+    "time": "22:20",
+    "listeners": 746
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pierko pravdy",
+    "artist": "Beáta Dubasová",
+    "date": "14.10.2025",
+    "time": "22:16",
+    "listeners": 804
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Big Big World",
+    "artist": "Emilia",
+    "date": "14.10.2025",
+    "time": "22:13",
+    "listeners": 748
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vyznanie",
+    "artist": "Marika Gombitová",
+    "date": "14.10.2025",
+    "time": "22:08",
+    "listeners": 783
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "14.10.2025",
+    "time": "22:05",
+    "listeners": 831
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Podvod",
+    "artist": "Honza Nedvěd",
+    "date": "14.10.2025",
+    "time": "22:01",
+    "listeners": 904
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kým Stúpa Dym",
     "artist": "I.M.T. Smile",
     "date": "14.10.2025",

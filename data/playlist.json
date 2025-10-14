@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I Got You Babe",
+    "artist": "Ub 40 Hynde Chrissie",
+    "date": "15.10.2025",
+    "time": "01:38",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnko Nevychádzaj",
+    "artist": "Metalinda",
+    "date": "15.10.2025",
+    "time": "01:33",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Forever Young",
     "artist": "Alphaville",
     "date": "15.10.2025",

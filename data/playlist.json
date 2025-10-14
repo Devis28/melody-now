@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "14.10.2025",
+    "time": "11:38",
+    "listeners": 1412
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "date": "14.10.2025",
+    "time": "11:33",
+    "listeners": 1232
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angel",
+    "artist": "Shaggy",
+    "date": "14.10.2025",
+    "time": "11:28",
+    "listeners": 1245
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Gimme Gimme Gimme A Man After Midnight",
+    "artist": "Abba",
+    "date": "14.10.2025",
+    "time": "11:24",
+    "listeners": 1270
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mesto Snov",
+    "artist": "Heckovci Julia A Peter",
+    "date": "14.10.2025",
+    "time": "11:20",
+    "listeners": 1176
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Keď Sa Láska Podarí",
     "artist": "Gladiator",
     "date": "14.10.2025",

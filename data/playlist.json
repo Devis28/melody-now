@@ -5,7 +5,13 @@
     "artist": "Limahl",
     "date": "14.10.2025",
     "time": "15:51",
-    "listeners": 1697
+    "listeners": 1697,
+    "lyricists": null,
+    "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
+    "release_year": 2008,
+    "duration_ms": 210013,
+    "artist_country": "GB",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,18 @@
     "artist": "Elton John",
     "date": "14.10.2025",
     "time": "15:47",
-    "listeners": 1478
+    "listeners": 1478,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition)",
+    "release_year": 2003,
+    "duration_ms": 228928,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

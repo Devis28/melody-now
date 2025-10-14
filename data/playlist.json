@@ -5,7 +5,16 @@
     "artist": "Olympic",
     "date": "14.10.2025",
     "time": "16:11",
-    "listeners": 2121
+    "listeners": 2121,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 183200,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,24 @@
     "artist": "Spice Girls",
     "date": "14.10.2025",
     "time": "16:07",
-    "listeners": 1983
+    "listeners": 1983,
+    "lyricists": [
+      "Emma Bunton",
+      "Geri Halliwell",
+      "Matt Rowe",
+      "Melanie Brown",
+      "Melanie C",
+      "Richard “Biff” Stannard",
+      "Spice Girls",
+      "Victoria Beckham"
+    ],
+    "album": "Spiceworld",
+    "release_year": 1998,
+    "duration_ms": 310667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +47,15 @@
     "artist": "Zagorová Hana Hložek Stanislav Kotvald Petr",
     "date": "14.10.2025",
     "time": "16:03",
-    "listeners": 2105
+    "listeners": 2105,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 1995,
+    "duration_ms": 249813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +63,18 @@
     "artist": "Madonna",
     "date": "14.10.2025",
     "time": "15:54",
-    "listeners": 1840
+    "listeners": 1840,
+    "lyricists": [
+      "David Foster",
+      "Madonna"
+    ],
+    "album": "Something to Remember",
+    "release_year": 2000,
+    "duration_ms": 278136,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

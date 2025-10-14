@@ -5,7 +5,15 @@
     "artist": "Tozzi, Umberto",
     "date": "14.10.2025",
     "time": "07:23",
-    "listeners": 2746
+    "listeners": 2746,
+    "lyricists": null,
+    "album": "Gloria",
+    "release_year": 1979,
+    "duration_ms": 264674,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Alphaville",
     "date": "14.10.2025",
     "time": "07:19",
-    "listeners": 2634
+    "listeners": 2634,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2005,
+    "duration_ms": 226706,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,17 @@
     "artist": "Ace Of Base",
     "date": "14.10.2025",
     "time": "07:16",
-    "listeners": 2623
+    "listeners": 2623,
+    "lyricists": [
+      "Ace of Base"
+    ],
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 1995,
+    "duration_ms": 211213,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Karel Zich",
     "date": "14.10.2025",
     "time": "07:11",
-    "listeners": 2362
+    "listeners": 2362,
+    "lyricists": null,
+    "album": "Singly (1980-1990)",
+    "release_year": 2009,
+    "duration_ms": 148040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,16 @@
     "artist": "Dj Bobo",
     "date": "14.10.2025",
     "time": "07:05",
-    "listeners": 2347
+    "listeners": 2347,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 1999,
+    "duration_ms": 212893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Gott Karel",
     "date": "14.10.2025",
     "time": "07:02",
-    "listeners": 2233
+    "listeners": 2233,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 184307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

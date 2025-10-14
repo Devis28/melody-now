@@ -10032,5 +10032,17 @@
       "Pop",
       "Rock"
     ]
+  },
+  "ace of base|all that she wants": {
+    "release_year": 1995,
+    "artist_country": "SE",
+    "album": "The Sign (2015 Remastered Version)",
+    "duration_ms": 211213,
+    "lyricists": [
+      "Ace of Base"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

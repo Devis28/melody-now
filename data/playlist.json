@@ -5,7 +5,16 @@
     "artist": "Michael Sembello",
     "date": "14.10.2025",
     "time": "09:13",
-    "listeners": 1707
+    "listeners": 1707,
+    "lyricists": [
+      "Dennis Matkosky",
+      "Michael Sembello"
+    ],
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "release_year": 2022,
+    "duration_ms": 244707,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Alphaville",
     "date": "14.10.2025",
     "time": "09:08",
-    "listeners": 1963
+    "listeners": 1963,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2009,
+    "duration_ms": 286160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "The Bee Gees",
     "date": "14.10.2025",
     "time": "09:05",
-    "listeners": 2105
+    "listeners": 2105,
+    "lyricists": null,
+    "album": "High Civilization",
+    "release_year": 1991,
+    "duration_ms": 222800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Jiří Schelinger",
     "date": "14.10.2025",
     "time": "09:01",
-    "listeners": 2162
+    "listeners": 2162,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2006,
+    "duration_ms": 191475,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

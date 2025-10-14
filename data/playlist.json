@@ -5,7 +5,15 @@
     "artist": "John Elton & Dee Kiki",
     "date": "14.10.2025",
     "time": "10:52",
-    "listeners": 908
+    "listeners": 908,
+    "lyricists": null,
+    "album": "Rock of the Westies (Remastered)",
+    "release_year": 1975,
+    "duration_ms": 275440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Depeche Mode",
     "date": "14.10.2025",
     "time": "10:48",
-    "listeners": 1055
+    "listeners": 1055,
+    "lyricists": null,
+    "album": "Violator (Deluxe)",
+    "release_year": 1999,
+    "duration_ms": 372827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

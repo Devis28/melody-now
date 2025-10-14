@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Heal The World",
+    "artist": "Jackson, Michael",
+    "date": "14.10.2025",
+    "time": "23:35",
+    "listeners": 381
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Wanna B with U",
+    "artist": "Fun Factory",
+    "date": "14.10.2025",
+    "time": "23:31",
+    "listeners": 426
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Školská Lavica",
     "artist": "Gombitová Marika",
     "date": "14.10.2025",

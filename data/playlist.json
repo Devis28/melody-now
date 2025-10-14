@@ -5,7 +5,17 @@
     "artist": "Abba",
     "date": "14.10.2025",
     "time": "12:37",
-    "listeners": 1650
+    "listeners": 1650,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 2008,
+    "duration_ms": 231844,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "No Name",
     "date": "14.10.2025",
     "time": "12:34",
-    "listeners": 1625
+    "listeners": 1625,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2014,
+    "duration_ms": 197200,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Elán",
     "date": "14.10.2025",
     "time": "12:29",
-    "listeners": 1646
+    "listeners": 1646,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1994,
+    "duration_ms": 279000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Gott Karel",
     "date": "14.10.2025",
     "time": "12:26",
-    "listeners": 1643
+    "listeners": 1643,
+    "lyricists": null,
+    "album": "Lady Carneval",
+    "release_year": 1987,
+    "duration_ms": 180227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,16 @@
     "artist": "The Cranberries",
     "date": "14.10.2025",
     "time": "12:22",
-    "listeners": 1642
+    "listeners": 1642,
+    "lyricists": null,
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "release_year": 1993,
+    "duration_ms": 255107,
+    "artist_country": "IE",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Miro Žbirka",
     "date": "14.10.2025",
     "time": "12:18",
-    "listeners": 1551
+    "listeners": 1551,
+    "lyricists": null,
+    "album": "Chlapec z ulice",
+    "release_year": 2007,
+    "duration_ms": 245160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Posledné Dobré Dievča",
+    "artist": "Pavol Habera",
+    "date": "15.10.2025",
+    "time": "00:39",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One More Night",
+    "artist": "Phil Collins",
+    "date": "15.10.2025",
+    "time": "00:34",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Happy People",
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "15.10.2025",

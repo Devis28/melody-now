@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Malovaný Džbánku",
+    "artist": "Helena Vondráčková",
+    "date": "14.10.2025",
+    "time": "13:35",
+    "listeners": 1258
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "14.10.2025",
+    "time": "13:31",
+    "listeners": 1156
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Myslím Že Môže Byť",
     "artist": "Imt Smile / Marián Čekovský",
     "date": "14.10.2025",

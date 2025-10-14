@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "date": "14.10.2025",
+    "time": "06:42",
+    "listeners": 1709
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "14.10.2025",
+    "time": "06:38",
+    "listeners": 1748
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Juliet",
+    "artist": "Robin Gibb",
+    "date": "14.10.2025",
+    "time": "06:34",
+    "listeners": 1576
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Seasons In The Sun",
+    "artist": "Terry Jacks",
+    "date": "14.10.2025",
+    "time": "06:31",
+    "listeners": 1460
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Až Sa Znova Narodím",
     "artist": "Peter Nagy",
     "date": "14.10.2025",

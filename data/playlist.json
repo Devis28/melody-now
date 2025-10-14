@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Správne Dievčatá",
+    "artist": "Gombitová Marika",
+    "date": "14.10.2025",
+    "time": "16:43",
+    "listeners": 2969
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ôsmy Svetadiel",
+    "artist": "Elán",
+    "date": "14.10.2025",
+    "time": "16:39",
+    "listeners": 2630
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch Me (I Want Your Body)",
+    "artist": "Fox Samantha",
+    "date": "14.10.2025",
+    "time": "16:35",
+    "listeners": 2718
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pokoj V Duši",
+    "artist": "Jana Kirschner",
+    "date": "14.10.2025",
+    "time": "16:32",
+    "listeners": 2585
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hey Jude",
+    "artist": "Beatles, The",
+    "date": "14.10.2025",
+    "time": "16:27",
+    "listeners": 2364
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jesenná Láska",
+    "artist": "Žbirka Miro",
+    "date": "14.10.2025",
+    "time": "16:25",
+    "listeners": 2325
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "14.10.2025",
+    "time": "16:20",
+    "listeners": 2304
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Islands In The Stream",
+    "artist": "Rogers Kenny &Parton Dolly",
+    "date": "14.10.2025",
+    "time": "16:14",
+    "listeners": 2361
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Snad Jsem To Zavinil Já",
     "artist": "Olympic",
     "date": "14.10.2025",

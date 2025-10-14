@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Večnosť",
+    "artist": "No Name",
+    "date": "15.10.2025",
+    "time": "00:10",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crazy",
+    "artist": "Aerosmith",
+    "date": "15.10.2025",
+    "time": "00:06",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Děti Ráje",
+    "artist": "Michal David & Kroky Františka Janečka",
+    "date": "15.10.2025",
+    "time": "00:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievča Z Reklamy",
+    "artist": "Dubasová Beáta",
+    "date": "14.10.2025",
+    "time": "23:59",
+    "listeners": 327
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Over My Shoulder",
+    "artist": "Mike & The Mechanics",
+    "date": "14.10.2025",
+    "time": "23:55",
+    "listeners": 334
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Klasika",
     "artist": "Elán",
     "date": "14.10.2025",

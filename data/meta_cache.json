@@ -10286,5 +10286,18 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "emilia|big big world": {
+    "release_year": 2021,
+    "artist_country": "SE",
+    "album": "Big Big World",
+    "duration_ms": 205467,
+    "lyricists": [
+      "Emilia",
+      "Yogi"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

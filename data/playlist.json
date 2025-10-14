@@ -5,7 +5,15 @@
     "artist": "Aya",
     "date": "14.10.2025",
     "time": "22:20",
-    "listeners": 746
+    "listeners": 746,
+    "lyricists": null,
+    "album": "AYA 30 ROKOV & ŠTÁTNY KOMORNÝ ORCHESTER ŽILINA (Live Concert Version)",
+    "release_year": 2011,
+    "duration_ms": 445000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Beáta Dubasová",
     "date": "14.10.2025",
     "time": "22:16",
-    "listeners": 804
+    "listeners": 804,
+    "lyricists": null,
+    "album": "Pierko pravdy - Single",
+    "release_year": 2023,
+    "duration_ms": 190000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,18 @@
     "artist": "Emilia",
     "date": "14.10.2025",
     "time": "22:13",
-    "listeners": 748
+    "listeners": 748,
+    "lyricists": [
+      "Emilia",
+      "Yogi"
+    ],
+    "album": "Big Big World",
+    "release_year": 2021,
+    "duration_ms": 205467,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Marika Gombitová",
     "date": "14.10.2025",
     "time": "22:08",
-    "listeners": 783
+    "listeners": 783,
+    "lyricists": null,
+    "album": "Dievča do dažďa",
+    "release_year": 1998,
+    "duration_ms": 285907,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Bonnie Tyler",
     "date": "14.10.2025",
     "time": "22:05",
-    "listeners": 831
+    "listeners": 831,
+    "lyricists": null,
+    "album": "It's a Heartache",
+    "release_year": 1991,
+    "duration_ms": 209760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Honza Nedvěd",
     "date": "14.10.2025",
     "time": "22:01",
-    "listeners": 904
+    "listeners": 904,
+    "lyricists": null,
+    "album": "60 Nedvedi+40 Fesaci (Live)",
+    "release_year": 2008,
+    "duration_ms": 150920,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",

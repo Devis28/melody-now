@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Správne Dievčatá",
+    "artist": "Gombitová Marika",
+    "date": "14.10.2025",
+    "time": "08:42",
+    "listeners": 2465
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "14.10.2025",
+    "time": "08:38",
+    "listeners": 2446
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mamma Mia",
+    "artist": "Abba",
+    "date": "14.10.2025",
+    "time": "08:35",
+    "listeners": 2737
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "To Je Naše Věc",
+    "artist": "David Michal Bartošová Iveta",
+    "date": "14.10.2025",
+    "time": "08:30",
+    "listeners": 2472
+  },
+  {
+    "station": "Rádio Melody",
     "title": "One & One",
     "artist": "Robert Miles/Maria Nayler",
     "date": "14.10.2025",

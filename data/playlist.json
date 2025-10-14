@@ -5,7 +5,15 @@
     "artist": "Uriah Heep",
     "date": "14.10.2025",
     "time": "21:21",
-    "listeners": 1138
+    "listeners": 1138,
+    "lyricists": null,
+    "album": "The Best of... Pt. 1",
+    "release_year": 1996,
+    "duration_ms": 282307,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ledecký Janek",
     "date": "14.10.2025",
     "time": "21:17",
-    "listeners": 1210
+    "listeners": 1210,
+    "lyricists": null,
+    "album": "Promilujem celou noc",
+    "release_year": 1998,
+    "duration_ms": 233307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peter Bič Project",
     "date": "14.10.2025",
     "time": "21:13",
-    "listeners": 1109
+    "listeners": 1109,
+    "lyricists": null,
+    "album": "Čoskoro - Single",
+    "release_year": 2024,
+    "duration_ms": 207516,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Adams, Bryan",
     "date": "14.10.2025",
     "time": "21:08",
-    "listeners": 1185
+    "listeners": 1185,
+    "lyricists": null,
+    "album": "Bare Bones (Live)",
+    "release_year": 2010,
+    "duration_ms": 227133,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

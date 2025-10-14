@@ -5,7 +5,16 @@
     "artist": "Prince Ital Joe & Marky Mark",
     "date": "14.10.2025",
     "time": "09:30",
-    "listeners": 1495
+    "listeners": 1495,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 2009,
+    "duration_ms": 241760,
+    "artist_country": "US",
+    "genres": [
+      "Hip-Hop",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Jiří Schelinger",
     "date": "14.10.2025",
     "time": "09:26",
-    "listeners": 1657
+    "listeners": 1657,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2004,
+    "duration_ms": 240880,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Wilde Kim",
     "date": "14.10.2025",
     "time": "09:23",
-    "listeners": 1567
+    "listeners": 1567,
+    "lyricists": null,
+    "album": "Close (Remastered Expanded Edition)",
+    "release_year": 1988,
+    "duration_ms": 209133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Metalinda",
     "date": "14.10.2025",
     "time": "09:17",
-    "listeners": 1811
+    "listeners": 1811,
+    "lyricists": null,
+    "album": "Metalinda",
+    "release_year": 1990,
+    "duration_ms": 336968,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

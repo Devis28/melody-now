@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pár Dní",
+    "artist": "Desmod & Zuzana Smatanová",
+    "date": "15.10.2025",
+    "time": "01:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cose Della Vita / Can't Stop Thinking Of You",
+    "artist": "Tina Turner/Eros Ramazzotti",
+    "date": "15.10.2025",
+    "time": "01:41",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I Got You Babe",
     "artist": "Ub 40 Hynde Chrissie",
     "date": "15.10.2025",

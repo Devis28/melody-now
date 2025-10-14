@@ -9992,5 +9992,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "sophie b. hawkins|right beside you": {
+    "release_year": 2001,
+    "artist_country": "US",
+    "album": "The Best of Sophie B. Hawkins",
+    "duration_ms": 286573,
+    "lyricists": [
+      "Rick Chertoff",
+      "Sophie B. Hawkins",
+      "Stewart Lerman"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

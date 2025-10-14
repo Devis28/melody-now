@@ -5,7 +5,15 @@
     "artist": "Hana Zagorová",
     "date": "14.10.2025",
     "time": "18:45",
-    "listeners": 2347
+    "listeners": 2347,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 2011,
+    "duration_ms": 312320,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "David Michal",
     "date": "14.10.2025",
     "time": "18:43",
-    "listeners": 2149
+    "listeners": 2149,
+    "lyricists": null,
+    "album": "Non Stop",
+    "release_year": 2001,
+    "duration_ms": 137707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

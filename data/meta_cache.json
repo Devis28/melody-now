@@ -10117,5 +10117,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bryan adams|heaven": {
+    "release_year": 1989,
+    "artist_country": "CA",
+    "album": "Reckless (30th Anniversary)",
+    "duration_ms": 243360,
+    "lyricists": [
+      "Bryan Adams",
+      "Jim Vallance"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

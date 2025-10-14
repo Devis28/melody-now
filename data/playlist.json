@@ -5,7 +5,16 @@
     "artist": "Robert Miles",
     "date": "14.10.2025",
     "time": "14:31",
-    "listeners": 924
+    "listeners": 924,
+    "lyricists": null,
+    "album": "Dance Vault Mixes: Robert Miles - Children - EP",
+    "release_year": 1996,
+    "duration_ms": 243267,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "The Beatles",
     "date": "14.10.2025",
     "time": "14:26",
-    "listeners": 925
+    "listeners": 925,
+    "lyricists": null,
+    "album": "Help!",
+    "release_year": 1965,
+    "duration_ms": 125667,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Team",
     "date": "14.10.2025",
     "time": "14:22",
-    "listeners": 961
+    "listeners": 961,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2006,
+    "duration_ms": 246560,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Mc Erik And Barbara",
     "date": "14.10.2025",
     "time": "14:19",
-    "listeners": 990
+    "listeners": 990,
+    "lyricists": null,
+    "album": "Second",
+    "release_year": 1996,
+    "duration_ms": 218427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,19 @@
     "artist": "Bryan Adams",
     "date": "14.10.2025",
     "time": "14:13",
-    "listeners": 898
+    "listeners": 898,
+    "lyricists": [
+      "Bryan Adams",
+      "Jim Vallance"
+    ],
+    "album": "Reckless (30th Anniversary)",
+    "release_year": 1989,
+    "duration_ms": 243360,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,15 @@
     "artist": "Marika Gombitová",
     "date": "14.10.2025",
     "time": "14:10",
-    "listeners": 1044
+    "listeners": 1044,
+    "lyricists": null,
+    "album": "Single (1977 - 1989)",
+    "release_year": 2000,
+    "duration_ms": 202960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,15 @@
     "artist": "Ricky Martin",
     "date": "14.10.2025",
     "time": "14:05",
-    "listeners": 1034
+    "listeners": 1034,
+    "lyricists": null,
+    "album": "Ricky Martin",
+    "release_year": 1997,
+    "duration_ms": 271267,
+    "artist_country": "PR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +122,15 @@
     "artist": "Peter Nagy",
     "date": "14.10.2025",
     "time": "14:01",
-    "listeners": 1063
+    "listeners": 1063,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2004,
+    "duration_ms": 256667,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

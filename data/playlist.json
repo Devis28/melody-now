@@ -5,7 +5,15 @@
     "artist": "Hex",
     "date": "15.10.2025",
     "time": "16:12",
-    "listeners": 2138
+    "listeners": 2138,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2015,
+    "duration_ms": 232840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gloria Gaynor",
     "date": "15.10.2025",
     "time": "16:09",
-    "listeners": 2065
+    "listeners": 2065,
+    "lyricists": null,
+    "album": "I Will Survive: The Anthology",
+    "release_year": 2001,
+    "duration_ms": 481693,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Michael George",
     "date": "15.10.2025",
     "time": "16:06",
-    "listeners": 2221
+    "listeners": 2221,
+    "lyricists": null,
+    "album": "Faith (Deluxe Edition)",
+    "release_year": 1987,
+    "duration_ms": 193200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Beata Dubasová",
     "date": "15.10.2025",
     "time": "16:02",
-    "listeners": 2077
+    "listeners": 2077,
+    "lyricists": null,
+    "album": "Za dverami mojej izby",
+    "release_year": 1990,
+    "duration_ms": 303903,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

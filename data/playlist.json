@@ -5,7 +5,15 @@
     "artist": "Tyler Bonnie",
     "date": "15.10.2025",
     "time": "05:24",
-    "listeners": 419
+    "listeners": 419,
+    "lyricists": null,
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "release_year": 1984,
+    "duration_ms": 350705,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Baccara",
     "date": "15.10.2025",
     "time": "05:21",
-    "listeners": 404
+    "listeners": 404,
+    "lyricists": null,
+    "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire",
+    "release_year": 2004,
+    "duration_ms": 219067,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Chris Norman",
     "date": "15.10.2025",
     "time": "05:17",
-    "listeners": 370
+    "listeners": 370,
+    "lyricists": null,
+    "album": "Some Hearts Are Diamonds",
+    "release_year": 2004,
+    "duration_ms": 223733,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Depeche Mode",
     "date": "15.10.2025",
     "time": "05:13",
-    "listeners": 364
+    "listeners": 364,
+    "lyricists": null,
+    "album": "Violator (Deluxe)",
+    "release_year": 1999,
+    "duration_ms": 372827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Abba",
     "date": "15.10.2025",
     "time": "05:10",
-    "listeners": 336
+    "listeners": 336,
+    "lyricists": null,
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 212304,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,19 @@
     "artist": "Enrique Iglesias",
     "date": "15.10.2025",
     "time": "05:05",
-    "listeners": 297
+    "listeners": 297,
+    "lyricists": [
+      "Enrique Iglesias",
+      "Mark Taylor",
+      "Paul Barry"
+    ],
+    "album": "Enrique",
+    "release_year": 2000,
+    "duration_ms": 220160,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,15 @@
     "artist": "Oldfield Mike & Reilly Maggie",
     "date": "15.10.2025",
     "time": "05:02",
-    "listeners": 278
+    "listeners": 278,
+    "lyricists": null,
+    "album": "The Mike Oldfield Collection",
+    "release_year": 1983,
+    "duration_ms": 218187,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +121,16 @@
     "artist": "Pavol Hammel",
     "date": "15.10.2025",
     "time": "04:59",
-    "listeners": 277
+    "listeners": 277,
+    "lyricists": null,
+    "album": "THE BEST OF PAVOL HAMMEL",
+    "release_year": 1981,
+    "duration_ms": 164947,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +138,15 @@
     "artist": "Helena Vondráčková",
     "date": "15.10.2025",
     "time": "04:54",
-    "listeners": 260
+    "listeners": 260,
+    "lyricists": null,
+    "album": "Course de la paix. Praha 1967. Album Supraphonu",
+    "release_year": 1982,
+    "duration_ms": 298089,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Cher",
     "date": "15.10.2025",
     "time": "20:51",
-    "listeners": 1419
+    "listeners": 1419,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 1999,
+    "duration_ms": 239027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "15.10.2025",
     "time": "20:46",
-    "listeners": 1348
+    "listeners": 1348,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 325907,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Kristína",
     "date": "15.10.2025",
     "time": "20:42",
-    "listeners": 1462
+    "listeners": 1462,
+    "lyricists": null,
+    "album": "Kristína: TIE NAJ (Album verzia)",
+    "release_year": 2020,
+    "duration_ms": 232452,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Kershaw Nik",
     "date": "15.10.2025",
     "time": "20:39",
-    "listeners": 1391
+    "listeners": 1391,
+    "lyricists": null,
+    "album": "Human Racing",
+    "release_year": 1983,
+    "duration_ms": 203853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

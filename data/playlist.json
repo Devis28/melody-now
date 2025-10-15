@@ -1,6 +1,198 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Down Under",
+    "artist": "Men At Work",
+    "date": "15.10.2025",
+    "time": "03:25",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ty A Tvoja Sestra",
+    "artist": "No Name",
+    "date": "15.10.2025",
+    "time": "03:22",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Do Čista",
+    "artist": "Müller Richard",
+    "date": "15.10.2025",
+    "time": "03:18",
+    "listeners": 199
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Komajota",
+    "date": "15.10.2025",
+    "time": "03:15",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Secret Love",
+    "artist": "The Bee Gees",
+    "date": "15.10.2025",
+    "time": "03:11",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nepriznaná",
+    "artist": "Vašo Patejdl",
+    "date": "15.10.2025",
+    "time": "03:07",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Není Všechno Paráda",
+    "artist": "Karel Zich",
+    "date": "15.10.2025",
+    "time": "03:04",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Preco Nie Som Pekna",
+    "artist": "Madam",
+    "date": "15.10.2025",
+    "time": "03:00",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "15.10.2025",
+    "time": "02:56",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Správne Dievčatá",
+    "artist": "Gombitová Marika",
+    "date": "15.10.2025",
+    "time": "02:52",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When You Say Nothing At All",
+    "artist": "Keating Ronan",
+    "date": "15.10.2025",
+    "time": "02:48",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "date": "15.10.2025",
+    "time": "02:44",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nechajte Si Ju",
+    "artist": "Vidiek",
+    "date": "15.10.2025",
+    "time": "02:41",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "A Kind Of Magic",
+    "artist": "Queen",
+    "date": "15.10.2025",
+    "time": "02:37",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "15.10.2025",
+    "time": "02:33",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Piatok Podvečer",
+    "artist": "Hex",
+    "date": "15.10.2025",
+    "time": "02:30",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Came",
+    "artist": "Wilde Kim",
+    "date": "15.10.2025",
+    "time": "02:26",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spoluhráčka",
+    "artist": "Modus",
+    "date": "15.10.2025",
+    "time": "02:23",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Memory",
+    "artist": "Barbra Streisand",
+    "date": "15.10.2025",
+    "time": "02:19",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "To Je Naše Věc",
+    "artist": "David Michal Bartošová Iveta",
+    "date": "15.10.2025",
+    "time": "02:15",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Niekto Ako Kráľ",
+    "artist": "Imt Smile",
+    "date": "15.10.2025",
+    "time": "02:11",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Celebration",
+    "artist": "Fun Factory",
+    "date": "15.10.2025",
+    "time": "02:07",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamaráti",
+    "artist": "Elán",
+    "date": "15.10.2025",
+    "time": "02:04",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "15.10.2025",
+    "time": "02:00",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Boli Sme Raz Milovaní",
     "artist": "Habera Pavol",
     "date": "15.10.2025",

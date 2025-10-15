@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "16.10.2025",
+    "time": "00:14",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Desmod",
+    "date": "16.10.2025",
+    "time": "00:11",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Land Of Dreaming",
+    "artist": "Masterboy",
+    "date": "16.10.2025",
+    "time": "00:07",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnečný Kalendár",
+    "artist": "Marika Gombitová",
+    "date": "16.10.2025",
+    "time": "00:05",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mamma Maria",
+    "artist": "Ricchi E Poveri",
+    "date": "16.10.2025",
+    "time": "00:02",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horou",
+    "artist": "Zuzana Smatanová",
+    "date": "15.10.2025",
+    "time": "23:58",
+    "listeners": 319
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Je Naprosto Nezbytné",
     "artist": "Hana Zagorová",
     "date": "15.10.2025",

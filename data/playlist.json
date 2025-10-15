@@ -5,7 +5,15 @@
     "artist": "Darina Rolincová",
     "date": "15.10.2025",
     "time": "13:47",
-    "listeners": 1135
+    "listeners": 1135,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 2021,
+    "duration_ms": 178987,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Norman Chris & Quatro Suzi",
     "date": "15.10.2025",
     "time": "13:43",
-    "listeners": 1084
+    "listeners": 1084,
+    "lyricists": null,
+    "album": "Collections: Smokie",
+    "release_year": 1977,
+    "duration_ms": 238200,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

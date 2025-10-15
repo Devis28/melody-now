@@ -5,7 +5,15 @@
     "artist": "Team",
     "date": "15.10.2025",
     "time": "14:47",
-    "listeners": 902
+    "listeners": 902,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2010,
+    "duration_ms": 233253,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Erasure",
     "date": "15.10.2025",
     "time": "14:40",
-    "listeners": 900
+    "listeners": 900,
+    "lyricists": null,
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "release_year": 2005,
+    "duration_ms": 237840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Abba",
     "date": "15.10.2025",
     "time": "14:37",
-    "listeners": 902
+    "listeners": 902,
+    "lyricists": null,
+    "album": "The Visitors (Bonus Track Version)",
+    "release_year": 2005,
+    "duration_ms": 236770,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Rottrová Marie",
     "date": "15.10.2025",
     "time": "14:33",
-    "listeners": 843
+    "listeners": 843,
+    "lyricists": null,
+    "album": "To Mám Tak Ráda",
+    "release_year": 1975,
+    "duration_ms": 222067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Kelly Family, The",
     "date": "15.10.2025",
     "time": "14:27",
-    "listeners": 888
+    "listeners": 888,
+    "lyricists": null,
+    "album": "Over the Hump",
+    "release_year": 1994,
+    "duration_ms": 224507,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,16 @@
     "artist": "Boney M.",
     "date": "15.10.2025",
     "time": "14:22",
-    "listeners": 973
+    "listeners": 973,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2012,
+    "duration_ms": 274960,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Karol Duchoň",
     "date": "15.10.2025",
     "time": "14:19",
-    "listeners": 918
+    "listeners": 918,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1985,
+    "duration_ms": 203093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,20 @@
     "artist": "Stevie B.",
     "date": "15.10.2025",
     "time": "14:12",
-    "listeners": 967
+    "listeners": 967,
+    "lyricists": [
+      "Stevie B",
+      "Warren Allen Brooks"
+    ],
+    "album": "Love and Emotion",
+    "release_year": 1991,
+    "duration_ms": 303333,
+    "artist_country": "US",
+    "genres": [
+      "Electronic",
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +139,15 @@
     "artist": "Karel Gott",
     "date": "15.10.2025",
     "time": "14:09",
-    "listeners": 1034
+    "listeners": 1034,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 2006,
+    "duration_ms": 170067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +155,16 @@
     "artist": "Baltimora",
     "date": "15.10.2025",
     "time": "14:06",
-    "listeners": 933
+    "listeners": 933,
+    "lyricists": null,
+    "album": "Living In the Background",
+    "release_year": 1997,
+    "duration_ms": 378947,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +172,15 @@
     "artist": "Richard  Muller",
     "date": "15.10.2025",
     "time": "14:01",
-    "listeners": 1084
+    "listeners": 1084,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2006,
+    "duration_ms": 300693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

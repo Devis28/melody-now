@@ -10339,5 +10339,20 @@
     "genres": [
       "Pop"
     ]
+  },
+  "stevie b.|because i love you": {
+    "release_year": 1991,
+    "artist_country": "US",
+    "album": "Love and Emotion",
+    "duration_ms": 303333,
+    "lyricists": [
+      "Stevie B",
+      "Warren Allen Brooks"
+    ],
+    "genres": [
+      "Electronic",
+      "Pop",
+      "R&B"
+    ]
   }
 }

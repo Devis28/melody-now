@@ -5,7 +5,15 @@
     "artist": "Dj Bobo",
     "date": "15.10.2025",
     "time": "09:39",
-    "listeners": 1137
+    "listeners": 1137,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1995,
+    "duration_ms": 252093,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ricchi E Poveri",
     "date": "15.10.2025",
     "time": "09:36",
-    "listeners": 1363
+    "listeners": 1363,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1987,
+    "duration_ms": 190693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Duchoň Karol",
     "date": "15.10.2025",
     "time": "09:32",
-    "listeners": 1572
+    "listeners": 1572,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1974,
+    "duration_ms": 208160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Gladiátor",
     "date": "15.10.2025",
     "time": "09:28",
-    "listeners": 1499
+    "listeners": 1499,
+    "lyricists": null,
+    "album": "Babylon Hotel",
+    "release_year": 2020,
+    "duration_ms": 236507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "15.10.2025",
+    "time": "21:19",
+    "listeners": 1104
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nenahraditeľná",
+    "artist": "Sima Martausová & For You",
+    "date": "15.10.2025",
+    "time": "21:16",
+    "listeners": 1110
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Believe I Can Fly",
+    "artist": "R. Kelly",
+    "date": "15.10.2025",
+    "time": "21:11",
+    "listeners": 1293
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Look",
+    "artist": "Roxette",
+    "date": "15.10.2025",
+    "time": "21:07",
+    "listeners": 1275
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sun Of The Jamaica",
     "artist": "The Goombay Dance Band",
     "date": "15.10.2025",

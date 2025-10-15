@@ -5,7 +5,13 @@
     "artist": "Ottawan",
     "date": "16.10.2025",
     "time": "00:48",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Ottawan 2",
+    "release_year": 1997,
+    "duration_ms": 289027,
+    "artist_country": "FR",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,15 @@
     "artist": "Shaggy",
     "date": "16.10.2025",
     "time": "00:44",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Hot Shot",
+    "release_year": 2000,
+    "duration_ms": 235133,
+    "artist_country": "JM",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Adam Ďurica",
     "date": "16.10.2025",
     "time": "00:41",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Akustické koncerty (Acoustic / Live)",
+    "release_year": 2015,
+    "duration_ms": 251033,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

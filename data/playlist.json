@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čakám Ťa, Láska",
+    "artist": "Elán",
+    "date": "15.10.2025",
+    "time": "16:38",
+    "listeners": 2795
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Umenie Žiť",
+    "artist": "Patejdl Vašo",
+    "date": "15.10.2025",
+    "time": "16:34",
+    "listeners": 2828
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Désenchantee",
+    "artist": "Farmer Mylene",
+    "date": "15.10.2025",
+    "time": "16:26",
+    "listeners": 2614
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Thank You For The Music",
+    "artist": "Abba",
+    "date": "15.10.2025",
+    "time": "16:22",
+    "listeners": 2487
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Každý Mi Te Lásko Závidí",
+    "artist": "Michal David",
+    "date": "15.10.2025",
+    "time": "16:18",
+    "listeners": 2572
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nikdy Nebolo Lepšie",
     "artist": "Hex",
     "date": "15.10.2025",

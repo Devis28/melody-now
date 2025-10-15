@@ -10354,5 +10354,18 @@
       "Pop",
       "R&B"
     ]
+  },
+  "robo grigorov|modlitba lásky": {
+    "release_year": 2006,
+    "artist_country": "SK",
+    "album": "Chýbaš Mi...",
+    "duration_ms": 273293,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

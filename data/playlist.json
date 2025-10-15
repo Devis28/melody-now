@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hands Up",
+    "artist": "Ottawan",
+    "date": "15.10.2025",
+    "time": "06:22",
+    "listeners": 1326
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjelik Môj",
+    "artist": "Darina Rolincová",
+    "date": "15.10.2025",
+    "time": "06:18",
+    "listeners": 1246
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "As Long As You Love Me",
+    "artist": "Backstreet Boys",
+    "date": "15.10.2025",
+    "time": "06:14",
+    "listeners": 1118
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "15.10.2025",
+    "time": "06:11",
+    "listeners": 1066
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Land Of Dreaming",
+    "artist": "Masterboy",
+    "date": "15.10.2025",
+    "time": "06:05",
+    "listeners": 1025
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnečný Kalendár",
+    "artist": "Marika Gombitová",
+    "date": "15.10.2025",
+    "time": "06:02",
+    "listeners": 829
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nothing's Gonna Change My Love For You",
     "artist": "Glenn Medeiros",
     "date": "15.10.2025",

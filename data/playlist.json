@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mamma Maria",
+    "artist": "Ricchi E Poveri",
+    "date": "15.10.2025",
+    "time": "06:40",
+    "listeners": 1769
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Žily",
+    "artist": "No Name",
+    "date": "15.10.2025",
+    "time": "06:37",
+    "listeners": 1492
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "15.10.2025",
+    "time": "06:34",
+    "listeners": 1507
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "15.10.2025",
+    "time": "06:31",
+    "listeners": 1454
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hands Up",
     "artist": "Ottawan",
     "date": "15.10.2025",

@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Keď Sme Sami",
+    "artist": "Hex",
+    "date": "15.10.2025",
+    "time": "19:32",
+    "listeners": 1999
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Niekto Ti To Povie Skôr Než Ja",
+    "artist": "Desmod",
+    "date": "15.10.2025",
+    "time": "19:27",
+    "listeners": 1872
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Levandulová",
+    "artist": "Hegerová Hana & Hapka Petr",
+    "date": "15.10.2025",
+    "time": "19:23",
+    "listeners": 1812
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamarát",
+    "artist": "Exil",
+    "date": "15.10.2025",
+    "time": "19:19",
+    "listeners": 1800
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Což Takhle Dát Si Špenát",
+    "artist": "Jiří Schelinger",
+    "date": "15.10.2025",
+    "time": "19:17",
+    "listeners": 1927
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Snídane V Tráve",
     "artist": "Tucný Michal",
     "date": "15.10.2025",

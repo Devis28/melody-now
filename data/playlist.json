@@ -5,7 +5,15 @@
     "artist": "Corona",
     "date": "15.10.2025",
     "time": "07:53",
-    "listeners": 2942
+    "listeners": 2942,
+    "lyricists": null,
+    "album": "The Rhythm of the Night",
+    "release_year": 1994,
+    "duration_ms": 264280,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

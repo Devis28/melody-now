@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "15.10.2025",
     "time": "11:19",
-    "listeners": 1200
+    "listeners": 1200,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 2007,
+    "duration_ms": 197960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Robbie Williams",
     "date": "15.10.2025",
     "time": "11:15",
-    "listeners": 1160
+    "listeners": 1160,
+    "lyricists": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ],
+    "album": "Escapology",
+    "release_year": 2009,
+    "duration_ms": 263867,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Müller Richard",
     "date": "15.10.2025",
     "time": "11:08",
-    "listeners": 1073
+    "listeners": 1073,
+    "lyricists": null,
+    "album": "Výberovka",
+    "release_year": 1988,
+    "duration_ms": 320040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,18 @@
     "artist": "Lobo",
     "date": "15.10.2025",
     "time": "11:04",
-    "listeners": 1080
+    "listeners": 1080,
+    "lyricists": [
+      "Lobo"
+    ],
+    "album": "I'd Love You To Want Me - Single",
+    "release_year": 2008,
+    "duration_ms": 248973,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +75,16 @@
     "artist": "Guru Josh",
     "date": "15.10.2025",
     "time": "11:01",
-    "listeners": 915
+    "listeners": 915,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

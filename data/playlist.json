@@ -5,7 +5,16 @@
     "artist": "Rod Stewart",
     "date": "15.10.2025",
     "time": "13:18",
-    "listeners": 1360
+    "listeners": 1360,
+    "lyricists": null,
+    "album": "Some Guys Have All the Luck",
+    "release_year": 1993,
+    "duration_ms": 278600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Vanessa Amorosi",
     "date": "15.10.2025",
     "time": "13:14",
-    "listeners": 1319
+    "listeners": 1319,
+    "lyricists": null,
+    "album": "The Power (15 Year Anniversary Edition)",
+    "release_year": 2001,
+    "duration_ms": 224600,
+    "artist_country": "AU",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "The Bangles",
     "date": "15.10.2025",
     "time": "13:07",
-    "listeners": 1427
+    "listeners": 1427,
+    "lyricists": null,
+    "album": "Eternal Flame: The Best of Bangles",
+    "release_year": 2001,
+    "duration_ms": 240160,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Olympic",
     "date": "15.10.2025",
     "time": "13:05",
-    "listeners": 1477
+    "listeners": 1477,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 173307,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Shakira & Freshlyground",
     "date": "15.10.2025",
     "time": "13:01",
-    "listeners": 1551
+    "listeners": 1551,
+    "lyricists": null,
+    "album": "Éxitos de Verano",
+    "release_year": 2014,
+    "duration_ms": 201773,
+    "artist_country": "CO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

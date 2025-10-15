@@ -5,7 +5,15 @@
     "artist": "Jožo Ráž",
     "date": "15.10.2025",
     "time": "13:26",
-    "listeners": 1286
+    "listeners": 1286,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2007,
+    "duration_ms": 309392,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dubasová Beáta",
     "date": "15.10.2025",
     "time": "13:22",
-    "listeners": 1428
+    "listeners": 1428,
+    "lyricists": null,
+    "album": "Beáta",
+    "release_year": 1987,
+    "duration_ms": 255360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

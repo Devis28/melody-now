@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "You Can't Hurry Love",
+    "artist": "Collins Phil",
+    "date": "15.10.2025",
+    "time": "09:25",
+    "listeners": 1631
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Báječná Ženská",
+    "artist": "Tučný Michal",
+    "date": "15.10.2025",
+    "time": "09:19",
+    "listeners": 1563
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sweat (A La La La Long)",
+    "artist": "Inner Circle",
+    "date": "15.10.2025",
+    "time": "09:15",
+    "listeners": 1705
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Věnování",
+    "artist": "Filipová Lenka",
+    "date": "15.10.2025",
+    "time": "09:10",
+    "listeners": 1910
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "date": "15.10.2025",
+    "time": "09:07",
+    "listeners": 1993
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "G8",
+    "date": "15.10.2025",
+    "time": "09:03",
+    "listeners": 1975
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sweet Harmony",
     "artist": "Beloved, The",
     "date": "15.10.2025",

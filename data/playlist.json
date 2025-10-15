@@ -5,7 +5,15 @@
     "artist": "Smatanová Zuzana",
     "date": "15.10.2025",
     "time": "18:32",
-    "listeners": 2450
+    "listeners": 2450,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 2008,
+    "duration_ms": 259387,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Dušan Hlaváček",
     "date": "15.10.2025",
     "time": "18:28",
-    "listeners": 2595
+    "listeners": 2595,
+    "lyricists": null,
+    "album": "Zaľúbení",
+    "release_year": 1987,
+    "duration_ms": 233352,
+    "artist_country": "SK",
+    "genres": [
+      "Folk",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Tublatanka",
     "date": "15.10.2025",
     "time": "18:24",
-    "listeners": 2570
+    "listeners": 2570,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 2006,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,18 @@
     "artist": "Pavol Hammel",
     "date": "15.10.2025",
     "time": "18:22",
-    "listeners": 2718
+    "listeners": 2718,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1997,
+    "duration_ms": 168587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Nagy Peter",
     "date": "15.10.2025",
     "time": "18:19",
-    "listeners": 2790
+    "listeners": 2790,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 162000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,15 @@
     "artist": "Petr Spálený",
     "date": "15.10.2025",
     "time": "18:16",
-    "listeners": 2751
+    "listeners": 2751,
+    "lyricists": null,
+    "album": "Největší hity (Díky)",
+    "release_year": 2004,
+    "duration_ms": 179453,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,16 @@
     "artist": "Habera, Pavol",
     "date": "15.10.2025",
     "time": "18:11",
-    "listeners": 2845
+    "listeners": 2845,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1995,
+    "duration_ms": 303493,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

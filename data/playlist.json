@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Total Eclipse Of The Heart",
+    "artist": "Westlife",
+    "date": "15.10.2025",
+    "time": "08:34",
+    "listeners": 2696
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Knowing Me, Knowing You",
+    "artist": "Abba",
+    "date": "15.10.2025",
+    "time": "08:30",
+    "listeners": 2823
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Múr Našich Lások",
+    "artist": "Žbirka Miro",
+    "date": "15.10.2025",
+    "time": "08:20",
+    "listeners": 2919
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "La Camisa Negra",
+    "artist": "Juanes",
+    "date": "15.10.2025",
+    "time": "08:16",
+    "listeners": 2678
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Trezor",
+    "artist": "Gott Karel & Olympic",
+    "date": "15.10.2025",
+    "time": "08:14",
+    "listeners": 2747
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "15.10.2025",
+    "time": "08:05",
+    "listeners": 2815
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "15.10.2025",
+    "time": "08:02",
+    "listeners": 3072
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Rhythm Of The Night",
     "artist": "Corona",
     "date": "15.10.2025",

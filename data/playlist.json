@@ -5,7 +5,15 @@
     "artist": "The Gipsy Kings",
     "date": "15.10.2025",
     "time": "23:39",
-    "listeners": 364
+    "listeners": 364,
+    "lyricists": null,
+    "album": "The Essential Gipsy Kings",
+    "release_year": 1989,
+    "duration_ms": 219667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Grigorov Robo",
     "date": "15.10.2025",
     "time": "23:35",
-    "listeners": 385
+    "listeners": 385,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2008,
+    "duration_ms": 209427,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Miro Žbirka",
     "date": "15.10.2025",
     "time": "23:32",
-    "listeners": 409
+    "listeners": 409,
+    "lyricists": null,
+    "album": "Sezónne lásky",
+    "release_year": 2007,
+    "duration_ms": 223787,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Diskohrátky",
+    "artist": "Hana Zagorová",
+    "date": "16.10.2025",
+    "time": "01:52",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "16.10.2025",
+    "time": "01:47",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Primášovo Srdce",
     "artist": "Karol Duchoň",
     "date": "16.10.2025",

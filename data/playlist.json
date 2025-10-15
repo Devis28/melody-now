@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pieseň O Kamarátstve",
+    "artist": "Darina Rolincová",
+    "date": "15.10.2025",
+    "time": "13:47",
+    "listeners": 1135
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stumblin' In",
+    "artist": "Norman Chris & Quatro Suzi",
+    "date": "15.10.2025",
+    "time": "13:43",
+    "listeners": 1084
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ordinary World",
     "artist": "Duran Duran",
     "date": "15.10.2025",

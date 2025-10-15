@@ -5,7 +5,15 @@
     "artist": "Helena Vondráčková",
     "date": "15.10.2025",
     "time": "22:45",
-    "listeners": 637
+    "listeners": 637,
+    "lyricists": null,
+    "album": "Best of the Best",
+    "release_year": 2009,
+    "duration_ms": 233507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Adam Ďurica",
     "date": "15.10.2025",
     "time": "22:42",
-    "listeners": 691
+    "listeners": 691,
+    "lyricists": null,
+    "album": "30",
+    "release_year": 2019,
+    "duration_ms": 198444,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,19 @@
     "artist": "Bon Jovi",
     "date": "15.10.2025",
     "time": "22:38",
-    "listeners": 605
+    "listeners": 605,
+    "lyricists": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ],
+    "album": "Slippery When Wet",
+    "release_year": 1986,
+    "duration_ms": 222644,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

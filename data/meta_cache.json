@@ -10405,5 +10405,19 @@
     "genres": [
       "R&B"
     ]
+  },
+  "bon jovi|you give love a bad name": {
+    "artist_country": "US",
+    "album": "Slippery When Wet",
+    "release_year": 1986,
+    "duration_ms": 222644,
+    "lyricists": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ],
+    "genres": [
+      "Rock"
+    ]
   }
 }

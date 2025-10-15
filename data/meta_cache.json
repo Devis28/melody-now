@@ -10419,5 +10419,21 @@
     "genres": [
       "Rock"
     ]
+  },
+  "kristína|horehronie": {
+    "release_year": 2010,
+    "artist_country": "SK",
+    "album": "V Sieti Ta Mam",
+    "duration_ms": 183147,
+    "lyricists": [
+      "Anna Servická",
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

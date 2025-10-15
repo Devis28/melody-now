@@ -5,7 +5,15 @@
     "artist": "Marie Rottrová",
     "date": "15.10.2025",
     "time": "19:58",
-    "listeners": 1605
+    "listeners": 1605,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2002,
+    "duration_ms": 292333,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Buty",
     "date": "15.10.2025",
     "time": "19:55",
-    "listeners": 1653
+    "listeners": 1653,
+    "lyricists": null,
+    "album": "Drevo",
+    "release_year": 2005,
+    "duration_ms": 242160,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Neckář Václav & Vondráčková Helena",
     "date": "15.10.2025",
     "time": "19:52",
-    "listeners": 1742
+    "listeners": 1742,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 1963,
+    "duration_ms": 203240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

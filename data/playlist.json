@@ -5,7 +5,19 @@
     "artist": "Eros Ramazzotti",
     "date": "15.10.2025",
     "time": "21:19",
-    "listeners": 1104
+    "listeners": 1104,
+    "lyricists": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ],
+    "album": "Eros Best Love Songs (Special Edition)",
+    "release_year": 1996,
+    "duration_ms": 267680,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Sima Martausová & For You",
     "date": "15.10.2025",
     "time": "21:16",
-    "listeners": 1110
+    "listeners": 1110,
+    "lyricists": null,
+    "album": "Len Tak Sa Stíšim",
+    "release_year": 2019,
+    "duration_ms": 252405,
+    "artist_country": "SK",
+    "genres": [
+      "Folk"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,17 @@
     "artist": "R. Kelly",
     "date": "15.10.2025",
     "time": "21:11",
-    "listeners": 1293
+    "listeners": 1293,
+    "lyricists": [
+      "R. Kelly"
+    ],
+    "album": "The World's Greatest",
+    "release_year": 1998,
+    "duration_ms": 320707,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +59,15 @@
     "artist": "Roxette",
     "date": "15.10.2025",
     "time": "21:07",
-    "listeners": 1275
+    "listeners": 1275,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2002,
+    "duration_ms": 237320,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

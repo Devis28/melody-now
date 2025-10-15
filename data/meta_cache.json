@@ -10393,5 +10393,17 @@
     "genres": [
       "Rock"
     ]
+  },
+  "r. kelly|i believe i can fly": {
+    "artist_country": "US",
+    "album": "The World's Greatest",
+    "release_year": 1998,
+    "duration_ms": 320707,
+    "lyricists": [
+      "R. Kelly"
+    ],
+    "genres": [
+      "R&B"
+    ]
   }
 }

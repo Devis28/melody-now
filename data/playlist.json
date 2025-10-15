@@ -5,7 +5,15 @@
     "artist": "Soul Asylum",
     "date": "15.10.2025",
     "time": "21:48",
-    "listeners": 849
+    "listeners": 849,
+    "lyricists": null,
+    "album": "Black Gold: The Best of Soul Asylum",
+    "release_year": 2007,
+    "duration_ms": 266067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Foreigner",
     "date": "15.10.2025",
     "time": "21:44",
-    "listeners": 1008
+    "listeners": 1008,
+    "lyricists": null,
+    "album": "No End In Sight: The Very Best of Foreigner (Remastered)",
+    "release_year": 1992,
+    "duration_ms": 301107,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Rimes Leann",
     "date": "15.10.2025",
     "time": "21:40",
-    "listeners": 999
+    "listeners": 999,
+    "lyricists": null,
+    "album": "Coyote Ugly",
+    "release_year": 2000,
+    "duration_ms": 215507,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",

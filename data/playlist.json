@@ -1,6 +1,182 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "María",
+    "artist": "Ricky Martin",
+    "date": "15.10.2025",
+    "time": "04:49",
+    "listeners": 258
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "date": "15.10.2025",
+    "time": "04:45",
+    "listeners": 223
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska Moja",
+    "artist": "Elán",
+    "date": "15.10.2025",
+    "time": "04:40",
+    "listeners": 237
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ako Vánok",
+    "artist": "Müller Richard",
+    "date": "15.10.2025",
+    "time": "04:37",
+    "listeners": 221
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Beds Are Burning",
+    "artist": "Midnight Oil",
+    "date": "15.10.2025",
+    "time": "04:33",
+    "listeners": 210
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "15.10.2025",
+    "time": "04:30",
+    "listeners": 198
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Žuvačka Za Uchom",
+    "artist": "Grigorov Robo",
+    "date": "15.10.2025",
+    "time": "04:28",
+    "listeners": 202
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stay",
+    "artist": "Bonnie Bianco & Pierre Cosso",
+    "date": "15.10.2025",
+    "time": "04:24",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Raz Oči Dohodnú",
+    "artist": "Modus",
+    "date": "15.10.2025",
+    "time": "04:20",
+    "listeners": 204
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "15.10.2025",
+    "time": "04:17",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skúšky Z Lásky",
+    "artist": "Gravis",
+    "date": "15.10.2025",
+    "time": "04:13",
+    "listeners": 206
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nedá Sa Újsť",
+    "artist": "I.M.T. Smile",
+    "date": "15.10.2025",
+    "time": "04:10",
+    "listeners": 201
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Adiemus",
+    "artist": "Adiemus",
+    "date": "15.10.2025",
+    "time": "04:06",
+    "listeners": 197
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everlasting Love",
+    "artist": "Sandra",
+    "date": "15.10.2025",
+    "time": "04:02",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "United",
+    "artist": "Prince Ital Joe & Marky Mark",
+    "date": "15.10.2025",
+    "time": "03:58",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "15.10.2025",
+    "time": "03:54",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fuoco Nel Fuoco",
+    "artist": "Ramazzotti Eros",
+    "date": "15.10.2025",
+    "time": "03:50",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oteckovia",
+    "artist": "Hex",
+    "date": "15.10.2025",
+    "time": "03:46",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Moment In Time",
+    "artist": "Houston Whitney",
+    "date": "15.10.2025",
+    "time": "03:41",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ján Ámos Džínový",
+    "artist": "Metalinda",
+    "date": "15.10.2025",
+    "time": "03:36",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Big In Japan",
+    "artist": "Alphaville",
+    "date": "15.10.2025",
+    "time": "03:32",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skúšame Sa Nájsť",
+    "artist": "Peter Bič Project",
+    "date": "15.10.2025",
+    "time": "03:28",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Down Under",
     "artist": "Men At Work",
     "date": "15.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Glenn Medeiros",
     "date": "15.10.2025",
     "time": "05:56",
-    "listeners": 751
+    "listeners": 751,
+    "lyricists": null,
+    "album": "Nothing's Gonna Change My Love for You",
+    "release_year": 1987,
+    "duration_ms": 231587,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Chesney Hawkes",
     "date": "15.10.2025",
     "time": "05:52",
-    "listeners": 734
+    "listeners": 734,
+    "lyricists": null,
+    "album": "Buddy's Song",
+    "release_year": 1991,
+    "duration_ms": 223667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Turbo",
     "date": "15.10.2025",
     "time": "16:49",
-    "listeners": 3008
+    "listeners": 3008,
+    "lyricists": null,
+    "album": "To Byla, Pánové, Jízda",
+    "release_year": 2023,
+    "duration_ms": 284733,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "No Mercy",
     "date": "15.10.2025",
     "time": "16:43",
-    "listeners": 3024
+    "listeners": 3024,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1997,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

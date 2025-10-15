@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sunny",
+    "artist": "Boney M",
+    "date": "15.10.2025",
+    "time": "06:49",
+    "listeners": 1974
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "15.10.2025",
+    "time": "06:43",
+    "listeners": 1818
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mamma Maria",
     "artist": "Ricchi E Poveri",
     "date": "15.10.2025",

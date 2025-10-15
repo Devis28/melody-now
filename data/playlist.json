@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "15.10.2025",
     "time": "07:39",
-    "listeners": 2758
+    "listeners": 2758,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2003,
+    "duration_ms": 201333,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Queen",
     "date": "15.10.2025",
     "time": "07:33",
-    "listeners": 2864
+    "listeners": 2864,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1975,
+    "duration_ms": 354947,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peter Nagy",
     "date": "15.10.2025",
     "time": "07:31",
-    "listeners": 3094
+    "listeners": 3094,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2011,
+    "duration_ms": 171240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

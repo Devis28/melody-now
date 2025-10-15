@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Taliansky Muzikál",
+    "artist": "Júlia a Peter Hečkovci",
+    "date": "15.10.2025",
+    "time": "10:42",
+    "listeners": 870
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "15.10.2025",
+    "time": "10:38",
+    "listeners": 957
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Are The Champions",
+    "artist": "Queen",
+    "date": "15.10.2025",
+    "time": "10:35",
+    "listeners": 833
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "15.10.2025",
+    "time": "10:32",
+    "listeners": 901
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Sign",
+    "artist": "Ace Of Base",
+    "date": "15.10.2025",
+    "time": "10:29",
+    "listeners": 818
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zrpš",
+    "artist": "Hammel, Pavol",
+    "date": "15.10.2025",
+    "time": "10:26",
+    "listeners": 938
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Susanna",
+    "artist": "The Art Company",
+    "date": "15.10.2025",
+    "time": "10:21",
+    "listeners": 965
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nie Alebo Áno",
     "artist": "No Name",
     "date": "15.10.2025",

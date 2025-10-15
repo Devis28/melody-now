@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "15.10.2025",
+    "time": "15:21",
+    "listeners": 1159
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maturitné Tablo",
+    "artist": "Hečková Júlia",
+    "date": "15.10.2025",
+    "time": "15:14",
+    "listeners": 1110
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sharazan",
+    "artist": "Al Bano & Romina Power",
+    "date": "15.10.2025",
+    "time": "15:10",
+    "listeners": 1099
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crying In Rain",
+    "artist": "A-Ha",
+    "date": "15.10.2025",
+    "time": "15:06",
+    "listeners": 1054
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "22 Dní",
+    "artist": "Žbirka Miro",
+    "date": "15.10.2025",
+    "time": "15:02",
+    "listeners": 995
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wonderful Life",
+    "artist": "Black",
+    "date": "15.10.2025",
+    "time": "14:54",
+    "listeners": 1026
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Woman In Love",
+    "artist": "Streisand Barbra",
+    "date": "15.10.2025",
+    "time": "14:50",
+    "listeners": 926
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Lietam V Tom Tiež",
     "artist": "Team",
     "date": "15.10.2025",

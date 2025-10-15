@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "There's A Party",
+    "artist": "Dj Bobo",
+    "date": "15.10.2025",
+    "time": "09:39",
+    "listeners": 1137
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sará Perché Ti Amo",
+    "artist": "Ricchi E Poveri",
+    "date": "15.10.2025",
+    "time": "09:36",
+    "listeners": 1363
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šiel, Šiel",
+    "artist": "Duchoň Karol",
+    "date": "15.10.2025",
+    "time": "09:32",
+    "listeners": 1572
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "15.10.2025",
+    "time": "09:28",
+    "listeners": 1499
+  },
+  {
+    "station": "Rádio Melody",
     "title": "You Can't Hurry Love",
     "artist": "Collins Phil",
     "date": "15.10.2025",

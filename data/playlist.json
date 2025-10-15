@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "It Must Have Been Love",
+    "artist": "Roxette",
+    "date": "15.10.2025",
+    "time": "13:53",
+    "listeners": 1110
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "15.10.2025",
+    "time": "13:50",
+    "listeners": 1050
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pieseň O Kamarátstve",
     "artist": "Darina Rolincová",
     "date": "15.10.2025",

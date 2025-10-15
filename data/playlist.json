@@ -5,7 +5,15 @@
     "artist": "The Bee Gees",
     "date": "15.10.2025",
     "time": "09:53",
-    "listeners": 1131
+    "listeners": 1131,
+    "lyricists": null,
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "release_year": 2000,
+    "duration_ms": 246241,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Shalom",
     "date": "15.10.2025",
     "time": "09:50",
-    "listeners": 1205
+    "listeners": 1205,
+    "lyricists": null,
+    "album": "Bon soir, mademoiselle Paris",
+    "release_year": 1999,
+    "duration_ms": 288980,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Culture Club",
     "date": "15.10.2025",
     "time": "09:45",
-    "listeners": 1210
+    "listeners": 1210,
+    "lyricists": null,
+    "album": "Kissing to Be Clever",
+    "release_year": 1982,
+    "duration_ms": 262173,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Modus",
     "date": "15.10.2025",
     "time": "09:43",
-    "listeners": 1219
+    "listeners": 1219,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 144240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

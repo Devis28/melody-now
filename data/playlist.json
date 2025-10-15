@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čerešne",
+    "artist": "Smatanová Zuzana",
+    "date": "15.10.2025",
+    "time": "18:32",
+    "listeners": 2450
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zalúbení",
+    "artist": "Dušan Hlaváček",
+    "date": "15.10.2025",
+    "time": "18:28",
+    "listeners": 2595
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Matka",
+    "artist": "Tublatanka",
+    "date": "15.10.2025",
+    "time": "18:24",
+    "listeners": 2570
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mladosť",
+    "artist": "Pavol Hammel",
+    "date": "15.10.2025",
+    "time": "18:22",
+    "listeners": 2718
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Profesor Indigo",
+    "artist": "Nagy Peter",
+    "date": "15.10.2025",
+    "time": "18:19",
+    "listeners": 2790
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Plakalo Bejby",
+    "artist": "Petr Spálený",
+    "date": "15.10.2025",
+    "time": "18:16",
+    "listeners": 2751
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Habera, Pavol",
+    "date": "15.10.2025",
+    "time": "18:11",
+    "listeners": 2845
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Neuč Vtáka Lietať",
     "artist": "Müller Richard",
     "date": "15.10.2025",

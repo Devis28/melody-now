@@ -5,7 +5,15 @@
     "artist": "Janda Dalibor",
     "date": "15.10.2025",
     "time": "12:39",
-    "listeners": 1687
+    "listeners": 1687,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 180120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Baccara",
     "date": "15.10.2025",
     "time": "12:35",
-    "listeners": 1561
+    "listeners": 1561,
+    "lyricists": null,
+    "album": "70s 100 Hits",
+    "release_year": 1997,
+    "duration_ms": 274581,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peter Nagy",
     "date": "15.10.2025",
     "time": "12:31",
-    "listeners": 1714
+    "listeners": 1714,
+    "lyricists": null,
+    "album": "Šachy robia človeka",
+    "release_year": 1996,
+    "duration_ms": 196627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,13 @@
     "artist": "Whitney Houston",
     "date": "15.10.2025",
     "time": "12:27",
-    "listeners": 1603
+    "listeners": 1603,
+    "lyricists": null,
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "release_year": 2000,
+    "duration_ms": 271093,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,15 @@
     "artist": "Hammel Pavol",
     "date": "15.10.2025",
     "time": "12:23",
-    "listeners": 1617
+    "listeners": 1617,
+    "lyricists": null,
+    "album": "Vrabec vševed",
+    "release_year": 1979,
+    "duration_ms": 201293,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čardáš Dvoch Sŕdc",
+    "artist": "Karol Duchoň",
+    "date": "15.10.2025",
+    "time": "19:40",
+    "listeners": 1696
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Modlitba Lásky",
+    "artist": "Robo Grigorov",
+    "date": "15.10.2025",
+    "time": "19:36",
+    "listeners": 1666
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Keď Sme Sami",
     "artist": "Hex",
     "date": "15.10.2025",

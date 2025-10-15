@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "We Love To Love",
+    "artist": "P. M. Sampson & Double Key",
+    "date": "15.10.2025",
+    "time": "11:37",
+    "listeners": 1366
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Aj Keď Bez Peňazí",
+    "artist": "Elán",
+    "date": "15.10.2025",
+    "time": "11:33",
+    "listeners": 1337
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "No Milk Today",
+    "artist": "Herman's Hermits",
+    "date": "15.10.2025",
+    "time": "11:30",
+    "listeners": 1176
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lovesong",
+    "artist": "Habera Pavol",
+    "date": "15.10.2025",
+    "time": "11:26",
+    "listeners": 1177
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dolce Vita",
+    "artist": "Paris Ryan",
+    "date": "15.10.2025",
+    "time": "11:22",
+    "listeners": 1147
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ako Obrázok",
     "artist": "Miro Žbirka",
     "date": "15.10.2025",

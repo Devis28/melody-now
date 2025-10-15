@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "16.10.2025",
+    "time": "01:44",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Dolinách",
+    "artist": "Desmod",
+    "date": "16.10.2025",
+    "time": "01:41",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Do You Really Want To Hurt Me",
     "artist": "Culture Club",
     "date": "16.10.2025",

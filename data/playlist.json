@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nikdy Nebolo Lepšie",
+    "artist": "Hex",
+    "date": "15.10.2025",
+    "time": "16:12",
+    "listeners": 2138
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "date": "15.10.2025",
+    "time": "16:09",
+    "listeners": 2065
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Faith",
+    "artist": "Michael George",
+    "date": "15.10.2025",
+    "time": "16:06",
+    "listeners": 2221
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "15.10.2025",
+    "time": "16:02",
+    "listeners": 2077
+  },
+  {
+    "station": "Rádio Melody",
     "title": "All By Myself",
     "artist": "Eric Carmen",
     "date": "15.10.2025",

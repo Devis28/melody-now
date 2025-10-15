@@ -5,7 +5,16 @@
     "artist": "Jermaine Jackson & Pia Zadora",
     "date": "16.10.2025",
     "time": "00:37",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Jermaine Jackson: Greatest Hits",
+    "release_year": 2018,
+    "duration_ms": 243790,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "No Name",
     "date": "16.10.2025",
     "time": "00:33",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 202093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

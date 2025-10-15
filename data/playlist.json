@@ -5,7 +5,15 @@
     "artist": "Jiří Zmožek",
     "date": "15.10.2025",
     "time": "23:16",
-    "listeners": 455
+    "listeners": 455,
+    "lyricists": null,
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "release_year": 2001,
+    "duration_ms": 246093,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Tublatanka",
     "date": "15.10.2025",
     "time": "23:13",
-    "listeners": 529
+    "listeners": 529,
+    "lyricists": null,
+    "album": "Zeravé znamenie osudu",
+    "release_year": 2012,
+    "duration_ms": 197013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,13 @@
     "artist": "Iglesias, Enrique",
     "date": "15.10.2025",
     "time": "23:09",
-    "listeners": 526
+    "listeners": 526,
+    "lyricists": null,
+    "album": "Escape (Bonus Track Version)",
+    "release_year": 2001,
+    "duration_ms": 264240,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Elán & Lojzo",
     "date": "15.10.2025",
     "time": "23:04",
-    "listeners": 555
+    "listeners": 555,
+    "lyricists": null,
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "release_year": 2003,
+    "duration_ms": 235173,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,15 @@
     "artist": "Karol Duchoň",
     "date": "15.10.2025",
     "time": "23:01",
-    "listeners": 512
+    "listeners": 512,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 1976,
+    "duration_ms": 191960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +83,15 @@
     "artist": "Pretenders, The",
     "date": "15.10.2025",
     "time": "22:58",
-    "listeners": 528
+    "listeners": 528,
+    "lyricists": null,
+    "album": "Last of the Independents",
+    "release_year": 1994,
+    "duration_ms": 238827,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

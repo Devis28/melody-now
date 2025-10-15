@@ -5,7 +5,15 @@
     "artist": "Hammel Pavol",
     "date": "15.10.2025",
     "time": "08:50",
-    "listeners": 2321
+    "listeners": 2321,
+    "lyricists": null,
+    "album": "Pavol Hammel & Prúdy 1966 – 1975",
+    "release_year": 1969,
+    "duration_ms": 154490,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Jermaine Jackson & Pia Zadora",
     "date": "15.10.2025",
     "time": "08:46",
-    "listeners": 2487
+    "listeners": 2487,
+    "lyricists": null,
+    "album": "Jermaine Jackson: Greatest Hits",
+    "release_year": 2018,
+    "duration_ms": 243790,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Pavol Habera",
     "date": "15.10.2025",
     "time": "08:43",
-    "listeners": 2269
+    "listeners": 2269,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Janda Dalibor",
     "date": "15.10.2025",
     "time": "08:39",
-    "listeners": 2623
+    "listeners": 2623,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 196867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

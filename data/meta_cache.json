@@ -10380,5 +10380,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "u2|one": {
+    "artist_country": "IE",
+    "album": "U218 Singles",
+    "release_year": 1988,
+    "duration_ms": 275400,
+    "lyricists": [
+      "Bono",
+      "U2"
+    ],
+    "genres": [
+      "Rock"
+    ]
   }
 }

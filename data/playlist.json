@@ -5,7 +5,15 @@
     "artist": "The Goombay Dance Band",
     "date": "15.10.2025",
     "time": "21:03",
-    "listeners": 1165
+    "listeners": 1165,
+    "lyricists": null,
+    "album": "Sun of Jamaica",
+    "release_year": 1980,
+    "duration_ms": 264000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "U2",
     "date": "15.10.2025",
     "time": "20:59",
-    "listeners": 1242
+    "listeners": 1242,
+    "lyricists": [
+      "Bono",
+      "U2"
+    ],
+    "album": "U218 Singles",
+    "release_year": 1988,
+    "duration_ms": 275400,
+    "artist_country": "IE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,16 @@
     "artist": "Elán",
     "date": "15.10.2025",
     "time": "20:55",
-    "listeners": 1271
+    "listeners": 1271,
+    "lyricists": null,
+    "album": "Živých Nás Nedostanú (Extended Version)",
+    "release_year": 1998,
+    "duration_ms": 225339,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

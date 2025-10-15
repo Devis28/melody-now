@@ -5,7 +5,15 @@
     "artist": "I Santo California",
     "date": "15.10.2025",
     "time": "22:20",
-    "listeners": 825
+    "listeners": 825,
+    "lyricists": null,
+    "album": "Tornerò/Volveré - Single",
+    "release_year": 2001,
+    "duration_ms": 226355,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "David Michal",
     "date": "15.10.2025",
     "time": "22:15",
-    "listeners": 818
+    "listeners": 818,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 307853,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Ventil Rg",
     "date": "15.10.2025",
     "time": "22:12",
-    "listeners": 870
+    "listeners": 870,
+    "lyricists": null,
+    "album": "Ventil RG",
+    "release_year": 1991,
+    "duration_ms": 191067,
+    "artist_country": "SK",
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Rednex",
     "date": "15.10.2025",
     "time": "22:07",
-    "listeners": 893
+    "listeners": 893,
+    "lyricists": null,
+    "album": "Sex & Violins",
+    "release_year": 1998,
+    "duration_ms": 236933,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Miro Žbirka",
     "date": "15.10.2025",
     "time": "22:04",
-    "listeners": 919
+    "listeners": 919,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 176040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Ricchi E Poveri",
     "date": "15.10.2025",
     "time": "22:00",
-    "listeners": 964
+    "listeners": 964,
+    "lyricists": null,
+    "album": "Ricchi e Poveri",
+    "release_year": 1981,
+    "duration_ms": 201253,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

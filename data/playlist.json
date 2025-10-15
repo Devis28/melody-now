@@ -5,7 +5,15 @@
     "artist": "Hana Zagorová",
     "date": "16.10.2025",
     "time": "01:52",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Singly 1981-1990",
+    "release_year": 2004,
+    "duration_ms": 205000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Corona",
     "date": "16.10.2025",
     "time": "01:47",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "The Rhythm of the Night",
+    "release_year": 1994,
+    "duration_ms": 264280,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

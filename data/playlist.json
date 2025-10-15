@@ -5,7 +5,15 @@
     "artist": "Culture Club",
     "date": "16.10.2025",
     "time": "01:36",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Kissing to Be Clever",
+    "release_year": 1982,
+    "duration_ms": 262173,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Lucie",
     "date": "16.10.2025",
     "time": "01:32",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Hity Tommü",
+    "release_year": 1999,
+    "duration_ms": 249667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

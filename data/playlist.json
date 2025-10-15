@@ -5,7 +5,15 @@
     "artist": "Neckář Václav",
     "date": "15.10.2025",
     "time": "07:48",
-    "listeners": 3059
+    "listeners": 3059,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 1965,
+    "duration_ms": 323453,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Snap",
     "date": "15.10.2025",
     "time": "07:43",
-    "listeners": 3124
+    "listeners": 3124,
+    "lyricists": null,
+    "album": "The Madman's Return",
+    "release_year": 1998,
+    "duration_ms": 332230,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

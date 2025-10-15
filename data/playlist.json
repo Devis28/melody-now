@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Prvý Bozk",
+    "artist": "Hammel Pavol",
+    "date": "15.10.2025",
+    "time": "08:50",
+    "listeners": 2321
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When The Rain Begins To Fall",
+    "artist": "Jermaine Jackson & Pia Zadora",
+    "date": "15.10.2025",
+    "time": "08:46",
+    "listeners": 2487
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Preč, Preč",
+    "artist": "Pavol Habera",
+    "date": "15.10.2025",
+    "time": "08:43",
+    "listeners": 2269
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Žít Jako Kaskadér",
+    "artist": "Janda Dalibor",
+    "date": "15.10.2025",
+    "time": "08:39",
+    "listeners": 2623
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Total Eclipse Of The Heart",
     "artist": "Westlife",
     "date": "15.10.2025",

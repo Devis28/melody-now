@@ -5,7 +5,15 @@
     "artist": "Boney M",
     "date": "16.10.2025",
     "time": "01:19",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 241373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Janda Dalibor",
     "date": "16.10.2025",
     "time": "01:16",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 196867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Modus",
     "date": "16.10.2025",
     "time": "01:12",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Modus",
+    "release_year": 2005,
+    "duration_ms": 218600,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Adams Bryan & Stewart Rod & Sting",
     "date": "16.10.2025",
     "time": "01:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "All For Love (Luca Schreiner Remix) [feat. Richard Smitt] - Single",
+    "release_year": 2018,
+    "duration_ms": 178560,
+    "artist_country": null,
+    "genres": [
+      "Classical",
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Survivor",
     "date": "16.10.2025",
     "time": "01:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Eye of the Tiger",
+    "release_year": 2022,
+    "duration_ms": 243773,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Miro Žbirka",
     "date": "16.10.2025",
     "time": "00:59",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 2007,
+    "duration_ms": 198160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

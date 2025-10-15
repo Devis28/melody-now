@@ -5,7 +5,16 @@
     "artist": "Duran Duran",
     "date": "15.10.2025",
     "time": "13:39",
-    "listeners": 1183
+    "listeners": 1183,
+    "lyricists": null,
+    "album": "Duran Duran (The Wedding Album)",
+    "release_year": 1993,
+    "duration_ms": 340200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Bano Al & Power Romina",
     "date": "15.10.2025",
     "time": "13:35",
-    "listeners": 1245
+    "listeners": 1245,
+    "lyricists": null,
+    "album": "Al Bano e Romina Power",
+    "release_year": 1982,
+    "duration_ms": 206040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Goombay Dance Band",
     "date": "15.10.2025",
     "time": "13:31",
-    "listeners": 1269
+    "listeners": 1269,
+    "lyricists": null,
+    "album": "Land of Gold",
+    "release_year": 1999,
+    "duration_ms": 265500,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Together Forever",
+    "artist": "Astley Rick",
+    "date": "15.10.2025",
+    "time": "05:49",
+    "listeners": 684
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Go Breaking My Heart",
+    "artist": "John Elton & Dee Kiki",
+    "date": "15.10.2025",
+    "time": "05:44",
+    "listeners": 606
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "15.10.2025",
+    "time": "05:41",
+    "listeners": 591
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Great Commandment",
+    "artist": "Camouflage",
+    "date": "15.10.2025",
+    "time": "05:37",
+    "listeners": 510
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slzy Tvý Mámy",
+    "artist": "Olympic",
+    "date": "15.10.2025",
+    "time": "05:33",
+    "listeners": 549
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angel",
+    "artist": "Shaggy",
+    "date": "15.10.2025",
+    "time": "05:29",
+    "listeners": 459
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Holding Out For A Hero",
     "artist": "Tyler Bonnie",
     "date": "15.10.2025",

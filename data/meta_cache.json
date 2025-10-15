@@ -10327,5 +10327,17 @@
     "genres": [
       "Pop"
     ]
+  },
+  "abba|fernando": {
+    "artist_country": "SE",
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 1976,
+    "duration_ms": 253220,
+    "lyricists": [
+      "ABBA"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

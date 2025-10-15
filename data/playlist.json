@@ -5,7 +5,15 @@
     "artist": "Westlife",
     "date": "15.10.2025",
     "time": "08:34",
-    "listeners": 2696
+    "listeners": 2696,
+    "lyricists": null,
+    "album": "The Love Album",
+    "release_year": 2007,
+    "duration_ms": 279619,
+    "artist_country": "IE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "15.10.2025",
     "time": "08:30",
-    "listeners": 2823
+    "listeners": 2823,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 2024,
+    "duration_ms": 241813,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Žbirka Miro",
     "date": "15.10.2025",
     "time": "08:20",
-    "listeners": 2919
+    "listeners": 2919,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 1983,
+    "duration_ms": 245027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Juanes",
     "date": "15.10.2025",
     "time": "08:16",
-    "listeners": 2678
+    "listeners": 2678,
+    "lyricists": [
+      "Juanes"
+    ],
+    "album": "Mi Sangre",
+    "release_year": 2005,
+    "duration_ms": 216707,
+    "artist_country": "CO",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Gott Karel & Olympic",
     "date": "15.10.2025",
     "time": "08:14",
-    "listeners": 2747
+    "listeners": 2747,
+    "lyricists": null,
+    "album": "Cesta Rájem",
+    "release_year": 1965,
+    "duration_ms": 116573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Alexandra Burke",
     "date": "15.10.2025",
     "time": "08:05",
-    "listeners": 2815
+    "listeners": 2815,
+    "lyricists": null,
+    "album": "Overcome (Deluxe Edition)",
+    "release_year": 2018,
+    "duration_ms": 217827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Survivor",
     "date": "15.10.2025",
     "time": "08:02",
-    "listeners": 3072
+    "listeners": 3072,
+    "lyricists": null,
+    "album": "Eye of the Tiger",
+    "release_year": 2022,
+    "duration_ms": 243773,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

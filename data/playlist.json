@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hráč",
+    "artist": "Turbo",
+    "date": "15.10.2025",
+    "time": "16:49",
+    "listeners": 3008
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Where Do You Go",
+    "artist": "No Mercy",
+    "date": "15.10.2025",
+    "time": "16:43",
+    "listeners": 3024
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čakám Ťa, Láska",
     "artist": "Elán",
     "date": "15.10.2025",

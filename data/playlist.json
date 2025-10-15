@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hands Up",
+    "artist": "Ottawan",
+    "date": "16.10.2025",
+    "time": "00:48",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angel",
+    "artist": "Shaggy",
+    "date": "16.10.2025",
+    "time": "00:44",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandolína",
+    "artist": "Adam Ďurica",
+    "date": "16.10.2025",
+    "time": "00:41",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
     "title": "When The Rain Begins To Fall",
     "artist": "Jermaine Jackson & Pia Zadora",
     "date": "16.10.2025",

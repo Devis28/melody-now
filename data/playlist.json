@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "15.10.2025",
+    "time": "10:52",
+    "listeners": 971
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Promised Myself",
+    "artist": "Kamen, Nick",
+    "date": "15.10.2025",
+    "time": "10:48",
+    "listeners": 1019
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Je Jaká Je",
+    "artist": "Karel Gott",
+    "date": "15.10.2025",
+    "time": "10:45",
+    "listeners": 957
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Taliansky Muzikál",
     "artist": "Júlia a Peter Hečkovci",
     "date": "15.10.2025",

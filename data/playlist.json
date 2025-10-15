@@ -5,7 +5,15 @@
     "artist": "Haddaway",
     "date": "15.10.2025",
     "time": "15:21",
-    "listeners": 1159
+    "listeners": 1159,
+    "lyricists": null,
+    "album": "What Is Love - EP",
+    "release_year": 1996,
+    "duration_ms": 270373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hečková Júlia",
     "date": "15.10.2025",
     "time": "15:14",
-    "listeners": 1110
+    "listeners": 1110,
+    "lyricists": null,
+    "album": "Maturitné tablo",
+    "release_year": 1987,
+    "duration_ms": 244316,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,19 @@
     "artist": "Al Bano & Romina Power",
     "date": "15.10.2025",
     "time": "15:10",
-    "listeners": 1099
+    "listeners": 1099,
+    "lyricists": [
+      "Al Bano Carrisi",
+      "Ciro Dammicco",
+      "Romina Power"
+    ],
+    "album": "Al Bano e Romina Power",
+    "release_year": 2007,
+    "duration_ms": 264773,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "A-Ha",
     "date": "15.10.2025",
     "time": "15:06",
-    "listeners": 1054
+    "listeners": 1054,
+    "lyricists": null,
+    "album": "Hunting High & Low (Remastered)",
+    "release_year": 1985,
+    "duration_ms": 228480,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Žbirka Miro",
     "date": "15.10.2025",
     "time": "15:02",
-    "listeners": 995
+    "listeners": 995,
+    "lyricists": null,
+    "album": "Nemoderný chalan",
+    "release_year": 1984,
+    "duration_ms": 222640,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,16 @@
     "artist": "Black",
     "date": "15.10.2025",
     "time": "14:54",
-    "listeners": 1026
+    "listeners": 1026,
+    "lyricists": null,
+    "album": "Wonderful Life",
+    "release_year": 2003,
+    "duration_ms": 287933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,15 @@
     "artist": "Streisand Barbra",
     "date": "15.10.2025",
     "time": "14:50",
-    "listeners": 926
+    "listeners": 926,
+    "lyricists": null,
+    "album": "Guilty",
+    "release_year": 1980,
+    "duration_ms": 233400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

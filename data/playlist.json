@@ -5,7 +5,16 @@
     "artist": "Adams Bryan & Stewart Rod & Sting",
     "date": "15.10.2025",
     "time": "07:07",
-    "listeners": 2295
+    "listeners": 2295,
+    "lyricists": null,
+    "album": "All For Love (Luca Schreiner Remix) [feat. Richard Smitt] - Single",
+    "release_year": 2018,
+    "duration_ms": 178560,
+    "artist_country": null,
+    "genres": [
+      "Classical",
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Abba",
     "date": "15.10.2025",
     "time": "07:03",
-    "listeners": 2187
+    "listeners": 2187,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1981,
+    "duration_ms": 274867,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Sandra",
     "date": "15.10.2025",
     "time": "06:53",
-    "listeners": 2104
+    "listeners": 2104,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 1999,
+    "duration_ms": 301933,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

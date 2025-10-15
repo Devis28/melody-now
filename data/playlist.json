@@ -5,7 +5,15 @@
     "artist": "Astley Rick",
     "date": "15.10.2025",
     "time": "05:49",
-    "listeners": 684
+    "listeners": 684,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 205573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "John Elton & Dee Kiki",
     "date": "15.10.2025",
     "time": "05:44",
-    "listeners": 606
+    "listeners": 606,
+    "lyricists": null,
+    "album": "Rock of the Westies (Remastered)",
+    "release_year": 1975,
+    "duration_ms": 275440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gladiator",
     "date": "15.10.2025",
     "time": "05:41",
-    "listeners": 591
+    "listeners": 591,
+    "lyricists": null,
+    "album": "Zlate Hity",
+    "release_year": 2011,
+    "duration_ms": 215627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Camouflage",
     "date": "15.10.2025",
     "time": "05:37",
-    "listeners": 510
+    "listeners": 510,
+    "lyricists": null,
+    "album": "Best of Camouflage: We Stroke the Flames",
+    "release_year": 2009,
+    "duration_ms": 253267,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Olympic",
     "date": "15.10.2025",
     "time": "05:33",
-    "listeners": 549
+    "listeners": 549,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 2001,
+    "duration_ms": 257853,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Shaggy",
     "date": "15.10.2025",
     "time": "05:29",
-    "listeners": 459
+    "listeners": 459,
+    "lyricists": null,
+    "album": "Hot Shot",
+    "release_year": 2000,
+    "duration_ms": 235133,
+    "artist_country": "JM",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

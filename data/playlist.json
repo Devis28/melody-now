@@ -5,7 +5,15 @@
     "artist": "Lucie",
     "date": "15.10.2025",
     "time": "07:21",
-    "listeners": 2628
+    "listeners": 2628,
+    "lyricists": null,
+    "album": "Hity Tommü",
+    "release_year": 1999,
+    "duration_ms": 249667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Beatles",
     "date": "15.10.2025",
     "time": "07:18",
-    "listeners": 2719
+    "listeners": 2719,
+    "lyricists": null,
+    "album": "Abbey Road (Remastered)",
+    "release_year": 1978,
+    "duration_ms": 185733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Hana Zagorová",
     "date": "15.10.2025",
     "time": "07:14",
-    "listeners": 2796
+    "listeners": 2796,
+    "lyricists": null,
+    "album": "Singly 1981-1990",
+    "release_year": 2004,
+    "duration_ms": 205000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

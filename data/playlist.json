@@ -5,7 +5,15 @@
     "artist": "Júlia a Peter Hečkovci",
     "date": "15.10.2025",
     "time": "10:42",
-    "listeners": 870
+    "listeners": 870,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 164771,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Ramazzotti Eros",
     "date": "15.10.2025",
     "time": "10:38",
-    "listeners": 957
+    "listeners": 957,
+    "lyricists": null,
+    "album": "9",
+    "release_year": 2003,
+    "duration_ms": 237880,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Queen",
     "date": "15.10.2025",
     "time": "10:35",
-    "listeners": 833
+    "listeners": 833,
+    "lyricists": null,
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1977,
+    "duration_ms": 179191,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Brezovská Mirka",
     "date": "15.10.2025",
     "time": "10:32",
-    "listeners": 901
+    "listeners": 901,
+    "lyricists": null,
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "release_year": 2016,
+    "duration_ms": 197007,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Ace Of Base",
     "date": "15.10.2025",
     "time": "10:29",
-    "listeners": 818
+    "listeners": 818,
+    "lyricists": null,
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 2007,
+    "duration_ms": 191040,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Hammel, Pavol",
     "date": "15.10.2025",
     "time": "10:26",
-    "listeners": 938
+    "listeners": 938,
+    "lyricists": null,
+    "album": "Čas malín",
+    "release_year": 1981,
+    "duration_ms": 179747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "The Art Company",
     "date": "15.10.2025",
     "time": "10:21",
-    "listeners": 965
+    "listeners": 965,
+    "lyricists": null,
+    "album": "Susanna - Single",
+    "release_year": 2023,
+    "duration_ms": 285062,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

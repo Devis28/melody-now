@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ordinary World",
+    "artist": "Duran Duran",
+    "date": "15.10.2025",
+    "time": "13:39",
+    "listeners": 1183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ci Sarà",
+    "artist": "Bano Al & Power Romina",
+    "date": "15.10.2025",
+    "time": "13:35",
+    "listeners": 1245
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "15.10.2025",
+    "time": "13:31",
+    "listeners": 1269
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Voda Čo Ma Drží Nad Vodou",
     "artist": "Jožo Ráž",
     "date": "15.10.2025",

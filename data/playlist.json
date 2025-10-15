@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Snídane V Tráve",
+    "artist": "Tucný Michal",
+    "date": "15.10.2025",
+    "time": "19:14",
+    "listeners": 2067
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mží Ti Do Vlasů",
+    "artist": "Ladislav Štaidl",
+    "date": "15.10.2025",
+    "time": "19:11",
+    "listeners": 2141
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cigaretka Na Dva Ťahy",
+    "artist": "Richard Müller",
+    "date": "15.10.2025",
+    "time": "19:07",
+    "listeners": 2134
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Máš V Rukáve Máj",
+    "artist": "Marika Gombitová",
+    "date": "15.10.2025",
+    "time": "19:04",
+    "listeners": 2177
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My Máme Prima Rodiče",
+    "artist": "David Michal",
+    "date": "15.10.2025",
+    "time": "19:02",
+    "listeners": 2239
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "date": "15.10.2025",
+    "time": "18:58",
+    "listeners": 2119
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Yvetta",
     "artist": "Jiří Korn",
     "date": "15.10.2025",

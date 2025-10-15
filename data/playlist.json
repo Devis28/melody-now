@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "date": "15.10.2025",
+    "time": "11:19",
+    "listeners": 1200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Feel",
+    "artist": "Robbie Williams",
+    "date": "15.10.2025",
+    "time": "11:15",
+    "listeners": 1160
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Štesti Je Krasna Vec",
+    "artist": "Müller Richard",
+    "date": "15.10.2025",
+    "time": "11:08",
+    "listeners": 1073
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'd Love You To Want Me",
+    "artist": "Lobo",
+    "date": "15.10.2025",
+    "time": "11:04",
+    "listeners": 1080
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Infinity",
+    "artist": "Guru Josh",
+    "date": "15.10.2025",
+    "time": "11:01",
+    "listeners": 915
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Careless Whisper",
     "artist": "Michael, George",
     "date": "15.10.2025",

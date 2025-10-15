@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "15.10.2025",
+    "time": "21:03",
+    "listeners": 1165
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One",
+    "artist": "U2",
+    "date": "15.10.2025",
+    "time": "20:59",
+    "listeners": 1242
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kráľovná Bielych Tenisiek",
+    "artist": "Elán",
+    "date": "15.10.2025",
+    "time": "20:55",
+    "listeners": 1271
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Believe",
     "artist": "Cher",
     "date": "15.10.2025",

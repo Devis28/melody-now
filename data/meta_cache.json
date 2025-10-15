@@ -10367,5 +10367,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "richard müller|spočítaj ma": {
+    "release_year": 2011,
+    "artist_country": "SK",
+    "album": "Výberovka",
+    "duration_ms": 275653,
+    "lyricists": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

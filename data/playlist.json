@@ -5,7 +5,15 @@
     "artist": "Jiří Korn",
     "date": "15.10.2025",
     "time": "18:56",
-    "listeners": 2123
+    "listeners": 2123,
+    "lyricists": null,
+    "album": "To nejlepší 1971-2024",
+    "release_year": 1998,
+    "duration_ms": 156386,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "15.10.2025",
     "time": "18:52",
-    "listeners": 2106
+    "listeners": 2106,
+    "lyricists": null,
+    "album": "Rabaka",
+    "release_year": 2008,
+    "duration_ms": 254333,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

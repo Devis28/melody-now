@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "17.10.2025",
     "time": "00:57",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Kamil Peteraj \"80\"",
+    "release_year": 2005,
+    "duration_ms": 242787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Jon Secada",
     "date": "17.10.2025",
     "time": "00:52",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Jon Secada",
+      "Miguel A. Morejón"
+    ],
+    "album": "Jon Secada",
+    "release_year": 1993,
+    "duration_ms": 327427,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

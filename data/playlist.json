@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Time After Time",
+    "artist": "Cyndi Lauper",
+    "date": "16.10.2025",
+    "time": "22:42",
+    "listeners": 644
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "16.10.2025",
+    "time": "22:37",
+    "listeners": 733
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ulica",
+    "artist": "Elán",
+    "date": "16.10.2025",
+    "time": "22:35",
+    "listeners": 648
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Stačí Si Priať",
     "artist": "Smatanová Zuzana",
     "date": "16.10.2025",

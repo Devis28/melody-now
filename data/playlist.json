@@ -5,7 +5,15 @@
     "artist": "Geri Halliwell",
     "date": "16.10.2025",
     "time": "09:42",
-    "listeners": 1299
+    "listeners": 1299,
+    "lyricists": null,
+    "album": "It's Raining Men - Single",
+    "release_year": 2002,
+    "duration_ms": 255160,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Village People",
     "date": "16.10.2025",
     "time": "09:38",
-    "listeners": 1253
+    "listeners": 1253,
+    "lyricists": null,
+    "album": "YMCA",
+    "release_year": 1993,
+    "duration_ms": 286800,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Elán",
     "date": "16.10.2025",
     "time": "09:34",
-    "listeners": 1387
+    "listeners": 1387,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 2003,
+    "duration_ms": 277787,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

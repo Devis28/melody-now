@@ -5,7 +5,16 @@
     "artist": "Olympic",
     "date": "16.10.2025",
     "time": "09:45",
-    "listeners": 1233
+    "listeners": 1233,
+    "lyricists": null,
+    "album": "Ulice",
+    "release_year": 2010,
+    "duration_ms": 292507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

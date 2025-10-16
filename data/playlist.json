@@ -5,7 +5,15 @@
     "artist": "Depeche Mode",
     "date": "16.10.2025",
     "time": "16:52",
-    "listeners": 3161
+    "listeners": 3161,
+    "lyricists": null,
+    "album": "Violator (Deluxe)",
+    "release_year": 1999,
+    "duration_ms": 372827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Smokie",
     "date": "16.10.2025",
     "time": "16:49",
-    "listeners": 2962
+    "listeners": 2962,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2003,
+    "duration_ms": 196867,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Wonder Stevie",
     "date": "16.10.2025",
     "time": "16:45",
-    "listeners": 2905
+    "listeners": 2905,
+    "lyricists": null,
+    "album": "The Definitive Collection",
+    "release_year": 2002,
+    "duration_ms": 262598,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

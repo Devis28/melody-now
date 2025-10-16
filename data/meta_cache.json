@@ -10538,5 +10538,17 @@
     "genres": [
       "Pop"
     ]
+  },
+  "richard müller|keď odchádzajú lásky": {
+    "release_year": 2017,
+    "artist_country": "SK",
+    "album": "Výberovka",
+    "duration_ms": 297640,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

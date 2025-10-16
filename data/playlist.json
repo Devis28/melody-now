@@ -5,7 +5,15 @@
     "artist": "Adam Ďurica",
     "date": "16.10.2025",
     "time": "23:23",
-    "listeners": 450
+    "listeners": 450,
+    "lyricists": null,
+    "album": "Akustické koncerty (Acoustic / Live)",
+    "release_year": 2023,
+    "duration_ms": 265998,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "16.10.2025",
     "time": "23:20",
-    "listeners": 449
+    "listeners": 449,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1974,
+    "duration_ms": 165800,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Miro Zbirka",
     "date": "16.10.2025",
     "time": "23:16",
-    "listeners": 448
+    "listeners": 448,
+    "lyricists": null,
+    "album": "K.O.",
+    "release_year": 1990,
+    "duration_ms": 277053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,17 @@
     "artist": "Richard Müller",
     "date": "16.10.2025",
     "time": "23:12",
-    "listeners": 490
+    "listeners": 490,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2017,
+    "duration_ms": 297640,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

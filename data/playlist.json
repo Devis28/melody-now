@@ -5,7 +5,15 @@
     "artist": "Brontosauři",
     "date": "16.10.2025",
     "time": "07:35",
-    "listeners": 2738
+    "listeners": 2738,
+    "lyricists": null,
+    "album": "Na Kameni Kamen",
+    "release_year": 2007,
+    "duration_ms": 159227,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Mamas & The Papas",
     "date": "16.10.2025",
     "time": "07:32",
-    "listeners": 3049
+    "listeners": 3049,
+    "lyricists": null,
+    "album": "If You Can Believe Your Eyes and Ears",
+    "release_year": 1991,
+    "duration_ms": 162373,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

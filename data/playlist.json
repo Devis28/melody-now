@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nekráčaj Predo Mnou",
+    "artist": "Smatanová Zuzana",
+    "date": "17.10.2025",
+    "time": "01:17",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You",
+    "artist": "Ten Sharp",
+    "date": "17.10.2025",
+    "time": "01:12",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chlapci V Pasci",
+    "artist": "Gombitová Marika",
+    "date": "17.10.2025",
+    "time": "01:08",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rivers Of Babylon",
+    "artist": "Boney M.",
+    "date": "17.10.2025",
+    "time": "01:05",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vetroň",
+    "artist": "Hex",
+    "date": "17.10.2025",
+    "time": "01:01",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ty Ja A Moj Brat (Sklicka Dotykov)",
     "artist": "Modus",
     "date": "17.10.2025",

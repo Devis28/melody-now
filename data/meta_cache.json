@@ -10461,5 +10461,17 @@
     "genres": [
       "Pop"
     ]
+  },
+  "richard müller|naša láska letí": {
+    "release_year": 2017,
+    "artist_country": "SK",
+    "album": "Výberovka",
+    "duration_ms": 157480,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -5,7 +5,15 @@
     "artist": "C.C. Catch",
     "date": "16.10.2025",
     "time": "13:24",
-    "listeners": 1264
+    "listeners": 1264,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2005,
+    "duration_ms": 215800,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gott Karel",
     "date": "16.10.2025",
     "time": "13:18",
-    "listeners": 1394
+    "listeners": 1394,
+    "lyricists": null,
+    "album": "Jágr vs Gott - Single",
+    "release_year": 2018,
+    "duration_ms": 190549,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Beatles, The",
     "date": "16.10.2025",
     "time": "13:14",
-    "listeners": 1298
+    "listeners": 1298,
+    "lyricists": null,
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "release_year": 1968,
+    "duration_ms": 431333,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

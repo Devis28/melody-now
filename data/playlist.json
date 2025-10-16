@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "16.10.2025",
+    "time": "16:25",
+    "listeners": 2517
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "date": "16.10.2025",
+    "time": "16:22",
+    "listeners": 2384
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "16.10.2025",
+    "time": "16:18",
+    "listeners": 2475
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "With Or Without You",
+    "artist": "U2",
+    "date": "16.10.2025",
+    "time": "16:11",
+    "listeners": 1960
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zamilovaná",
+    "artist": "Filipová Lenka",
+    "date": "16.10.2025",
+    "time": "16:08",
+    "listeners": 2135
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wild World",
+    "artist": "Mr. Big",
+    "date": "16.10.2025",
+    "time": "16:05",
+    "listeners": 2062
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tanečnice Z Lúčnice",
+    "artist": "Elán",
+    "date": "16.10.2025",
+    "time": "16:02",
+    "listeners": 1841
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Baby, I Love Your Way",
     "artist": "Big Mountain",
     "date": "16.10.2025",

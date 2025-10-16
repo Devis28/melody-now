@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pretty Young Girl",
+    "artist": "Bad Boys Blue",
+    "date": "17.10.2025",
+    "time": "01:34",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milovanie V Daždi",
+    "artist": "Richard Müller",
+    "date": "17.10.2025",
+    "time": "01:30",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cause You Are Young",
+    "artist": "C.C. Catch",
+    "date": "17.10.2025",
+    "time": "01:26",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "V nás",
     "artist": "Nocadeň",
     "date": "17.10.2025",

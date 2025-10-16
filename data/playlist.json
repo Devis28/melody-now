@@ -5,7 +5,16 @@
     "artist": "Rush Jennifer",
     "date": "16.10.2025",
     "time": "21:36",
-    "listeners": 1061
+    "listeners": 1061,
+    "lyricists": null,
+    "album": "Jennifer Rush",
+    "release_year": 1984,
+    "duration_ms": 361231,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Kotvald Petr",
     "date": "16.10.2025",
     "time": "21:32",
-    "listeners": 1082
+    "listeners": 1082,
+    "lyricists": null,
+    "album": "Gejzír",
+    "release_year": 1990,
+    "duration_ms": 227267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Lukáš Adamec",
     "date": "16.10.2025",
     "time": "21:29",
-    "listeners": 1092
+    "listeners": 1092,
+    "lyricists": null,
+    "album": "Lukáš Adamec",
+    "release_year": 2017,
+    "duration_ms": 208147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Prvá Láska",
+    "artist": "Ráž Jožo",
+    "date": "16.10.2025",
+    "time": "07:21",
+    "listeners": 2564
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Shoop Shoop Song",
+    "artist": "Cher",
+    "date": "16.10.2025",
+    "time": "07:19",
+    "listeners": 2518
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Každá Trampota Má Svou Mez",
+    "artist": "Vondráčková Helena &Korn Jiří",
+    "date": "16.10.2025",
+    "time": "07:14",
+    "listeners": 2529
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You",
+    "artist": "Ten Sharp",
+    "date": "16.10.2025",
+    "time": "07:05",
+    "listeners": 2176
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chlapci V Pasci",
+    "artist": "Gombitová Marika",
+    "date": "16.10.2025",
+    "time": "07:02",
+    "listeners": 2107
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Just Another Day",
     "artist": "Jon Secada",
     "date": "16.10.2025",

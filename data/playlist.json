@@ -5,7 +5,15 @@
     "artist": "Starship",
     "date": "16.10.2025",
     "time": "05:46",
-    "listeners": 611
+    "listeners": 611,
+    "lyricists": null,
+    "album": "No Protection",
+    "release_year": 1987,
+    "duration_ms": 270333,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hammel Pavol",
     "date": "16.10.2025",
     "time": "05:43",
-    "listeners": 599
+    "listeners": 599,
+    "lyricists": null,
+    "album": "Pavol Hammel & Prúdy 1966 – 1975",
+    "release_year": 1969,
+    "duration_ms": 154490,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Guru Josh",
     "date": "16.10.2025",
     "time": "05:39",
-    "listeners": 540
+    "listeners": 540,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Queen",
     "date": "16.10.2025",
     "time": "05:35",
-    "listeners": 547
+    "listeners": 547,
+    "lyricists": null,
+    "album": "The Works (Deluxe Edition)",
+    "release_year": 2000,
+    "duration_ms": 201082,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "P. M. Sampson & Double Key",
     "date": "16.10.2025",
     "time": "05:32",
-    "listeners": 455
+    "listeners": 455,
+    "lyricists": null,
+    "album": "Listen to My Heartbeat",
+    "release_year": 1993,
+    "duration_ms": 262947,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Peter Nagy",
     "date": "16.10.2025",
     "time": "05:28",
-    "listeners": 478
+    "listeners": 478,
+    "lyricists": null,
+    "album": "Šachy robia človeka",
+    "release_year": 1996,
+    "duration_ms": 196627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

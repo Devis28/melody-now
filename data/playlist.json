@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "California Dreamin'",
+    "artist": "Mamas & The Papas",
+    "date": "17.10.2025",
+    "time": "01:52",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "17.10.2025",
+    "time": "01:48",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kralovna Pavlaci A Dvorov",
+    "artist": "Heckovci Peter A Julia",
+    "date": "17.10.2025",
+    "time": "01:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Love Of The Common People",
     "artist": "Paul Young",
     "date": "17.10.2025",

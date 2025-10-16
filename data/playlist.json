@@ -1,6 +1,78 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "It Must Have Been Love",
+    "artist": "Roxette",
+    "date": "16.10.2025",
+    "time": "20:33",
+    "listeners": 1310
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nech Sa Deje Čo Sa Má",
+    "artist": "Zuzana Smatanová",
+    "date": "16.10.2025",
+    "time": "20:30",
+    "listeners": 1487
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My, Oh My",
+    "artist": "Slade",
+    "date": "16.10.2025",
+    "time": "20:25",
+    "listeners": 1433
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď To Nejde",
+    "artist": "Zdenka Predná",
+    "date": "16.10.2025",
+    "time": "20:22",
+    "listeners": 1433
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cose Della Vita / Can't Stop Thinking Of You",
+    "artist": "Tina Turner/Eros Ramazzotti",
+    "date": "16.10.2025",
+    "time": "20:18",
+    "listeners": 1430
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chvíľu áno, chvíľu nie",
+    "artist": "Hex",
+    "date": "16.10.2025",
+    "time": "20:14",
+    "listeners": 1512
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Cry",
+    "artist": "Guns N Roses",
+    "date": "16.10.2025",
+    "time": "20:09",
+    "listeners": 1655
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Atlantis Is Calling (S.O.S. For Love)",
+    "artist": "Modern Talking",
+    "date": "16.10.2025",
+    "time": "20:05",
+    "listeners": 1592
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "16.10.2025",
+    "time": "20:02",
+    "listeners": 1701
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Už Po Nás Lásko Má Jdou",
     "artist": "Kotvald Petr",
     "date": "16.10.2025",

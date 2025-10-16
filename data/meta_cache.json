@@ -10448,5 +10448,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "jon secada|just another day": {
+    "release_year": 1993,
+    "artist_country": "US",
+    "album": "Jon Secada",
+    "duration_ms": 327427,
+    "lyricists": [
+      "Jon Secada",
+      "Miguel A. Morejón"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

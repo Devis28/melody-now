@@ -5,7 +5,15 @@
     "artist": "Rush Jennifer",
     "date": "16.10.2025",
     "time": "11:41",
-    "listeners": 1358
+    "listeners": 1358,
+    "lyricists": null,
+    "album": "Jennifer Rush: Best of 1983-2010",
+    "release_year": 1985,
+    "duration_ms": 228147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "I.M.T. Smile",
     "date": "16.10.2025",
     "time": "11:37",
-    "listeners": 1378
+    "listeners": 1378,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2003,
+    "duration_ms": 277120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,17 @@
     "artist": "Barbra Streisand",
     "date": "16.10.2025",
     "time": "11:33",
-    "listeners": 1297
+    "listeners": 1297,
+    "lyricists": [
+      "Barbra Streisand"
+    ],
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "release_year": 1982,
+    "duration_ms": 233280,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Elán",
     "date": "16.10.2025",
     "time": "11:30",
-    "listeners": 1283
+    "listeners": 1283,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2004,
+    "duration_ms": 165227,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

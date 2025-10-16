@@ -5,7 +5,15 @@
     "artist": "B. J. Thomas",
     "date": "16.10.2025",
     "time": "08:19",
-    "listeners": 2916
+    "listeners": 2916,
+    "lyricists": null,
+    "album": "Raindrops Keep Fallin' On My Head",
+    "release_year": 1996,
+    "duration_ms": 184493,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Zenit",
     "date": "16.10.2025",
     "time": "08:15",
-    "listeners": 2677
+    "listeners": 2677,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 233960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Guns N Roses",
     "date": "16.10.2025",
     "time": "08:05",
-    "listeners": 3077
+    "listeners": 3077,
+    "lyricists": null,
+    "album": "Use Your Illusion I",
+    "release_year": 1991,
+    "duration_ms": 536067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Abba",
     "date": "16.10.2025",
     "time": "08:02",
-    "listeners": 2850
+    "listeners": 2850,
+    "lyricists": null,
+    "album": "Waterloo",
+    "release_year": 1994,
+    "duration_ms": 176440,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

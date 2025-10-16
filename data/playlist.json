@@ -5,7 +5,15 @@
     "artist": "Eagles The",
     "date": "16.10.2025",
     "time": "10:53",
-    "listeners": 996
+    "listeners": 996,
+    "lyricists": null,
+    "album": "Hotel California (40th Anniversary Expanded Edition)",
+    "release_year": 1976,
+    "duration_ms": 391357,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

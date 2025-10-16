@@ -5,7 +5,15 @@
     "artist": "Ramazzotti Eros",
     "date": "16.10.2025",
     "time": "17:41",
-    "listeners": 3093
+    "listeners": 3093,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 323867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Zich Karel & Filipová Lenka",
     "date": "16.10.2025",
     "time": "17:38",
-    "listeners": 3157
+    "listeners": 3157,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 1981,
+    "duration_ms": 218240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,13 @@
     "artist": "Masquerade",
     "date": "16.10.2025",
     "time": "17:33",
-    "listeners": 3014
+    "listeners": 3014,
+    "lyricists": null,
+    "album": "Echoes",
+    "release_year": 1998,
+    "duration_ms": 259814,
+    "artist_country": "DE",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

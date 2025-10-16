@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Sound Of Silence",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "16.10.2025",
+    "time": "21:18",
+    "listeners": 1133
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're A Woman",
+    "artist": "Bad Boys Blue",
+    "date": "16.10.2025",
+    "time": "21:14",
+    "listeners": 1176
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spomaľ",
+    "artist": "Peha",
+    "date": "16.10.2025",
+    "time": "21:10",
+    "listeners": 1250
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "16.10.2025",
+    "time": "21:05",
+    "listeners": 1118
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Locomotion",
+    "artist": "Kylie Minogue",
+    "date": "16.10.2025",
+    "time": "21:02",
+    "listeners": 1246
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Láska Moja",
     "artist": "Elán",
     "date": "16.10.2025",

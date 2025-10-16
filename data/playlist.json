@@ -5,7 +5,15 @@
     "artist": "Smatanová Zuzana",
     "date": "17.10.2025",
     "time": "01:17",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Rozprávač",
+    "release_year": 2005,
+    "duration_ms": 205380,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ten Sharp",
     "date": "17.10.2025",
     "time": "01:12",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "You - Single",
+    "release_year": 2000,
+    "duration_ms": 272984,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gombitová Marika",
     "date": "17.10.2025",
     "time": "01:08",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 210267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Boney M.",
     "date": "17.10.2025",
     "time": "01:05",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2025,
+    "duration_ms": 261200,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Hex",
     "date": "17.10.2025",
     "time": "01:01",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 1997,
+    "duration_ms": 240320,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

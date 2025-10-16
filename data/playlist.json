@@ -5,7 +5,16 @@
     "artist": "Michael Sembello",
     "date": "16.10.2025",
     "time": "16:25",
-    "listeners": 2517
+    "listeners": 2517,
+    "lyricists": [
+      "Dennis Matkosky",
+      "Michael Sembello"
+    ],
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "release_year": 2022,
+    "duration_ms": 244707,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Rick Astley",
     "date": "16.10.2025",
     "time": "16:22",
-    "listeners": 2384
+    "listeners": 2384,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1999,
+    "duration_ms": 213560,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,19 @@
     "artist": "Mc Erik And Barbara",
     "date": "16.10.2025",
     "time": "16:18",
-    "listeners": 2475
+    "listeners": 2475,
+    "lyricists": [
+      "Barbara Haščáková",
+      "MC Erik"
+    ],
+    "album": "U Can't Stop (96 Version)",
+    "release_year": 2023,
+    "duration_ms": 248867,
+    "artist_country": "SK",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +58,15 @@
     "artist": "U2",
     "date": "16.10.2025",
     "time": "16:11",
-    "listeners": 1960
+    "listeners": 1960,
+    "lyricists": null,
+    "album": "The Joshua Tree (30th Anniversary Super Deluxe Edition)",
+    "release_year": 1993,
+    "duration_ms": 295516,
+    "artist_country": "IE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "Filipová Lenka",
     "date": "16.10.2025",
     "time": "16:08",
-    "listeners": 2135
+    "listeners": 2135,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 1980,
+    "duration_ms": 172800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,15 @@
     "artist": "Mr. Big",
     "date": "16.10.2025",
     "time": "16:05",
-    "listeners": 2062
+    "listeners": 2062,
+    "lyricists": null,
+    "album": "Big, Bigger, Biggest! The Best of Mr. Big",
+    "release_year": 2018,
+    "duration_ms": 208507,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,15 @@
     "artist": "Elán",
     "date": "16.10.2025",
     "time": "16:02",
-    "listeners": 1841
+    "listeners": 1841,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1992,
+    "duration_ms": 170800,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

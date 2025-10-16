@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "16.10.2025",
     "time": "19:28",
-    "listeners": 1851
+    "listeners": 1851,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Matuška Waldemar",
     "date": "16.10.2025",
     "time": "19:23",
-    "listeners": 1856
+    "listeners": 1856,
+    "lyricists": null,
+    "album": "Co Neodnesl Čas",
+    "release_year": 1991,
+    "duration_ms": 300107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Tublatanka",
     "date": "16.10.2025",
     "time": "19:18",
-    "listeners": 1852
+    "listeners": 1852,
+    "lyricists": null,
+    "album": "Zeravé znamenie osudu",
+    "release_year": 2006,
+    "duration_ms": 317213,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Zagorová Hana",
     "date": "16.10.2025",
     "time": "19:15",
-    "listeners": 2050
+    "listeners": 2050,
+    "lyricists": null,
+    "album": "Bludička Julie",
+    "release_year": 1968,
+    "duration_ms": 186600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Grigorov Robo",
     "date": "16.10.2025",
     "time": "19:12",
-    "listeners": 2026
+    "listeners": 2026,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 191373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

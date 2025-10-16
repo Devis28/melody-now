@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "My Heart Will Go On",
+    "artist": "Céline Dion",
+    "date": "16.10.2025",
+    "time": "21:54",
+    "listeners": 970
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Učiteľka Tanca",
+    "artist": "Pavol Hammel",
+    "date": "16.10.2025",
+    "time": "21:52",
+    "listeners": 927
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Frozen",
     "artist": "Madonna",
     "date": "16.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Čírová Mária",
     "date": "17.10.2025",
     "time": "00:28",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Na Dosah",
+    "release_year": 2011,
+    "duration_ms": 247707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hečková Júlia",
     "date": "17.10.2025",
     "time": "00:24",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Maturitné tablo",
+    "release_year": 1987,
+    "duration_ms": 244316,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "No Name",
     "date": "17.10.2025",
     "time": "00:21",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2014,
+    "duration_ms": 199733,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

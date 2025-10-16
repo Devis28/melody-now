@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "16.10.2025",
+    "time": "11:52",
+    "listeners": 1456
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Brother Louie",
+    "artist": "Modern Talking",
+    "date": "16.10.2025",
+    "time": "11:48",
+    "listeners": 1427
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Smútok Krásnych Dievčat",
+    "artist": "Duchoň Karol",
+    "date": "16.10.2025",
+    "time": "11:45",
+    "listeners": 1485
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ave Maria",
     "artist": "Rush Jennifer",
     "date": "16.10.2025",

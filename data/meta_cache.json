@@ -10473,5 +10473,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "jana kirschner|v cudzom meste": {
+    "release_year": 2000,
+    "artist_country": "SK",
+    "album": "V Cudzom Meste",
+    "duration_ms": 199347,
+    "lyricists": [
+      "Ivan Tásler",
+      "Jana Kirschner"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -10525,5 +10525,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "cyndi lauper|time after time": {
+    "release_year": 2004,
+    "artist_country": "US",
+    "album": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+    "duration_ms": 243067,
+    "lyricists": [
+      "Cyndi Lauper",
+      "Rob Hyman"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

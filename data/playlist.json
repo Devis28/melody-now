@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kým Vieš Snívať",
+    "artist": "Superstar Top 11",
+    "date": "16.10.2025",
+    "time": "19:07",
+    "listeners": 2111
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nonstop",
+    "artist": "David Michal",
+    "date": "16.10.2025",
+    "time": "19:04",
+    "listeners": 2179
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Trouba",
+    "artist": "Bilá Lucie",
+    "date": "16.10.2025",
+    "time": "18:59",
+    "listeners": 2158
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Aj Tak Sme Frajeri",
+    "artist": "Nagy Peter",
+    "date": "16.10.2025",
+    "time": "18:56",
+    "listeners": 2371
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mám Rád",
     "artist": "Miro Žbirka",
     "date": "16.10.2025",

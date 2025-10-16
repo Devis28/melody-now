@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ave Maria",
+    "artist": "Rush Jennifer",
+    "date": "16.10.2025",
+    "time": "11:41",
+    "listeners": 1358
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Stúpa Dym",
+    "artist": "I.M.T. Smile",
+    "date": "16.10.2025",
+    "time": "11:37",
+    "listeners": 1378
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Memory",
+    "artist": "Barbra Streisand",
+    "date": "16.10.2025",
+    "time": "11:33",
+    "listeners": 1297
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamaráti",
+    "artist": "Elán",
+    "date": "16.10.2025",
+    "time": "11:30",
+    "listeners": 1283
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nočná Optika",
     "artist": "Müller Richard",
     "date": "16.10.2025",

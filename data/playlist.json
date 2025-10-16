@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bez Obáv",
+    "artist": "Čírová Mária",
+    "date": "17.10.2025",
+    "time": "00:28",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maturitné Tablo",
+    "artist": "Hečková Júlia",
+    "date": "17.10.2025",
+    "time": "00:24",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čím To Je",
+    "artist": "No Name",
+    "date": "17.10.2025",
+    "time": "00:21",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Moviestar",
     "artist": "Harpo",
     "date": "17.10.2025",

@@ -5,7 +5,13 @@
     "artist": "Carmen, Eric",
     "date": "16.10.2025",
     "time": "13:08",
-    "listeners": 1383
+    "listeners": 1383,
+    "lyricists": null,
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 1987,
+    "duration_ms": 248427,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,16 @@
     "artist": "Pavol Habera",
     "date": "16.10.2025",
     "time": "13:05",
-    "listeners": 1345
+    "listeners": 1345,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 1991,
+    "duration_ms": 198533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +36,15 @@
     "artist": "Modus",
     "date": "16.10.2025",
     "time": "13:01",
-    "listeners": 1549
+    "listeners": 1549,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 1998,
+    "duration_ms": 289613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

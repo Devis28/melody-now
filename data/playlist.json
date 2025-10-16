@@ -5,7 +5,15 @@
     "artist": "Shakespear's Sister",
     "date": "16.10.2025",
     "time": "09:30",
-    "listeners": 1496
+    "listeners": 1496,
+    "lyricists": null,
+    "album": "Hormonally Yours",
+    "release_year": 1993,
+    "duration_ms": 229000,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "16.10.2025",
     "time": "09:26",
-    "listeners": 1586
+    "listeners": 1586,
+    "lyricists": null,
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 212304,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Paul Young",
     "date": "16.10.2025",
     "time": "09:23",
-    "listeners": 1525
+    "listeners": 1525,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2005,
+    "duration_ms": 214381,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,13 @@
     "artist": "John, Elton",
     "date": "16.10.2025",
     "time": "09:19",
-    "listeners": 1583
+    "listeners": 1583,
+    "lyricists": null,
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "release_year": 1994,
+    "duration_ms": 241907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",

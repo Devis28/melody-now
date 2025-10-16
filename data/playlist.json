@@ -5,7 +5,15 @@
     "artist": "Michal David & Kroky Františka Janečka",
     "date": "16.10.2025",
     "time": "12:43",
-    "listeners": 1715
+    "listeners": 1715,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 191560,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Terry Jacks",
     "date": "16.10.2025",
     "time": "12:39",
-    "listeners": 1680
+    "listeners": 1680,
+    "lyricists": null,
+    "album": "Seasons In The Sun (Expanded Edition)",
+    "release_year": 2010,
+    "duration_ms": 208853,
+    "artist_country": "CA",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Take That",
     "date": "16.10.2025",
     "time": "12:35",
-    "listeners": 1676
+    "listeners": 1676,
+    "lyricists": null,
+    "album": "Nobody Else (Expanded Edition)",
+    "release_year": 1996,
+    "duration_ms": 242267,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Patejdl Vašo & Dubasová Beáta",
     "date": "16.10.2025",
     "time": "12:31",
-    "listeners": 1497
+    "listeners": 1497,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 1989,
+    "duration_ms": 223787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

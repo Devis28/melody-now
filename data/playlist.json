@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Poslednýkrát",
+    "artist": "Peter Nagy",
+    "date": "16.10.2025",
+    "time": "20:49",
+    "listeners": 1306
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nothing Else Matters",
+    "artist": "Metallica",
+    "date": "16.10.2025",
+    "time": "20:43",
+    "listeners": 1340
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'm Still Standing",
+    "artist": "Elton John",
+    "date": "16.10.2025",
+    "time": "20:40",
+    "listeners": 1391
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "16.10.2025",
+    "time": "20:37",
+    "listeners": 1315
+  },
+  {
+    "station": "Rádio Melody",
     "title": "It Must Have Been Love",
     "artist": "Roxette",
     "date": "16.10.2025",

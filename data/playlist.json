@@ -5,7 +5,15 @@
     "artist": "Nazareth",
     "date": "16.10.2025",
     "time": "23:39",
-    "listeners": 381
+    "listeners": 381,
+    "lyricists": null,
+    "album": "2Xs",
+    "release_year": 2005,
+    "duration_ms": 204827,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Michael Jackson",
     "date": "16.10.2025",
     "time": "23:35",
-    "listeners": 381
+    "listeners": 381,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "release_year": 2005,
+    "duration_ms": 284310,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

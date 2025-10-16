@@ -5,7 +5,15 @@
     "artist": "Gott Karel",
     "date": "16.10.2025",
     "time": "07:45",
-    "listeners": 2932
+    "listeners": 2932,
+    "lyricists": null,
+    "album": "Jágr vs Gott - Single",
+    "release_year": 2018,
+    "duration_ms": 190549,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Umberto Tozzi",
     "date": "16.10.2025",
     "time": "07:41",
-    "listeners": 2886
+    "listeners": 2886,
+    "lyricists": [
+      "Giancarlo Bigazzi",
+      "Umberto Tozzi"
+    ],
+    "album": "E' nell' aria…ti amo",
+    "release_year": 2006,
+    "duration_ms": 245693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,16 @@
     "artist": "Bad Boys Blue",
     "date": "16.10.2025",
     "time": "07:37",
-    "listeners": 2675
+    "listeners": 2675,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 1988,
+    "duration_ms": 346507,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

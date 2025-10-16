@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tereza",
+    "artist": "Matuška Waldemar",
+    "date": "16.10.2025",
+    "time": "09:17",
+    "listeners": 1737
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Youre My Heart Youre My Soul",
+    "artist": "Modern Talking",
+    "date": "16.10.2025",
+    "time": "09:12",
+    "listeners": 1813
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The River Of Dreams",
+    "artist": "Joel Billy",
+    "date": "16.10.2025",
+    "time": "09:08",
+    "listeners": 1875
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľúbim Ťa",
+    "artist": "Michal Dočolomanský",
+    "date": "16.10.2025",
+    "time": "09:04",
+    "listeners": 2033
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Like Chopin",
+    "artist": "Gazebo",
+    "date": "16.10.2025",
+    "time": "08:56",
+    "listeners": 2176
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dlouhá Noc",
+    "artist": "Vondráčková Helena",
+    "date": "16.10.2025",
+    "time": "08:52",
+    "listeners": 2404
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "S Úsmevom",
+    "artist": "Karol Duchoň",
+    "date": "16.10.2025",
+    "time": "08:46",
+    "listeners": 2373
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Show Must Go On",
     "artist": "Queen",
     "date": "16.10.2025",

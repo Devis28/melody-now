@@ -5,7 +5,15 @@
     "artist": "Mariah Carey",
     "date": "16.10.2025",
     "time": "17:12",
-    "listeners": 3116
+    "listeners": 3116,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 214040,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Mckenzie Scott",
     "date": "16.10.2025",
     "time": "17:09",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Al Bano & Romina Power",
     "date": "16.10.2025",
     "time": "17:05",
-    "listeners": 3125
+    "listeners": 3125,
+    "lyricists": null,
+    "album": "Al Bano",
+    "release_year": 2007,
+    "duration_ms": 240987,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Army Of Lovers",
     "date": "16.10.2025",
     "time": "17:02",
-    "listeners": 3185
+    "listeners": 3185,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Queen",
     "date": "16.10.2025",
     "time": "08:41",
-    "listeners": 2603
+    "listeners": 2603,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1991,
+    "duration_ms": 271610,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "C.C. Catch",
     "date": "16.10.2025",
     "time": "08:38",
-    "listeners": 2576
+    "listeners": 2576,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1994,
+    "duration_ms": 209533,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Žbirka Miro",
     "date": "16.10.2025",
     "time": "08:35",
-    "listeners": 2779
+    "listeners": 2779,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 190587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Rolincová Darina",
     "date": "16.10.2025",
     "time": "08:32",
-    "listeners": 2608
+    "listeners": 2608,
+    "lyricists": null,
+    "album": "Kto Chce & Ak Náhodou - Single",
+    "release_year": 1987,
+    "duration_ms": 163067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Kotvald Petr",
     "date": "16.10.2025",
     "time": "08:22",
-    "listeners": 2905
+    "listeners": 2905,
+    "lyricists": null,
+    "album": "Exxxclusive (Best Of - Zlatá Kolekce)",
+    "release_year": 2016,
+    "duration_ms": 197000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

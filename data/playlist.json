@@ -5,7 +5,16 @@
     "artist": "Meat Loaf",
     "date": "16.10.2025",
     "time": "23:06",
-    "listeners": 557
+    "listeners": 557,
+    "lyricists": null,
+    "album": "Bat Out Of Hell II: Back Into Hell (Deluxe)",
+    "release_year": 1996,
+    "duration_ms": 316467,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Bartošová Iveta",
     "date": "16.10.2025",
     "time": "23:03",
-    "listeners": 557
+    "listeners": 557,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 172600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Maduar",
     "date": "16.10.2025",
     "time": "22:58",
-    "listeners": 558
+    "listeners": 558,
+    "lyricists": null,
+    "album": "Hafanana the Best of, Vol. 2",
+    "release_year": 1994,
+    "duration_ms": 336773,
+    "artist_country": "SK",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Suzi Quatro",
     "date": "16.10.2025",
     "time": "22:54",
-    "listeners": 559
+    "listeners": 559,
+    "lyricists": null,
+    "album": "If You Knew Suzi… (2017 Remaster)",
+    "release_year": 1988,
+    "duration_ms": 232994,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Imt Smile",
     "date": "17.10.2025",
     "time": "00:41",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Hlava Ma Sedem Otvorov",
+    "release_year": 2015,
+    "duration_ms": 189787,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Pointer Sisters, The",
     "date": "17.10.2025",
     "time": "00:37",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1982,
+    "duration_ms": 228440,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "No Doubt",
     "date": "17.10.2025",
     "time": "00:33",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Tragic Kingdom",
+    "release_year": 1997,
+    "duration_ms": 263533,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

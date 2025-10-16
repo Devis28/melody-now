@@ -5,7 +5,16 @@
     "artist": "Big Mountain",
     "date": "16.10.2025",
     "time": "15:53",
-    "listeners": 1839
+    "listeners": 1839,
+    "lyricists": null,
+    "album": "Unity",
+    "release_year": 1994,
+    "duration_ms": 249520,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

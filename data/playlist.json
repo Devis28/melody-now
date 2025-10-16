@@ -1,6 +1,190 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nie Alebo Áno",
+    "artist": "No Name",
+    "date": "16.10.2025",
+    "time": "04:40",
+    "listeners": 224
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Štesti Je Krasna Vec",
+    "artist": "Müller Richard",
+    "date": "16.10.2025",
+    "time": "04:35",
+    "listeners": 221
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kto Z Nás Dvoch Sa Lásky Opýta?",
+    "artist": "Team",
+    "date": "16.10.2025",
+    "time": "04:31",
+    "listeners": 200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Self Control",
+    "artist": "Branigan Laura",
+    "date": "16.10.2025",
+    "time": "04:27",
+    "listeners": 207
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ona Je Taká",
+    "artist": "Polemic",
+    "date": "16.10.2025",
+    "time": "04:24",
+    "listeners": 209
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bon Soir, Mademoiselle Paris",
+    "artist": "Shalom",
+    "date": "16.10.2025",
+    "time": "04:21",
+    "listeners": 208
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ztraceny Raj",
+    "artist": "Vaso Patejdl A Heidi Janku",
+    "date": "16.10.2025",
+    "time": "04:17",
+    "listeners": 202
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Sign",
+    "artist": "Ace Of Base",
+    "date": "16.10.2025",
+    "time": "04:14",
+    "listeners": 203
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "16.10.2025",
+    "time": "04:09",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "date": "16.10.2025",
+    "time": "04:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Náhlenie",
+    "artist": "Heckovci Julia A Peter",
+    "date": "16.10.2025",
+    "time": "04:00",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "16.10.2025",
+    "time": "03:56",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "16.10.2025",
+    "time": "03:53",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "There's A Party",
+    "artist": "Dj Bobo",
+    "date": "16.10.2025",
+    "time": "03:48",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kdo Vchází Do Tvých Snů Má Lásko",
+    "artist": "Neckář Václav",
+    "date": "16.10.2025",
+    "time": "03:43",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Je Tu Láska",
+    "artist": "Peter Nagy",
+    "date": "16.10.2025",
+    "time": "03:40",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "If I Could Turn Back Time",
+    "artist": "Cher",
+    "date": "16.10.2025",
+    "time": "03:36",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "G8",
+    "date": "16.10.2025",
+    "time": "03:32",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Všetci Sa Zídeme V Jednej Posteli",
+    "artist": "Robo Grigorov",
+    "date": "16.10.2025",
+    "time": "03:29",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bamboléo",
+    "artist": "Gipsy Kings",
+    "date": "16.10.2025",
+    "time": "03:26",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Včely",
+    "artist": "Smatanová Zuzana",
+    "date": "16.10.2025",
+    "time": "03:23",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Knowing Me, Knowing You",
+    "artist": "Abba",
+    "date": "16.10.2025",
+    "time": "03:19",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Největší Z Nálezů A Ztrát",
+    "artist": "David Michal",
+    "date": "16.10.2025",
+    "time": "03:15",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Maťo A Linda",
     "artist": "Hex",
     "date": "16.10.2025",

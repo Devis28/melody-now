@@ -10550,5 +10550,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "elton john|nikita": {
+    "release_year": 1997,
+    "artist_country": "GB",
+    "album": "Ice On Fire ((Remastered))",
+    "duration_ms": 343240,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

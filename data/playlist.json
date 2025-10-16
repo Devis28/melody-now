@@ -5,7 +5,15 @@
     "artist": "The Bee Gees",
     "date": "16.10.2025",
     "time": "05:24",
-    "listeners": 402
+    "listeners": 402,
+    "lyricists": null,
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "release_year": 2000,
+    "duration_ms": 246241,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dubasová Beáta",
     "date": "16.10.2025",
     "time": "05:20",
-    "listeners": 387
+    "listeners": 387,
+    "lyricists": null,
+    "album": "Beáta",
+    "release_year": 1987,
+    "duration_ms": 255360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Kamen, Nick",
     "date": "16.10.2025",
     "time": "05:17",
-    "listeners": 374
+    "listeners": 374,
+    "lyricists": null,
+    "album": "Move Until We Fly",
+    "release_year": 1990,
+    "duration_ms": 240773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "16.10.2025",
     "time": "05:13",
-    "listeners": 350
+    "listeners": 350,
+    "lyricists": null,
+    "album": "Holky Z Naší Školky",
+    "release_year": 2010,
+    "duration_ms": 232493,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,18 @@
     "artist": "Robbie Williams",
     "date": "16.10.2025",
     "time": "05:09",
-    "listeners": 311
+    "listeners": 311,
+    "lyricists": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ],
+    "album": "Escapology",
+    "release_year": 2009,
+    "duration_ms": 263867,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Gott Karel & Olympic",
     "date": "16.10.2025",
     "time": "05:06",
-    "listeners": 286
+    "listeners": 286,
+    "lyricists": null,
+    "album": "Cesta Rájem",
+    "release_year": 1965,
+    "duration_ms": 116573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +104,15 @@
     "artist": "Belinda Carlisle",
     "date": "16.10.2025",
     "time": "05:02",
-    "listeners": 260
+    "listeners": 260,
+    "lyricists": null,
+    "album": "Heaven on Earth",
+    "release_year": 2005,
+    "duration_ms": 247093,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +120,16 @@
     "artist": "Imt Smile",
     "date": "16.10.2025",
     "time": "04:58",
-    "listeners": 252
+    "listeners": 252,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 231800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +137,19 @@
     "artist": "Ben E. King",
     "date": "16.10.2025",
     "time": "04:55",
-    "listeners": 278
+    "listeners": 278,
+    "lyricists": [
+      "Ben E. King",
+      "Jerry Leiber",
+      "Mike Stoller"
+    ],
+    "album": "The Very Best of Ben E. King",
+    "release_year": 2024,
+    "duration_ms": 174800,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +157,15 @@
     "artist": "Mária Čírová",
     "date": "16.10.2025",
     "time": "04:52",
-    "listeners": 264
+    "listeners": 264,
+    "lyricists": null,
+    "album": "Unikát - Single",
+    "release_year": 2016,
+    "duration_ms": 206360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +173,16 @@
     "artist": "Ramazzotti Eros",
     "date": "16.10.2025",
     "time": "04:48",
-    "listeners": 253
+    "listeners": 253,
+    "lyricists": null,
+    "album": "9",
+    "release_year": 2003,
+    "duration_ms": 237880,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +190,16 @@
     "artist": "Baltimora",
     "date": "16.10.2025",
     "time": "04:44",
-    "listeners": 253
+    "listeners": 253,
+    "lyricists": null,
+    "album": "Living In the Background",
+    "release_year": 1997,
+    "duration_ms": 378947,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

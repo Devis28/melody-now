@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Everybody Hurts",
+    "artist": "R.E.M.",
+    "date": "16.10.2025",
+    "time": "14:17",
+    "listeners": 843
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cherish",
+    "artist": "Madonna",
+    "date": "16.10.2025",
+    "time": "14:12",
+    "listeners": 922
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šaty",
+    "artist": "Gombitová Marika",
+    "date": "16.10.2025",
+    "time": "14:08",
+    "listeners": 1010
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Only Time (Two Tribes Remix))",
+    "artist": "Enya",
+    "date": "16.10.2025",
+    "time": "14:05",
+    "listeners": 932
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "date": "16.10.2025",
+    "time": "14:01",
+    "listeners": 1053
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "74 - 75",
+    "artist": "The Connells",
+    "date": "16.10.2025",
+    "time": "13:53",
+    "listeners": 1176
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ôsmy Svetadiel",
     "artist": "Elán",
     "date": "16.10.2025",

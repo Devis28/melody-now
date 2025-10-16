@@ -10435,5 +10435,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "robo grigorov|všetci sa zídeme v jednej posteli": {
+    "release_year": 1992,
+    "artist_country": "SK",
+    "album": "Chýbaš Mi...",
+    "duration_ms": 253597,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -5,7 +5,15 @@
     "artist": "Müller Richard",
     "date": "16.10.2025",
     "time": "11:25",
-    "listeners": 1234
+    "listeners": 1234,
+    "lyricists": null,
+    "album": "Nocna Optika",
+    "release_year": 2002,
+    "duration_ms": 299880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Eruption",
     "date": "16.10.2025",
     "time": "11:22",
-    "listeners": 1272
+    "listeners": 1272,
+    "lyricists": [
+      "Eruption"
+    ],
+    "album": "4 Hits: Eruption - EP",
+    "release_year": 2016,
+    "duration_ms": 213200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "The Bangles",
     "date": "16.10.2025",
     "time": "11:19",
-    "listeners": 1197
+    "listeners": 1197,
+    "lyricists": null,
+    "album": "The Bangles Greatest Hits",
+    "release_year": 2022,
+    "duration_ms": 184863,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Nagy Peter",
     "date": "16.10.2025",
     "time": "11:15",
-    "listeners": 1229
+    "listeners": 1229,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2009,
+    "duration_ms": 264040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Smokie",
     "date": "16.10.2025",
     "time": "11:11",
-    "listeners": 1023
+    "listeners": 1023,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2009,
+    "duration_ms": 237667,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Brontosauři",
     "date": "16.10.2025",
     "time": "11:08",
-    "listeners": 1072
+    "listeners": 1072,
+    "lyricists": null,
+    "album": "Vsechny Hity",
+    "release_year": 1991,
+    "duration_ms": 133293,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Enrique Iglesias",
     "date": "16.10.2025",
     "time": "11:04",
-    "listeners": 994
+    "listeners": 994,
+    "lyricists": null,
+    "album": "Enrique",
+    "release_year": 1999,
+    "duration_ms": 212693,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "The Beatles",
     "date": "16.10.2025",
     "time": "11:00",
-    "listeners": 1030
+    "listeners": 1030,
+    "lyricists": null,
+    "album": "Let It Be",
+    "release_year": 1994,
+    "duration_ms": 243027,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

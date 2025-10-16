@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "16.10.2025",
+    "time": "09:42",
+    "listeners": 1299
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Y.M.C.A",
+    "artist": "Village People",
+    "date": "16.10.2025",
+    "time": "09:38",
+    "listeners": 1253
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Človečina",
+    "artist": "Elán",
+    "date": "16.10.2025",
+    "time": "09:34",
+    "listeners": 1387
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Stay",
     "artist": "Shakespear's Sister",
     "date": "16.10.2025",

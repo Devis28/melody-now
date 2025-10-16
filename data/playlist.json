@@ -5,7 +5,15 @@
     "artist": "Kryštof",
     "date": "16.10.2025",
     "time": "13:43",
-    "listeners": 1129
+    "listeners": 1129,
+    "lyricists": null,
+    "album": "Polocas",
+    "release_year": 2007,
+    "duration_ms": 206667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Nazareth",
     "date": "16.10.2025",
     "time": "13:39",
-    "listeners": 1111
+    "listeners": 1111,
+    "lyricists": null,
+    "album": "Hair of the Dog",
+    "release_year": 2002,
+    "duration_ms": 232120,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

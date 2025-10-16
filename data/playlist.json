@@ -5,7 +5,15 @@
     "artist": "Mamas & The Papas",
     "date": "17.10.2025",
     "time": "01:52",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "If You Can Believe Your Eyes and Ears",
+    "release_year": 1991,
+    "duration_ms": 162373,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Adams Bryan",
     "date": "17.10.2025",
     "time": "01:48",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Waking Up the Neighbours",
+    "release_year": 1991,
+    "duration_ms": 393640,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Heckovci Peter A Julia",
     "date": "17.10.2025",
     "time": "01:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 219095,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "A Ty Se Ptáš Co Já",
+    "artist": "Helena Vondracková",
+    "date": "16.10.2025",
+    "time": "12:28",
+    "listeners": 1730
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "16.10.2025",
+    "time": "12:25",
+    "listeners": 1624
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Especially For You",
+    "artist": "Minogue Kylie & Donovan Jason",
+    "date": "16.10.2025",
+    "time": "12:22",
+    "listeners": 1557
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Snad Jsem To Zavinil Já",
+    "artist": "Olympic",
+    "date": "16.10.2025",
+    "time": "12:19",
+    "listeners": 1602
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sadeness-Part 1",
+    "artist": "Enigma",
+    "date": "16.10.2025",
+    "time": "12:14",
+    "listeners": 1511
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "16.10.2025",
+    "time": "12:08",
+    "listeners": 1595
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Saxana",
+    "artist": "Petra Černocká",
+    "date": "16.10.2025",
+    "time": "12:06",
+    "listeners": 1594
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "16.10.2025",
+    "time": "12:01",
+    "listeners": 1451
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Bed Of Roses",
     "artist": "Bon Jovi",
     "date": "16.10.2025",

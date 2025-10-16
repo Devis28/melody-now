@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ján Ámos Džínový",
+    "artist": "Metalinda",
+    "date": "16.10.2025",
+    "time": "17:25",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Is In The Air",
+    "artist": "John Paul Young",
+    "date": "16.10.2025",
+    "time": "17:22",
+    "listeners": 3165
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "To Je Naše Věc",
+    "artist": "David Michal Bartošová Iveta",
+    "date": "16.10.2025",
+    "time": "17:18",
+    "listeners": 3148
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Without You",
     "artist": "Mariah Carey",
     "date": "16.10.2025",

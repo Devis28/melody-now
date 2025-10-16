@@ -10486,5 +10486,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "elton john|i'm still standing": {
+    "release_year": 1987,
+    "artist_country": "GB",
+    "album": "Too Low For Zero (Bonus Track Version)",
+    "duration_ms": 183440,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

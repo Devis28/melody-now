@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hrám",
+    "artist": "Karol Duchoň",
+    "date": "16.10.2025",
+    "time": "10:28",
+    "listeners": 872
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Happy People",
+    "artist": "Prince Ital Joe Feat.Marky Mark",
+    "date": "16.10.2025",
+    "time": "10:24",
+    "listeners": 895
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Daruj Mi Svoj Najkrajší Deň",
+    "artist": "Gravis",
+    "date": "16.10.2025",
+    "time": "10:21",
+    "listeners": 896
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "16.10.2025",
+    "time": "10:17",
+    "listeners": 890
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Miliónkrát",
+    "artist": "Žbirka Miro",
+    "date": "16.10.2025",
+    "time": "10:13",
+    "listeners": 887
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Reklama Na Ticho",
+    "artist": "Team",
+    "date": "16.10.2025",
+    "time": "10:08",
+    "listeners": 929
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "El Condor Pasa",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "16.10.2025",
+    "time": "10:05",
+    "listeners": 1060
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "16.10.2025",
+    "time": "10:00",
+    "listeners": 1065
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Leave A Light On",
     "artist": "Carlisle Belinda",
     "date": "16.10.2025",

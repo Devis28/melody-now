@@ -5,7 +5,15 @@
     "artist": "Lenka Filipová",
     "date": "16.10.2025",
     "time": "13:36",
-    "listeners": 1188
+    "listeners": 1188,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 2007,
+    "duration_ms": 213253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,19 @@
     "artist": "Dario G",
     "date": "16.10.2025",
     "time": "13:32",
-    "listeners": 1389
+    "listeners": 1389,
+    "lyricists": [
+      "Dario G",
+      "Gilbert Gabriel",
+      "Nick Laird-Clowes"
+    ],
+    "album": "Sunmachine",
+    "release_year": 2016,
+    "duration_ms": 379200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Kiss",
     "date": "16.10.2025",
     "time": "13:27",
-    "listeners": 1304
+    "listeners": 1304,
+    "lyricists": null,
+    "album": "KISS Off The Soundboard: Live In Virginia Beach",
+    "release_year": 2013,
+    "duration_ms": 372867,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

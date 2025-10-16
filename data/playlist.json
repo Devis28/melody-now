@@ -5,7 +5,15 @@
     "artist": "Slivová Silvia",
     "date": "16.10.2025",
     "time": "06:23",
-    "listeners": 1290
+    "listeners": 1290,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 233373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Mc Erik And Barbara",
     "date": "16.10.2025",
     "time": "06:19",
-    "listeners": 1306
+    "listeners": 1306,
+    "lyricists": null,
+    "album": "Second",
+    "release_year": 1996,
+    "duration_ms": 218427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,17 @@
     "artist": "Harpo",
     "date": "16.10.2025",
     "time": "06:16",
-    "listeners": 1187
+    "listeners": 1187,
+    "lyricists": [
+      "Harpo"
+    ],
+    "album": "Moviestar",
+    "release_year": 2002,
+    "duration_ms": 202280,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Modus",
     "date": "16.10.2025",
     "time": "06:12",
-    "listeners": 1060
+    "listeners": 1060,
+    "lyricists": null,
+    "album": "Kamil Peteraj \"80\"",
+    "release_year": 2005,
+    "duration_ms": 242787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Fool's Garden",
     "date": "16.10.2025",
     "time": "06:06",
-    "listeners": 948
+    "listeners": 948,
+    "lyricists": null,
+    "album": "Dish of the Day",
+    "release_year": 1995,
+    "duration_ms": 191027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Abba",
     "date": "16.10.2025",
     "time": "06:02",
-    "listeners": 861
+    "listeners": 861,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1989,
+    "duration_ms": 251298,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

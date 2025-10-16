@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hungry Eyes",
+    "artist": "Carmen, Eric",
+    "date": "16.10.2025",
+    "time": "13:08",
+    "listeners": 1383
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Je To Vo Hviezdach",
+    "artist": "Pavol Habera",
+    "date": "16.10.2025",
+    "time": "13:05",
+    "listeners": 1345
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veľký Sen Mora",
+    "artist": "Modus",
+    "date": "16.10.2025",
+    "time": "13:01",
+    "listeners": 1549
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Something's Gotten Hold Of My Heart",
     "artist": "Gene Pitney/Marc Almond",
     "date": "16.10.2025",

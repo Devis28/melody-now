@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "16.10.2025",
     "time": "20:56",
-    "listeners": 1236
+    "listeners": 1236,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2007,
+    "duration_ms": 304554,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Gibson Brothers",
     "date": "16.10.2025",
     "time": "20:53",
-    "listeners": 1232
+    "listeners": 1232,
+    "lyricists": null,
+    "album": "Cuba",
+    "release_year": 2005,
+    "duration_ms": 352533,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

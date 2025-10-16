@@ -5,7 +5,15 @@
     "artist": "Hex",
     "date": "16.10.2025",
     "time": "03:11",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2015,
+    "duration_ms": 254000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Inner Circle",
     "date": "16.10.2025",
     "time": "03:06",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "Sweat (A La La La La Long) - Single",
+    "release_year": 1993,
+    "duration_ms": 227067,
+    "artist_country": "JM",
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Ricchi E Poveri",
     "date": "16.10.2025",
     "time": "03:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1987,
+    "duration_ms": 190693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Juanes",
     "date": "16.10.2025",
     "time": "02:59",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Juanes"
+    ],
+    "album": "Mi Sangre",
+    "release_year": 2005,
+    "duration_ms": 216707,
+    "artist_country": "CO",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "The Beatles",
     "date": "16.10.2025",
     "time": "02:56",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Abbey Road (Remastered)",
+    "release_year": 1978,
+    "duration_ms": 185733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Cmorík Peter",
     "date": "16.10.2025",
     "time": "02:51",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Nadherny Den",
+    "release_year": 2006,
+    "duration_ms": 267587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,16 @@
     "artist": "Beloved, The",
     "date": "16.10.2025",
     "time": "02:47",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Conscience",
+    "release_year": 1989,
+    "duration_ms": 301467,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Paris Ryan",
     "date": "16.10.2025",
     "time": "02:43",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "80s Hit News",
+    "release_year": 1990,
+    "duration_ms": 235707,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +134,16 @@
     "artist": "Pavol Habera",
     "date": "16.10.2025",
     "time": "02:40",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +151,15 @@
     "artist": "Filipová Lenka",
     "date": "16.10.2025",
     "time": "02:36",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 1980,
+    "duration_ms": 245227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +167,13 @@
     "artist": "Peter & Julia Heckovci",
     "date": "16.10.2025",
     "time": "02:31",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +181,15 @@
     "artist": "The Art Company",
     "date": "16.10.2025",
     "time": "02:27",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Susanna - Single",
+    "release_year": 2023,
+    "duration_ms": 285062,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +197,15 @@
     "artist": "Marika Gombitová & Karel Gott",
     "date": "16.10.2025",
     "time": "02:22",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1998,
+    "duration_ms": 262373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +213,15 @@
     "artist": "Westlife",
     "date": "16.10.2025",
     "time": "02:18",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Love Album",
+    "release_year": 2007,
+    "duration_ms": 279619,
+    "artist_country": "IE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +229,15 @@
     "artist": "Grigorov Robo Midi",
     "date": "16.10.2025",
     "time": "02:14",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +245,15 @@
     "artist": "Alexandra Burke",
     "date": "16.10.2025",
     "time": "02:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Overcome (Deluxe Edition)",
+    "release_year": 2018,
+    "duration_ms": 217827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +261,15 @@
     "artist": "Peter Nagy",
     "date": "16.10.2025",
     "time": "02:07",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2011,
+    "duration_ms": 171240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +277,15 @@
     "artist": "Abba",
     "date": "16.10.2025",
     "time": "02:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1981,
+    "duration_ms": 274867,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +293,16 @@
     "artist": "Elán",
     "date": "16.10.2025",
     "time": "01:59",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Legenda 1",
+    "release_year": 2003,
+    "duration_ms": 240000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +310,15 @@
     "artist": "Snap",
     "date": "16.10.2025",
     "time": "01:55",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Madman's Return",
+    "release_year": 1998,
+    "duration_ms": 332230,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

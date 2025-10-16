@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Power Of Love",
+    "artist": "Rush Jennifer",
+    "date": "16.10.2025",
+    "time": "21:36",
+    "listeners": 1061
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "16.10.2025",
+    "time": "21:32",
+    "listeners": 1082
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horúca Láska",
+    "artist": "Lukáš Adamec",
+    "date": "16.10.2025",
+    "time": "21:29",
+    "listeners": 1092
+  },
+  {
+    "station": "Rádio Melody",
     "title": "One More Try",
     "artist": "Timmy T",
     "date": "16.10.2025",

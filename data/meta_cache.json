@@ -10499,5 +10499,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "timmy t|one more try": {
+    "release_year": 1991,
+    "artist_country": "US",
+    "album": "Time After Time",
+    "duration_ms": 209427,
+    "lyricists": [
+      "Timmy T"
+    ],
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

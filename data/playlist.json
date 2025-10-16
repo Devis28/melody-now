@@ -5,7 +5,17 @@
     "artist": "Harpo",
     "date": "17.10.2025",
     "time": "00:18",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Harpo"
+    ],
+    "album": "Moviestar",
+    "release_year": 2002,
+    "duration_ms": 202280,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "Filipová Lenka",
     "date": "17.10.2025",
     "time": "00:14",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 1980,
+    "duration_ms": 243173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,16 @@
     "artist": "Habera Pavol & Ibrahim Maiga",
     "date": "17.10.2025",
     "time": "00:11",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2008,
+    "duration_ms": 226000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Fool's Garden",
     "date": "17.10.2025",
     "time": "00:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Dish of the Day",
+    "release_year": 1995,
+    "duration_ms": 191027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Slivová Silvia",
     "date": "17.10.2025",
     "time": "00:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 233373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

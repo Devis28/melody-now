@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Super Trouper",
+    "artist": "Abba",
+    "date": "17.10.2025",
+    "time": "00:47",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sen",
+    "artist": "Mc Erik And Barbara",
+    "date": "17.10.2025",
+    "time": "00:44",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mám Krásny Sen (Hawaii)",
     "artist": "Imt Smile",
     "date": "17.10.2025",

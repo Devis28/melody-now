@@ -5,7 +5,16 @@
     "artist": "Gene Pitney/Marc Almond",
     "date": "16.10.2025",
     "time": "12:53",
-    "listeners": 1518
+    "listeners": 1518,
+    "lyricists": null,
+    "album": "Hits and Pieces – The Best of Marc Almond & Soft Cell",
+    "release_year": 2016,
+    "duration_ms": 277140,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Abba",
     "date": "16.10.2025",
     "time": "12:49",
-    "listeners": 1533
+    "listeners": 1533,
+    "lyricists": null,
+    "album": "ABBA: The Album",
+    "release_year": 1994,
+    "duration_ms": 245540,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Robert Miles",
     "date": "16.10.2025",
     "time": "12:46",
-    "listeners": 1407
+    "listeners": 1407,
+    "lyricists": null,
+    "album": "Dance Vault Mixes: Robert Miles - Children - EP",
+    "release_year": 1996,
+    "duration_ms": 243267,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

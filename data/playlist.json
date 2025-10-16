@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "16.10.2025",
+    "time": "05:54",
+    "listeners": 832
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lovesong",
+    "artist": "Habera Pavol",
+    "date": "16.10.2025",
+    "time": "05:50",
+    "listeners": 700
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nothing's Gonna Stop Us Now",
     "artist": "Starship",
     "date": "16.10.2025",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Frozen",
+    "artist": "Madonna",
+    "date": "16.10.2025",
+    "time": "21:47",
+    "listeners": 996
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvojčatá",
+    "artist": "Patejdl Vašo",
+    "date": "16.10.2025",
+    "time": "21:42",
+    "listeners": 1008
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Power Of Love",
     "artist": "Rush Jennifer",
     "date": "16.10.2025",

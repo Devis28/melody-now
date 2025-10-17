@@ -5,7 +5,15 @@
     "artist": "Peter Nagy",
     "date": "17.10.2025",
     "time": "11:50",
-    "listeners": 1326
+    "listeners": 1326,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2004,
+    "duration_ms": 256667,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Streisand Barbra",
     "date": "17.10.2025",
     "time": "11:46",
-    "listeners": 1424
+    "listeners": 1424,
+    "lyricists": null,
+    "album": "Guilty",
+    "release_year": 1980,
+    "duration_ms": 233400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

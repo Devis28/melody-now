@@ -5,7 +5,18 @@
     "artist": "Gazebo",
     "date": "17.10.2025",
     "time": "02:55",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": [
+      "Gazebo",
+      "Pierluigi Giombini"
+    ],
+    "album": "The Collection",
+    "release_year": 2000,
+    "duration_ms": 248440,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Joel Billy",
     "date": "17.10.2025",
     "time": "02:51",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "River of Dreams",
+    "release_year": 1993,
+    "duration_ms": 245893,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Miro Žbirka",
     "date": "17.10.2025",
     "time": "02:48",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Symphonic Album",
+    "release_year": 2007,
+    "duration_ms": 215293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Queen",
     "date": "17.10.2025",
     "time": "02:44",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1991,
+    "duration_ms": 271610,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,17 @@
     "artist": "Jana Kirschner",
     "date": "17.10.2025",
     "time": "02:40",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Jana Kirschner"
+    ],
+    "album": "16 Naj Pesničiek",
+    "release_year": 2000,
+    "duration_ms": 240987,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,15 @@
     "artist": "Kershaw Nik",
     "date": "17.10.2025",
     "time": "02:37",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Human Racing",
+    "release_year": 1983,
+    "duration_ms": 203853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,15 @@
     "artist": "Gott Karel",
     "date": "17.10.2025",
     "time": "02:33",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Jágr vs Gott - Single",
+    "release_year": 2018,
+    "duration_ms": 190549,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +122,15 @@
     "artist": "Smatanová Zuzana",
     "date": "17.10.2025",
     "time": "02:29",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Tabletky Odvahy",
+    "release_year": 2007,
+    "duration_ms": 240883,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +138,15 @@
     "artist": "Carlisle Belinda",
     "date": "17.10.2025",
     "time": "02:25",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Runaway Horses: The Tour (Live)",
+    "release_year": 1990,
+    "duration_ms": 266253,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +154,18 @@
     "artist": "Robo Grigorov",
     "date": "17.10.2025",
     "time": "02:21",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "album": "Balady",
+    "release_year": 1997,
+    "duration_ms": 256613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +173,15 @@
     "artist": "B. J. Thomas",
     "date": "17.10.2025",
     "time": "02:18",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Raindrops Keep Fallin' On My Head",
+    "release_year": 1996,
+    "duration_ms": 184493,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +189,15 @@
     "artist": "Rolincová Darina",
     "date": "17.10.2025",
     "time": "02:15",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Kto Chce & Ak Náhodou - Single",
+    "release_year": 1987,
+    "duration_ms": 163067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +205,16 @@
     "artist": "Team",
     "date": "17.10.2025",
     "time": "02:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Team Hity",
+    "release_year": 1991,
+    "duration_ms": 267693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +222,15 @@
     "artist": "Guns N Roses",
     "date": "17.10.2025",
     "time": "02:06",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Use Your Illusion I",
+    "release_year": 1991,
+    "duration_ms": 536067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +238,15 @@
     "artist": "Zenit",
     "date": "17.10.2025",
     "time": "02:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 233960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +254,15 @@
     "artist": "Kryštof ft. Sima Martausová",
     "date": "17.10.2025",
     "time": "01:58",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Hvězdáři (feat. Sima Martausová) - Single",
+    "release_year": 2019,
+    "duration_ms": 242553,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +270,15 @@
     "artist": "Cher",
     "date": "17.10.2025",
     "time": "01:55",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Love Hurts",
+    "release_year": 1999,
+    "duration_ms": 170000,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sharazan",
+    "artist": "Al Bano & Romina Power",
+    "date": "17.10.2025",
+    "time": "12:25",
+    "listeners": 1523
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sweet Dreams",
+    "artist": "Eurythmics",
+    "date": "17.10.2025",
+    "time": "12:22",
+    "listeners": 1631
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnko Nevychádzaj",
+    "artist": "Metalinda",
+    "date": "17.10.2025",
+    "time": "12:17",
+    "listeners": 1504
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Gloria",
+    "artist": "Tozzi, Umberto",
+    "date": "17.10.2025",
+    "time": "12:13",
+    "listeners": 1578
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pár Přátel",
+    "artist": "Michal David",
+    "date": "17.10.2025",
+    "time": "12:08",
+    "listeners": 1509
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "All That She Wants",
+    "artist": "Ace Of Base",
+    "date": "17.10.2025",
+    "time": "12:04",
+    "listeners": 1518
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvý Bozk",
+    "artist": "Hammel Pavol",
+    "date": "17.10.2025",
+    "time": "12:02",
+    "listeners": 1406
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Please Forgive Me",
     "artist": "Bryan Adams",
     "date": "17.10.2025",

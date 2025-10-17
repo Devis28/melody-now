@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Go West",
+    "artist": "Pet Shop Boys",
+    "date": "17.10.2025",
+    "time": "06:37",
+    "listeners": 1590
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "17.10.2025",
+    "time": "06:33",
+    "listeners": 1651
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pokoj V Duši",
+    "artist": "Jana Kirschner",
+    "date": "17.10.2025",
+    "time": "06:30",
+    "listeners": 1414
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "17.10.2025",
+    "time": "06:22",
+    "listeners": 1328
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čerešně",
+    "artist": "Hana Hegerová",
+    "date": "17.10.2025",
+    "time": "06:19",
+    "listeners": 1166
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Proč Mě Nikdo Nemá Rád",
+    "artist": "Ilona Csáková",
+    "date": "17.10.2025",
+    "time": "06:15",
+    "listeners": 1051
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Daddy Cool",
     "artist": "Boney M",
     "date": "17.10.2025",

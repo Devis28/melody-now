@@ -10800,5 +10800,14 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "new order|true faith": {
+    "release_year": 2003,
+    "artist_country": "GB",
+    "album": "iTunes Originals: New Order",
+    "duration_ms": 349200,
+    "genres": [
+      "Pop"
+    ]
   }
 }

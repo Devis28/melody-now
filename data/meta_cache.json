@@ -10764,5 +10764,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "undercover|never let her slip away": {
+    "release_year": 1993,
+    "artist_country": "GB",
+    "album": "Never Let Her Slip Away - Single",
+    "duration_ms": 302640,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

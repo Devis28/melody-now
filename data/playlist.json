@@ -5,7 +5,13 @@
     "artist": "R.E.M.",
     "date": "17.10.2025",
     "time": "20:28",
-    "listeners": 1347
+    "listeners": 1347,
+    "lyricists": null,
+    "album": "Out of Time (25th Anniversary Edition)",
+    "release_year": 2004,
+    "duration_ms": 268427,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,18 @@
     "artist": "Madonna",
     "date": "17.10.2025",
     "time": "20:24",
-    "listeners": 1470
+    "listeners": 1470,
+    "lyricists": [
+      "Madonna",
+      "Stephen Bray"
+    ],
+    "album": "Celebration (Deluxe Version)",
+    "release_year": 2021,
+    "duration_ms": 285093,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,18 @@
     "artist": "Dr. Alban",
     "date": "17.10.2025",
     "time": "20:20",
-    "listeners": 1398
+    "listeners": 1398,
+    "lyricists": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ],
+    "album": "One Love",
+    "release_year": 1994,
+    "duration_ms": 243133,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,13 @@
     "artist": "Lipps Inc",
     "date": "17.10.2025",
     "time": "20:16",
-    "listeners": 1424
+    "listeners": 1424,
+    "lyricists": null,
+    "album": "Shrek 2 (Original Motion Picture Soundtrack)",
+    "release_year": 1979,
+    "duration_ms": 239827,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Erasure",
     "date": "17.10.2025",
     "time": "20:13",
-    "listeners": 1469
+    "listeners": 1469,
+    "lyricists": null,
+    "album": "The Circus (2011 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 217056,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "La Bouche",
     "date": "17.10.2025",
     "time": "20:09",
-    "listeners": 1587
+    "listeners": 1587,
+    "lyricists": null,
+    "album": "La Bouche: Greatest Hits",
+    "release_year": 1996,
+    "duration_ms": 204587,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,16 @@
     "artist": "Opus",
     "date": "17.10.2025",
     "time": "20:05",
-    "listeners": 1604
+    "listeners": 1604,
+    "lyricists": null,
+    "album": "Live Is Life - Single",
+    "release_year": 1991,
+    "duration_ms": 249500,
+    "artist_country": "AT",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +120,15 @@
     "artist": "Ledecký Janek",
     "date": "17.10.2025",
     "time": "20:00",
-    "listeners": 1494
+    "listeners": 1494,
+    "lyricists": null,
+    "album": "Právě teď",
+    "release_year": 1993,
+    "duration_ms": 269120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

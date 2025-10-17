@@ -5,7 +5,15 @@
     "artist": "Louis Armstrong",
     "date": "17.10.2025",
     "time": "16:47",
-    "listeners": 2716
+    "listeners": 2716,
+    "lyricists": null,
+    "album": "What a Wonderful World",
+    "release_year": 1996,
+    "duration_ms": 139434,
+    "artist_country": "US",
+    "genres": [
+      "Jazz"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Team",
     "date": "17.10.2025",
     "time": "16:41",
-    "listeners": 2768
+    "listeners": 2768,
+    "lyricists": null,
+    "album": "Team 3",
+    "release_year": 1994,
+    "duration_ms": 242760,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Marika Gombitová",
     "date": "17.10.2025",
     "time": "16:39",
-    "listeners": 2825
+    "listeners": 2825,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 1998,
+    "duration_ms": 162187,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

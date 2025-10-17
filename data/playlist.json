@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Láska Je Tu S Nami",
+    "artist": "Peter Nagy",
+    "date": "17.10.2025",
+    "time": "11:50",
+    "listeners": 1326
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Woman In Love",
+    "artist": "Streisand Barbra",
+    "date": "17.10.2025",
+    "time": "11:46",
+    "listeners": 1424
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ona Je Madona",
     "artist": "Grigorov Robo",
     "date": "17.10.2025",

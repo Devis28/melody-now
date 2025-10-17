@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Se Bastasse Una Canzone",
+    "artist": "Ramazzotti Eros",
+    "date": "18.10.2025",
+    "time": "01:46",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vyrobená Pre Mňa",
+    "artist": "Desmod",
+    "date": "18.10.2025",
+    "time": "01:42",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
     "title": "La Luna",
     "artist": "Belinda Carlisle",
     "date": "18.10.2025",

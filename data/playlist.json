@@ -5,7 +5,15 @@
     "artist": "Ub 40",
     "date": "17.10.2025",
     "time": "12:43",
-    "listeners": 1637
+    "listeners": 1637,
+    "lyricists": null,
+    "album": "The Very Best Of",
+    "release_year": 1989,
+    "duration_ms": 230000,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "I.M.T. Smile",
     "date": "17.10.2025",
     "time": "12:39",
-    "listeners": 1642
+    "listeners": 1642,
+    "lyricists": null,
+    "album": "2010 Odysea Dva",
+    "release_year": 2020,
+    "duration_ms": 232120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "The Beatles",
     "date": "17.10.2025",
     "time": "12:37",
-    "listeners": 1678
+    "listeners": 1678,
+    "lyricists": null,
+    "album": "Help!",
+    "release_year": 1965,
+    "duration_ms": 125667,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Elán",
     "date": "17.10.2025",
     "time": "12:33",
-    "listeners": 1724
+    "listeners": 1724,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1987,
+    "duration_ms": 194973,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,16 @@
     "artist": "Dj Bobo",
     "date": "17.10.2025",
     "time": "12:29",
-    "listeners": 1715
+    "listeners": 1715,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 1999,
+    "duration_ms": 212893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

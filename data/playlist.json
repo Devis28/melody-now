@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Don't Go Breaking My Heart",
+    "artist": "John Elton & Dee Kiki",
+    "date": "18.10.2025",
+    "time": "01:19",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dnes",
+    "artist": "Tublatanka",
+    "date": "18.10.2025",
+    "time": "01:14",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dnes Už Viem",
+    "artist": "Pavol Hammel",
+    "date": "18.10.2025",
+    "time": "01:11",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Senza Una Donna",
+    "artist": "Zucchero,Paul Young",
+    "date": "18.10.2025",
+    "time": "01:06",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voyage Voyage",
+    "artist": "Desirelles",
+    "date": "18.10.2025",
+    "time": "01:01",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Som V Tom",
     "artist": "Team",
     "date": "18.10.2025",

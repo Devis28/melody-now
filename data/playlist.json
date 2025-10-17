@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Winner Takes It All",
+    "artist": "Abba",
+    "date": "17.10.2025",
+    "time": "13:29",
+    "listeners": 1229
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ten Príbeh Je Preč",
+    "artist": "Beata Dubasová",
+    "date": "17.10.2025",
+    "time": "13:25",
+    "listeners": 1384
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Only You",
+    "artist": "Yazoo",
+    "date": "17.10.2025",
+    "time": "13:21",
+    "listeners": 1437
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Severní Vítr",
     "artist": "Jaroslav Uhlíř",
     "date": "17.10.2025",

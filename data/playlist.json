@@ -5,7 +5,15 @@
     "artist": "Bílá Lucie",
     "date": "17.10.2025",
     "time": "07:50",
-    "listeners": 3086
+    "listeners": 3086,
+    "lyricists": null,
+    "album": "Platinum Collection",
+    "release_year": 2004,
+    "duration_ms": 163853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Abba",
     "date": "17.10.2025",
     "time": "07:46",
-    "listeners": 2798
+    "listeners": 2798,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 2008,
+    "duration_ms": 231844,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

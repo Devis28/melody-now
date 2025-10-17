@@ -5,7 +5,15 @@
     "artist": "David Michal Kroky Františka Janečka",
     "date": "17.10.2025",
     "time": "09:35",
-    "listeners": 1291
+    "listeners": 1291,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 193239,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "17.10.2025",
     "time": "09:31",
-    "listeners": 1375
+    "listeners": 1375,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1981,
+    "duration_ms": 274867,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Grigorov Robo",
     "date": "17.10.2025",
     "time": "09:27",
-    "listeners": 1557
+    "listeners": 1557,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2008,
+    "duration_ms": 209427,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

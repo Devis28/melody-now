@@ -10809,5 +10809,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "ray parker jr.|ghostbusters": {
+    "release_year": 1989,
+    "artist_country": "US",
+    "album": "Ghostbusters (Original Motion Picture Soundtrack)",
+    "duration_ms": 244839,
+    "lyricists": [
+      "Ray Parker Jr."
+    ],
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   }
 }

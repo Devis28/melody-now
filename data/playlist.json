@@ -5,7 +5,15 @@
     "artist": "Janda Dalibor",
     "date": "17.10.2025",
     "time": "11:30",
-    "listeners": 1215
+    "listeners": 1215,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 232027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Norman Chris & Quatro Suzi",
     "date": "17.10.2025",
     "time": "11:26",
-    "listeners": 1164
+    "listeners": 1164,
+    "lyricists": null,
+    "album": "Collections: Smokie",
+    "release_year": 1977,
+    "duration_ms": 238200,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Zbirka Miro & Martha",
     "date": "17.10.2025",
     "time": "11:22",
-    "listeners": 1186
+    "listeners": 1186,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2001,
+    "duration_ms": 204173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Paradis, Vanessa",
     "date": "17.10.2025",
     "time": "11:19",
-    "listeners": 1242
+    "listeners": 1242,
+    "lyricists": null,
+    "album": "M & J (CD2)",
+    "release_year": 1987,
+    "duration_ms": 235227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Ricchi E Poveri",
     "date": "17.10.2025",
     "time": "11:16",
-    "listeners": 1165
+    "listeners": 1165,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1998,
+    "duration_ms": 175667,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,18 @@
     "artist": "Richard Müller",
     "date": "17.10.2025",
     "time": "11:12",
-    "listeners": 1136
+    "listeners": 1136,
+    "lyricists": [
+      "Ivan Tásler",
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2017,
+    "duration_ms": 307080,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

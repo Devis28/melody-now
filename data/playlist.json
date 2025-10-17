@@ -5,7 +5,15 @@
     "artist": "Gladiátor",
     "date": "17.10.2025",
     "time": "18:47",
-    "listeners": 2523
+    "listeners": 2523,
+    "lyricists": null,
+    "album": "Babylon Hotel",
+    "release_year": 2020,
+    "duration_ms": 236507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dočolomanský Michal",
     "date": "17.10.2025",
     "time": "18:44",
-    "listeners": 2626
+    "listeners": 2626,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 2008,
+    "duration_ms": 187943,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Elán",
     "date": "17.10.2025",
     "time": "18:40",
-    "listeners": 2554
+    "listeners": 2554,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 1992,
+    "duration_ms": 250547,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Palonder Marcel",
     "date": "17.10.2025",
     "time": "18:37",
-    "listeners": 2401
+    "listeners": 2401,
+    "lyricists": null,
+    "album": "Cudzinec v tvojom srdci",
+    "release_year": 1992,
+    "duration_ms": 244000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "The Real Mccoy",
     "date": "17.10.2025",
     "time": "23:35",
-    "listeners": 388
+    "listeners": 388,
+    "lyricists": null,
+    "album": "Another Night",
+    "release_year": 1994,
+    "duration_ms": 236933,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Wilde Kim",
     "date": "17.10.2025",
     "time": "23:31",
-    "listeners": 432
+    "listeners": 432,
+    "lyricists": null,
+    "album": "Another Step",
+    "release_year": 1986,
+    "duration_ms": 255220,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

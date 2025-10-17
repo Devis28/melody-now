@@ -10791,5 +10791,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "the real mccoy|another night": {
+    "release_year": 1994,
+    "artist_country": "DE",
+    "album": "Another Night",
+    "duration_ms": 236933,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

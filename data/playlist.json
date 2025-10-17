@@ -5,7 +5,15 @@
     "artist": "Rottrová Marie",
     "date": "18.10.2025",
     "time": "00:40",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 1970,
+    "duration_ms": 221453,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Guru Josh",
     "date": "18.10.2025",
     "time": "00:36",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Elán",
     "date": "18.10.2025",
     "time": "00:32",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Netvor z čiernej hviezdy Q7A",
+    "release_year": 2004,
+    "duration_ms": 238000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

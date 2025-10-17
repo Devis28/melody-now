@@ -5,7 +5,15 @@
     "artist": "Cara Irene",
     "date": "17.10.2025",
     "time": "20:52",
-    "listeners": 1412
+    "listeners": 1412,
+    "lyricists": null,
+    "album": "What a Feelin' (Bonus Track Version)",
+    "release_year": 1983,
+    "duration_ms": 237053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

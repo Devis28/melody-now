@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ľudia Nie Sú Zlí",
+    "artist": "I.M.T. Smile",
+    "date": "17.10.2025",
+    "time": "21:24",
+    "listeners": 1129
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "If Only I Could",
+    "artist": "Sydney Youngblood",
+    "date": "17.10.2025",
+    "time": "21:21",
+    "listeners": 1069
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "17.10.2025",
+    "time": "21:17",
+    "listeners": 1143
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cuba",
+    "artist": "The Gibson Brothers",
+    "date": "17.10.2025",
+    "time": "21:14",
+    "listeners": 1178
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Colu, Pijeme Colu",
     "artist": "Michal David",
     "date": "17.10.2025",

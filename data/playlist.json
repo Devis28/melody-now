@@ -5,7 +5,16 @@
     "artist": "Boney M",
     "date": "17.10.2025",
     "time": "06:12",
-    "listeners": 1031
+    "listeners": 1031,
+    "lyricists": null,
+    "album": "Daddy Cool",
+    "release_year": 2016,
+    "duration_ms": 206086,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,17 @@
     "artist": "Michael Jackson",
     "date": "17.10.2025",
     "time": "06:05",
-    "listeners": 965
+    "listeners": 965,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
+    "release_year": 1993,
+    "duration_ms": 219560,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Elán",
     "date": "17.10.2025",
     "time": "06:01",
-    "listeners": 863
+    "listeners": 863,
+    "lyricists": null,
+    "album": "Netvor z čiernej hviezdy Q7A",
+    "release_year": 2004,
+    "duration_ms": 238000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

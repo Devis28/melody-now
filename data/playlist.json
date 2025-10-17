@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "18.10.2025",
     "time": "00:28",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 257907,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Richard Cliff",
     "date": "18.10.2025",
     "time": "00:24",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Always Guaranteed (Remastered)",
+    "release_year": 1987,
+    "duration_ms": 231560,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "I.M.T. Smile & Nikol Štíbrová",
     "date": "18.10.2025",
     "time": "00:20",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "SRDCE ROZUM BLVD",
+    "release_year": 2021,
+    "duration_ms": 271597,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Jana Kirschner",
     "date": "18.10.2025",
     "time": "00:17",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Živá",
+    "release_year": 2017,
+    "duration_ms": 228594,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

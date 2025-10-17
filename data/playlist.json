@@ -5,7 +5,15 @@
     "artist": "Grigorov Robo",
     "date": "17.10.2025",
     "time": "11:43",
-    "listeners": 1385
+    "listeners": 1385,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Kaoma",
     "date": "17.10.2025",
     "time": "11:39",
-    "listeners": 1437
+    "listeners": 1437,
+    "lyricists": [
+      "Kaoma"
+    ],
+    "album": "La Lambada",
+    "release_year": 1991,
+    "duration_ms": 207467,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Vondráčková Helena",
     "date": "17.10.2025",
     "time": "11:37",
-    "listeners": 1249
+    "listeners": 1249,
+    "lyricists": null,
+    "album": "Růže Kvetou Dál",
+    "release_year": 1964,
+    "duration_ms": 154200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,19 @@
     "artist": "Sophie B. Hawkins",
     "date": "17.10.2025",
     "time": "11:33",
-    "listeners": 1312
+    "listeners": 1312,
+    "lyricists": [
+      "Rick Chertoff",
+      "Sophie B. Hawkins",
+      "Stewart Lerman"
+    ],
+    "album": "The Best of Sophie B. Hawkins",
+    "release_year": 2001,
+    "duration_ms": 286573,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

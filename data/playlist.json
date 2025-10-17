@@ -5,7 +5,18 @@
     "artist": "Seal",
     "date": "17.10.2025",
     "time": "16:12",
-    "listeners": 2014
+    "listeners": 2014,
+    "lyricists": [
+      "Guy Sigsworth",
+      "Seal"
+    ],
+    "album": "Seal: Hits (Deluxe Version)",
+    "release_year": 2001,
+    "duration_ms": 356520,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Modus",
     "date": "17.10.2025",
     "time": "16:10",
-    "listeners": 2163
+    "listeners": 2163,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 144240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,16 @@
     "artist": "Status Quo",
     "date": "17.10.2025",
     "time": "16:06",
-    "listeners": 1985
+    "listeners": 1985,
+    "lyricists": null,
+    "album": "In the Army Now - The Collection",
+    "release_year": 2010,
+    "duration_ms": 281147,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Cher",
     "date": "17.10.2025",
     "time": "16:03",
-    "listeners": 2190
+    "listeners": 2190,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 1999,
+    "duration_ms": 239027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

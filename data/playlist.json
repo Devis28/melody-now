@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ghostbusters",
+    "artist": "Ray Parker Jr.",
+    "date": "17.10.2025",
+    "time": "23:53",
+    "listeners": 322
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "17.10.2025",
+    "time": "23:48",
+    "listeners": 322
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Discopříběh",
     "artist": "David Michal",
     "date": "17.10.2025",

@@ -5,7 +5,16 @@
     "artist": "Phil Collins",
     "date": "17.10.2025",
     "time": "15:54",
-    "listeners": 1668
+    "listeners": 1668,
+    "lyricists": null,
+    "album": "Testify (Deluxe Edition) [Remastered]",
+    "release_year": 1999,
+    "duration_ms": 331573,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Gott Karel",
     "date": "17.10.2025",
     "time": "15:51",
-    "listeners": 1586
+    "listeners": 1586,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 184307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Where Do You Go",
+    "artist": "No Mercy",
+    "date": "17.10.2025",
+    "time": "20:47",
+    "listeners": 1429
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everything Counts",
+    "artist": "Depeche Mode",
+    "date": "17.10.2025",
+    "time": "20:43",
+    "listeners": 1296
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lady Carneval",
+    "artist": "Gott Karel",
+    "date": "17.10.2025",
+    "time": "20:40",
+    "listeners": 1347
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dreamlover",
+    "artist": "Carey Mariah",
+    "date": "17.10.2025",
+    "time": "20:36",
+    "listeners": 1427
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zaľúbil Sa Chlapec",
+    "artist": "Elán",
+    "date": "17.10.2025",
+    "time": "20:33",
+    "listeners": 1515
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Losing My Religion",
     "artist": "R.E.M.",
     "date": "17.10.2025",

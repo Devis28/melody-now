@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Všechno Bude Fajn",
+    "artist": "Žentour",
+    "date": "17.10.2025",
+    "time": "17:11",
+    "listeners": 3046
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zrpš",
+    "artist": "Hammel, Pavol",
+    "date": "17.10.2025",
+    "time": "17:08",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Return To Innocence",
+    "artist": "Enigma",
+    "date": "17.10.2025",
+    "time": "17:05",
+    "listeners": 3160
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sará Perché Ti Amo",
+    "artist": "Ricchi E Poveri",
+    "date": "17.10.2025",
+    "time": "17:02",
+    "listeners": 3144
+  },
+  {
+    "station": "Rádio Melody",
     "title": "This Used To Be My Playground",
     "artist": "Madonna",
     "date": "17.10.2025",

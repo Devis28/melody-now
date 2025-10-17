@@ -5,7 +5,19 @@
     "artist": "Al Bano & Romina Power",
     "date": "17.10.2025",
     "time": "12:25",
-    "listeners": 1523
+    "listeners": 1523,
+    "lyricists": [
+      "Al Bano Carrisi",
+      "Ciro Dammicco",
+      "Romina Power"
+    ],
+    "album": "Al Bano e Romina Power",
+    "release_year": 2007,
+    "duration_ms": 264773,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,19 @@
     "artist": "Eurythmics",
     "date": "17.10.2025",
     "time": "12:22",
-    "listeners": 1631
+    "listeners": 1631,
+    "lyricists": [
+      "Annie Lennox",
+      "Dave Stewart",
+      "Eurythmics"
+    ],
+    "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
+    "release_year": 2005,
+    "duration_ms": 216933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +45,13 @@
     "artist": "Metalinda",
     "date": "17.10.2025",
     "time": "12:17",
-    "listeners": 1504
+    "listeners": 1504,
+    "lyricists": null,
+    "album": null,
+    "release_year": 1996,
+    "duration_ms": null,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +59,15 @@
     "artist": "Tozzi, Umberto",
     "date": "17.10.2025",
     "time": "12:13",
-    "listeners": 1578
+    "listeners": 1578,
+    "lyricists": null,
+    "album": "Gloria",
+    "release_year": 1979,
+    "duration_ms": 264674,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +75,15 @@
     "artist": "Michal David",
     "date": "17.10.2025",
     "time": "12:08",
-    "listeners": 1509
+    "listeners": 1509,
+    "lyricists": null,
+    "album": "Bláznivá Noc",
+    "release_year": 1983,
+    "duration_ms": 212253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +91,17 @@
     "artist": "Ace Of Base",
     "date": "17.10.2025",
     "time": "12:04",
-    "listeners": 1518
+    "listeners": 1518,
+    "lyricists": [
+      "Ace of Base"
+    ],
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 1995,
+    "duration_ms": 211213,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +109,15 @@
     "artist": "Hammel Pavol",
     "date": "17.10.2025",
     "time": "12:02",
-    "listeners": 1406
+    "listeners": 1406,
+    "lyricists": null,
+    "album": "Pavol Hammel & Prúdy 1966 – 1975",
+    "release_year": 1969,
+    "duration_ms": 154490,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

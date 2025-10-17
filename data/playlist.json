@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nevrav Mi Aký Som",
+    "artist": "Desmod",
+    "date": "18.10.2025",
+    "time": "00:13",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Will You Be There",
+    "artist": "Michael Jackson",
+    "date": "18.10.2025",
+    "time": "00:09",
+    "listeners": 201
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čerešně",
+    "artist": "Hana Hegerová",
+    "date": "18.10.2025",
+    "time": "00:06",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Študentská Láska",
+    "artist": "Marika Gombitová",
+    "date": "18.10.2025",
+    "time": "00:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Justified & Ancient",
+    "artist": "Klf, The",
+    "date": "17.10.2025",
+    "time": "23:59",
+    "listeners": 325
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Já Budu Chodit Po Špičkách",
+    "artist": "Novák Petr",
+    "date": "17.10.2025",
+    "time": "23:57",
+    "listeners": 328
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ghostbusters",
     "artist": "Ray Parker Jr.",
     "date": "17.10.2025",

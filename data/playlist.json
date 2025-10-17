@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Oh, Pretty Woman",
+    "artist": "Orbison Roy",
+    "date": "17.10.2025",
+    "time": "08:51",
+    "listeners": 2175
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Držím Ti Miesto",
+    "artist": "Team",
+    "date": "17.10.2025",
+    "time": "08:45",
+    "listeners": 2471
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piccolo Amore",
+    "artist": "Ricchi E Poveri",
+    "date": "17.10.2025",
+    "time": "08:41",
+    "listeners": 2495
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Palonder Marcel",
+    "date": "17.10.2025",
+    "time": "08:38",
+    "listeners": 2524
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sugar Baby Love",
     "artist": "Rubettes, The",
     "date": "17.10.2025",

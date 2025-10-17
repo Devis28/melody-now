@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "17.10.2025",
+    "time": "16:35",
+    "listeners": 2700
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Knoflíky Lásky",
+    "artist": "Iveta Bartošová & Petr Sepéši",
+    "date": "17.10.2025",
+    "time": "16:31",
+    "listeners": 2721
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "17.10.2025",
+    "time": "16:26",
+    "listeners": 2325
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "date": "17.10.2025",
+    "time": "16:23",
+    "listeners": 2510
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oheň, Voda, Vítr",
+    "artist": "Janda Dalibor",
+    "date": "17.10.2025",
+    "time": "16:20",
+    "listeners": 2323
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Crazy",
     "artist": "Seal",
     "date": "17.10.2025",

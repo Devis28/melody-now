@@ -5,7 +5,15 @@
     "artist": "John Elton & Dee Kiki",
     "date": "18.10.2025",
     "time": "01:19",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Rock of the Westies (Remastered)",
+    "release_year": 1975,
+    "duration_ms": 275440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Tublatanka",
     "date": "18.10.2025",
     "time": "01:14",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Skúsime to cez vesmír",
+    "release_year": 2002,
+    "duration_ms": 298893,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Pavol Hammel",
     "date": "18.10.2025",
     "time": "01:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1998,
+    "duration_ms": 209533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Zucchero,Paul Young",
     "date": "18.10.2025",
     "time": "01:06",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "All the Best",
+    "release_year": 1991,
+    "duration_ms": 267080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Desirelles",
     "date": "18.10.2025",
     "time": "01:01",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "François",
+    "release_year": 1980,
+    "duration_ms": 264585,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

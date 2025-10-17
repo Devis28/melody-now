@@ -5,7 +5,15 @@
     "artist": "New Kids On The Block",
     "date": "17.10.2025",
     "time": "21:59",
-    "listeners": 906
+    "listeners": 906,
+    "lyricists": null,
+    "album": "Step by Step",
+    "release_year": 1991,
+    "duration_ms": 267293,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "17.10.2025",
     "time": "21:55",
-    "listeners": 990
+    "listeners": 990,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 2024,
+    "duration_ms": 241813,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

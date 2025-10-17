@@ -10704,5 +10704,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "new kids on the block|step by step": {
+    "release_year": 1991,
+    "artist_country": "US",
+    "album": "Step by Step",
+    "duration_ms": 267293,
+    "genres": [
+      "Pop"
+    ]
   }
 }

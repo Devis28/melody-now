@@ -5,7 +5,15 @@
     "artist": "Belinda Carlisle",
     "date": "18.10.2025",
     "time": "01:37",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Runaway Horses",
+    "release_year": 2013,
+    "duration_ms": 285027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Aya",
     "date": "18.10.2025",
     "time": "01:33",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "AYA 30 ROKOV & ŠTÁTNY KOMORNÝ ORCHESTER ŽILINA (Live Concert Version)",
+    "release_year": 2011,
+    "duration_ms": 445000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

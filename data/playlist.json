@@ -5,7 +5,15 @@
     "artist": "I.M.T. Smile",
     "date": "17.10.2025",
     "time": "21:24",
-    "listeners": 1129
+    "listeners": 1129,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2008,
+    "duration_ms": 180933,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,21 @@
     "artist": "Sydney Youngblood",
     "date": "17.10.2025",
     "time": "21:21",
-    "listeners": 1069
+    "listeners": 1069,
+    "lyricists": [
+      "Claus Zundel",
+      "Markus Staab",
+      "Ralf Hamm",
+      "Sydney Youngblood"
+    ],
+    "album": "Feeling Free",
+    "release_year": 2002,
+    "duration_ms": 213160,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +43,16 @@
     "artist": "Dj Bobo",
     "date": "17.10.2025",
     "time": "21:17",
-    "listeners": 1143
+    "listeners": 1143,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 229893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +60,15 @@
     "artist": "The Gibson Brothers",
     "date": "17.10.2025",
     "time": "21:14",
-    "listeners": 1178
+    "listeners": 1178,
+    "lyricists": null,
+    "album": "Cuba (feat. The Gibson Brothers) - EP",
+    "release_year": 2001,
+    "duration_ms": 235358,
+    "artist_country": "FR",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

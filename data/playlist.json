@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "17.10.2025",
+    "time": "17:50",
+    "listeners": 3192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Múr Našich Lások",
+    "artist": "Žbirka Miro",
+    "date": "17.10.2025",
+    "time": "17:46",
+    "listeners": 3019
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Here Comes The Sun",
     "artist": "The Beatles",
     "date": "17.10.2025",

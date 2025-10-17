@@ -1,6 +1,190 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bonboniéra",
+    "artist": "Gladiátor",
+    "date": "17.10.2025",
+    "time": "04:22",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Y.M.C.A",
+    "artist": "Village People",
+    "date": "17.10.2025",
+    "time": "04:18",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kristínka Iba Spí",
+    "artist": "Nagy Peter",
+    "date": "17.10.2025",
+    "time": "04:14",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Asi Nie Si",
+    "artist": "Richard Müller",
+    "date": "17.10.2025",
+    "time": "04:09",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bailamos",
+    "artist": "Enrique Iglesias",
+    "date": "17.10.2025",
+    "time": "04:06",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stánky",
+    "artist": "Brontosauři",
+    "date": "17.10.2025",
+    "time": "04:03",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jediný A Jediná",
+    "artist": "Zuzana Smatanová",
+    "date": "17.10.2025",
+    "time": "03:59",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Road To Mandalay",
+    "artist": "Williams, Robbie",
+    "date": "17.10.2025",
+    "time": "03:55",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tereza",
+    "artist": "Matuška Waldemar",
+    "date": "17.10.2025",
+    "time": "03:53",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Az Raz Budem Ucitelkou",
+    "artist": "Rolincova Darinka",
+    "date": "17.10.2025",
+    "time": "03:50",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Torn",
+    "artist": "Imbruglia Natalie",
+    "date": "17.10.2025",
+    "time": "03:46",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Manic Monday",
+    "artist": "The Bangles",
+    "date": "17.10.2025",
+    "time": "03:43",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "17.10.2025",
+    "time": "03:39",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Reklama Na Ticho",
+    "artist": "Team",
+    "date": "17.10.2025",
+    "time": "03:35",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Muž Miluje Ženu",
+    "artist": "Robo Opatovský",
+    "date": "17.10.2025",
+    "time": "03:31",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Always On My Mind",
+    "artist": "Pet Shop Boys",
+    "date": "17.10.2025",
+    "time": "03:27",
+    "listeners": 200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tri Štvrte Na Jeseň",
+    "artist": "Vašo Patejdl",
+    "date": "17.10.2025",
+    "time": "03:23",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Can You Feel The Love Tonight",
+    "artist": "John, Elton",
+    "date": "17.10.2025",
+    "time": "03:19",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milionár",
+    "artist": "Balogh Berco",
+    "date": "17.10.2025",
+    "time": "03:15",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stay",
+    "artist": "Shakespear's Sister",
+    "date": "17.10.2025",
+    "time": "03:11",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Youre My Heart Youre My Soul",
+    "artist": "Modern Talking",
+    "date": "17.10.2025",
+    "time": "03:07",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Každá Trampota Má Svou Mez",
+    "artist": "Vondráčková Helena &Korn Jiří",
+    "date": "17.10.2025",
+    "time": "03:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Účesy",
+    "artist": "Dubasová Beáta",
+    "date": "17.10.2025",
+    "time": "02:59",
+    "listeners": 197
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I Like Chopin",
     "artist": "Gazebo",
     "date": "17.10.2025",

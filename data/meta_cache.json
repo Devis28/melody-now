@@ -10604,5 +10604,23 @@
     "genres": [
       "Pop"
     ]
+  },
+  "depeche mode|everything counts": {
+    "artist_country": "GB",
+    "release_year": 1993,
+    "album": "Construction Time Again (Deluxe)",
+    "duration_ms": 261053,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "carey mariah|dreamlover": {
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 234267,
+    "genres": [
+      "Pop"
+    ]
   }
 }

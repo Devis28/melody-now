@@ -5,7 +5,16 @@
     "artist": "No Mercy",
     "date": "17.10.2025",
     "time": "20:47",
-    "listeners": 1429
+    "listeners": 1429,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1997,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Depeche Mode",
     "date": "17.10.2025",
     "time": "20:43",
-    "listeners": 1296
+    "listeners": 1296,
+    "lyricists": null,
+    "album": "Construction Time Again (Deluxe)",
+    "release_year": 1993,
+    "duration_ms": 261053,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Gott Karel",
     "date": "17.10.2025",
     "time": "20:40",
-    "listeners": 1347
+    "listeners": 1347,
+    "lyricists": null,
+    "album": "Lady Carneval",
+    "release_year": 1987,
+    "duration_ms": 180227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Carey Mariah",
     "date": "17.10.2025",
     "time": "20:36",
-    "listeners": 1427
+    "listeners": 1427,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 234267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Elán",
     "date": "17.10.2025",
     "time": "20:33",
-    "listeners": 1515
+    "listeners": 1515,
+    "lyricists": null,
+    "album": "Hodina slovenčiny",
+    "release_year": 1998,
+    "duration_ms": 195707,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

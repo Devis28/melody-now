@@ -5,7 +5,24 @@
     "artist": "Vanilla Ice",
     "date": "17.10.2025",
     "time": "21:32",
-    "listeners": 1109
+    "listeners": 1109,
+    "lyricists": [
+      "Brian May",
+      "Chocolate",
+      "David Bowie",
+      "Earthquake",
+      "Freddie Mercury",
+      "John Deacon",
+      "Roger Taylor",
+      "Vanilla Ice"
+    ],
+    "album": "To the Extreme",
+    "release_year": 2006,
+    "duration_ms": 271467,
+    "artist_country": "US",
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +30,16 @@
     "artist": "Blondie",
     "date": "17.10.2025",
     "time": "21:27",
-    "listeners": 1066
+    "listeners": 1066,
+    "lyricists": null,
+    "album": "Autoamerican (Bonus Track) [2001 Remaster]",
+    "release_year": 2002,
+    "duration_ms": 280267,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

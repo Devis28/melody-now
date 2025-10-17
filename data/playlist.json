@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Šrouby Do Hlavy",
+    "artist": "Lucie",
+    "date": "17.10.2025",
+    "time": "17:32",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "How Deep Is Your Love",
+    "artist": "The Bee Gees",
+    "date": "17.10.2025",
+    "time": "17:26",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kráľovná Bielych Tenisiek",
+    "artist": "Elán",
+    "date": "17.10.2025",
+    "time": "17:22",
+    "listeners": 3104
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sweet Harmony",
+    "artist": "Beloved, The",
+    "date": "17.10.2025",
+    "time": "17:18",
+    "listeners": 3067
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Všechno Bude Fajn",
     "artist": "Žentour",
     "date": "17.10.2025",

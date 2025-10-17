@@ -5,7 +5,15 @@
     "artist": "Nagy Peter",
     "date": "17.10.2025",
     "time": "05:41",
-    "listeners": 556
+    "listeners": 556,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2009,
+    "duration_ms": 264040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "C.C. Catch",
     "date": "17.10.2025",
     "time": "05:37",
-    "listeners": 514
+    "listeners": 514,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2005,
+    "duration_ms": 215800,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Žbirka Miro",
     "date": "17.10.2025",
     "time": "05:34",
-    "listeners": 534
+    "listeners": 534,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 190587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Müller Richard",
     "date": "17.10.2025",
     "time": "05:29",
-    "listeners": 489
+    "listeners": 489,
+    "lyricists": null,
+    "album": "Nocna Optika",
+    "release_year": 2002,
+    "duration_ms": 299880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Patejdl Vašo & Dubasová Beáta",
     "date": "17.10.2025",
     "time": "05:26",
-    "listeners": 404
+    "listeners": 404,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 1989,
+    "duration_ms": 223787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Simon Paul & Garfunkel Art",
     "date": "17.10.2025",
     "time": "05:22",
-    "listeners": 369
+    "listeners": 369,
+    "lyricists": null,
+    "album": "Bridge Over Troubled Water",
+    "release_year": 1970,
+    "duration_ms": 188595,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,16 @@
     "artist": "Gene Pitney/Marc Almond",
     "date": "17.10.2025",
     "time": "05:18",
-    "listeners": 381
+    "listeners": 381,
+    "lyricists": null,
+    "album": "Hits and Pieces – The Best of Marc Almond & Soft Cell",
+    "release_year": 2016,
+    "duration_ms": 277140,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,16 @@
     "artist": "Robert Miles/Maria Nayler",
     "date": "17.10.2025",
     "time": "05:14",
-    "listeners": 346
+    "listeners": 346,
+    "lyricists": null,
+    "album": "Dreamland (Including One and One)",
+    "release_year": 2019,
+    "duration_ms": 238493,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

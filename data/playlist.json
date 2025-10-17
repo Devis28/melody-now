@@ -5,7 +5,16 @@
     "artist": "Orbison Roy",
     "date": "17.10.2025",
     "time": "08:51",
-    "listeners": 2175
+    "listeners": 2175,
+    "lyricists": null,
+    "album": "Oh! Pretty Woman",
+    "release_year": 1964,
+    "duration_ms": 178929,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Team",
     "date": "17.10.2025",
     "time": "08:45",
-    "listeners": 2471
+    "listeners": 2471,
+    "lyricists": null,
+    "album": "Team 3",
+    "release_year": 1994,
+    "duration_ms": 242760,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Ricchi E Poveri",
     "date": "17.10.2025",
     "time": "08:41",
-    "listeners": 2495
+    "listeners": 2495,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1984,
+    "duration_ms": 198867,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Palonder Marcel",
     "date": "17.10.2025",
     "time": "08:38",
-    "listeners": 2524
+    "listeners": 2524,
+    "lyricists": null,
+    "album": "Cudzinec v tvojom srdci",
+    "release_year": 1992,
+    "duration_ms": 223000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

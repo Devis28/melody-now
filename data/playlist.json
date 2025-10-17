@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "17.10.2025",
+    "time": "11:07",
+    "listeners": 967
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hands Up",
+    "artist": "Ottawan",
+    "date": "17.10.2025",
+    "time": "11:04",
+    "listeners": 983
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "17.10.2025",
+    "time": "11:01",
+    "listeners": 997
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Total Eclipse Of The Heart",
+    "artist": "Westlife",
+    "date": "17.10.2025",
+    "time": "10:53",
+    "listeners": 1019
+  },
+  {
+    "station": "Rádio Melody",
     "title": "One Of Us",
     "artist": "Abba",
     "date": "17.10.2025",

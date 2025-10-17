@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Rasputin",
+    "artist": "Boney M.",
+    "date": "17.10.2025",
+    "time": "23:14",
+    "listeners": 489
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Poďme Sa Zachrániť",
+    "artist": "Peter Nagy",
+    "date": "17.10.2025",
+    "time": "23:11",
+    "listeners": 538
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mr Vain",
+    "artist": "Culture Beat",
+    "date": "17.10.2025",
+    "time": "23:06",
+    "listeners": 512
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Neverending Story",
+    "artist": "Limahl",
+    "date": "17.10.2025",
+    "time": "23:03",
+    "listeners": 505
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "17.10.2025",
+    "time": "22:59",
+    "listeners": 529
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Never Let Her Slip Away",
     "artist": "Undercover",
     "date": "17.10.2025",

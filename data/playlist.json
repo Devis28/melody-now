@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Územie Zázrakov",
+    "artist": "Gombitová Marika",
+    "date": "17.10.2025",
+    "time": "09:24",
+    "listeners": 1603
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "date": "17.10.2025",
+    "time": "09:18",
+    "listeners": 1581
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Quit Playing Games (With My Heart)",
+    "artist": "Backstreet Boys",
+    "date": "17.10.2025",
+    "time": "09:15",
+    "listeners": 1856
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hurikán",
+    "artist": "Janda Dalibor",
+    "date": "17.10.2025",
+    "time": "09:10",
+    "listeners": 1999
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sunny",
+    "artist": "Boney M",
+    "date": "17.10.2025",
+    "time": "09:06",
+    "listeners": 1945
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "17.10.2025",
+    "time": "09:03",
+    "listeners": 2136
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Carrie",
     "artist": "Europe",
     "date": "17.10.2025",

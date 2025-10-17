@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bamboleo",
+    "artist": "Garcia",
+    "date": "17.10.2025",
+    "time": "13:37",
+    "listeners": 1290
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "17.10.2025",
+    "time": "13:34",
+    "listeners": 1313
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Winner Takes It All",
     "artist": "Abba",
     "date": "17.10.2025",

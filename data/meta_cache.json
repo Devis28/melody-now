@@ -10681,5 +10681,14 @@
     "genres": [
       "Hip-Hop"
     ]
+  },
+  "modern talking|geronimo's cadillac": {
+    "release_year": 1996,
+    "artist_country": "DE",
+    "album": "The Very Best of Modern Talking",
+    "duration_ms": 197533,
+    "genres": [
+      "Pop"
+    ]
   }
 }

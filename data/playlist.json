@@ -5,7 +5,15 @@
     "artist": "Rubettes, The",
     "date": "17.10.2025",
     "time": "08:34",
-    "listeners": 2629
+    "listeners": 2629,
+    "lyricists": null,
+    "album": "The Best of the Rubettes",
+    "release_year": 1974,
+    "duration_ms": 209893,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Shakira & Freshlyground",
     "date": "17.10.2025",
     "time": "08:31",
-    "listeners": 2704
+    "listeners": 2704,
+    "lyricists": null,
+    "album": "Éxitos de Verano",
+    "release_year": 2014,
+    "duration_ms": 201773,
+    "artist_country": "CO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Bartošová Iveta",
     "date": "17.10.2025",
     "time": "08:21",
-    "listeners": 2656
+    "listeners": 2656,
+    "lyricists": null,
+    "album": "I.B.",
+    "release_year": 1987,
+    "duration_ms": 221205,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Ub 40",
     "date": "17.10.2025",
     "time": "08:17",
-    "listeners": 2869
+    "listeners": 2869,
+    "lyricists": null,
+    "album": "The Very Best of UB40: 1980-2000",
+    "release_year": 1993,
+    "duration_ms": 208733,
+    "artist_country": null,
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "17.10.2025",
     "time": "08:14",
-    "listeners": 2780
+    "listeners": 2780,
+    "lyricists": null,
+    "album": "Bookends",
+    "release_year": 1968,
+    "duration_ms": 247420,
+    "artist_country": null,
+    "genres": [
+      "Classical"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Müller Richard",
     "date": "17.10.2025",
     "time": "08:06",
-    "listeners": 2891
+    "listeners": 2891,
+    "lyricists": null,
+    "album": "Neuc Vtaka Lietat!",
+    "release_year": 1992,
+    "duration_ms": 233573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Elán",
     "date": "17.10.2025",
     "time": "08:01",
-    "listeners": 3015
+    "listeners": 3015,
+    "lyricists": null,
+    "album": "Hodina slovenčiny",
+    "release_year": 2008,
+    "duration_ms": 275987,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

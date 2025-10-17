@@ -5,7 +5,15 @@
     "artist": "Take That",
     "date": "17.10.2025",
     "time": "05:53",
-    "listeners": 755
+    "listeners": 755,
+    "lyricists": null,
+    "album": "Nobody Else (Expanded Edition)",
+    "release_year": 1996,
+    "duration_ms": 242267,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Michal David & Kroky Františka Janečka",
     "date": "17.10.2025",
     "time": "05:50",
-    "listeners": 715
+    "listeners": 715,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 191560,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Eagles The",
     "date": "17.10.2025",
     "time": "05:45",
-    "listeners": 667
+    "listeners": 667,
+    "lyricists": null,
+    "album": "Hotel California (40th Anniversary Expanded Edition)",
+    "release_year": 1976,
+    "duration_ms": 391357,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

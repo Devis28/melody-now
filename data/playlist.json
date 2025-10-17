@@ -5,7 +5,15 @@
     "artist": "Ramazzotti Eros",
     "date": "18.10.2025",
     "time": "01:46",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 323867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Desmod",
     "date": "18.10.2025",
     "time": "01:42",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "SLOVENSKÉ HITY",
+    "release_year": 2014,
+    "duration_ms": 220853,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

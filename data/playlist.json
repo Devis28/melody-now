@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Colu, Pijeme Colu",
+    "artist": "Michal David",
+    "date": "17.10.2025",
+    "time": "21:11",
+    "listeners": 1183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Baila Me",
+    "artist": "The Gipsy Kings",
+    "date": "17.10.2025",
+    "time": "21:06",
+    "listeners": 1216
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "date": "17.10.2025",
+    "time": "21:02",
+    "listeners": 1197
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pop Muzik",
+    "artist": "M",
+    "date": "17.10.2025",
+    "time": "20:59",
+    "listeners": 1290
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dub I Dub",
+    "artist": "Me & My",
+    "date": "17.10.2025",
+    "time": "20:56",
+    "listeners": 1235
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Flashdance ( What A Feeling )",
     "artist": "Cara Irene",
     "date": "17.10.2025",

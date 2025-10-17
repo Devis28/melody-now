@@ -1,6 +1,94 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "17.10.2025",
+    "time": "14:40",
+    "listeners": 904
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "17.10.2025",
+    "time": "14:36",
+    "listeners": 952
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Orinoco Flow",
+    "artist": "Enya",
+    "date": "17.10.2025",
+    "time": "14:32",
+    "listeners": 913
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "G8",
+    "date": "17.10.2025",
+    "time": "14:25",
+    "listeners": 875
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Řeka Lásky",
+    "artist": "Marie Rottrová",
+    "date": "17.10.2025",
+    "time": "14:22",
+    "listeners": 904
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Moonlight Shadow",
+    "artist": "Oldfield Mike & Reilly Maggie",
+    "date": "17.10.2025",
+    "time": "14:19",
+    "listeners": 983
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "High Hopes",
+    "artist": "Pink Floyd",
+    "date": "17.10.2025",
+    "time": "14:12",
+    "listeners": 1046
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šiel, Šiel",
+    "artist": "Duchoň Karol",
+    "date": "17.10.2025",
+    "time": "14:08",
+    "listeners": 948
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "17.10.2025",
+    "time": "14:05",
+    "listeners": 932
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hráli Jsme Kličkovanou",
+    "artist": "Janda Dalibor",
+    "date": "17.10.2025",
+    "time": "14:02",
+    "listeners": 1043
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Like A Prayer",
+    "artist": "Madonna",
+    "date": "17.10.2025",
+    "time": "13:53",
+    "listeners": 958
+  },
+  {
+    "station": "Rádio Melody",
     "title": "O Bláznech",
     "artist": "Penk Michal",
     "date": "17.10.2025",

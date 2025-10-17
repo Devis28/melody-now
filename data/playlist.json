@@ -5,7 +5,15 @@
     "artist": "Karel Zich",
     "date": "17.10.2025",
     "time": "09:49",
-    "listeners": 1107
+    "listeners": 1107,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 2004,
+    "duration_ms": 198040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Richard Cliff",
     "date": "17.10.2025",
     "time": "09:45",
-    "listeners": 1275
+    "listeners": 1275,
+    "lyricists": null,
+    "album": "Always Guaranteed (Remastered)",
+    "release_year": 1987,
+    "duration_ms": 231560,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

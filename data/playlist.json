@@ -5,7 +5,15 @@
     "artist": "Rottrová Marie",
     "date": "17.10.2025",
     "time": "06:45",
-    "listeners": 1882
+    "listeners": 1882,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 1970,
+    "duration_ms": 221453,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Marika Gombitová",
     "date": "17.10.2025",
     "time": "06:41",
-    "listeners": 1794
+    "listeners": 1794,
+    "lyricists": null,
+    "album": "Single (1977 - 1989)",
+    "release_year": 2000,
+    "duration_ms": 202960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

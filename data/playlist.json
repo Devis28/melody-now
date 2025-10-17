@@ -5,7 +5,19 @@
     "artist": "Eros Ramazzotti",
     "date": "17.10.2025",
     "time": "14:40",
-    "listeners": 904
+    "listeners": 904,
+    "lyricists": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ],
+    "album": "Eros Best Love Songs (Special Edition)",
+    "release_year": 1996,
+    "duration_ms": 267680,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "The Goombay Dance Band",
     "date": "17.10.2025",
     "time": "14:36",
-    "listeners": 952
+    "listeners": 952,
+    "lyricists": null,
+    "album": "Sun of Jamaica",
+    "release_year": 1980,
+    "duration_ms": 264000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,18 @@
     "artist": "Enya",
     "date": "17.10.2025",
     "time": "14:32",
-    "listeners": 913
+    "listeners": 913,
+    "lyricists": [
+      "Enya",
+      "Roma Ryan"
+    ],
+    "album": "Watermark (Remastered Bonus Track Version)",
+    "release_year": 1994,
+    "duration_ms": 266200,
+    "artist_country": "IE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +60,13 @@
     "artist": "G8",
     "date": "17.10.2025",
     "time": "14:25",
-    "listeners": 875
+    "listeners": 875,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "Marie Rottrová",
     "date": "17.10.2025",
     "time": "14:22",
-    "listeners": 904
+    "listeners": 904,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2003,
+    "duration_ms": 200307,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,15 @@
     "artist": "Oldfield Mike & Reilly Maggie",
     "date": "17.10.2025",
     "time": "14:19",
-    "listeners": 983
+    "listeners": 983,
+    "lyricists": null,
+    "album": "The Mike Oldfield Collection",
+    "release_year": 1983,
+    "duration_ms": 218187,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,15 @@
     "artist": "Pink Floyd",
     "date": "17.10.2025",
     "time": "14:12",
-    "listeners": 1046
+    "listeners": 1046,
+    "lyricists": null,
+    "album": "The Division Bell",
+    "release_year": 1994,
+    "duration_ms": 511013,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +122,15 @@
     "artist": "Duchoň Karol",
     "date": "17.10.2025",
     "time": "14:08",
-    "listeners": 948
+    "listeners": 948,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1974,
+    "duration_ms": 208160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +138,15 @@
     "artist": "Taylor Dayne",
     "date": "17.10.2025",
     "time": "14:05",
-    "listeners": 932
+    "listeners": 932,
+    "lyricists": null,
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "release_year": 2004,
+    "duration_ms": 220880,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +154,15 @@
     "artist": "Janda Dalibor",
     "date": "17.10.2025",
     "time": "14:02",
-    "listeners": 1043
+    "listeners": 1043,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 180120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +170,18 @@
     "artist": "Madonna",
     "date": "17.10.2025",
     "time": "13:53",
-    "listeners": 958
+    "listeners": 958,
+    "lyricists": [
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Like a Prayer",
+    "release_year": 1989,
+    "duration_ms": 340867,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "You're The One That I Want",
+    "artist": "Travolta John & Newton-John Olivia",
+    "date": "17.10.2025",
+    "time": "10:13",
+    "listeners": 953
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Len S Ňou",
+    "artist": "Žbirka Miroslav",
+    "date": "17.10.2025",
+    "time": "10:08",
+    "listeners": 887
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Can't Take My Eyes Off You",
+    "artist": "Gloria Gaynor",
+    "date": "17.10.2025",
+    "time": "10:03",
+    "listeners": 945
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Slovenských Dolinách",
+    "artist": "Duchoň Karol",
+    "date": "17.10.2025",
+    "time": "10:01",
+    "listeners": 1004
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "17.10.2025",
+    "time": "09:52",
+    "listeners": 1189
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Máš Chuť Majoránky",
     "artist": "Karel Zich",
     "date": "17.10.2025",

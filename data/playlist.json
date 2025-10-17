@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pozhasínané",
+    "artist": "Modus",
+    "date": "18.10.2025",
+    "time": "00:28",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Some People",
+    "artist": "Richard Cliff",
+    "date": "18.10.2025",
+    "time": "00:24",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Príliš Osobná Známosť",
+    "artist": "I.M.T. Smile & Nikol Štíbrová",
+    "date": "18.10.2025",
+    "time": "00:20",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pokoj V Duši",
+    "artist": "Jana Kirschner",
+    "date": "18.10.2025",
+    "time": "00:17",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nevrav Mi Aký Som",
     "artist": "Desmod",
     "date": "18.10.2025",

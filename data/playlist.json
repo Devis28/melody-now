@@ -5,7 +5,18 @@
     "artist": "Žentour",
     "date": "17.10.2025",
     "time": "17:11",
-    "listeners": 3046
+    "listeners": 3046,
+    "lyricists": [
+      "Žentour"
+    ],
+    "album": "Hity Tommü",
+    "release_year": 1990,
+    "duration_ms": 225787,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Hammel, Pavol",
     "date": "17.10.2025",
     "time": "17:08",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Čas malín",
+    "release_year": 1981,
+    "duration_ms": 179747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Enigma",
     "date": "17.10.2025",
     "time": "17:05",
-    "listeners": 3160
+    "listeners": 3160,
+    "lyricists": null,
+    "album": "The Platinum Collection",
+    "release_year": 2001,
+    "duration_ms": 251427,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Ricchi E Poveri",
     "date": "17.10.2025",
     "time": "17:02",
-    "listeners": 3144
+    "listeners": 3144,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1987,
+    "duration_ms": 190693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

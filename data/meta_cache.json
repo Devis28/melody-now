@@ -10563,5 +10563,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "žentour|všechno bude fajn": {
+    "release_year": 1990,
+    "artist_country": "CZ",
+    "album": "Hity Tommü",
+    "duration_ms": 225787,
+    "lyricists": [
+      "Žentour"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

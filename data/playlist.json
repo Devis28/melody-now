@@ -5,7 +5,15 @@
     "artist": "No Name",
     "date": "18.10.2025",
     "time": "01:29",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2003,
+    "duration_ms": 210307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jason Donovan",
     "date": "18.10.2025",
     "time": "01:27",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Ten Good Reasons",
+    "release_year": 1989,
+    "duration_ms": 152753,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gombitová Marika & Patejdl Vašo",
     "date": "18.10.2025",
     "time": "01:23",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 199360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

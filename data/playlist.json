@@ -5,7 +5,15 @@
     "artist": "The Beatles",
     "date": "17.10.2025",
     "time": "17:40",
-    "listeners": 3129
+    "listeners": 3129,
+    "lyricists": null,
+    "album": "Abbey Road (Remastered)",
+    "release_year": 1978,
+    "duration_ms": 185733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Berlin",
     "date": "17.10.2025",
     "time": "17:36",
-    "listeners": 3003
+    "listeners": 3003,
+    "lyricists": null,
+    "album": "Top Gun (Original Motion Picture Soundtrack) [Special Expanded Edition]",
+    "release_year": 2009,
+    "duration_ms": 255733,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

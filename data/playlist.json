@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "S Tím Bláznem Si Nic Nezačínej",
+    "artist": "Rottrová Marie",
+    "date": "17.10.2025",
+    "time": "06:45",
+    "listeners": 1882
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Študentská Láska",
+    "artist": "Marika Gombitová",
+    "date": "17.10.2025",
+    "time": "06:41",
+    "listeners": 1794
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Go West",
     "artist": "Pet Shop Boys",
     "date": "17.10.2025",

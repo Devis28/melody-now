@@ -5,7 +5,19 @@
     "artist": "Madonna",
     "date": "17.10.2025",
     "time": "21:51",
-    "listeners": 978
+    "listeners": 978,
+    "lyricists": [
+      "Gardner Cole",
+      "Madonna",
+      "Peter Rafelson"
+    ],
+    "album": "True Blue",
+    "release_year": 1994,
+    "duration_ms": 253453,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Farmer Mylene",
     "date": "17.10.2025",
     "time": "21:46",
-    "listeners": 1044
+    "listeners": 1044,
+    "lyricists": null,
+    "album": "L'autre",
+    "release_year": 1991,
+    "duration_ms": 322760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

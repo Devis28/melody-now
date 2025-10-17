@@ -10690,5 +10690,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "madonna|open your heart": {
+    "release_year": 1994,
+    "artist_country": "US",
+    "album": "True Blue",
+    "duration_ms": 253453,
+    "lyricists": [
+      "Gardner Cole",
+      "Madonna",
+      "Peter Rafelson"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

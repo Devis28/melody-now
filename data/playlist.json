@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Gejzír",
+    "artist": "Petr Kotvald",
+    "date": "17.10.2025",
+    "time": "19:57",
+    "listeners": 1584
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ak Nie Si Moja",
+    "artist": "Patejdl, Vaso",
+    "date": "17.10.2025",
+    "time": "19:53",
+    "listeners": 1662
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Lovesong",
     "artist": "Habera Pavol",
     "date": "17.10.2025",

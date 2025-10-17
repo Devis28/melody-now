@@ -10737,5 +10737,23 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "the buggles|video killed the radio star": {
+    "release_year": 2011,
+    "artist_country": "GB",
+    "album": "The Age of Plastic",
+    "duration_ms": 252773,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "take that|could it be magic": {
+    "release_year": 1998,
+    "artist_country": "GB",
+    "album": "Take That and Party (Expanded Edition)",
+    "duration_ms": 264200,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -5,7 +5,15 @@
     "artist": "The Buggles",
     "date": "17.10.2025",
     "time": "22:39",
-    "listeners": 612
+    "listeners": 612,
+    "lyricists": null,
+    "album": "The Age of Plastic",
+    "release_year": 2011,
+    "duration_ms": 252773,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Novák Petr",
     "date": "17.10.2025",
     "time": "22:37",
-    "listeners": 655
+    "listeners": 655,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 125867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Take That",
     "date": "17.10.2025",
     "time": "22:33",
-    "listeners": 692
+    "listeners": 692,
+    "lyricists": null,
+    "album": "Take That and Party (Expanded Edition)",
+    "release_year": 1998,
+    "duration_ms": 264200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Elán",
     "date": "17.10.2025",
     "time": "22:28",
-    "listeners": 732
+    "listeners": 732,
+    "lyricists": null,
+    "album": "Živých Nás Nedostanú (Extended Version)",
+    "release_year": 2016,
+    "duration_ms": 266927,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

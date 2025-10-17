@@ -10713,5 +10713,29 @@
     "genres": [
       "Pop"
     ]
+  },
+  "al corley|square rooms": {
+    "release_year": 2008,
+    "artist_country": "US",
+    "album": "Riot Of Color (Expanded Edition)",
+    "duration_ms": 484360,
+    "lyricists": [
+      "Al Corley",
+      "Harold Faltermeyer",
+      "Peter Wood"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "simone, afric|hafanana [voodoo up mix]": {},
+  "dario g.|carnaval de paris": {
+    "release_year": 2001,
+    "artist_country": "GB",
+    "album": "Carnaval De Paris",
+    "duration_ms": 232653,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

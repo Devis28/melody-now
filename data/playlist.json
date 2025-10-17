@@ -5,7 +5,16 @@
     "artist": "Mr. President",
     "date": "17.10.2025",
     "time": "22:25",
-    "listeners": 772
+    "listeners": 772,
+    "lyricists": null,
+    "album": "We See The Same Sun",
+    "release_year": 2022,
+    "duration_ms": 218733,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,19 @@
     "artist": "Al Corley",
     "date": "17.10.2025",
     "time": "22:21",
-    "listeners": 843
+    "listeners": 843,
+    "lyricists": [
+      "Al Corley",
+      "Harold Faltermeyer",
+      "Peter Wood"
+    ],
+    "album": "Riot Of Color (Expanded Edition)",
+    "release_year": 2008,
+    "duration_ms": 484360,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +42,15 @@
     "artist": "Roxette",
     "date": "17.10.2025",
     "time": "22:17",
-    "listeners": 805
+    "listeners": 805,
+    "lyricists": null,
+    "album": "Fading Like A Flower - Single",
+    "release_year": 1992,
+    "duration_ms": 145808,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +58,13 @@
     "artist": "Simone, Afric",
     "date": "17.10.2025",
     "time": "22:14",
-    "listeners": 778
+    "listeners": 778,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Gombitová Marika",
     "date": "17.10.2025",
     "time": "22:11",
-    "listeners": 855
+    "listeners": 855,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 221440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Dario G.",
     "date": "17.10.2025",
     "time": "22:07",
-    "listeners": 910
+    "listeners": 910,
+    "lyricists": null,
+    "album": "Carnaval De Paris",
+    "release_year": 2001,
+    "duration_ms": 232653,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +104,16 @@
     "artist": "Tina Turner",
     "date": "17.10.2025",
     "time": "22:03",
-    "listeners": 926
+    "listeners": 926,
+    "lyricists": null,
+    "album": "Simply the Best",
+    "release_year": 1994,
+    "duration_ms": 255937,
+    "artist_country": "CH",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

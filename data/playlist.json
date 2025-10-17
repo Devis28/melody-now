@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sme Svoji",
+    "artist": "Nagy Peter",
+    "date": "17.10.2025",
+    "time": "19:41",
+    "listeners": 1701
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Michaela",
+    "artist": "Hex",
+    "date": "17.10.2025",
+    "time": "19:38",
+    "listeners": 1840
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Holubička",
+    "artist": "Adam Ďurica",
+    "date": "17.10.2025",
+    "time": "19:33",
+    "listeners": 1773
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čo O Mne Vieš",
     "artist": "Rolincova Darinka",
     "date": "17.10.2025",

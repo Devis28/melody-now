@@ -5,7 +5,15 @@
     "artist": "Nagy Peter",
     "date": "17.10.2025",
     "time": "19:41",
-    "listeners": 1701
+    "listeners": 1701,
+    "lyricists": null,
+    "album": "Mne sa neschováš",
+    "release_year": 1985,
+    "duration_ms": 197013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hex",
     "date": "17.10.2025",
     "time": "19:38",
-    "listeners": 1840
+    "listeners": 1840,
+    "lyricists": null,
+    "album": "Vikend",
+    "release_year": 2002,
+    "duration_ms": 219027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Adam Ďurica",
     "date": "17.10.2025",
     "time": "19:33",
-    "listeners": 1773
+    "listeners": 1773,
+    "lyricists": null,
+    "album": "Holubička - Single",
+    "release_year": 2018,
+    "duration_ms": 273955,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Gott Karel & Olympic",
     "date": "17.10.2025",
     "time": "09:42",
-    "listeners": 1260
+    "listeners": 1260,
+    "lyricists": null,
+    "album": "Cesta Rájem",
+    "release_year": 1965,
+    "duration_ms": 116573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,19 @@
     "artist": "Maggie Reilly",
     "date": "17.10.2025",
     "time": "09:39",
-    "listeners": 1192
+    "listeners": 1192,
+    "lyricists": [
+      "Maggie Reilly",
+      "Peter Risavy",
+      "Stuart MacKillop"
+    ],
+    "album": "Everytime We Touch (Remastered) - Single",
+    "release_year": 1999,
+    "duration_ms": 242974,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

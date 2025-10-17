@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "17.10.2025",
     "time": "15:11",
-    "listeners": 1118
+    "listeners": 1118,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1979,
+    "duration_ms": 289887,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Muller Richard A Tereza Kerndlová",
     "date": "17.10.2025",
     "time": "15:07",
-    "listeners": 1001
+    "listeners": 1001,
+    "lyricists": null,
+    "album": "Výberovka",
+    "release_year": 2011,
+    "duration_ms": 273813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Sandra",
     "date": "17.10.2025",
     "time": "15:03",
-    "listeners": 1089
+    "listeners": 1089,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 2018,
+    "duration_ms": 221107,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Roxette",
     "date": "17.10.2025",
     "time": "14:56",
-    "listeners": 992
+    "listeners": 992,
+    "lyricists": null,
+    "album": "Joyride (30th Anniversary Edition)",
+    "release_year": 1995,
+    "duration_ms": 263093,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Astley Rick",
     "date": "17.10.2025",
     "time": "14:52",
-    "listeners": 905
+    "listeners": 905,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 205573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "John Lennon, The Plastic Ono Band",
     "date": "17.10.2025",
     "time": "14:49",
-    "listeners": 885
+    "listeners": 885,
+    "lyricists": null,
+    "album": "Power To The People (Live At The One To One Concert - Afternoon & Evening Shows)",
+    "release_year": 2025,
+    "duration_ms": 202891,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Elán",
     "date": "17.10.2025",
     "time": "14:44",
-    "listeners": 892
+    "listeners": 892,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 2003,
+    "duration_ms": 215067,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

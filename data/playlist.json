@@ -5,7 +5,15 @@
     "artist": "Desirelles",
     "date": "17.10.2025",
     "time": "06:53",
-    "listeners": 2019
+    "listeners": 2019,
+    "lyricists": null,
+    "album": "François",
+    "release_year": 1980,
+    "duration_ms": 264585,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Guru Josh",
     "date": "17.10.2025",
     "time": "06:50",
-    "listeners": 1826
+    "listeners": 1826,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

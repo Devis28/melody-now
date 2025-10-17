@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Coco Jambo",
+    "artist": "Mr. President",
+    "date": "17.10.2025",
+    "time": "22:25",
+    "listeners": 772
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Square Rooms",
+    "artist": "Al Corley",
+    "date": "17.10.2025",
+    "time": "22:21",
+    "listeners": 843
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fading Like A Flower",
+    "artist": "Roxette",
+    "date": "17.10.2025",
+    "time": "22:17",
+    "listeners": 805
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hafanana [Voodoo Up Mix]",
+    "artist": "Simone, Afric",
+    "date": "17.10.2025",
+    "time": "22:14",
+    "listeners": 778
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Adresa Ja Adresa Ty",
+    "artist": "Gombitová Marika",
+    "date": "17.10.2025",
+    "time": "22:11",
+    "listeners": 855
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Carnaval De Paris",
+    "artist": "Dario G.",
+    "date": "17.10.2025",
+    "time": "22:07",
+    "listeners": 910
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "17.10.2025",
+    "time": "22:03",
+    "listeners": 926
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Step By Step",
     "artist": "New Kids On The Block",
     "date": "17.10.2025",

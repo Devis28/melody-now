@@ -5,7 +5,15 @@
     "artist": "Gladiátor",
     "date": "17.10.2025",
     "time": "04:22",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Mesto",
+    "release_year": 2020,
+    "duration_ms": 197000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Village People",
     "date": "17.10.2025",
     "time": "04:18",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "YMCA",
+    "release_year": 1993,
+    "duration_ms": 286800,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Nagy Peter",
     "date": "17.10.2025",
     "time": "04:14",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Chrán svoje bláznovstvá",
+    "release_year": 1984,
+    "duration_ms": 292040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,17 @@
     "artist": "Richard Müller",
     "date": "17.10.2025",
     "time": "04:09",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2011,
+    "duration_ms": 229507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Enrique Iglesias",
     "date": "17.10.2025",
     "time": "04:06",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "Enrique",
+    "release_year": 1999,
+    "duration_ms": 212693,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Brontosauři",
     "date": "17.10.2025",
     "time": "04:03",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Vsechny Hity",
+    "release_year": 1991,
+    "duration_ms": 133293,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Zuzana Smatanová",
     "date": "17.10.2025",
     "time": "03:59",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Jediný A Jediná - Single",
+    "release_year": 2018,
+    "duration_ms": 258669,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "Williams, Robbie",
     "date": "17.10.2025",
     "time": "03:55",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Sing When You're Winning",
+    "release_year": 2000,
+    "duration_ms": 237401,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +135,15 @@
     "artist": "Matuška Waldemar",
     "date": "17.10.2025",
     "time": "03:53",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "release_year": 1964,
+    "duration_ms": 145680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +151,13 @@
     "artist": "Rolincova Darinka",
     "date": "17.10.2025",
     "time": "03:50",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 189827,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +165,15 @@
     "artist": "Imbruglia Natalie",
     "date": "17.10.2025",
     "time": "03:46",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +181,15 @@
     "artist": "The Bangles",
     "date": "17.10.2025",
     "time": "03:43",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "The Bangles Greatest Hits",
+    "release_year": 2022,
+    "duration_ms": 184863,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +197,15 @@
     "artist": "Geri Halliwell",
     "date": "17.10.2025",
     "time": "03:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "It's Raining Men - Single",
+    "release_year": 2002,
+    "duration_ms": 255160,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +213,15 @@
     "artist": "Team",
     "date": "17.10.2025",
     "time": "03:35",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2011,
+    "duration_ms": 222427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +229,15 @@
     "artist": "Robo Opatovský",
     "date": "17.10.2025",
     "time": "03:31",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Keď Muž Miluje Ženu - Single",
+    "release_year": 2017,
+    "duration_ms": 249240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +245,15 @@
     "artist": "Pet Shop Boys",
     "date": "17.10.2025",
     "time": "03:27",
-    "listeners": 200
+    "listeners": 200,
+    "lyricists": null,
+    "album": "Discography: The Complete Singles Collection",
+    "release_year": 1992,
+    "duration_ms": 234907,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +261,15 @@
     "artist": "Vašo Patejdl",
     "date": "17.10.2025",
     "time": "03:23",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1994,
+    "duration_ms": 298267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +277,13 @@
     "artist": "John, Elton",
     "date": "17.10.2025",
     "time": "03:19",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "release_year": 1994,
+    "duration_ms": 241907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +291,16 @@
     "artist": "Balogh Berco",
     "date": "17.10.2025",
     "time": "03:15",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Siedmy pád",
+    "release_year": 2007,
+    "duration_ms": 241747,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +308,15 @@
     "artist": "Shakespear's Sister",
     "date": "17.10.2025",
     "time": "03:11",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Hormonally Yours",
+    "release_year": 1993,
+    "duration_ms": 229000,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +324,15 @@
     "artist": "Modern Talking",
     "date": "17.10.2025",
     "time": "03:07",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1984,
+    "duration_ms": 202228,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +340,15 @@
     "artist": "Vondráčková Helena &Korn Jiří",
     "date": "17.10.2025",
     "time": "03:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Těch Pár Dnů",
+    "release_year": 2007,
+    "duration_ms": 282827,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +356,15 @@
     "artist": "Dubasová Beáta",
     "date": "17.10.2025",
     "time": "02:59",
-    "listeners": 197
+    "listeners": 197,
+    "lyricists": null,
+    "album": "Najväčšie hity 1985 - 2020",
+    "release_year": 2020,
+    "duration_ms": 173880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

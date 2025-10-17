@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "17.10.2025",
     "time": "07:42",
-    "listeners": 3035
+    "listeners": 3035,
+    "lyricists": null,
+    "album": "Meky",
+    "release_year": 1997,
+    "duration_ms": 188467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jason Donovan",
     "date": "17.10.2025",
     "time": "07:39",
-    "listeners": 2992
+    "listeners": 2992,
+    "lyricists": null,
+    "album": "Ten Good Reasons",
+    "release_year": 1989,
+    "duration_ms": 152753,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Zich Karel",
     "date": "17.10.2025",
     "time": "07:36",
-    "listeners": 2767
+    "listeners": 2767,
+    "lyricists": null,
+    "album": "...To Nejlepší",
+    "release_year": 1981,
+    "duration_ms": 207133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,19 @@
     "artist": "Fancy",
     "date": "17.10.2025",
     "time": "07:32",
-    "listeners": 2834
+    "listeners": 2834,
+    "lyricists": [
+      "Alfons Weindorf",
+      "Fancy",
+      "Sabrina Lorenz"
+    ],
+    "album": "Hit Collection",
+    "release_year": 1998,
+    "duration_ms": 217880,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

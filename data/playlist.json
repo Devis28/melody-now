@@ -5,7 +5,15 @@
     "artist": "Londonbeat",
     "date": "17.10.2025",
     "time": "23:27",
-    "listeners": 448
+    "listeners": 448,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 228280,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Eurythmics",
     "date": "17.10.2025",
     "time": "23:22",
-    "listeners": 466
+    "listeners": 466,
+    "lyricists": null,
+    "album": "Touch (2018 Remaster)",
+    "release_year": 2000,
+    "duration_ms": 295947,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Erasure",
     "date": "17.10.2025",
     "time": "23:18",
-    "listeners": 469
+    "listeners": 469,
+    "lyricists": null,
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "release_year": 2005,
+    "duration_ms": 237840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -10773,5 +10773,14 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "culture beat|mr vain": {
+    "release_year": 1993,
+    "artist_country": "DE",
+    "album": "Mr. Vain",
+    "duration_ms": 395000,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

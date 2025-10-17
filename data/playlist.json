@@ -5,7 +5,15 @@
     "artist": "Aya",
     "date": "17.10.2025",
     "time": "07:22",
-    "listeners": 2571
+    "listeners": 2571,
+    "lyricists": null,
+    "album": "AYA 30 ROKOV & ŠTÁTNY KOMORNÝ ORCHESTER ŽILINA (Live Concert Version)",
+    "release_year": 2011,
+    "duration_ms": 445000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "John Elton & Dee Kiki",
     "date": "17.10.2025",
     "time": "07:17",
-    "listeners": 2537
+    "listeners": 2537,
+    "lyricists": null,
+    "album": "Rock of the Westies (Remastered)",
+    "release_year": 1975,
+    "duration_ms": 275440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Tublatanka",
     "date": "17.10.2025",
     "time": "07:11",
-    "listeners": 2568
+    "listeners": 2568,
+    "lyricists": null,
+    "album": "Skúsime to cez vesmír",
+    "release_year": 2002,
+    "duration_ms": 298893,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Zucchero,Paul Young",
     "date": "17.10.2025",
     "time": "07:04",
-    "listeners": 2464
+    "listeners": 2464,
+    "lyricists": null,
+    "album": "All the Best",
+    "release_year": 1991,
+    "duration_ms": 267080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Vondráčková Helena Neckář Václav",
     "date": "17.10.2025",
     "time": "07:02",
-    "listeners": 2432
+    "listeners": 2432,
+    "lyricists": null,
+    "album": "Rendez Vous",
+    "release_year": 1965,
+    "duration_ms": 143680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Crazy",
+    "artist": "Seal",
+    "date": "17.10.2025",
+    "time": "16:12",
+    "listeners": 2014
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "17.10.2025",
+    "time": "16:10",
+    "listeners": 2163
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "In The Army Now",
+    "artist": "Status Quo",
+    "date": "17.10.2025",
+    "time": "16:06",
+    "listeners": 1985
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Believe",
+    "artist": "Cher",
+    "date": "17.10.2025",
+    "time": "16:03",
+    "listeners": 2190
+  },
+  {
+    "station": "Rádio Melody",
     "title": "True Colors",
     "artist": "Phil Collins",
     "date": "17.10.2025",

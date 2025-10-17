@@ -5,7 +5,16 @@
     "artist": "Desmod",
     "date": "18.10.2025",
     "time": "00:13",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Molekuly Zvuku",
+    "release_year": 2017,
+    "duration_ms": 207978,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,17 @@
     "artist": "Michael Jackson",
     "date": "18.10.2025",
     "time": "00:09",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
+    "release_year": 1993,
+    "duration_ms": 219560,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Hana Hegerová",
     "date": "18.10.2025",
     "time": "00:06",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Paběrky",
+    "release_year": 2015,
+    "duration_ms": 183600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Marika Gombitová",
     "date": "18.10.2025",
     "time": "00:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Single (1977 - 1989)",
+    "release_year": 2000,
+    "duration_ms": 202960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Klf, The",
     "date": "17.10.2025",
     "time": "23:59",
-    "listeners": 325
+    "listeners": 325,
+    "lyricists": null,
+    "album": "Solid State Logik 1",
+    "release_year": 2021,
+    "duration_ms": 228372,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Novák Petr",
     "date": "17.10.2025",
     "time": "23:57",
-    "listeners": 328
+    "listeners": 328,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 141027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

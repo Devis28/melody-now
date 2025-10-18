@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Umenie Žiť",
+    "artist": "Patejdl Vašo",
+    "date": "18.10.2025",
+    "time": "17:17",
+    "listeners": 1210
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Alenka V Ríši Divú",
+    "artist": "Karel Zich",
+    "date": "18.10.2025",
+    "time": "17:14",
+    "listeners": 1173
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "18.10.2025",
+    "time": "17:11",
+    "listeners": 1246
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chýbanie",
+    "artist": "Desmod",
+    "date": "18.10.2025",
+    "time": "17:06",
+    "listeners": 1160
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hráč",
+    "artist": "Turbo",
+    "date": "18.10.2025",
+    "time": "17:01",
+    "listeners": 1212
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Až Na Vrcholky Hor",
+    "artist": "Věra Martinová",
+    "date": "18.10.2025",
+    "time": "16:58",
+    "listeners": 1195
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mám Rád",
     "artist": "Miro Žbirka",
     "date": "18.10.2025",

@@ -5,7 +5,19 @@
     "artist": "Sophie B. Hawkins",
     "date": "18.10.2025",
     "time": "05:53",
-    "listeners": 207
+    "listeners": 207,
+    "lyricists": [
+      "Rick Chertoff",
+      "Sophie B. Hawkins",
+      "Stewart Lerman"
+    ],
+    "album": "The Best of Sophie B. Hawkins",
+    "release_year": 2001,
+    "duration_ms": 286573,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "18.10.2025",
     "time": "05:50",
-    "listeners": 205
+    "listeners": 205,
+    "lyricists": null,
+    "album": "Bookends",
+    "release_year": 1968,
+    "duration_ms": 247420,
+    "artist_country": null,
+    "genres": [
+      "Classical"
+    ]
   },
   {
     "station": "Rádio Melody",

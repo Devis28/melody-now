@@ -5,7 +5,20 @@
     "artist": "Falco",
     "date": "18.10.2025",
     "time": "21:22",
-    "listeners": 874
+    "listeners": 874,
+    "lyricists": [
+      "Falco",
+      "Ferdi Bolland",
+      "Rob Bolland"
+    ],
+    "album": "Falco: Greatest Hits",
+    "release_year": 1991,
+    "duration_ms": 240107,
+    "artist_country": "AT",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +26,15 @@
     "artist": "La Bouche",
     "date": "18.10.2025",
     "time": "21:18",
-    "listeners": 821
+    "listeners": 821,
+    "lyricists": null,
+    "album": "La Bouche: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 240867,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +42,26 @@
     "artist": "Kool & The Gang",
     "date": "18.10.2025",
     "time": "21:15",
-    "listeners": 838
+    "listeners": 838,
+    "lyricists": [
+      "Adam Ippolito",
+      "Chris Alberts",
+      "Claydes Smith",
+      "Cliff Adams",
+      "Dennis “D.T.” Thomas",
+      "George Brown",
+      "Jon Faddis",
+      "Robert Spike Mickens",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ],
+    "album": "The Very Best of Kool & The Gang",
+    "release_year": 1979,
+    "duration_ms": 208307,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +69,15 @@
     "artist": "The Belle Stars",
     "date": "18.10.2025",
     "time": "21:11",
-    "listeners": 927
+    "listeners": 927,
+    "lyricists": null,
+    "album": "The Belle Stars",
+    "release_year": 1981,
+    "duration_ms": 178720,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

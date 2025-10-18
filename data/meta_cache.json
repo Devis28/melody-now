@@ -10912,5 +10912,41 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "falco|vienna calling": {
+    "release_year": 1991,
+    "artist_country": "AT",
+    "album": "Falco: Greatest Hits",
+    "duration_ms": 240107,
+    "lyricists": [
+      "Falco",
+      "Ferdi Bolland",
+      "Rob Bolland"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "kool|ladies night": {
+    "artist_country": "US",
+    "album": "The Very Best of Kool & The Gang",
+    "release_year": 1979,
+    "duration_ms": 208307,
+    "lyricists": [
+      "Adam Ippolito",
+      "Chris Alberts",
+      "Claydes Smith",
+      "Cliff Adams",
+      "Dennis “D.T.” Thomas",
+      "George Brown",
+      "Jon Faddis",
+      "Robert Spike Mickens",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ],
+    "genres": [
+      "R&B"
+    ]
   }
 }

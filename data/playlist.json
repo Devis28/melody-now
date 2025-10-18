@@ -5,7 +5,15 @@
     "artist": "Gott Karel & Holanová Marcela",
     "date": "18.10.2025",
     "time": "13:14",
-    "listeners": 1944
+    "listeners": 1944,
+    "lyricists": null,
+    "album": "Umbrella EP",
+    "release_year": 2022,
+    "duration_ms": 234456,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vondráčková Helena",
     "date": "18.10.2025",
     "time": "13:11",
-    "listeners": 1942
+    "listeners": 1942,
+    "lyricists": null,
+    "album": "Kam Zmizel Ten Starý Song",
+    "release_year": 1964,
+    "duration_ms": 187307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Nagy Peter",
     "date": "18.10.2025",
     "time": "13:07",
-    "listeners": 1734
+    "listeners": 1734,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2009,
+    "duration_ms": 264040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Karol Duchoň",
     "date": "18.10.2025",
     "time": "13:04",
-    "listeners": 1883
+    "listeners": 1883,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1985,
+    "duration_ms": 152867,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Grigorov Robo",
     "date": "18.10.2025",
     "time": "13:00",
-    "listeners": 1844
+    "listeners": 1844,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 288800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

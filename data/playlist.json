@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Som On (Snežný Pluh)",
+    "artist": "Hex",
+    "date": "18.10.2025",
+    "time": "10:09",
+    "listeners": 1169
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tak Si So Mnou Opakuj",
+    "artist": "Gombitová Marika",
+    "date": "18.10.2025",
+    "time": "10:06",
+    "listeners": 1049
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Líbezná",
+    "artist": "David Michal",
+    "date": "18.10.2025",
+    "time": "10:02",
+    "listeners": 1090
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "18.10.2025",
+    "time": "09:56",
+    "listeners": 1082
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mesto Snov",
     "artist": "Heckovci Julia A Peter",
     "date": "18.10.2025",

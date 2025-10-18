@@ -10896,5 +10896,21 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "crystal waters|100% pure love": {
+    "release_year": 1998,
+    "artist_country": "US",
+    "album": "100% Pure Love (UNIIQU3 Remix) - Single",
+    "duration_ms": 170667,
+    "lyricists": [
+      "Crystal Waters",
+      "Jay Steinhour",
+      "Teddy Douglas",
+      "Thomas Davis"
+    ],
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

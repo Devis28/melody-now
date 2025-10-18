@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Medulienka",
+    "artist": "Hammel Pavol",
+    "date": "18.10.2025",
+    "time": "16:49",
+    "listeners": 1306
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nočná Optika",
+    "artist": "Müller Richard",
+    "date": "18.10.2025",
+    "time": "16:44",
+    "listeners": 1258
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Školská Lavica",
     "artist": "Gombitová Marika",
     "date": "18.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "18.10.2025",
     "time": "12:56",
-    "listeners": 1935
+    "listeners": 1935,
+    "lyricists": null,
+    "album": "Legenda 3",
+    "release_year": 1997,
+    "duration_ms": 235000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Věra Martinová",
     "date": "18.10.2025",
     "time": "12:53",
-    "listeners": 1833
+    "listeners": 1833,
+    "lyricists": null,
+    "album": "Jako Dřív (Zlatá Kolekce)",
+    "release_year": 2013,
+    "duration_ms": 187000,
+    "artist_country": "CZ",
+    "genres": [
+      "Country",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -10980,5 +10980,45 @@
     "genres": [
       "Pop"
     ]
+  },
+  "billy ocean|love really hurts without you": {
+    "artist_country": "GB",
+    "album": "Billy Ocean (Expanded Edition)",
+    "release_year": 1976,
+    "duration_ms": 179013,
+    "lyricists": [
+      "Ben Findon",
+      "Billy Ocean"
+    ],
+    "genres": [
+      "Electronic",
+      "Pop",
+      "R&B"
+    ]
+  },
+  "peter andre|mysterious girl": {
+    "release_year": 1998,
+    "artist_country": "AU",
+    "album": "Natural",
+    "duration_ms": 217107,
+    "lyricists": [
+      "Bubbler Ranx",
+      "Glen Goldsmith",
+      "Ollie J",
+      "Peter Andre",
+      "Phillip Jacobs"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "madonna|like a virgin": {
+    "artist_country": "US",
+    "release_year": 2002,
+    "album": "Like a Virgin",
+    "duration_ms": 218614,
+    "genres": [
+      "Pop"
+    ]
   }
 }

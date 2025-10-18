@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Zalúbení",
+    "artist": "Dušan Hlaváček",
+    "date": "18.10.2025",
+    "time": "16:18",
+    "listeners": 1403
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Když Se Načančám",
+    "artist": "Heidi Janků",
+    "date": "18.10.2025",
+    "time": "16:14",
+    "listeners": 1395
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ján Ámos Džínový",
+    "artist": "Metalinda",
+    "date": "18.10.2025",
+    "time": "16:09",
+    "listeners": 1335
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Posledné Dobré Dievča",
+    "artist": "Pavol Habera",
+    "date": "18.10.2025",
+    "time": "16:05",
+    "listeners": 1408
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Podvod",
+    "artist": "Honza Nedvěd",
+    "date": "18.10.2025",
+    "time": "16:01",
+    "listeners": 1460
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Největší Z Nálezů A Ztrát",
     "artist": "David Michal",
     "date": "18.10.2025",

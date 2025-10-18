@@ -5,7 +5,17 @@
     "artist": "Ace Of Base",
     "date": "18.10.2025",
     "time": "05:07",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": [
+      "Ace of Base"
+    ],
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 1995,
+    "duration_ms": 211213,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "Janda Dalibor",
     "date": "18.10.2025",
     "time": "05:03",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 232027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Karmen Pál-Baláž",
     "date": "18.10.2025",
     "time": "04:58",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Anjel - Single",
+    "release_year": 2023,
+    "duration_ms": 255102,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Carey Mariah",
     "date": "18.10.2025",
     "time": "04:54",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 257973,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Boney M",
     "date": "18.10.2025",
     "time": "04:50",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 241373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Westlife",
     "date": "18.10.2025",
     "time": "04:46",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Love Album",
+    "release_year": 2007,
+    "duration_ms": 279619,
+    "artist_country": "IE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,20 @@
     "artist": "Kristína",
     "date": "18.10.2025",
     "time": "04:42",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "album": "V Sieti Ta Mam",
+    "release_year": 2014,
+    "duration_ms": 227267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +124,15 @@
     "artist": "Ub 40",
     "date": "18.10.2025",
     "time": "04:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Very Best Of",
+    "release_year": 1989,
+    "duration_ms": 230000,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +140,15 @@
     "artist": "Kelly Family, The",
     "date": "18.10.2025",
     "time": "04:35",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Over the Hump",
+    "release_year": 1994,
+    "duration_ms": 224507,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

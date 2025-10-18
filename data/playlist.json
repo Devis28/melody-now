@@ -5,7 +5,16 @@
     "artist": "Cocker Joe/Jennifer Warnes",
     "date": "19.10.2025",
     "time": "01:28",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "20th Century Masters - The Millennium Collection: The Best of Joe Cocker",
+    "release_year": 1982,
+    "duration_ms": 232573,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Pavol Hammel",
     "date": "19.10.2025",
     "time": "01:25",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "THE BEST OF PAVOL HAMMEL",
+    "release_year": 1981,
+    "duration_ms": 164947,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "The Scorpions",
     "date": "19.10.2025",
     "time": "01:20",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": null,
+    "album": "Crazy World",
+    "release_year": 1999,
+    "duration_ms": 312360,
+    "artist_country": "DE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,16 @@
     "artist": "Money Factor",
     "date": "19.10.2025",
     "time": "01:16",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": null,
+    "album": "Rockové Balady",
+    "release_year": 2008,
+    "duration_ms": 241760,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,16 @@
     "artist": "Myles Alannah",
     "date": "19.10.2025",
     "time": "01:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Alannah Myles",
+    "release_year": 1989,
+    "duration_ms": 287440,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,16 @@
     "artist": "The Police",
     "date": "19.10.2025",
     "time": "01:07",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Synchronicity (Remastered 2003)",
+    "release_year": 1983,
+    "duration_ms": 253960,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,16 @@
     "artist": "Herman's Hermits",
     "date": "19.10.2025",
     "time": "01:05",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The BEST EVER: Sixties",
+    "release_year": 1991,
+    "duration_ms": 174333,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +123,15 @@
     "artist": "Kristína",
     "date": "19.10.2025",
     "time": "01:01",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Kristína: TIE NAJ (Album verzia)",
+    "release_year": 2020,
+    "duration_ms": 232452,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +139,15 @@
     "artist": "Modern Talking",
     "date": "19.10.2025",
     "time": "00:57",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1984,
+    "duration_ms": 202228,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Smes Italskych Pisni",
+    "artist": "Ruzni Interpreti",
+    "date": "18.10.2025",
+    "time": "10:54",
+    "listeners": 1286
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sme Také Aké Sme",
+    "artist": "Dubasová Beáta",
+    "date": "18.10.2025",
+    "time": "10:52",
+    "listeners": 1224
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "G8",
+    "date": "18.10.2025",
+    "time": "10:48",
+    "listeners": 1245
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čakám Ťa, Láska",
     "artist": "Elán",
     "date": "18.10.2025",

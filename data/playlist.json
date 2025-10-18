@@ -5,7 +5,15 @@
     "artist": "Smokie",
     "date": "18.10.2025",
     "time": "23:52",
-    "listeners": 279
+    "listeners": 279,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 1998,
+    "duration_ms": 244733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Madonna",
     "date": "18.10.2025",
     "time": "23:47",
-    "listeners": 268
+    "listeners": 268,
+    "lyricists": [
+      "Brian Elliot",
+      "Madonna"
+    ],
+    "album": "True Blue",
+    "release_year": 2016,
+    "duration_ms": 268533,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

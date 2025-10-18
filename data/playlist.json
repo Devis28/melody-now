@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "18.10.2025",
     "time": "08:31",
-    "listeners": 673
+    "listeners": 673,
+    "lyricists": null,
+    "album": "99 zápaliek",
+    "release_year": 2005,
+    "duration_ms": 204013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Team",
     "date": "18.10.2025",
     "time": "08:28",
-    "listeners": 662
+    "listeners": 662,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 1989,
+    "duration_ms": 270040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Exil",
     "date": "18.10.2025",
     "time": "08:24",
-    "listeners": 616
+    "listeners": 616,
+    "lyricists": null,
+    "album": "Kamarát - EP",
+    "release_year": 1996,
+    "duration_ms": 215615,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Elán",
     "date": "18.10.2025",
     "time": "08:19",
-    "listeners": 587
+    "listeners": 587,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1998,
+    "duration_ms": 198507,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,18 @@
     "artist": "Pavol Hammel",
     "date": "18.10.2025",
     "time": "08:16",
-    "listeners": 589
+    "listeners": 589,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1997,
+    "duration_ms": 168587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Melen Josef",
     "date": "18.10.2025",
     "time": "08:14",
-    "listeners": 603
+    "listeners": 603,
+    "lyricists": null,
+    "album": "Veselé Dětské Písničky",
+    "release_year": 1981,
+    "duration_ms": 158000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +104,15 @@
     "artist": "Miro Žbirka",
     "date": "18.10.2025",
     "time": "08:09",
-    "listeners": 523
+    "listeners": 523,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 187773,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +120,15 @@
     "artist": "Grigorov Robo",
     "date": "18.10.2025",
     "time": "08:05",
-    "listeners": 521
+    "listeners": 521,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 212402,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +136,15 @@
     "artist": "Brezovská Mirka",
     "date": "18.10.2025",
     "time": "08:02",
-    "listeners": 515
+    "listeners": 515,
+    "lyricists": null,
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "release_year": 2016,
+    "duration_ms": 197007,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

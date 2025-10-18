@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "18.10.2025",
     "time": "10:41",
-    "listeners": 1331
+    "listeners": 1331,
+    "lyricists": null,
+    "album": "Ôsmy svetadiel (Remastered)",
+    "release_year": 1998,
+    "duration_ms": 274480,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Václav Neckář",
     "date": "18.10.2025",
     "time": "10:38",
-    "listeners": 1289
+    "listeners": 1289,
+    "lyricists": null,
+    "album": "Osmdesát / Největší hity 1965-2023",
+    "release_year": 2013,
+    "duration_ms": 177920,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Karel Gott & Darinka Rolincová",
     "date": "18.10.2025",
     "time": "10:35",
-    "listeners": 1199
+    "listeners": 1199,
+    "lyricists": null,
+    "album": "Zvonky Štěstí, Moje Druhé Já - Single",
+    "release_year": 2007,
+    "duration_ms": 236693,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

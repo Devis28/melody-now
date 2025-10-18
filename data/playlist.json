@@ -5,7 +5,15 @@
     "artist": "Katapult",
     "date": "18.10.2025",
     "time": "18:34",
-    "listeners": 1189
+    "listeners": 1189,
+    "lyricists": null,
+    "album": "Grand Greatest Hits (Výběr)",
+    "release_year": 1993,
+    "duration_ms": 180333,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gravis",
     "date": "18.10.2025",
     "time": "18:30",
-    "listeners": 1234
+    "listeners": 1234,
+    "lyricists": null,
+    "album": "Kolotoč masiek",
+    "release_year": 1989,
+    "duration_ms": 194235,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Habera Pavol",
     "date": "18.10.2025",
     "time": "18:27",
-    "listeners": 1192
+    "listeners": 1192,
+    "lyricists": null,
+    "album": "Boli Sme Raz Milovani",
+    "release_year": 2000,
+    "duration_ms": 227827,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Modus",
     "date": "18.10.2025",
     "time": "18:23",
-    "listeners": 1143
+    "listeners": 1143,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 1998,
+    "duration_ms": 208853,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Hegerová Hana & Hapka Petr",
     "date": "18.10.2025",
     "time": "18:19",
-    "listeners": 1193
+    "listeners": 1193,
+    "lyricists": null,
+    "album": "Všechno Nejlepší",
+    "release_year": 1964,
+    "duration_ms": 233267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Vondrackova Lucie",
     "date": "18.10.2025",
     "time": "18:15",
-    "listeners": 1233
+    "listeners": 1233,
+    "lyricists": null,
+    "album": "Atlantida",
+    "release_year": 1995,
+    "duration_ms": 260027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Gladiator",
     "date": "18.10.2025",
     "time": "18:11",
-    "listeners": 1141
+    "listeners": 1141,
+    "lyricists": null,
+    "album": "Zlate Hity",
+    "release_year": 2011,
+    "duration_ms": 215627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +117,15 @@
     "artist": "Muller Richard & Anna K. Ivan Tasler",
     "date": "18.10.2025",
     "time": "18:05",
-    "listeners": 1185
+    "listeners": 1185,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2000,
+    "duration_ms": 376360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +133,15 @@
     "artist": "Peter Nagy",
     "date": "18.10.2025",
     "time": "18:02",
-    "listeners": 1192
+    "listeners": 1192,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2011,
+    "duration_ms": 171240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +149,15 @@
     "artist": "David Michal",
     "date": "18.10.2025",
     "time": "18:00",
-    "listeners": 1137
+    "listeners": 1137,
+    "lyricists": null,
+    "album": "Non Stop",
+    "release_year": 2001,
+    "duration_ms": 137707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +165,15 @@
     "artist": "Zagorová Hana & Drupi",
     "date": "18.10.2025",
     "time": "17:56",
-    "listeners": 1082
+    "listeners": 1082,
+    "lyricists": null,
+    "album": "Střípky",
+    "release_year": 2010,
+    "duration_ms": 201040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

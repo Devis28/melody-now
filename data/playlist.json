@@ -5,7 +5,16 @@
     "artist": "Olympic",
     "date": "18.10.2025",
     "time": "16:31",
-    "listeners": 1357
+    "listeners": 1357,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1998,
+    "duration_ms": 259133,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Tucný Michal",
     "date": "18.10.2025",
     "time": "16:28",
-    "listeners": 1368
+    "listeners": 1368,
+    "lyricists": null,
+    "album": "Snídaně V Trávě",
+    "release_year": 2015,
+    "duration_ms": 178120,
+    "artist_country": null,
+    "genres": [
+      "Country",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "No Name",
     "date": "18.10.2025",
     "time": "16:25",
-    "listeners": 1256
+    "listeners": 1256,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2006,
+    "duration_ms": 197707,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Marie Rottrová",
     "date": "18.10.2025",
     "time": "16:21",
-    "listeners": 1447
+    "listeners": 1447,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2003,
+    "duration_ms": 200307,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

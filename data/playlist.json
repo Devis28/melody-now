@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "date": "19.10.2025",
+    "time": "01:47",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Xanadu",
+    "artist": "Olivia Newton-John And Electric Light Orchestra",
+    "date": "19.10.2025",
+    "time": "01:44",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Always",
+    "artist": "Bon Jovi",
+    "date": "19.10.2025",
+    "time": "01:38",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ci Sarà",
+    "artist": "Bano Al & Power Romina",
+    "date": "19.10.2025",
+    "time": "01:35",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Predavačka Langošov",
+    "artist": "Taktici",
+    "date": "19.10.2025",
+    "time": "01:32",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Up Where We Belong",
     "artist": "Cocker Joe/Jennifer Warnes",
     "date": "19.10.2025",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Heaven Is A Place On Earth",
+    "artist": "Belinda Carlisle",
+    "date": "18.10.2025",
+    "time": "21:53",
+    "listeners": 664
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sing Hallelujah",
+    "artist": "Dr. Alban",
+    "date": "18.10.2025",
+    "time": "21:49",
+    "listeners": 683
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Happy People",
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "18.10.2025",

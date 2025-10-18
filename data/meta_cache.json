@@ -11020,5 +11020,15 @@
     "genres": [
       "Pop"
     ]
+  },
+  "den harrow|dont break my heart": {
+    "release_year": 2005,
+    "artist_country": "IT",
+    "album": "The Legend",
+    "duration_ms": 254800,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

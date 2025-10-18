@@ -11075,5 +11075,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "ultravox|dancing with tears in my eyes": {
+    "release_year": 2003,
+    "artist_country": "GB",
+    "album": "Lament (2009 Remaster)",
+    "duration_ms": 280907,
+    "genres": [
+      "Rock"
+    ]
   }
 }

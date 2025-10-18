@@ -5,7 +5,15 @@
     "artist": "The Bee Gees",
     "date": "18.10.2025",
     "time": "23:26",
-    "listeners": 320
+    "listeners": 320,
+    "lyricists": null,
+    "album": "High Civilization",
+    "release_year": 1991,
+    "duration_ms": 222800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ultravox",
     "date": "18.10.2025",
     "time": "23:22",
-    "listeners": 343
+    "listeners": 343,
+    "lyricists": null,
+    "album": "Lament (2009 Remaster)",
+    "release_year": 2003,
+    "duration_ms": 280907,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "The Cranberries",
     "date": "18.10.2025",
     "time": "23:18",
-    "listeners": 339
+    "listeners": 339,
+    "lyricists": null,
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "release_year": 1993,
+    "duration_ms": 255107,
+    "artist_country": "IE",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

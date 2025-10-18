@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "V Sieti Ťa Mám",
+    "artist": "Kristína",
+    "date": "18.10.2025",
+    "time": "13:22",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chci Tě Líbat",
+    "artist": "Václav Neckář",
+    "date": "18.10.2025",
+    "time": "13:18",
+    "listeners": 1971
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čau, Lásko",
     "artist": "Gott Karel & Holanová Marcela",
     "date": "18.10.2025",

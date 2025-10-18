@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "18.10.2025",
+    "time": "05:45",
+    "listeners": 216
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Tebou",
+    "artist": "Peha",
+    "date": "18.10.2025",
+    "time": "05:42",
+    "listeners": 196
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Only You",
+    "artist": "Yazoo",
+    "date": "18.10.2025",
+    "time": "05:38",
+    "listeners": 197
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Whenever, Wherever",
     "artist": "Shakira",
     "date": "18.10.2025",

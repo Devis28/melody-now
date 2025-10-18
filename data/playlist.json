@@ -5,7 +5,16 @@
     "artist": "Robert Miles",
     "date": "18.10.2025",
     "time": "23:44",
-    "listeners": 284
+    "listeners": 284,
+    "lyricists": null,
+    "album": "Dance Vault Mixes: Robert Miles - Children - EP",
+    "release_year": 1996,
+    "duration_ms": 243267,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Duran Duran",
     "date": "18.10.2025",
     "time": "23:40",
-    "listeners": 310
+    "listeners": 310,
+    "lyricists": null,
+    "album": "Seven and the Ragged Tiger (Deluxe Edition)",
+    "release_year": 2024,
+    "duration_ms": 267427,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

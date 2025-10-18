@@ -5,7 +5,17 @@
     "artist": "Shakira",
     "date": "18.10.2025",
     "time": "05:35",
-    "listeners": 203
+    "listeners": 203,
+    "lyricists": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ],
+    "album": "Laundry Service",
+    "release_year": 2001,
+    "duration_ms": 196160,
+    "artist_country": "CO",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "Zuzana Smatanová & Richard Autner",
     "date": "18.10.2025",
     "time": "05:31",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "Prútikár (feat. Richard Autner) - Single",
+    "release_year": 2024,
+    "duration_ms": 244947,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Belinda Carlisle",
     "date": "18.10.2025",
     "time": "05:27",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Runaway Horses (Deluxe Edition)",
+    "release_year": 1994,
+    "duration_ms": 256813,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Marika Gombitová",
     "date": "18.10.2025",
     "time": "05:22",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 2009,
+    "duration_ms": 286013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,13 @@
     "artist": "Ottawan",
     "date": "18.10.2025",
     "time": "05:19",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Ottawan 2",
+    "release_year": 1997,
+    "duration_ms": 289027,
+    "artist_country": "FR",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Peter Nagy",
     "date": "18.10.2025",
     "time": "05:15",
-    "listeners": 202
+    "listeners": 202,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2004,
+    "duration_ms": 256667,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,16 @@
     "artist": "Gladiátor",
     "date": "18.10.2025",
     "time": "05:10",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "Single (1994-2002)",
+    "release_year": 2020,
+    "duration_ms": 303173,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

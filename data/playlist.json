@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dovtedy",
+    "artist": "Adam Ďurica",
+    "date": "18.10.2025",
+    "time": "10:32",
+    "listeners": 1058
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Nejsem Volná",
+    "artist": "Petra Janů",
+    "date": "18.10.2025",
+    "time": "10:28",
+    "listeners": 1214
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veselá Pesnička",
+    "artist": "I.M.T. Smile",
+    "date": "18.10.2025",
+    "time": "10:25",
+    "listeners": 1087
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Saxana",
+    "artist": "Petra Černocká",
+    "date": "18.10.2025",
+    "time": "10:22",
+    "listeners": 1188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Pohodě",
+    "artist": "Stanislav Hložek & Petr Kotvald",
+    "date": "18.10.2025",
+    "time": "10:18",
+    "listeners": 1123
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Já Už Jdu",
+    "artist": "František Ringo Čech",
+    "date": "18.10.2025",
+    "time": "10:15",
+    "listeners": 1043
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Som On (Snežný Pluh)",
     "artist": "Hex",
     "date": "18.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Bilá Lucie",
     "date": "18.10.2025",
     "time": "15:32",
-    "listeners": 1575
+    "listeners": 1575,
+    "lyricists": null,
+    "album": "Platinum Collection",
+    "release_year": 1998,
+    "duration_ms": 211897,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jiří Korn",
     "date": "18.10.2025",
     "time": "15:28",
-    "listeners": 1650
+    "listeners": 1650,
+    "lyricists": null,
+    "album": "Zlatá Kolekce",
+    "release_year": 2009,
+    "duration_ms": 194773,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Rolincová Darina",
     "date": "18.10.2025",
     "time": "15:25",
-    "listeners": 1555
+    "listeners": 1555,
+    "lyricists": null,
+    "album": "Darinka",
+    "release_year": 1985,
+    "duration_ms": 180257,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Tublatanka",
     "date": "18.10.2025",
     "time": "15:22",
-    "listeners": 1682
+    "listeners": 1682,
+    "lyricists": null,
+    "album": "Zeravé znamenie osudu",
+    "release_year": 2012,
+    "duration_ms": 197013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Karel Zich",
     "date": "18.10.2025",
     "time": "15:19",
-    "listeners": 1597
+    "listeners": 1597,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 2004,
+    "duration_ms": 198040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

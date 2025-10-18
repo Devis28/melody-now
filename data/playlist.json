@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Scatman",
+    "artist": "Scatman John",
+    "date": "18.10.2025",
+    "time": "20:34",
+    "listeners": 1066
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Win Again",
+    "artist": "The Bee Gees",
+    "date": "18.10.2025",
+    "time": "20:31",
+    "listeners": 1005
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pandora's Box",
+    "artist": "Orchestral Manoeuvres In The Dark",
+    "date": "18.10.2025",
+    "time": "20:27",
+    "listeners": 1055
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Feels Like Heaven",
+    "artist": "Fiction Factory",
+    "date": "18.10.2025",
+    "time": "20:23",
+    "listeners": 1154
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "18.10.2025",
+    "time": "20:20",
+    "listeners": 1148
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Grease Megamix",
+    "artist": "Grease",
+    "date": "18.10.2025",
+    "time": "20:15",
+    "listeners": 1158
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Was Born To Love You",
+    "artist": "Freddie Mercury",
+    "date": "18.10.2025",
+    "time": "20:11",
+    "listeners": 1136
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Fable",
     "artist": "Robert Miles",
     "date": "18.10.2025",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Aj Keď Bez Peňazí",
+    "artist": "Elán",
+    "date": "18.10.2025",
+    "time": "20:43",
+    "listeners": 1001
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tainted Love",
+    "artist": "Soft Cell",
+    "date": "18.10.2025",
+    "time": "20:41",
+    "listeners": 1060
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Be My Baby",
+    "artist": "Ronettes, The",
+    "date": "18.10.2025",
+    "time": "20:38",
+    "listeners": 1059
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Scatman",
     "artist": "Scatman John",
     "date": "18.10.2025",

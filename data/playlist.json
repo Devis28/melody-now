@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čau, Lásko",
+    "artist": "Gott Karel & Holanová Marcela",
+    "date": "18.10.2025",
+    "time": "13:14",
+    "listeners": 1944
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kam Zmizel Ten Starý Song",
+    "artist": "Vondráčková Helena",
+    "date": "18.10.2025",
+    "time": "13:11",
+    "listeners": 1942
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "S Nohami Na Stole",
+    "artist": "Nagy Peter",
+    "date": "18.10.2025",
+    "time": "13:07",
+    "listeners": 1734
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Elena",
+    "artist": "Karol Duchoň",
+    "date": "18.10.2025",
+    "time": "13:04",
+    "listeners": 1883
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvaja",
+    "artist": "Grigorov Robo",
+    "date": "18.10.2025",
+    "time": "13:00",
+    "listeners": 1844
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Bosorka",
     "artist": "Elán",
     "date": "18.10.2025",

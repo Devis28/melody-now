@@ -5,7 +5,15 @@
     "artist": "Jiří Korn",
     "date": "18.10.2025",
     "time": "06:17",
-    "listeners": 243
+    "listeners": 243,
+    "lyricists": null,
+    "album": "Zlatá Kolekce",
+    "release_year": 2010,
+    "duration_ms": 208733,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gott Karel",
     "date": "18.10.2025",
     "time": "06:13",
-    "listeners": 220
+    "listeners": 220,
+    "lyricists": null,
+    "album": "Jágr vs Gott - Single",
+    "release_year": 2018,
+    "duration_ms": 190549,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Dubasová Beáta",
     "date": "18.10.2025",
     "time": "06:09",
-    "listeners": 223
+    "listeners": 223,
+    "lyricists": null,
+    "album": "Beáta",
+    "release_year": 1987,
+    "duration_ms": 214413,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Miro Žbirka",
     "date": "18.10.2025",
     "time": "06:04",
-    "listeners": 221
+    "listeners": 221,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 2007,
+    "duration_ms": 307013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,16 @@
     "artist": "Balogh Berco",
     "date": "18.10.2025",
     "time": "06:00",
-    "listeners": 205
+    "listeners": 205,
+    "lyricists": null,
+    "album": "Siedmy pád",
+    "release_year": 2007,
+    "duration_ms": 202507,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Michal David",
     "date": "18.10.2025",
     "time": "05:57",
-    "listeners": 206
+    "listeners": 206,
+    "lyricists": null,
+    "album": "Bláznivá Noc",
+    "release_year": 1983,
+    "duration_ms": 212253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

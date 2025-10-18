@@ -5,7 +5,15 @@
     "artist": "Hammel Pavol",
     "date": "18.10.2025",
     "time": "16:49",
-    "listeners": 1306
+    "listeners": 1306,
+    "lyricists": null,
+    "album": "Vrabec vševed",
+    "release_year": 1979,
+    "duration_ms": 201293,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Müller Richard",
     "date": "18.10.2025",
     "time": "16:44",
-    "listeners": 1258
+    "listeners": 1258,
+    "lyricists": null,
+    "album": "Nocna Optika",
+    "release_year": 2002,
+    "duration_ms": 299880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

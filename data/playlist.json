@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Školská Lavica",
+    "artist": "Gombitová Marika",
+    "date": "18.10.2025",
+    "time": "16:40",
+    "listeners": 1305
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vymyslená",
+    "artist": "Elán",
+    "date": "18.10.2025",
+    "time": "16:38",
+    "listeners": 1284
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Je Naprosto Nezbytné",
+    "artist": "Hana Zagorová",
+    "date": "18.10.2025",
+    "time": "16:35",
+    "listeners": 1298
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Já (Sobectví)",
     "artist": "Olympic",
     "date": "18.10.2025",

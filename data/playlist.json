@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Koloseum",
+    "artist": "Gombitová Marika",
+    "date": "18.10.2025",
+    "time": "19:26",
+    "listeners": 1205
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oteckovia",
+    "artist": "Hex",
+    "date": "18.10.2025",
+    "time": "19:22",
+    "listeners": 1248
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cez Plece",
+    "artist": "Pavol Hammel",
+    "date": "18.10.2025",
+    "time": "19:20",
+    "listeners": 1333
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Profesor Indigo",
+    "artist": "Nagy Peter",
+    "date": "18.10.2025",
+    "time": "19:17",
+    "listeners": 1267
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Trápím Se, Trápím",
+    "artist": "Spálený Petr",
+    "date": "18.10.2025",
+    "time": "19:14",
+    "listeners": 1269
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Obchodník S Deštěm",
     "artist": "Kryštof",
     "date": "18.10.2025",

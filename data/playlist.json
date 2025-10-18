@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Francúzky",
+    "artist": "Patejdl Vašo",
+    "date": "18.10.2025",
+    "time": "09:35",
+    "listeners": 935
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tisíc A Jedenkrát",
+    "artist": "Elán",
+    "date": "18.10.2025",
+    "time": "09:30",
+    "listeners": 897
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Vráť Mi Tie Hviezdy",
     "artist": "Dubasová Beáta",
     "date": "18.10.2025",

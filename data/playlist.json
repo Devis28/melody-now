@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "18.10.2025",
     "time": "20:43",
-    "listeners": 1001
+    "listeners": 1001,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 1992,
+    "duration_ms": 227560,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Soft Cell",
     "date": "18.10.2025",
     "time": "20:41",
-    "listeners": 1060
+    "listeners": 1060,
+    "lyricists": null,
+    "album": "Non Stop Erotic Cabaret (Deluxe Edition)",
+    "release_year": 1998,
+    "duration_ms": 153880,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Ronettes, The",
     "date": "18.10.2025",
     "time": "20:38",
-    "listeners": 1059
+    "listeners": 1059,
+    "lyricists": null,
+    "album": "Be My Baby: The Very Best of The Ronettes",
+    "release_year": 1963,
+    "duration_ms": 160907,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

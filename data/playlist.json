@@ -5,7 +5,15 @@
     "artist": "Kryštof",
     "date": "18.10.2025",
     "time": "19:10",
-    "listeners": 1337
+    "listeners": 1337,
+    "lyricists": null,
+    "album": "Polocas",
+    "release_year": 2007,
+    "duration_ms": 206667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Peter Bič Project",
     "date": "18.10.2025",
     "time": "19:06",
-    "listeners": 1203
+    "listeners": 1203,
+    "lyricists": null,
+    "album": "Skúšame sa nájsť - Single",
+    "release_year": 2024,
+    "duration_ms": 187187,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Elán",
     "date": "18.10.2025",
     "time": "19:02",
-    "listeners": 1204
+    "listeners": 1204,
+    "lyricists": null,
+    "album": "Legenda 5: Posledná...",
+    "release_year": 2007,
+    "duration_ms": 271773,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Žbirka Miro",
     "date": "18.10.2025",
     "time": "18:58",
-    "listeners": 1203
+    "listeners": 1203,
+    "lyricists": null,
+    "album": "Modrý album (Deluxe Edition 2021)",
+    "release_year": 2001,
+    "duration_ms": 287373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

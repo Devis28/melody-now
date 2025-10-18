@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "S Úsmevom",
+    "artist": "Karol Duchoň",
+    "date": "18.10.2025",
+    "time": "19:52",
+    "listeners": 1230
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Maduar",
+    "date": "18.10.2025",
+    "time": "19:47",
+    "listeners": 1243
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Daj Ruku Do Mojej Ruky",
     "artist": "Smatanová Zuzana",
     "date": "18.10.2025",

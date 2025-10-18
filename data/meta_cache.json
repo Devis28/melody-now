@@ -10958,5 +10958,13 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "kc|give it up": {
+    "release_year": 1997,
+    "album": "80s 100 Hits",
+    "duration_ms": 249486,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -5,7 +5,15 @@
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "18.10.2025",
     "time": "21:45",
-    "listeners": 745
+    "listeners": 745,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 1994,
+    "duration_ms": 238467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Kc & The Sunshine Band",
     "date": "18.10.2025",
     "time": "21:41",
-    "listeners": 790
+    "listeners": 790,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1997,
+    "duration_ms": 249486,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

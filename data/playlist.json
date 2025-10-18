@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Miestna Jednička",
+    "artist": "Patejdl Vašo",
+    "date": "18.10.2025",
+    "time": "14:15",
+    "listeners": 1936
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "To Se Oslavi",
+    "artist": "Michal David, Pavel Hornak A Marketa Muchova",
+    "date": "18.10.2025",
+    "time": "14:12",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "18.10.2025",
+    "time": "14:07",
+    "listeners": 1897
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nechajte Si Ju",
+    "artist": "Vidiek",
+    "date": "18.10.2025",
+    "time": "14:02",
+    "listeners": 1981
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jesenná Láska",
+    "artist": "Žbirka Miro",
+    "date": "18.10.2025",
+    "time": "13:59",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sen",
+    "artist": "Lucie",
+    "date": "18.10.2025",
+    "time": "13:55",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Žal Se Odkládá",
     "artist": "Jiří Korn",
     "date": "18.10.2025",

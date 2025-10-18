@@ -5,7 +5,15 @@
     "artist": "Adam Ďurica",
     "date": "18.10.2025",
     "time": "10:32",
-    "listeners": 1058
+    "listeners": 1058,
+    "lyricists": null,
+    "album": "Spolu",
+    "release_year": 2016,
+    "duration_ms": 147750,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Petra Janů",
     "date": "18.10.2025",
     "time": "10:28",
-    "listeners": 1214
+    "listeners": 1214,
+    "lyricists": null,
+    "album": "Už Nejsem Volná (Bonus Track Version)",
+    "release_year": 2000,
+    "duration_ms": 263733,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "I.M.T. Smile",
     "date": "18.10.2025",
     "time": "10:25",
-    "listeners": 1087
+    "listeners": 1087,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 178840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Petra Černocká",
     "date": "18.10.2025",
     "time": "10:22",
-    "listeners": 1188
+    "listeners": 1188,
+    "lyricists": null,
+    "album": "Se Mnou Si Píseň Broukej",
+    "release_year": 1996,
+    "duration_ms": 168493,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "18.10.2025",
     "time": "10:18",
-    "listeners": 1123
+    "listeners": 1123,
+    "lyricists": null,
+    "album": "V Pohodě (Bonus Track Version)",
+    "release_year": 2010,
+    "duration_ms": 205333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "František Ringo Čech",
     "date": "18.10.2025",
     "time": "10:15",
-    "listeners": 1043
+    "listeners": 1043,
+    "lyricists": null,
+    "album": "Best Of Ringo (Šubyduby Amerika)",
+    "release_year": 2004,
+    "duration_ms": 464000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

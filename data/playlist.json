@@ -5,7 +5,15 @@
     "artist": "Queen",
     "date": "18.10.2025",
     "time": "21:29",
-    "listeners": 792
+    "listeners": 792,
+    "lyricists": null,
+    "album": "The Works (Deluxe Edition)",
+    "release_year": 1997,
+    "duration_ms": 349187,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Fun Factory",
     "date": "18.10.2025",
     "time": "21:26",
-    "listeners": 830
+    "listeners": 830,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 207000,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

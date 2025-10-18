@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Biely Kvet",
+    "artist": "Miro Žbirka",
+    "date": "18.10.2025",
+    "time": "15:15",
+    "listeners": 1759
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Na Kolena",
+    "artist": "Hlas Ivan",
+    "date": "18.10.2025",
+    "time": "15:13",
+    "listeners": 1612
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "18.10.2025",
+    "time": "15:08",
+    "listeners": 1876
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pár Dní",
+    "artist": "Desmod & Zuzana Smatanová",
+    "date": "18.10.2025",
+    "time": "15:04",
+    "listeners": 1771
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Proklínám",
+    "artist": "Ledecký Janek",
+    "date": "18.10.2025",
+    "time": "14:59",
+    "listeners": 1836
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bez Lásky Láska Není",
+    "artist": "Zelenková Jitka",
+    "date": "18.10.2025",
+    "time": "14:55",
+    "listeners": 1710
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Růže Z Papíru",
     "artist": "Brontosauři",
     "date": "18.10.2025",

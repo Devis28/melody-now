@@ -5,7 +5,16 @@
     "artist": "Depeche Mode",
     "date": "18.10.2025",
     "time": "22:41",
-    "listeners": 496
+    "listeners": 496,
+    "lyricists": null,
+    "album": "The Singles 81-85",
+    "release_year": 1981,
+    "duration_ms": 221640,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Gloria Gaynor",
     "date": "18.10.2025",
     "time": "22:38",
-    "listeners": 458
+    "listeners": 458,
+    "lyricists": null,
+    "album": "I Will Survive: The Anthology",
+    "release_year": 2001,
+    "duration_ms": 481693,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Backstreet Boys",
     "date": "18.10.2025",
     "time": "22:34",
-    "listeners": 513
+    "listeners": 513,
+    "lyricists": null,
+    "album": "Backstreet Boys",
+    "release_year": 1998,
+    "duration_ms": 230387,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

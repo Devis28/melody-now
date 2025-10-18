@@ -11030,5 +11030,24 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "depeche mode|just can't get enough": {
+    "artist_country": "GB",
+    "album": "The Singles 81-85",
+    "release_year": 1981,
+    "duration_ms": 221640,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "backstreet boys|get down (you're the one for me)": {
+    "release_year": 1998,
+    "artist_country": "US",
+    "album": "Backstreet Boys",
+    "duration_ms": 230387,
+    "genres": [
+      "Pop"
+    ]
   }
 }

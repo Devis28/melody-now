@@ -5,7 +5,15 @@
     "artist": "Belinda Carlisle",
     "date": "18.10.2025",
     "time": "21:53",
-    "listeners": 664
+    "listeners": 664,
+    "lyricists": null,
+    "album": "Heaven on Earth",
+    "release_year": 2005,
+    "duration_ms": 247093,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,19 @@
     "artist": "Dr. Alban",
     "date": "18.10.2025",
     "time": "21:49",
-    "listeners": 683
+    "listeners": 683,
+    "lyricists": [
+      "Denniz PoP",
+      "Douglas Carr",
+      "Dr. Alban"
+    ],
+    "album": "One Love (Second Edition)",
+    "release_year": 1994,
+    "duration_ms": 240933,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

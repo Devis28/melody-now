@@ -10966,5 +10966,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "dr. alban|sing hallelujah": {
+    "release_year": 1994,
+    "artist_country": "SE",
+    "album": "One Love (Second Edition)",
+    "duration_ms": 240933,
+    "lyricists": [
+      "Denniz PoP",
+      "Douglas Carr",
+      "Dr. Alban"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

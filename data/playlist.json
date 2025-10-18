@@ -5,7 +5,19 @@
     "artist": "Eros Ramazzotti",
     "date": "18.10.2025",
     "time": "05:45",
-    "listeners": 216
+    "listeners": 216,
+    "lyricists": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ],
+    "album": "Eros Best Love Songs (Special Edition)",
+    "release_year": 1996,
+    "duration_ms": 267680,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Peha",
     "date": "18.10.2025",
     "time": "05:42",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": null,
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "release_year": 2005,
+    "duration_ms": 236680,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Yazoo",
     "date": "18.10.2025",
     "time": "05:38",
-    "listeners": 197
+    "listeners": 197,
+    "lyricists": null,
+    "album": "Upstairs at Eric's (Remastered)",
+    "release_year": 2008,
+    "duration_ms": 195213,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

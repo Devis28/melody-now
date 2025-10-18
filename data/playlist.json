@@ -5,7 +5,16 @@
     "artist": "Olympic",
     "date": "18.10.2025",
     "time": "13:43",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1993,
+    "duration_ms": 259973,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Heckovci Julia A Peter",
     "date": "18.10.2025",
     "time": "13:39",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 228818,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

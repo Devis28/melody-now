@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Keď Sme Sami",
+    "artist": "Hex",
+    "date": "18.10.2025",
+    "time": "12:32",
+    "listeners": 1785
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tabáček",
+    "artist": "Chinaski",
+    "date": "18.10.2025",
+    "time": "12:28",
+    "listeners": 1754
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cecka Sbira Cecka",
+    "artist": "David Michal & Kroky Frantiska Janecka",
+    "date": "18.10.2025",
+    "time": "12:26",
+    "listeners": 1840
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ďakujem Že Si",
+    "artist": "No Name",
+    "date": "18.10.2025",
+    "time": "12:22",
+    "listeners": 1693
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tereza",
+    "artist": "Matuška Waldemar",
+    "date": "18.10.2025",
+    "time": "12:20",
+    "listeners": 1619
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tlaková Níž",
     "artist": "Banket",
     "date": "18.10.2025",

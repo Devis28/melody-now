@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Spálená Láska",
+    "artist": "Tublatanka",
+    "date": "18.10.2025",
+    "time": "11:09",
+    "listeners": 1290
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Modrá",
+    "artist": "Kirschner Jana",
+    "date": "18.10.2025",
+    "time": "11:05",
+    "listeners": 1280
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malá Nočná Búrka",
+    "artist": "Team",
+    "date": "18.10.2025",
+    "time": "11:01",
+    "listeners": 1292
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Smes Italskych Pisni",
     "artist": "Ruzni Interpreti",
     "date": "18.10.2025",

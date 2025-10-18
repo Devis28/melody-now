@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čakám Ťa, Láska",
+    "artist": "Elán",
+    "date": "18.10.2025",
+    "time": "10:41",
+    "listeners": 1331
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mademoiselle Giselle",
+    "artist": "Václav Neckář",
+    "date": "18.10.2025",
+    "time": "10:38",
+    "listeners": 1289
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zvonky Štestí",
+    "artist": "Karel Gott & Darinka Rolincová",
+    "date": "18.10.2025",
+    "time": "10:35",
+    "listeners": 1199
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Dovtedy",
     "artist": "Adam Ďurica",
     "date": "18.10.2025",

@@ -1,6 +1,78 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "18.10.2025",
+    "time": "14:53",
+    "listeners": 1673
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vzhůru K Výškám",
+    "artist": "Helena Vondráčková",
+    "date": "18.10.2025",
+    "time": "14:49",
+    "listeners": 1958
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stoj",
+    "artist": "Peter Bič Project",
+    "date": "18.10.2025",
+    "time": "14:42",
+    "listeners": 1968
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Psi Sa Bránia Útokom",
+    "artist": "Nagy, Peter A Raz, Jozef",
+    "date": "18.10.2025",
+    "time": "14:39",
+    "listeners": 1922
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nikdy Nebolo Lepšie",
+    "artist": "Hex",
+    "date": "18.10.2025",
+    "time": "14:35",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Co Sudičky Přály Nám",
+    "artist": "Bílá Lucie Gott Karel",
+    "date": "18.10.2025",
+    "time": "14:30",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Inženýrská",
+    "artist": "Plavci",
+    "date": "18.10.2025",
+    "time": "14:27",
+    "listeners": 1999
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cesta do rozprávky",
+    "artist": "Darina Rolincová",
+    "date": "18.10.2025",
+    "time": "14:23",
+    "listeners": 1992
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "A Tak Dál Nosíš Po Kapsách Sny Mládí",
+    "artist": "Matuška Waldemar",
+    "date": "18.10.2025",
+    "time": "14:18",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Miestna Jednička",
     "artist": "Patejdl Vašo",
     "date": "18.10.2025",

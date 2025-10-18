@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mmuoj Boze",
+    "artist": "Katarina Knechtova",
+    "date": "18.10.2025",
+    "time": "07:40",
+    "listeners": 458
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cigaretka Na Dva Ťahy",
+    "artist": "Richard Müller",
+    "date": "18.10.2025",
+    "time": "07:37",
+    "listeners": 433
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neposlušné Tenisky",
+    "artist": "Bílá Lucie",
+    "date": "18.10.2025",
+    "time": "07:33",
+    "listeners": 420
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ži a nechaj žiť",
     "artist": "Marika Gombitová",
     "date": "18.10.2025",

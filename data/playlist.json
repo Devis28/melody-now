@@ -5,7 +5,15 @@
     "artist": "I.M.T. Smile",
     "date": "18.10.2025",
     "time": "12:49",
-    "listeners": 1922
+    "listeners": 1922,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2003,
+    "duration_ms": 277120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Věra Špinarová",
     "date": "18.10.2025",
     "time": "12:44",
-    "listeners": 1827
+    "listeners": 1827,
+    "lyricists": null,
+    "album": "Jednoho Dne Se Vrátíš (Bonus Track Version)",
+    "release_year": 2011,
+    "duration_ms": 277200,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

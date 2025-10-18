@@ -5,7 +5,15 @@
     "artist": "Jožo Ráž",
     "date": "18.10.2025",
     "time": "07:08",
-    "listeners": 349
+    "listeners": 349,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2007,
+    "duration_ms": 309392,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Polemic",
     "date": "18.10.2025",
     "time": "07:06",
-    "listeners": 324
+    "listeners": 324,
+    "lyricists": null,
+    "album": "Gangster-SKA",
+    "release_year": 2002,
+    "duration_ms": 149880,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Team",
     "date": "18.10.2025",
     "time": "07:04",
-    "listeners": 345
+    "listeners": 345,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2005,
+    "duration_ms": 130373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Hana Zagorova",
     "date": "18.10.2025",
     "time": "07:00",
-    "listeners": 312
+    "listeners": 312,
+    "lyricists": null,
+    "album": "Singly 1981-1990",
+    "release_year": 2013,
+    "duration_ms": 235000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Tublatanka",
     "date": "18.10.2025",
     "time": "06:56",
-    "listeners": 310
+    "listeners": 310,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 2006,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

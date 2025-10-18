@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "18.10.2025",
+    "time": "05:35",
+    "listeners": 203
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prútikár",
+    "artist": "Zuzana Smatanová & Richard Autner",
+    "date": "18.10.2025",
+    "time": "05:31",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "(We Want) The Same Thing",
+    "artist": "Belinda Carlisle",
+    "date": "18.10.2025",
+    "time": "05:27",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cukráreň Na Dlani Námestia",
+    "artist": "Marika Gombitová",
+    "date": "18.10.2025",
+    "time": "05:22",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hands Up",
+    "artist": "Ottawan",
+    "date": "18.10.2025",
+    "time": "05:19",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska Je Tu S Nami",
+    "artist": "Peter Nagy",
+    "date": "18.10.2025",
+    "time": "05:15",
+    "listeners": 202
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dnes Je Skvelý Den",
+    "artist": "Gladiátor",
+    "date": "18.10.2025",
+    "time": "05:10",
+    "listeners": 201
+  },
+  {
+    "station": "Rádio Melody",
     "title": "All That She Wants",
     "artist": "Ace Of Base",
     "date": "18.10.2025",

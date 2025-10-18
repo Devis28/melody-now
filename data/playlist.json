@@ -5,7 +5,15 @@
     "artist": "Patejdl Vašo",
     "date": "18.10.2025",
     "time": "09:35",
-    "listeners": 935
+    "listeners": 935,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 1989,
+    "duration_ms": 262387,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "18.10.2025",
     "time": "09:30",
-    "listeners": 897
+    "listeners": 897,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1994,
+    "duration_ms": 279000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

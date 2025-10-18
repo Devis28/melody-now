@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mám Rád",
+    "artist": "Miro Žbirka",
+    "date": "18.10.2025",
+    "time": "16:55",
+    "listeners": 1264
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Má První Láska Se Dnes Vdává",
+    "artist": "Gott Karel",
+    "date": "18.10.2025",
+    "time": "16:52",
+    "listeners": 1184
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Medulienka",
     "artist": "Hammel Pavol",
     "date": "18.10.2025",

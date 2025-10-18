@@ -5,7 +5,15 @@
     "artist": "David Michal",
     "date": "18.10.2025",
     "time": "15:57",
-    "listeners": 1452
+    "listeners": 1452,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 234840,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Grigorov Robo",
     "date": "18.10.2025",
     "time": "15:54",
-    "listeners": 1537
+    "listeners": 1537,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 191373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Matuska Waldemar & Vondrackova Helena",
     "date": "18.10.2025",
     "time": "15:51",
-    "listeners": 1530
+    "listeners": 1530,
+    "lyricists": null,
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "release_year": 1963,
+    "duration_ms": 187747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

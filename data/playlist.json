@@ -5,7 +5,15 @@
     "artist": "Brontosauři",
     "date": "18.10.2025",
     "time": "14:53",
-    "listeners": 1673
+    "listeners": 1673,
+    "lyricists": null,
+    "album": "Vsechny Hity",
+    "release_year": 2001,
+    "duration_ms": 139747,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Helena Vondráčková",
     "date": "18.10.2025",
     "time": "14:49",
-    "listeners": 1958
+    "listeners": 1958,
+    "lyricists": null,
+    "album": "Best of the Best",
+    "release_year": 2009,
+    "duration_ms": 233507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peter Bič Project",
     "date": "18.10.2025",
     "time": "14:42",
-    "listeners": 1968
+    "listeners": 1968,
+    "lyricists": null,
+    "album": "Labyrint",
+    "release_year": 2019,
+    "duration_ms": 309780,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,13 @@
     "artist": "Nagy, Peter A Raz, Jozef",
     "date": "18.10.2025",
     "time": "14:39",
-    "listeners": 1922
+    "listeners": 1922,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,15 @@
     "artist": "Hex",
     "date": "18.10.2025",
     "time": "14:35",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2015,
+    "duration_ms": 232840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +83,15 @@
     "artist": "Bílá Lucie Gott Karel",
     "date": "18.10.2025",
     "time": "14:30",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Duety+Bonus / 2009",
+    "release_year": 1997,
+    "duration_ms": 305093,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +99,15 @@
     "artist": "Plavci",
     "date": "18.10.2025",
     "time": "14:27",
-    "listeners": 1999
+    "listeners": 1999,
+    "lyricists": null,
+    "album": "Rangers (Plavci) - Největší hity",
+    "release_year": 1994,
+    "duration_ms": 160827,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +115,15 @@
     "artist": "Darina Rolincová",
     "date": "18.10.2025",
     "time": "14:23",
-    "listeners": 1992
+    "listeners": 1992,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1998,
+    "duration_ms": 238640,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +131,15 @@
     "artist": "Matuška Waldemar",
     "date": "18.10.2025",
     "time": "14:18",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Co Neodnesl Čas",
+    "release_year": 1991,
+    "duration_ms": 300107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "18.10.2025",
+    "time": "07:48",
+    "listeners": 466
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slzy Tvý Mámy",
+    "artist": "Olympic",
+    "date": "18.10.2025",
+    "time": "07:43",
+    "listeners": 448
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mmuoj Boze",
     "artist": "Katarina Knechtova",
     "date": "18.10.2025",

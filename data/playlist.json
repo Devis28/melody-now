@@ -5,7 +5,15 @@
     "artist": "Gombitová Marika",
     "date": "18.10.2025",
     "time": "16:40",
-    "listeners": 1305
+    "listeners": 1305,
+    "lyricists": null,
+    "album": "Mince na dne fontán",
+    "release_year": 1983,
+    "duration_ms": 224013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "18.10.2025",
     "time": "16:38",
-    "listeners": 1284
+    "listeners": 1284,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2004,
+    "duration_ms": 138120,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Hana Zagorová",
     "date": "18.10.2025",
     "time": "16:35",
-    "listeners": 1298
+    "listeners": 1298,
+    "lyricists": null,
+    "album": "Hanka",
+    "release_year": 2011,
+    "duration_ms": 180373,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

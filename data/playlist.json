@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kým Stúpa Dym",
+    "artist": "I.M.T. Smile",
+    "date": "18.10.2025",
+    "time": "12:49",
+    "listeners": 1922
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jednoho Dne Se Vrátíš",
+    "artist": "Věra Špinarová",
+    "date": "18.10.2025",
+    "time": "12:44",
+    "listeners": 1827
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Dr. Jekyll A Mr. Hyde",
     "artist": "Miro Žbirka",
     "date": "18.10.2025",

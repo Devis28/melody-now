@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Žal Se Odkládá",
+    "artist": "Jiří Korn",
+    "date": "18.10.2025",
+    "time": "13:51",
+    "listeners": 1945
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska, Necestuj Tým Vlakom",
+    "artist": "Pavol Habera",
+    "date": "18.10.2025",
+    "time": "13:48",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Jasná Zpráva",
     "artist": "Olympic",
     "date": "18.10.2025",

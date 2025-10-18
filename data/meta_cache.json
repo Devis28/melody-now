@@ -10878,5 +10878,23 @@
     "genres": [
       "Pop"
     ]
+  },
+  "jason donovan|everyday": {
+    "artist_country": "AU",
+    "album": "Greatest Hits",
+    "release_year": 1989,
+    "duration_ms": 206515,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "technotronic|get up (before the night is over)": {
+    "release_year": 1999,
+    "artist_country": "BE",
+    "album": "Pump Up the Jam",
+    "duration_ms": 337093,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

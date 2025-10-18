@@ -5,7 +5,15 @@
     "artist": "Jason Donovan",
     "date": "18.10.2025",
     "time": "20:54",
-    "listeners": 961
+    "listeners": 961,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1989,
+    "duration_ms": 206515,
+    "artist_country": "AU",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Technotronic",
     "date": "18.10.2025",
     "time": "20:51",
-    "listeners": 1043
+    "listeners": 1043,
+    "lyricists": null,
+    "album": "Pump Up the Jam",
+    "release_year": 1999,
+    "duration_ms": 337093,
+    "artist_country": "BE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Imbruglia Natalie",
     "date": "18.10.2025",
     "time": "20:47",
-    "listeners": 1007
+    "listeners": 1007,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

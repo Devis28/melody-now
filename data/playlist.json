@@ -1,6 +1,94 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Až...",
+    "artist": "Katapult",
+    "date": "18.10.2025",
+    "time": "18:34",
+    "listeners": 1189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Daruj Mi Svoj Najkrajší Deň",
+    "artist": "Gravis",
+    "date": "18.10.2025",
+    "time": "18:30",
+    "listeners": 1234
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Boli Sme Raz Milovaní",
+    "artist": "Habera Pavol",
+    "date": "18.10.2025",
+    "time": "18:27",
+    "listeners": 1192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "18.10.2025",
+    "time": "18:23",
+    "listeners": 1143
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Levandulová",
+    "artist": "Hegerová Hana & Hapka Petr",
+    "date": "18.10.2025",
+    "time": "18:19",
+    "listeners": 1193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kdo Te Ma Rad",
+    "artist": "Vondrackova Lucie",
+    "date": "18.10.2025",
+    "time": "18:15",
+    "listeners": 1233
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "18.10.2025",
+    "time": "18:11",
+    "listeners": 1141
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Baroko",
+    "artist": "Muller Richard & Anna K. Ivan Tasler",
+    "date": "18.10.2025",
+    "time": "18:05",
+    "listeners": 1185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chráň Svoje Bláznovstvá",
+    "artist": "Peter Nagy",
+    "date": "18.10.2025",
+    "time": "18:02",
+    "listeners": 1192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My Máme Prima Rodiče",
+    "artist": "David Michal",
+    "date": "18.10.2025",
+    "time": "18:00",
+    "listeners": 1137
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Setkání",
+    "artist": "Zagorová Hana & Drupi",
+    "date": "18.10.2025",
+    "time": "17:56",
+    "listeners": 1082
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kočka",
     "artist": "Elán",
     "date": "18.10.2025",

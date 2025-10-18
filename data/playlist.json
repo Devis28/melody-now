@@ -5,7 +5,15 @@
     "artist": "Tublatanka",
     "date": "18.10.2025",
     "time": "11:09",
-    "listeners": 1290
+    "listeners": 1290,
+    "lyricists": null,
+    "album": "Rockové Balady",
+    "release_year": 1992,
+    "duration_ms": 327893,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Kirschner Jana",
     "date": "18.10.2025",
     "time": "11:05",
-    "listeners": 1280
+    "listeners": 1280,
+    "lyricists": null,
+    "album": "V Cudzom Meste",
+    "release_year": 2000,
+    "duration_ms": 250907,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Team",
     "date": "18.10.2025",
     "time": "11:01",
-    "listeners": 1292
+    "listeners": 1292,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2006,
+    "duration_ms": 246560,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

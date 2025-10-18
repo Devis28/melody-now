@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Fable",
+    "artist": "Robert Miles",
+    "date": "18.10.2025",
+    "time": "20:07",
+    "listeners": 1102
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Look",
+    "artist": "Roxette",
+    "date": "18.10.2025",
+    "time": "20:03",
+    "listeners": 1133
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pokoj V Duši",
+    "artist": "Jana Kirschner",
+    "date": "18.10.2025",
+    "time": "19:59",
+    "listeners": 1212
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Klára",
+    "artist": "Chinaski",
+    "date": "18.10.2025",
+    "time": "19:56",
+    "listeners": 1146
+  },
+  {
+    "station": "Rádio Melody",
     "title": "S Úsmevom",
     "artist": "Karol Duchoň",
     "date": "18.10.2025",

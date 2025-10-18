@@ -5,7 +5,15 @@
     "artist": "Hana Zagorová",
     "date": "18.10.2025",
     "time": "09:43",
-    "listeners": 1067
+    "listeners": 1067,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 2006,
+    "duration_ms": 188533,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Team",
     "date": "18.10.2025",
     "time": "09:39",
-    "listeners": 983
+    "listeners": 983,
+    "lyricists": null,
+    "album": "Team 3",
+    "release_year": 2005,
+    "duration_ms": 305107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "No Name",
     "date": "18.10.2025",
     "time": "09:09",
-    "listeners": 873
+    "listeners": 873,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2014,
+    "duration_ms": 197200,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Zuzana Smatanová",
     "date": "18.10.2025",
     "time": "09:06",
-    "listeners": 837
+    "listeners": 837,
+    "lyricists": null,
+    "album": "V Dobrom Aj V Zlom - Single",
+    "release_year": 2015,
+    "duration_ms": 176415,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gombitová Marika",
     "date": "18.10.2025",
     "time": "09:02",
-    "listeners": 807
+    "listeners": 807,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 191333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

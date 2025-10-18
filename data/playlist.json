@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Taliansky Muzikál",
+    "artist": "Júlia a Peter Hečkovci",
+    "date": "18.10.2025",
+    "time": "11:28",
+    "listeners": 1445
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "18.10.2025",
+    "time": "11:26",
+    "listeners": 1354
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nonstop",
+    "artist": "David Michal",
+    "date": "18.10.2025",
+    "time": "11:23",
+    "listeners": 1362
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lásko Voníš Deštem",
+    "artist": "Marie Rottrová",
+    "date": "18.10.2025",
+    "time": "11:17",
+    "listeners": 1399
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Windsurfing",
+    "artist": "Jiří Korn",
+    "date": "18.10.2025",
+    "time": "11:14",
+    "listeners": 1342
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Spálená Láska",
     "artist": "Tublatanka",
     "date": "18.10.2025",

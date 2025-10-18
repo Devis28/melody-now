@@ -5,7 +5,15 @@
     "artist": "Banket",
     "date": "18.10.2025",
     "time": "12:15",
-    "listeners": 1585
+    "listeners": 1585,
+    "lyricists": null,
+    "album": "Bioelektrovízia",
+    "release_year": 2017,
+    "duration_ms": 282613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jitka Zelenkova",
     "date": "18.10.2025",
     "time": "12:12",
-    "listeners": 1604
+    "listeners": 1604,
+    "lyricists": null,
+    "album": "Bez Lásky Láska Není",
+    "release_year": 2016,
+    "duration_ms": 193200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Team",
     "date": "18.10.2025",
     "time": "12:08",
-    "listeners": 1729
+    "listeners": 1729,
+    "lyricists": null,
+    "album": "Team 3",
+    "release_year": 1994,
+    "duration_ms": 242760,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Peter Bič Project",
     "date": "18.10.2025",
     "time": "12:04",
-    "listeners": 1626
+    "listeners": 1626,
+    "lyricists": null,
+    "album": "Čoskoro - Single",
+    "release_year": 2024,
+    "duration_ms": 207516,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Vašo Patejdl",
     "date": "18.10.2025",
     "time": "11:59",
-    "listeners": 1527
+    "listeners": 1527,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2005,
+    "duration_ms": 273160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

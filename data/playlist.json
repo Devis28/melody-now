@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "18.10.2025",
     "time": "12:40",
-    "listeners": 1708
+    "listeners": 1708,
+    "lyricists": null,
+    "album": "Chlapec z ulice",
+    "release_year": 2007,
+    "duration_ms": 223427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Zagorová Hana Hložek Stanislav Kotvald Petr",
     "date": "18.10.2025",
     "time": "12:36",
-    "listeners": 1862
+    "listeners": 1862,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 1995,
+    "duration_ms": 249813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

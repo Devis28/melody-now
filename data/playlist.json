@@ -5,7 +5,15 @@
     "artist": "Karol Duchoň",
     "date": "18.10.2025",
     "time": "06:53",
-    "listeners": 312
+    "listeners": 312,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 1976,
+    "duration_ms": 191960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Wanastowi Vjecy",
     "date": "18.10.2025",
     "time": "06:47",
-    "listeners": 286
+    "listeners": 286,
+    "lyricists": null,
+    "album": "Divnoalbum",
+    "release_year": 2007,
+    "duration_ms": 318413,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

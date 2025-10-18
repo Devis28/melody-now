@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Jasná Zpráva",
+    "artist": "Olympic",
+    "date": "18.10.2025",
+    "time": "13:43",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Náhlenie",
+    "artist": "Heckovci Julia A Peter",
+    "date": "18.10.2025",
+    "time": "13:39",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Skorápky Orechú",
     "artist": "Marie Rottrová",
     "date": "18.10.2025",

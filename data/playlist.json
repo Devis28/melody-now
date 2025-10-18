@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Voda Čo Ma Drží Nad Vodou",
+    "artist": "Jožo Ráž",
+    "date": "18.10.2025",
+    "time": "07:08",
+    "listeners": 349
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ja Som To Vedel",
+    "artist": "Polemic",
+    "date": "18.10.2025",
+    "time": "07:06",
+    "listeners": 324
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jeden Kabát, Jedna Koža, Jedna Tvár",
+    "artist": "Team",
+    "date": "18.10.2025",
+    "time": "07:04",
+    "listeners": 345
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mimoradna Linka",
+    "artist": "Hana Zagorova",
+    "date": "18.10.2025",
+    "time": "07:00",
+    "listeners": 312
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Matka",
+    "artist": "Tublatanka",
+    "date": "18.10.2025",
+    "time": "06:56",
+    "listeners": 310
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tancujem S Tebou Rád",
     "artist": "Karol Duchoň",
     "date": "18.10.2025",

@@ -5,7 +5,16 @@
     "artist": "Dušan Hlaváček",
     "date": "18.10.2025",
     "time": "16:18",
-    "listeners": 1403
+    "listeners": 1403,
+    "lyricists": null,
+    "album": "Zaľúbení",
+    "release_year": 1987,
+    "duration_ms": 233352,
+    "artist_country": "SK",
+    "genres": [
+      "Folk",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Heidi Janků",
     "date": "18.10.2025",
     "time": "16:14",
-    "listeners": 1395
+    "listeners": 1395,
+    "lyricists": null,
+    "album": "Zlatej Důl - Jsem Přece Já",
+    "release_year": 1998,
+    "duration_ms": 223240,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Metalinda",
     "date": "18.10.2025",
     "time": "16:09",
-    "listeners": 1335
+    "listeners": 1335,
+    "lyricists": null,
+    "album": "Metalinda",
+    "release_year": 1990,
+    "duration_ms": 336968,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Pavol Habera",
     "date": "18.10.2025",
     "time": "16:05",
-    "listeners": 1408
+    "listeners": 1408,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 1991,
+    "duration_ms": 201667,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Honza Nedvěd",
     "date": "18.10.2025",
     "time": "16:01",
-    "listeners": 1460
+    "listeners": 1460,
+    "lyricists": null,
+    "album": "60 Nedvedi+40 Fesaci (Live)",
+    "release_year": 2008,
+    "duration_ms": 150920,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",

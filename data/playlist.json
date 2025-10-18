@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "date": "18.10.2025",
+    "time": "09:26",
+    "listeners": 914
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dej Mi Víc Své Lásky",
+    "artist": "Olympic",
+    "date": "18.10.2025",
+    "time": "09:23",
+    "listeners": 881
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Po Schodoch",
+    "artist": "Banket",
+    "date": "18.10.2025",
+    "time": "09:19",
+    "listeners": 908
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nas Song",
+    "artist": "Gott Karel A Holanova Marcela",
+    "date": "18.10.2025",
+    "time": "09:15",
+    "listeners": 820
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Prvá",
     "artist": "No Name",
     "date": "18.10.2025",

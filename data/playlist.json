@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Obchodník S Deštěm",
+    "artist": "Kryštof",
+    "date": "18.10.2025",
+    "time": "19:10",
+    "listeners": 1337
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skúšame Sa Nájsť",
+    "artist": "Peter Bič Project",
+    "date": "18.10.2025",
+    "time": "19:06",
+    "listeners": 1203
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Smrťka Na Pražskom Orloji",
+    "artist": "Elán",
+    "date": "18.10.2025",
+    "time": "19:02",
+    "listeners": 1204
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Miliónkrát",
+    "artist": "Žbirka Miro",
+    "date": "18.10.2025",
+    "time": "18:58",
+    "listeners": 1203
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pátá",
     "artist": "Helena Vondráčková",
     "date": "18.10.2025",

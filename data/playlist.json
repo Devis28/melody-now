@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Stestí",
+    "artist": "Rottrová Marie",
+    "date": "18.10.2025",
+    "time": "17:29",
+    "listeners": 1167
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Piatok Podvečer",
+    "artist": "Hex",
+    "date": "18.10.2025",
+    "time": "17:26",
+    "listeners": 1247
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľúbim Ťa",
+    "artist": "Michal Dočolomanský",
+    "date": "18.10.2025",
+    "time": "17:21",
+    "listeners": 1237
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Umenie Žiť",
     "artist": "Patejdl Vašo",
     "date": "18.10.2025",

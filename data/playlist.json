@@ -5,7 +5,15 @@
     "artist": "Hex",
     "date": "18.10.2025",
     "time": "10:09",
-    "listeners": 1169
+    "listeners": 1169,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 1997,
+    "duration_ms": 262867,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gombitová Marika",
     "date": "18.10.2025",
     "time": "10:06",
-    "listeners": 1049
+    "listeners": 1049,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1987,
+    "duration_ms": 209800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "David Michal",
     "date": "18.10.2025",
     "time": "10:02",
-    "listeners": 1090
+    "listeners": 1090,
+    "lyricists": null,
+    "album": "Mejdan Roku (Live)",
+    "release_year": 2010,
+    "duration_ms": 262853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Grigorov Robo",
     "date": "18.10.2025",
     "time": "09:56",
-    "listeners": 1082
+    "listeners": 1082,
+    "lyricists": null,
+    "album": "Balady",
+    "release_year": 2006,
+    "duration_ms": 261107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

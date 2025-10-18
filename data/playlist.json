@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Prvá",
+    "artist": "No Name",
+    "date": "18.10.2025",
+    "time": "09:09",
+    "listeners": 873
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Dobrom Aj Zlom",
+    "artist": "Zuzana Smatanová",
+    "date": "18.10.2025",
+    "time": "09:06",
+    "listeners": 837
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Správne Dievčatá",
+    "artist": "Gombitová Marika",
+    "date": "18.10.2025",
+    "time": "09:02",
+    "listeners": 807
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Myslím Že Môže Byť",
     "artist": "Imt Smile / Marián Čekovský",
     "date": "18.10.2025",

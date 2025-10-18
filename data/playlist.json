@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Niekto Ti To Povie Skôr Než Ja",
+    "artist": "Desmod",
+    "date": "18.10.2025",
+    "time": "08:45",
+    "listeners": 731
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čardáš Dvoch Sŕdc",
+    "artist": "Karol Duchoň",
+    "date": "18.10.2025",
+    "time": "08:41",
+    "listeners": 703
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Červenám",
+    "artist": "Bartošová Iveta Sepéši Petr",
+    "date": "18.10.2025",
+    "time": "08:38",
+    "listeners": 676
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bon Soir, Mademoiselle Paris",
+    "artist": "Shalom",
+    "date": "18.10.2025",
+    "time": "08:34",
+    "listeners": 669
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Spoluhráčka",
     "artist": "Modus",
     "date": "18.10.2025",

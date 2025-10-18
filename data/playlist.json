@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "100% Pure Love",
+    "artist": "Crystal Waters",
+    "date": "18.10.2025",
+    "time": "21:07",
+    "listeners": 943
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cheri Cheri Lady",
+    "artist": "Modern Talking",
+    "date": "18.10.2025",
+    "time": "21:03",
+    "listeners": 932
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voulez Vous",
+    "artist": "Abba",
+    "date": "18.10.2025",
+    "time": "20:58",
+    "listeners": 979
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Everyday",
     "artist": "Jason Donovan",
     "date": "18.10.2025",

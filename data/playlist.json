@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Go West",
+    "artist": "Village People, The",
+    "date": "18.10.2025",
+    "time": "23:14",
+    "listeners": 366
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Don't Wanna Get Hurt",
+    "artist": "Donna Summer",
+    "date": "18.10.2025",
+    "time": "23:11",
+    "listeners": 364
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tic, Tic, Tac",
+    "artist": "Chilli Ft. Carrapicho",
+    "date": "18.10.2025",
+    "time": "23:07",
+    "listeners": 390
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pretty Young Girl",
+    "artist": "Bad Boys Blue",
+    "date": "18.10.2025",
+    "time": "23:04",
+    "listeners": 363
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "18.10.2025",
+    "time": "23:00",
+    "listeners": 408
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Come Back And Stay",
     "artist": "Paul Young",
     "date": "18.10.2025",

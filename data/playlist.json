@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "18.10.2025",
     "time": "17:52",
-    "listeners": 1272
+    "listeners": 1272,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

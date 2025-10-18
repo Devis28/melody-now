@@ -5,7 +5,15 @@
     "artist": "Desmod",
     "date": "18.10.2025",
     "time": "08:45",
-    "listeners": 731
+    "listeners": 731,
+    "lyricists": null,
+    "album": "Symphomusiq Tour",
+    "release_year": 2009,
+    "duration_ms": 625053,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karol Duchoň",
     "date": "18.10.2025",
     "time": "08:41",
-    "listeners": 703
+    "listeners": 703,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 2006,
+    "duration_ms": 210347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Bartošová Iveta Sepéši Petr",
     "date": "18.10.2025",
     "time": "08:38",
-    "listeners": 676
+    "listeners": 676,
+    "lyricists": null,
+    "album": "Knoflíky Lásky",
+    "release_year": 1984,
+    "duration_ms": 208760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Shalom",
     "date": "18.10.2025",
     "time": "08:34",
-    "listeners": 669
+    "listeners": 669,
+    "lyricists": null,
+    "album": "Bon soir, mademoiselle Paris",
+    "release_year": 1999,
+    "duration_ms": 288980,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

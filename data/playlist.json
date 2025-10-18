@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Trouba",
+    "artist": "Bilá Lucie",
+    "date": "18.10.2025",
+    "time": "15:32",
+    "listeners": 1575
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Robinson",
+    "artist": "Jiří Korn",
+    "date": "18.10.2025",
+    "time": "15:28",
+    "listeners": 1650
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spoločne",
+    "artist": "Rolincová Darina",
+    "date": "18.10.2025",
+    "time": "15:25",
+    "listeners": 1555
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Môj Starý Dobrý Kabát",
+    "artist": "Tublatanka",
+    "date": "18.10.2025",
+    "time": "15:22",
+    "listeners": 1682
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Máš Chuť Majoránky",
+    "artist": "Karel Zich",
+    "date": "18.10.2025",
+    "time": "15:19",
+    "listeners": 1597
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Biely Kvet",
     "artist": "Miro Žbirka",
     "date": "18.10.2025",

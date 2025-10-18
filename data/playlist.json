@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Zpívat Jako Déšť",
+    "artist": "Jiří Korn",
+    "date": "18.10.2025",
+    "time": "06:17",
+    "listeners": 243
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Když Muž Se Ženou Snída",
+    "artist": "Gott Karel",
+    "date": "18.10.2025",
+    "time": "06:13",
+    "listeners": 220
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievča Z Reklamy",
+    "artist": "Dubasová Beáta",
+    "date": "18.10.2025",
+    "time": "06:09",
+    "listeners": 223
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá",
+    "artist": "Miro Žbirka",
+    "date": "18.10.2025",
+    "time": "06:04",
+    "listeners": 221
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Farbami Dýcha Noc",
+    "artist": "Balogh Berco",
+    "date": "18.10.2025",
+    "time": "06:00",
+    "listeners": 205
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pár Přátel",
+    "artist": "Michal David",
+    "date": "18.10.2025",
+    "time": "05:57",
+    "listeners": 206
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Right Beside You",
     "artist": "Sophie B. Hawkins",
     "date": "18.10.2025",

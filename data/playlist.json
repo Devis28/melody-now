@@ -5,7 +5,15 @@
     "artist": "Scatman John",
     "date": "18.10.2025",
     "time": "20:34",
-    "listeners": 1066
+    "listeners": 1066,
+    "lyricists": null,
+    "album": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop) - EP",
+    "release_year": 1994,
+    "duration_ms": 343333,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Bee Gees",
     "date": "18.10.2025",
     "time": "20:31",
-    "listeners": 1005
+    "listeners": 1005,
+    "lyricists": null,
+    "album": "E.S.P.",
+    "release_year": 2004,
+    "duration_ms": 241400,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Orchestral Manoeuvres In The Dark",
     "date": "18.10.2025",
     "time": "20:27",
-    "listeners": 1055
+    "listeners": 1055,
+    "lyricists": null,
+    "album": "Sugar Tax",
+    "release_year": 2011,
+    "duration_ms": 249173,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Fiction Factory",
     "date": "18.10.2025",
     "time": "20:23",
-    "listeners": 1154
+    "listeners": 1154,
+    "lyricists": null,
+    "album": "Haynes Ultimate Guide to 80s",
+    "release_year": 2002,
+    "duration_ms": 208493,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Geri Halliwell",
     "date": "18.10.2025",
     "time": "20:20",
-    "listeners": 1148
+    "listeners": 1148,
+    "lyricists": null,
+    "album": "It's Raining Men - Single",
+    "release_year": 2002,
+    "duration_ms": 255160,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Grease",
     "date": "18.10.2025",
     "time": "20:15",
-    "listeners": 1158
+    "listeners": 1158,
+    "lyricists": null,
+    "album": "Disco Top 50",
+    "release_year": 2010,
+    "duration_ms": 288627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,17 @@
     "artist": "Freddie Mercury",
     "date": "18.10.2025",
     "time": "20:11",
-    "listeners": 1136
+    "listeners": 1136,
+    "lyricists": [
+      "Freddie Mercury"
+    ],
+    "album": "Never Boring",
+    "release_year": 1985,
+    "duration_ms": 218293,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

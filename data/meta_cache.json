@@ -10840,5 +10840,34 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "scatman john|the scatman": {
+    "album": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop) - EP",
+    "release_year": 1994,
+    "duration_ms": 343333,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "fiction factory|feels like heaven": {
+    "release_year": 2002,
+    "artist_country": "GB",
+    "album": "Haynes Ultimate Guide to 80s",
+    "duration_ms": 208493,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "freddie mercury|i was born to love you": {
+    "release_year": 1985,
+    "artist_country": "GB",
+    "album": "Never Boring",
+    "duration_ms": 218293,
+    "lyricists": [
+      "Freddie Mercury"
+    ],
+    "genres": [
+      "Rock"
+    ]
   }
 }

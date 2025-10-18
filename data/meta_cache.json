@@ -10948,5 +10948,15 @@
     "genres": [
       "R&B"
     ]
+  },
+  "playahitty|the summer is magic": {
+    "release_year": 2008,
+    "artist_country": "IT",
+    "album": "The Summer Is Magic - Ep",
+    "duration_ms": 236583,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

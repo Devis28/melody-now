@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "18.10.2025",
     "time": "23:37",
-    "listeners": 286
+    "listeners": 286,
+    "lyricists": null,
+    "album": "Waterloo",
+    "release_year": 1994,
+    "duration_ms": 176440,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ragga 2 Sunshine",
     "date": "18.10.2025",
     "time": "23:34",
-    "listeners": 325
+    "listeners": 325,
+    "lyricists": null,
+    "album": "Jambo, Jambo, Jambo - Single",
+    "release_year": 1994,
+    "duration_ms": 221843,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,20 @@
     "artist": "Van Halen",
     "date": "18.10.2025",
     "time": "23:29",
-    "listeners": 315
+    "listeners": 315,
+    "lyricists": [
+      "Alex Van Halen",
+      "David Lee Roth",
+      "Edward Van Halen",
+      "Michael Anthony"
+    ],
+    "album": "1984",
+    "release_year": 1983,
+    "duration_ms": 241643,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

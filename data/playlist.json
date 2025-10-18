@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Daj Ruku Do Mojej Ruky",
+    "artist": "Smatanová Zuzana",
+    "date": "18.10.2025",
+    "time": "19:44",
+    "listeners": 1198
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Žít Jako Kaskadér",
+    "artist": "Janda Dalibor",
+    "date": "18.10.2025",
+    "time": "19:41",
+    "listeners": 1236
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čo S Tým",
     "artist": "Team",
     "date": "18.10.2025",

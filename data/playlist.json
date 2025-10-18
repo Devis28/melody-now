@@ -5,7 +5,15 @@
     "artist": "Zuzana Smatanová",
     "date": "18.10.2025",
     "time": "06:36",
-    "listeners": 248
+    "listeners": 248,
+    "lyricists": null,
+    "album": "Dvere",
+    "release_year": 2011,
+    "duration_ms": 192467,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bartošová Iveta",
     "date": "18.10.2025",
     "time": "06:32",
-    "listeners": 256
+    "listeners": 256,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 227133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peter Nagy",
     "date": "18.10.2025",
     "time": "06:29",
-    "listeners": 279
+    "listeners": 279,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 1996,
+    "duration_ms": 195427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Michal Tučný",
     "date": "18.10.2025",
     "time": "06:24",
-    "listeners": 255
+    "listeners": 255,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Černoch Karel Brabec Filip",
     "date": "18.10.2025",
     "time": "06:20",
-    "listeners": 264
+    "listeners": 264,
+    "lyricists": null,
+    "album": "Setkání",
+    "release_year": 1968,
+    "duration_ms": 257880,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",

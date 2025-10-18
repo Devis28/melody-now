@@ -5,7 +5,15 @@
     "artist": "Polemic",
     "date": "18.10.2025",
     "time": "03:09",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Polemic: Live",
+    "release_year": 2007,
+    "duration_ms": 256842,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Backstreet Boys",
     "date": "18.10.2025",
     "time": "03:05",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Backstreet Boys",
+    "release_year": 1996,
+    "duration_ms": 232667,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Ricchi E Poveri",
     "date": "18.10.2025",
     "time": "03:02",
-    "listeners": 197
+    "listeners": 197,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1984,
+    "duration_ms": 198867,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Desmod",
     "date": "18.10.2025",
     "time": "02:57",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Javorový Album: Akustický Výber",
+    "release_year": 2006,
+    "duration_ms": 260587,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Ub 40",
     "date": "18.10.2025",
     "time": "02:54",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "The Very Best of UB40: 1980-2000",
+    "release_year": 1993,
+    "duration_ms": 208733,
+    "artist_country": null,
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Rubettes, The",
     "date": "18.10.2025",
     "time": "02:50",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "The Best of the Rubettes",
+    "release_year": 1974,
+    "duration_ms": 209893,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Depeche Mode",
     "date": "18.10.2025",
     "time": "02:46",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Violator (Deluxe)",
+    "release_year": 1999,
+    "duration_ms": 372827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +117,15 @@
     "artist": "Nagy Peter",
     "date": "18.10.2025",
     "time": "02:42",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 253000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +133,15 @@
     "artist": "Gombitová Marika",
     "date": "18.10.2025",
     "time": "02:38",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 1982,
+    "duration_ms": 216013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +149,15 @@
     "artist": "Shakira & Freshlyground",
     "date": "18.10.2025",
     "time": "02:35",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Éxitos de Verano",
+    "release_year": 2014,
+    "duration_ms": 201773,
+    "artist_country": "CO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +165,15 @@
     "artist": "Elán",
     "date": "18.10.2025",
     "time": "02:30",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Hodina slovenčiny",
+    "release_year": 2008,
+    "duration_ms": 275987,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +181,16 @@
     "artist": "I.M.T Smile & Smatanova Zuzana",
     "date": "18.10.2025",
     "time": "02:26",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 297920,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +198,15 @@
     "artist": "Paradis, Vanessa",
     "date": "18.10.2025",
     "time": "02:23",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "M & J (CD2)",
+    "release_year": 1987,
+    "duration_ms": 235227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +214,15 @@
     "artist": "Beáta Dubasová",
     "date": "18.10.2025",
     "time": "02:20",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Pierko pravdy - Single",
+    "release_year": 2023,
+    "duration_ms": 190000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +230,16 @@
     "artist": "Erasure",
     "date": "18.10.2025",
     "time": "02:16",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Hits! The Very Best of Erasure",
+    "release_year": 1993,
+    "duration_ms": 237613,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +247,15 @@
     "artist": "Grigorov Robo",
     "date": "18.10.2025",
     "time": "02:12",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Balady",
+    "release_year": 2006,
+    "duration_ms": 208653,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +263,15 @@
     "artist": "Müller Richard",
     "date": "18.10.2025",
     "time": "02:08",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Neuc Vtaka Lietat!",
+    "release_year": 1992,
+    "duration_ms": 233573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +279,21 @@
     "artist": "Toto",
     "date": "18.10.2025",
     "time": "02:04",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": [
+      "Graham Johnson",
+      "Pasquale Losito",
+      "Toto Cutugno",
+      "Vito Pallavicini"
+    ],
+    "album": "Toto IV",
+    "release_year": 1994,
+    "duration_ms": 295283,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +301,15 @@
     "artist": "Vondráčková Helena Neckář Václav",
     "date": "18.10.2025",
     "time": "02:01",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Rendez Vous",
+    "release_year": 1965,
+    "duration_ms": 143680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +317,19 @@
     "artist": "Fancy",
     "date": "18.10.2025",
     "time": "01:58",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": [
+      "Alfons Weindorf",
+      "Fancy",
+      "Sabrina Lorenz"
+    ],
+    "album": "Hit Collection",
+    "release_year": 1998,
+    "duration_ms": 217880,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Everyday",
+    "artist": "Jason Donovan",
+    "date": "18.10.2025",
+    "time": "20:54",
+    "listeners": 961
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Get Up (Before The Night Is Over)",
+    "artist": "Technotronic",
+    "date": "18.10.2025",
+    "time": "20:51",
+    "listeners": 1043
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Torn",
+    "artist": "Imbruglia Natalie",
+    "date": "18.10.2025",
+    "time": "20:47",
+    "listeners": 1007
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Aj Keď Bez Peňazí",
     "artist": "Elán",
     "date": "18.10.2025",

@@ -1,6 +1,182 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Můj Čas",
+    "artist": "Zagorová Hana Kotvald Petr Hložek Stanislav",
+    "date": "18.10.2025",
+    "time": "04:31",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Kúp Mi Rontgen",
+    "artist": "Yps",
+    "date": "18.10.2025",
+    "time": "04:29",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lambada",
+    "artist": "Kaoma",
+    "date": "18.10.2025",
+    "time": "04:26",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kapely Starnú",
+    "artist": "Modus",
+    "date": "18.10.2025",
+    "time": "04:22",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'll Stand By You",
+    "artist": "Pretenders, The",
+    "date": "18.10.2025",
+    "time": "04:18",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Musím Už Ísť",
+    "artist": "Kelecsényi Martin",
+    "date": "18.10.2025",
+    "time": "04:15",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Can't Take My Eyes Off You",
+    "artist": "Gloria Gaynor",
+    "date": "18.10.2025",
+    "time": "04:10",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Len S Ňou",
+    "artist": "Žbirka Miroslav",
+    "date": "18.10.2025",
+    "time": "04:06",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dancing Queen",
+    "artist": "Abba",
+    "date": "18.10.2025",
+    "time": "04:02",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Pri Mne Spíš",
+    "artist": "Habera Pavol",
+    "date": "18.10.2025",
+    "time": "03:57",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everytime We Touch",
+    "artist": "Maggie Reilly",
+    "date": "18.10.2025",
+    "time": "03:53",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Decibely Lásky",
+    "artist": "David Michal Kroky Františka Janečka",
+    "date": "18.10.2025",
+    "time": "03:50",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "18.10.2025",
+    "time": "03:46",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sharazan",
+    "artist": "Al Bano & Romina Power",
+    "date": "18.10.2025",
+    "time": "03:41",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slub",
+    "artist": "Dara Rolins",
+    "date": "18.10.2025",
+    "time": "03:38",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "18.10.2025",
+    "time": "03:34",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ja Viem",
+    "artist": "Grigorov Robo",
+    "date": "18.10.2025",
+    "time": "03:31",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnečná Balada",
+    "artist": "Peha",
+    "date": "18.10.2025",
+    "time": "03:27",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Carrie",
+    "artist": "Europe",
+    "date": "18.10.2025",
+    "time": "03:22",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Búrka",
+    "artist": "Čírová Mária",
+    "date": "18.10.2025",
+    "time": "03:18",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're The One That I Want",
+    "artist": "Travolta John & Newton-John Olivia",
+    "date": "18.10.2025",
+    "time": "03:16",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hurikán",
+    "artist": "Janda Dalibor",
+    "date": "18.10.2025",
+    "time": "03:12",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Komplikovaná",
     "artist": "Polemic",
     "date": "18.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Hex",
     "date": "18.10.2025",
     "time": "12:32",
-    "listeners": 1785
+    "listeners": 1785,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2015,
+    "duration_ms": 250920,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Chinaski",
     "date": "18.10.2025",
     "time": "12:28",
-    "listeners": 1754
+    "listeners": 1754,
+    "lyricists": null,
+    "album": "Na vlnách spolu tělem i duší (Best of Chinaski)",
+    "release_year": 2005,
+    "duration_ms": 209040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "David Michal & Kroky Frantiska Janecka",
     "date": "18.10.2025",
     "time": "12:26",
-    "listeners": 1840
+    "listeners": 1840,
+    "lyricists": null,
+    "album": "Mejdan Roku (Live)",
+    "release_year": 2010,
+    "duration_ms": 181560,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "No Name",
     "date": "18.10.2025",
     "time": "12:22",
-    "listeners": 1693
+    "listeners": 1693,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2006,
+    "duration_ms": 202107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Matuška Waldemar",
     "date": "18.10.2025",
     "time": "12:20",
-    "listeners": 1619
+    "listeners": 1619,
+    "lyricists": null,
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "release_year": 1964,
+    "duration_ms": 145680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

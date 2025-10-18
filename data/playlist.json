@@ -1,6 +1,166 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Komplikovaná",
+    "artist": "Polemic",
+    "date": "18.10.2025",
+    "time": "03:09",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Quit Playing Games (With My Heart)",
+    "artist": "Backstreet Boys",
+    "date": "18.10.2025",
+    "time": "03:05",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piccolo Amore",
+    "artist": "Ricchi E Poveri",
+    "date": "18.10.2025",
+    "time": "03:02",
+    "listeners": 197
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zhorí Všetko Čo Mám",
+    "artist": "Desmod",
+    "date": "18.10.2025",
+    "time": "02:57",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Can't Help Falling In Love",
+    "artist": "Ub 40",
+    "date": "18.10.2025",
+    "time": "02:54",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "18.10.2025",
+    "time": "02:50",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "18.10.2025",
+    "time": "02:46",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nič Nezmení Môj Svet",
+    "artist": "Nagy Peter",
+    "date": "18.10.2025",
+    "time": "02:42",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Územie Zázrakov",
+    "artist": "Gombitová Marika",
+    "date": "18.10.2025",
+    "time": "02:38",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "18.10.2025",
+    "time": "02:35",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dva A Dva",
+    "artist": "Elán",
+    "date": "18.10.2025",
+    "time": "02:30",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Úsmev A Čaj",
+    "artist": "I.M.T Smile & Smatanova Zuzana",
+    "date": "18.10.2025",
+    "time": "02:26",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Joe Le Taxi",
+    "artist": "Paradis, Vanessa",
+    "date": "18.10.2025",
+    "time": "02:23",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pierko pravdy",
+    "artist": "Beáta Dubasová",
+    "date": "18.10.2025",
+    "time": "02:20",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "18.10.2025",
+    "time": "02:16",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám 300 Mesiacov",
+    "artist": "Grigorov Robo",
+    "date": "18.10.2025",
+    "time": "02:12",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nebude To Ľahké",
+    "artist": "Müller Richard",
+    "date": "18.10.2025",
+    "time": "02:08",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Africa",
+    "artist": "Toto",
+    "date": "18.10.2025",
+    "time": "02:04",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Znala Panna Pána",
+    "artist": "Vondráčková Helena Neckář Václav",
+    "date": "18.10.2025",
+    "time": "02:01",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Flames Of Love",
+    "artist": "Fancy",
+    "date": "18.10.2025",
+    "time": "01:58",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Baby, I Love Your Way",
     "artist": "Big Mountain",
     "date": "18.10.2025",

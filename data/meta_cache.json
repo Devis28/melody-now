@@ -11049,5 +11049,23 @@
     "genres": [
       "Pop"
     ]
+  },
+  "paul young|come back and stay": {
+    "release_year": 2000,
+    "artist_country": "GB",
+    "album": "The Essential Paul Young",
+    "duration_ms": 263340,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "londonbeat|you bring on the sun": {
+    "artist_country": "GB",
+    "album": "The Very Best of Londonbeat",
+    "release_year": 1990,
+    "duration_ms": 215333,
+    "genres": [
+      "Pop"
+    ]
   }
 }

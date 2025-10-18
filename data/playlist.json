@@ -5,7 +5,15 @@
     "artist": "Zagorová Hana Kotvald Petr Hložek Stanislav",
     "date": "18.10.2025",
     "time": "04:31",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Sanitka 2",
+    "release_year": 2013,
+    "duration_ms": 217747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Yps",
     "date": "18.10.2025",
     "time": "04:29",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 155440,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,17 @@
     "artist": "Kaoma",
     "date": "18.10.2025",
     "time": "04:26",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": [
+      "Kaoma"
+    ],
+    "album": "La Lambada",
+    "release_year": 1991,
+    "duration_ms": 207467,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Modus",
     "date": "18.10.2025",
     "time": "04:22",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 208227,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Pretenders, The",
     "date": "18.10.2025",
     "time": "04:18",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Last of the Independents",
+    "release_year": 1994,
+    "duration_ms": 238827,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,13 @@
     "artist": "Kelecsényi Martin",
     "date": "18.10.2025",
     "time": "04:15",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Gloria Gaynor",
     "date": "18.10.2025",
     "time": "04:10",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Make It 80's & 90's",
+    "release_year": 2000,
+    "duration_ms": 254600,
+    "artist_country": "US",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +117,15 @@
     "artist": "Žbirka Miroslav",
     "date": "18.10.2025",
     "time": "04:06",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 1988,
+    "duration_ms": 187107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +133,17 @@
     "artist": "Abba",
     "date": "18.10.2025",
     "time": "04:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 2008,
+    "duration_ms": 231844,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +151,15 @@
     "artist": "Habera Pavol",
     "date": "18.10.2025",
     "time": "03:57",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Boli Sme Raz Milovani",
+    "release_year": 2000,
+    "duration_ms": 297467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +167,19 @@
     "artist": "Maggie Reilly",
     "date": "18.10.2025",
     "time": "03:53",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Maggie Reilly",
+      "Peter Risavy",
+      "Stuart MacKillop"
+    ],
+    "album": "Everytime We Touch (Remastered) - Single",
+    "release_year": 1999,
+    "duration_ms": 242974,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +187,15 @@
     "artist": "David Michal Kroky Františka Janečka",
     "date": "18.10.2025",
     "time": "03:50",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 193239,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +203,15 @@
     "artist": "Corona",
     "date": "18.10.2025",
     "time": "03:46",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Rhythm of the Night",
+    "release_year": 1994,
+    "duration_ms": 264280,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +219,19 @@
     "artist": "Al Bano & Romina Power",
     "date": "18.10.2025",
     "time": "03:41",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": [
+      "Al Bano Carrisi",
+      "Ciro Dammicco",
+      "Romina Power"
+    ],
+    "album": "Al Bano e Romina Power",
+    "release_year": 2007,
+    "duration_ms": 264773,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +239,15 @@
     "artist": "Dara Rolins",
     "date": "18.10.2025",
     "time": "03:38",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Etc",
+    "release_year": 2017,
+    "duration_ms": 273733,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +255,15 @@
     "artist": "Taylor Dayne",
     "date": "18.10.2025",
     "time": "03:34",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "release_year": 2004,
+    "duration_ms": 220880,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +271,15 @@
     "artist": "Grigorov Robo",
     "date": "18.10.2025",
     "time": "03:31",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2008,
+    "duration_ms": 209427,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +287,15 @@
     "artist": "Peha",
     "date": "18.10.2025",
     "time": "03:27",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2003,
+    "duration_ms": 232616,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +303,16 @@
     "artist": "Europe",
     "date": "18.10.2025",
     "time": "03:22",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Final Countdown (Expanded Edition)",
+    "release_year": 2011,
+    "duration_ms": 272133,
+    "artist_country": "SE",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +320,15 @@
     "artist": "Čírová Mária",
     "date": "18.10.2025",
     "time": "03:18",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Búrka",
+    "release_year": 2008,
+    "duration_ms": 245680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +336,13 @@
     "artist": "Travolta John & Newton-John Olivia",
     "date": "18.10.2025",
     "time": "03:16",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "release_year": 1978,
+    "duration_ms": 168907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +350,15 @@
     "artist": "Janda Dalibor",
     "date": "18.10.2025",
     "time": "03:12",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 229080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

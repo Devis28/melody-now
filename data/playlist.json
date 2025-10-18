@@ -5,7 +5,15 @@
     "artist": "Júlia a Peter Hečkovci",
     "date": "18.10.2025",
     "time": "11:28",
-    "listeners": 1445
+    "listeners": 1445,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 164771,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Brontosauři",
     "date": "18.10.2025",
     "time": "11:26",
-    "listeners": 1354
+    "listeners": 1354,
+    "lyricists": null,
+    "album": "Na Kameni Kamen",
+    "release_year": 2007,
+    "duration_ms": 159227,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "David Michal",
     "date": "18.10.2025",
     "time": "11:23",
-    "listeners": 1362
+    "listeners": 1362,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 211960,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Marie Rottrová",
     "date": "18.10.2025",
     "time": "11:17",
-    "listeners": 1399
+    "listeners": 1399,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2002,
+    "duration_ms": 292333,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Jiří Korn",
     "date": "18.10.2025",
     "time": "11:14",
-    "listeners": 1342
+    "listeners": 1342,
+    "lyricists": null,
+    "album": "Zlatá Kolekce",
+    "release_year": 2009,
+    "duration_ms": 172800,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

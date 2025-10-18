@@ -11114,5 +11114,15 @@
     "genres": [
       "Pop"
     ]
+  },
+  "dj bobo|freedom": {
+    "release_year": 1995,
+    "artist_country": "CH",
+    "album": "Freedom - EP",
+    "duration_ms": 378573,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

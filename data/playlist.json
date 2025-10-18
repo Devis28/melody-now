@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "19.10.2025",
     "time": "00:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1992,
+    "duration_ms": 164893,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Adams, Bryan",
     "date": "19.10.2025",
     "time": "00:08",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Bare Bones (Live)",
+    "release_year": 2010,
+    "duration_ms": 227133,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Alphaville",
     "date": "19.10.2025",
     "time": "00:04",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2005,
+    "duration_ms": 226706,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Dj Bobo",
     "date": "19.10.2025",
     "time": "00:00",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Freedom - EP",
+    "release_year": 1995,
+    "duration_ms": 378573,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Gombitová Marika",
     "date": "18.10.2025",
     "time": "23:56",
-    "listeners": 263
+    "listeners": 263,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1987,
+    "duration_ms": 237587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

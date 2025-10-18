@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Radio Ga Ga",
+    "artist": "Queen",
+    "date": "18.10.2025",
+    "time": "21:29",
+    "listeners": 792
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Celebration",
+    "artist": "Fun Factory",
+    "date": "18.10.2025",
+    "time": "21:26",
+    "listeners": 830
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Vienna Calling",
     "artist": "Falco",
     "date": "18.10.2025",

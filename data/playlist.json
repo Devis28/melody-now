@@ -5,7 +5,15 @@
     "artist": "Beata Dubasová",
     "date": "18.10.2025",
     "time": "07:48",
-    "listeners": 466
+    "listeners": 466,
+    "lyricists": null,
+    "album": "Za dverami mojej izby",
+    "release_year": 1990,
+    "duration_ms": 303903,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Olympic",
     "date": "18.10.2025",
     "time": "07:43",
-    "listeners": 448
+    "listeners": 448,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 2001,
+    "duration_ms": 257853,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

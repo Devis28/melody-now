@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Slnko Nevychádzaj",
+    "artist": "Metalinda",
+    "date": "19.10.2025",
+    "time": "08:55",
+    "listeners": 822
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Žienka Domáca",
+    "artist": "Jana Kirschner",
+    "date": "19.10.2025",
+    "time": "08:51",
+    "listeners": 777
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Školská Láska",
     "artist": "Rolincová Darina",
     "date": "19.10.2025",

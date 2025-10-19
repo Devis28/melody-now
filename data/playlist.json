@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Rosa Na Kolejích",
+    "artist": "Daněk Wabi",
+    "date": "19.10.2025",
+    "time": "17:15",
+    "listeners": 1223
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voda Čo Ma Drží Nad Vodou",
+    "artist": "Jožo Ráž",
+    "date": "19.10.2025",
+    "time": "17:10",
+    "listeners": 1160
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čo Ak",
+    "artist": "I.M.T. Smile",
+    "date": "19.10.2025",
+    "time": "17:07",
+    "listeners": 1229
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Všechno Může Čas",
+    "artist": "Filipová Lenka",
+    "date": "19.10.2025",
+    "time": "17:03",
+    "listeners": 1113
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rieka",
+    "artist": "Richard Müller",
+    "date": "19.10.2025",
+    "time": "17:00",
+    "listeners": 1239
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hvězdáři",
     "artist": "Kryštof ft. Sima Martausová",
     "date": "19.10.2025",

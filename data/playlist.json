@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Do Ya Think I'm Sexy?",
+    "artist": "Rod Stewart",
+    "date": "19.10.2025",
+    "time": "23:15",
+    "listeners": 352
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blue Savannah",
+    "artist": "Erasure",
+    "date": "19.10.2025",
+    "time": "23:10",
+    "listeners": 363
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sweets For My Sweet",
+    "artist": "Lewis Cj",
+    "date": "19.10.2025",
+    "time": "23:07",
+    "listeners": 385
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Atlantis Is Calling (S.O.S. For Love)",
+    "artist": "Modern Talking",
+    "date": "19.10.2025",
+    "time": "23:03",
+    "listeners": 380
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Right In The Night",
+    "artist": "Jam And Spoon Feat. Plavka",
+    "date": "19.10.2025",
+    "time": "22:59",
+    "listeners": 414
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kamaráti",
     "artist": "Elán",
     "date": "19.10.2025",

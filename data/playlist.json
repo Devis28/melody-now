@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Vždycky Jsem To Já",
+    "artist": "Janda Dalibor",
+    "date": "19.10.2025",
+    "time": "18:19",
+    "listeners": 1253
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Želva",
+    "artist": "Olympic",
+    "date": "19.10.2025",
+    "time": "18:16",
+    "listeners": 1219
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamarát",
+    "artist": "Exil",
+    "date": "19.10.2025",
+    "time": "18:12",
+    "listeners": 1191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Klára",
+    "artist": "AC+",
+    "date": "19.10.2025",
+    "time": "18:07",
+    "listeners": 1122
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chlapci V Pasci",
+    "artist": "Gombitová Marika",
+    "date": "19.10.2025",
+    "time": "18:04",
+    "listeners": 1171
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mumuland",
+    "artist": "Kotvald Petr",
+    "date": "19.10.2025",
+    "time": "18:00",
+    "listeners": 1180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Chtěl Bych Žít, Tak Jak Se Má",
     "artist": "David Michal",
     "date": "19.10.2025",

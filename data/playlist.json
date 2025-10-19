@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "date": "19.10.2025",
+    "time": "19:12",
+    "listeners": 1335
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Katka",
+    "artist": "Miro Žbirka",
+    "date": "19.10.2025",
+    "time": "19:09",
+    "listeners": 1242
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá Láska",
+    "artist": "Ráž Jožo",
+    "date": "19.10.2025",
+    "time": "19:05",
+    "listeners": 1298
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bon Soir, Mademoiselle Paris",
+    "artist": "Shalom",
+    "date": "19.10.2025",
+    "time": "19:01",
+    "listeners": 1116
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "So Mnou Nikdy Nezostarneš",
+    "artist": "Peter Nagy",
+    "date": "19.10.2025",
+    "time": "18:57",
+    "listeners": 1257
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Reklama Na Ticho",
     "artist": "Team",
     "date": "19.10.2025",

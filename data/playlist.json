@@ -5,7 +5,15 @@
     "artist": "Fun Factory",
     "date": "19.10.2025",
     "time": "20:18",
-    "listeners": 1122
+    "listeners": 1122,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 213600,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Olivia Newton John & John Travolta",
     "date": "19.10.2025",
     "time": "20:14",
-    "listeners": 1200
+    "listeners": 1200,
+    "lyricists": null,
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "release_year": 2019,
+    "duration_ms": 215333,
+    "artist_country": "AU",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Roxette",
     "date": "19.10.2025",
     "time": "20:09",
-    "listeners": 1123
+    "listeners": 1123,
+    "lyricists": null,
+    "album": "Joyride (30th Anniversary Edition)",
+    "release_year": 2011,
+    "duration_ms": 265733,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,18 @@
     "artist": "Alexia",
     "date": "19.10.2025",
     "time": "20:06",
-    "listeners": 1210
+    "listeners": 1210,
+    "lyricists": [
+      "Alexia",
+      "Roberto Zanetti"
+    ],
+    "album": "Uh La La La - Single",
+    "release_year": 1998,
+    "duration_ms": 221333,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Queen",
     "date": "19.10.2025",
     "time": "20:02",
-    "listeners": 1191
+    "listeners": 1191,
+    "lyricists": null,
+    "album": "The Works (Deluxe Edition)",
+    "release_year": 2000,
+    "duration_ms": 201082,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Hex",
     "date": "19.10.2025",
     "time": "19:57",
-    "listeners": 1221
+    "listeners": 1221,
+    "lyricists": null,
+    "album": "Kde je tu láska?",
+    "release_year": 2023,
+    "duration_ms": 260316,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

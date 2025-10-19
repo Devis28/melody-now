@@ -11145,5 +11145,18 @@
     "genres": [
       "Rock"
     ]
+  },
+  "alexia|uh la la la": {
+    "release_year": 1998,
+    "artist_country": "IT",
+    "album": "Uh La La La - Single",
+    "duration_ms": 221333,
+    "lyricists": [
+      "Alexia",
+      "Roberto Zanetti"
+    ],
+    "genres": [
+      "Electronic"
+    ]
   }
 }

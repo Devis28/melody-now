@@ -5,7 +5,15 @@
     "artist": "Kryštof ft. Tomáš Klus",
     "date": "19.10.2025",
     "time": "15:16",
-    "listeners": 1726
+    "listeners": 1726,
+    "lyricists": null,
+    "album": "Inzerat",
+    "release_year": 2012,
+    "duration_ms": 349800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gladiátor",
     "date": "19.10.2025",
     "time": "15:12",
-    "listeners": 1737
+    "listeners": 1737,
+    "lyricists": null,
+    "album": "Babylon Hotel",
+    "release_year": 2020,
+    "duration_ms": 236507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Modus",
     "date": "19.10.2025",
     "time": "15:07",
-    "listeners": 1776
+    "listeners": 1776,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 1998,
+    "duration_ms": 260800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,13 @@
     "artist": "Rolincova Darinka",
     "date": "19.10.2025",
     "time": "15:03",
-    "listeners": 1855
+    "listeners": 1855,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 238640,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,18 @@
     "artist": "Robo Grigorov",
     "date": "19.10.2025",
     "time": "14:58",
-    "listeners": 1852
+    "listeners": 1852,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "album": "Chýbaš Mi...",
+    "release_year": 2006,
+    "duration_ms": 273293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Zuzana Smatanová",
     "date": "19.10.2025",
     "time": "14:55",
-    "listeners": 1802
+    "listeners": 1802,
+    "lyricists": null,
+    "album": "Svet Mi Stupil Na Nohu",
+    "release_year": 2013,
+    "duration_ms": 165093,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

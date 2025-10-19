@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Zažni",
+    "artist": "Miro Žbirka",
+    "date": "19.10.2025",
+    "time": "09:24",
+    "listeners": 902
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maturitné Tablo",
+    "artist": "Hečková Júlia",
+    "date": "19.10.2025",
+    "time": "09:19",
+    "listeners": 878
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Málo Mě Zná",
     "artist": "Bartosova Iveta",
     "date": "19.10.2025",

@@ -11366,5 +11366,14 @@
       "Pop",
       "Rock"
     ]
+  },
+  "bliss team|people have the power": {
+    "release_year": 2004,
+    "artist_country": "IT",
+    "album": "Best Of Bliss Team",
+    "duration_ms": 317080,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

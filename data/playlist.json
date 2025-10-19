@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I Wanna B with U",
+    "artist": "Fun Factory",
+    "date": "19.10.2025",
+    "time": "20:18",
+    "listeners": 1122
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Summer Nights",
+    "artist": "Olivia Newton John & John Travolta",
+    "date": "19.10.2025",
+    "time": "20:14",
+    "listeners": 1200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Big L.",
+    "artist": "Roxette",
+    "date": "19.10.2025",
+    "time": "20:09",
+    "listeners": 1123
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Uh La La La",
+    "artist": "Alexia",
+    "date": "19.10.2025",
+    "time": "20:06",
+    "listeners": 1210
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Want To Break Free",
+    "artist": "Queen",
+    "date": "19.10.2025",
+    "time": "20:02",
+    "listeners": 1191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pomaranče z Kuby",
+    "artist": "Hex",
+    "date": "19.10.2025",
+    "time": "19:57",
+    "listeners": 1221
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kávu Si Osladím",
     "artist": "Gott Karel",
     "date": "19.10.2025",

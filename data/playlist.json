@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Alone",
+    "artist": "Heart",
+    "date": "20.10.2025",
+    "time": "00:39",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "20.10.2025",
+    "time": "00:34",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neuč Vtáka Lietať",
+    "artist": "Müller Richard",
+    "date": "20.10.2025",
+    "time": "00:31",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sunshine Reggae",
     "artist": "Laid Back",
     "date": "20.10.2025",

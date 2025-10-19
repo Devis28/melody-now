@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Děti Ráje",
+    "artist": "Michal David & Kroky Františka Janečka",
+    "date": "19.10.2025",
+    "time": "15:38",
+    "listeners": 1582
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nešlap, Nelámej",
+    "artist": "Hana Zagorová",
+    "date": "19.10.2025",
+    "time": "15:35",
+    "listeners": 1512
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Učiteľka Tanca",
     "artist": "Pavol Hammel",
     "date": "19.10.2025",

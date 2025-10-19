@@ -5,7 +5,15 @@
     "artist": "Hammel Pavol",
     "date": "19.10.2025",
     "time": "17:36",
-    "listeners": 1171
+    "listeners": 1171,
+    "lyricists": null,
+    "album": "Pavol Hammel & Prúdy 1966 – 1975",
+    "release_year": 1969,
+    "duration_ms": 154490,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Lunetic",
     "date": "19.10.2025",
     "time": "17:33",
-    "listeners": 1195
+    "listeners": 1195,
+    "lyricists": null,
+    "album": "Cik-Cak",
+    "release_year": 1998,
+    "duration_ms": 213040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Vašo Patejdl a Oľga Záblacká",
     "date": "19.10.2025",
     "time": "17:30",
-    "listeners": 1225
+    "listeners": 1225,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 2015,
+    "duration_ms": 141000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sunshine Reggae",
+    "artist": "Laid Back",
+    "date": "20.10.2025",
+    "time": "00:26",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Úsmev A Čaj",
+    "artist": "I.M.T Smile & Smatanova Zuzana",
+    "date": "20.10.2025",
+    "time": "00:22",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Raindrops Keep Fallin' On My Head",
+    "artist": "B. J. Thomas",
+    "date": "20.10.2025",
+    "time": "00:19",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eternal Flame",
+    "artist": "The Bangles",
+    "date": "20.10.2025",
+    "time": "00:16",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Slub",
     "artist": "Dara Rolins",
     "date": "20.10.2025",

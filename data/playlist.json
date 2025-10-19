@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Okno Mé Lásky",
+    "artist": "Olympic",
+    "date": "19.10.2025",
+    "time": "12:47",
+    "listeners": 1851
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veľa Lásky",
+    "artist": "I.M.T. Smile",
+    "date": "19.10.2025",
+    "time": "12:43",
+    "listeners": 1883
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Každý Mi Te Lásko Závidí",
     "artist": "Michal David",
     "date": "19.10.2025",

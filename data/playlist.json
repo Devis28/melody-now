@@ -5,7 +5,18 @@
     "artist": "Phil Collins",
     "date": "20.10.2025",
     "time": "01:46",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Phil Collins"
+    ],
+    "album": "No Jacket Required (Deluxe Edition) [Remastered]",
+    "release_year": 1985,
+    "duration_ms": 291253,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,18 @@
     "artist": "Michael Jackson",
     "date": "20.10.2025",
     "time": "01:42",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "release_year": 2005,
+    "duration_ms": 284310,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

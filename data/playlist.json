@@ -5,7 +5,13 @@
     "artist": "Rolincova Darinka",
     "date": "19.10.2025",
     "time": "17:27",
-    "listeners": 1242
+    "listeners": 1242,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 189827,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,15 @@
     "artist": "Matuška Waldemar",
     "date": "19.10.2025",
     "time": "17:22",
-    "listeners": 1118
+    "listeners": 1118,
+    "lyricists": null,
+    "album": "Co Neodnesl Čas",
+    "release_year": 1991,
+    "duration_ms": 300107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Heckovci Julia A Peter",
     "date": "19.10.2025",
     "time": "17:18",
-    "listeners": 1082
+    "listeners": 1082,
+    "lyricists": null,
+    "album": "Maturitné tablo",
+    "release_year": 1987,
+    "duration_ms": 243329,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

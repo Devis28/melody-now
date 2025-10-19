@@ -11307,5 +11307,14 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "eurythmics|there must be an angel": {
+    "release_year": 1992,
+    "artist_country": "GB",
+    "album": "Eurythmics: Ultimate Collection (Remastered)",
+    "duration_ms": 281026,
+    "genres": [
+      "Pop"
+    ]
   }
 }

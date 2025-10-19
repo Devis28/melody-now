@@ -5,7 +5,15 @@
     "artist": "Eurythmics & Stevie Wonder",
     "date": "19.10.2025",
     "time": "22:48",
-    "listeners": 421
+    "listeners": 421,
+    "lyricists": null,
+    "album": "Eurythmics: Ultimate Collection (Remastered)",
+    "release_year": 1992,
+    "duration_ms": 281026,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Corona",
     "date": "19.10.2025",
     "time": "22:44",
-    "listeners": 444
+    "listeners": 444,
+    "lyricists": null,
+    "album": "The Rhythm of the Night",
+    "release_year": 1994,
+    "duration_ms": 264280,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

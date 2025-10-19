@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Prvý Bozk",
+    "artist": "Hammel Pavol",
+    "date": "19.10.2025",
+    "time": "17:36",
+    "listeners": 1171
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Máma",
+    "artist": "Lunetic",
+    "date": "19.10.2025",
+    "time": "17:33",
+    "listeners": 1195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mopedová",
+    "artist": "Vašo Patejdl a Oľga Záblacká",
+    "date": "19.10.2025",
+    "time": "17:30",
+    "listeners": 1225
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Az Raz Budem Ucitelkou",
     "artist": "Rolincova Darinka",
     "date": "19.10.2025",

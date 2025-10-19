@@ -5,7 +5,15 @@
     "artist": "Hex",
     "date": "20.10.2025",
     "time": "01:28",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 1997,
+    "duration_ms": 240320,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Vangelis",
     "date": "20.10.2025",
     "time": "01:23",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": [
+      "Vangelis"
+    ],
+    "album": "1492 - Conquest of Paradise",
+    "release_year": 2001,
+    "duration_ms": 278200,
+    "artist_country": "GR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Dubasová Beáta",
     "date": "20.10.2025",
     "time": "01:20",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Najväčšie hity 1985 - 2020",
+    "release_year": 2020,
+    "duration_ms": 173880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Bon Jovi, Jon",
     "date": "20.10.2025",
     "time": "01:14",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Blaze of Glory (Inspired by the Film \"Young Guns II\")",
+    "release_year": 1990,
+    "duration_ms": 335240,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Michael, George",
     "date": "20.10.2025",
     "time": "01:09",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Make It Big",
+    "release_year": 1984,
+    "duration_ms": 392267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "The Beatles",
     "date": "20.10.2025",
     "time": "01:05",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Let It Be",
+    "release_year": 1994,
+    "duration_ms": 243027,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Peha",
     "date": "20.10.2025",
     "time": "01:01",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Největší slovenské hity všech dob",
+    "release_year": 2005,
+    "duration_ms": 250027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,86 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Preč, Preč",
+    "artist": "Pavol Habera",
+    "date": "19.10.2025",
+    "time": "14:52",
+    "listeners": 1853
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Jednu Ruku Dlouhou",
+    "artist": "Buty",
+    "date": "19.10.2025",
+    "time": "14:46",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Slepých Uličkách",
+    "artist": "Zbirka Miro & Gombitova Marika",
+    "date": "19.10.2025",
+    "time": "14:42",
+    "listeners": 1774
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skúšky Z Lásky",
+    "artist": "Gravis",
+    "date": "19.10.2025",
+    "time": "14:39",
+    "listeners": 1943
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľudia Nie Sú Zlí",
+    "artist": "I.M.T. Smile",
+    "date": "19.10.2025",
+    "time": "14:36",
+    "listeners": 1927
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Odpusťte Nám",
+    "artist": "Michal Penk",
+    "date": "19.10.2025",
+    "time": "14:32",
+    "listeners": 1970
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Poďme Sa Zachrániť",
+    "artist": "Peter Nagy",
+    "date": "19.10.2025",
+    "time": "14:28",
+    "listeners": 1859
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Unikát",
+    "artist": "Mária Čírová",
+    "date": "19.10.2025",
+    "time": "14:25",
+    "listeners": 1808
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dej Mi Víc Své Lásky",
+    "artist": "Olympic",
+    "date": "19.10.2025",
+    "time": "14:22",
+    "listeners": 1923
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Colu, Pijeme Colu",
+    "artist": "Michal David",
+    "date": "19.10.2025",
+    "time": "14:19",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tančís Sama",
     "artist": "Muk Petr",
     "date": "19.10.2025",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Strangelove",
+    "artist": "Depeche Mode",
+    "date": "19.10.2025",
+    "time": "22:39",
+    "listeners": 471
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Was Made For Loving You",
+    "artist": "Kiss",
+    "date": "19.10.2025",
+    "time": "22:35",
+    "listeners": 483
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Talk Just Kiss",
+    "artist": "Right Said Fred",
+    "date": "19.10.2025",
+    "time": "22:32",
+    "listeners": 535
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nothing's Gonna Stop Me Now",
     "artist": "Samantha Fox",
     "date": "19.10.2025",

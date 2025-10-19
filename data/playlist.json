@@ -5,7 +5,15 @@
     "artist": "Vidiek",
     "date": "19.10.2025",
     "time": "05:45",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Nechajte si ju!",
+    "release_year": 2012,
+    "duration_ms": 221040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,22 @@
     "artist": "Queen",
     "date": "19.10.2025",
     "time": "05:42",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": [
+      "Angie Stone",
+      "Bahamadia",
+      "Erykah Badu",
+      "James Poyser",
+      "Queen Latifah",
+      "Rashad Smith"
+    ],
+    "album": "A Night at the Opera",
+    "release_year": 1975,
+    "duration_ms": 219055,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +44,16 @@
     "artist": "Army Of Lovers",
     "date": "19.10.2025",
     "time": "05:38",
-    "listeners": 202
+    "listeners": 202,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +61,15 @@
     "artist": "Camouflage",
     "date": "19.10.2025",
     "time": "05:34",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": null,
+    "album": "Love Is A Shield - Single",
+    "release_year": 1989,
+    "duration_ms": 241013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +77,15 @@
     "artist": "Modus",
     "date": "19.10.2025",
     "time": "05:30",
-    "listeners": 203
+    "listeners": 203,
+    "lyricists": null,
+    "album": "Modus",
+    "release_year": 2005,
+    "duration_ms": 218600,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +93,19 @@
     "artist": "Lionel Richie",
     "date": "19.10.2025",
     "time": "05:26",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": [
+      "James Anthony Carmichael",
+      "Lionel Richie"
+    ],
+    "album": "Can't Slow Down",
+    "release_year": 1983,
+    "duration_ms": 248401,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +113,16 @@
     "artist": "Gladiátor",
     "date": "19.10.2025",
     "time": "05:23",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "Hlavu Maj Hore",
+    "release_year": 2020,
+    "duration_ms": 203929,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +130,16 @@
     "artist": "Ramazzotti Eros",
     "date": "19.10.2025",
     "time": "05:19",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Eros 30 (Deluxe Version)",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +147,15 @@
     "artist": "Marika Gombitová",
     "date": "19.10.2025",
     "time": "05:17",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 1998,
+    "duration_ms": 146013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +163,24 @@
     "artist": "Spice Girls",
     "date": "19.10.2025",
     "time": "05:12",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": [
+      "Emma Bunton",
+      "Geri Halliwell",
+      "Matt Rowe",
+      "Melanie Brown",
+      "Melanie C",
+      "Richard “Biff” Stannard",
+      "Spice Girls",
+      "Victoria Beckham"
+    ],
+    "album": "Spiceworld",
+    "release_year": 1998,
+    "duration_ms": 310667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +188,15 @@
     "artist": "Modern Talking",
     "date": "19.10.2025",
     "time": "05:08",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "The Very Best of Modern Talking",
+    "release_year": 1997,
+    "duration_ms": 223027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +204,18 @@
     "artist": "Umberto Tozzi",
     "date": "19.10.2025",
     "time": "05:04",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": [
+      "Giancarlo Bigazzi",
+      "Umberto Tozzi"
+    ],
+    "album": "E' nell' aria…ti amo",
+    "release_year": 2006,
+    "duration_ms": 245693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

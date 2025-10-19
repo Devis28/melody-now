@@ -5,7 +5,16 @@
     "artist": "Balogh Berco",
     "date": "19.10.2025",
     "time": "15:46",
-    "listeners": 1686
+    "listeners": 1686,
+    "lyricists": null,
+    "album": "Siedmy pád",
+    "release_year": 2007,
+    "duration_ms": 241747,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Richard  Muller",
     "date": "19.10.2025",
     "time": "15:41",
-    "listeners": 1636
+    "listeners": 1636,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2006,
+    "duration_ms": 300693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

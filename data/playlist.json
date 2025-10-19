@@ -5,7 +5,15 @@
     "artist": "Boney M",
     "date": "19.10.2025",
     "time": "21:13",
-    "listeners": 814
+    "listeners": 814,
+    "lyricists": null,
+    "album": "Hit Collection",
+    "release_year": 1979,
+    "duration_ms": 217427,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Miro Žbirka",
     "date": "19.10.2025",
     "time": "21:09",
-    "listeners": 929
+    "listeners": 929,
+    "lyricists": null,
+    "album": "Chlapec z ulice",
+    "release_year": 2007,
+    "duration_ms": 245160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Shaft",
     "date": "19.10.2025",
     "time": "21:06",
-    "listeners": 861
+    "listeners": 861,
+    "lyricists": null,
+    "album": "Mambo Italiano - Single",
+    "release_year": 2000,
+    "duration_ms": 171227,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Vašo Patejdl",
     "date": "19.10.2025",
     "time": "21:02",
-    "listeners": 1003
+    "listeners": 1003,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2015,
+    "duration_ms": 192507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,19 @@
     "artist": "Bruce Channel",
     "date": "19.10.2025",
     "time": "21:00",
-    "listeners": 941
+    "listeners": 941,
+    "lyricists": [
+      "Bruce Channel",
+      "Margaret Cobb"
+    ],
+    "album": "Dirty Dancing (Original Sondtrack)",
+    "release_year": 2010,
+    "duration_ms": 145450,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,16 @@
     "artist": "Michael Sembello",
     "date": "19.10.2025",
     "time": "20:56",
-    "listeners": 1033
+    "listeners": 1033,
+    "lyricists": [
+      "Dennis Matkosky",
+      "Michael Sembello"
+    ],
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "release_year": 2022,
+    "duration_ms": 244707,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,17 @@
     "artist": "George Michael",
     "date": "19.10.2025",
     "time": "20:52",
-    "listeners": 1080
+    "listeners": 1080,
+    "lyricists": [
+      "George Michael"
+    ],
+    "album": "Ladies & Gentlemen",
+    "release_year": 1992,
+    "duration_ms": 225027,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

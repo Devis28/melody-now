@@ -11190,5 +11190,40 @@
     "genres": [
       "Rock"
     ]
+  },
+  "shaft|mambo italiano": {
+    "release_year": 2000,
+    "artist_country": "GB",
+    "album": "Mambo Italiano - Single",
+    "duration_ms": 171227,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "bruce channel|hey! baby": {
+    "release_year": 2010,
+    "artist_country": "US",
+    "album": "Dirty Dancing (Original Sondtrack)",
+    "duration_ms": 145450,
+    "lyricists": [
+      "Bruce Channel",
+      "Margaret Cobb"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "george michael|too funky": {
+    "release_year": 1992,
+    "artist_country": "GB",
+    "album": "Ladies & Gentlemen",
+    "duration_ms": 225027,
+    "lyricists": [
+      "George Michael"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

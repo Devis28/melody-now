@@ -5,7 +5,15 @@
     "artist": "Janda Dalibor",
     "date": "19.10.2025",
     "time": "18:19",
-    "listeners": 1253
+    "listeners": 1253,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 262147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Olympic",
     "date": "19.10.2025",
     "time": "18:16",
-    "listeners": 1219
+    "listeners": 1219,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 2000,
+    "duration_ms": 217773,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Exil",
     "date": "19.10.2025",
     "time": "18:12",
-    "listeners": 1191
+    "listeners": 1191,
+    "lyricists": null,
+    "album": "Kamarát - EP",
+    "release_year": 1996,
+    "duration_ms": 215615,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "AC+",
     "date": "19.10.2025",
     "time": "18:07",
-    "listeners": 1122
+    "listeners": 1122,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 1990,
+    "duration_ms": 213160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Gombitová Marika",
     "date": "19.10.2025",
     "time": "18:04",
-    "listeners": 1171
+    "listeners": 1171,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 210267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Kotvald Petr",
     "date": "19.10.2025",
     "time": "18:00",
-    "listeners": 1180
+    "listeners": 1180,
+    "lyricists": null,
+    "album": "Exxxclusive (Best Of - Zlatá Kolekce)",
+    "release_year": 2016,
+    "duration_ms": 197000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

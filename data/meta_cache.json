@@ -11158,5 +11158,37 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "paul mccartney|say say say": {
+    "release_year": 1983,
+    "artist_country": "GB",
+    "album": "Pure McCartney",
+    "duration_ms": 220760,
+    "lyricists": [
+      "Michael Jackson",
+      "Paul McCartney"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "reel ii real|i like to move it": {
+    "release_year": 1996,
+    "artist_country": "US",
+    "album": "Move It!",
+    "duration_ms": 230760,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "the beach boys|kokomo": {
+    "release_year": 2006,
+    "artist_country": "US",
+    "album": "Greatest Hits",
+    "duration_ms": 215617,
+    "genres": [
+      "Rock"
+    ]
   }
 }

@@ -5,7 +5,19 @@
     "artist": "Paul Mccartney & Michael Jackson",
     "date": "19.10.2025",
     "time": "20:40",
-    "listeners": 1026
+    "listeners": 1026,
+    "lyricists": [
+      "Michael Jackson",
+      "Paul McCartney"
+    ],
+    "album": "Pure McCartney",
+    "release_year": 1983,
+    "duration_ms": 220760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,19 @@
     "artist": "ABBA",
     "date": "19.10.2025",
     "time": "20:37",
-    "listeners": 1027
+    "listeners": 1027,
+    "lyricists": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ],
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 201959,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +45,15 @@
     "artist": "Reel Ii Real",
     "date": "19.10.2025",
     "time": "20:33",
-    "listeners": 1147
+    "listeners": 1147,
+    "lyricists": null,
+    "album": "Move It!",
+    "release_year": 1996,
+    "duration_ms": 230760,
+    "artist_country": "US",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +61,15 @@
     "artist": "Elán",
     "date": "19.10.2025",
     "time": "20:28",
-    "listeners": 1138
+    "listeners": 1138,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 2003,
+    "duration_ms": 277787,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +77,18 @@
     "artist": "Mike & The Mechanics",
     "date": "19.10.2025",
     "time": "20:25",
-    "listeners": 1115
+    "listeners": 1115,
+    "lyricists": [
+      "Mike Rutherford",
+      "Paul Carrack"
+    ],
+    "album": "Beggar On A Beach Of Gold",
+    "release_year": 2006,
+    "duration_ms": 217200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +96,15 @@
     "artist": "The Beach Boys",
     "date": "19.10.2025",
     "time": "20:21",
-    "listeners": 1087
+    "listeners": 1087,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2006,
+    "duration_ms": 215617,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Dubasová Beáta",
     "date": "19.10.2025",
     "time": "19:12",
-    "listeners": 1335
+    "listeners": 1335,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 1993,
+    "duration_ms": 215000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Miro Žbirka",
     "date": "19.10.2025",
     "time": "19:09",
-    "listeners": 1242
+    "listeners": 1242,
+    "lyricists": null,
+    "album": "Chlapec z ulice",
+    "release_year": 2007,
+    "duration_ms": 202107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,13 @@
     "artist": "Ráž Jožo",
     "date": "19.10.2025",
     "time": "19:05",
-    "listeners": 1298
+    "listeners": 1298,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Shalom",
     "date": "19.10.2025",
     "time": "19:01",
-    "listeners": 1116
+    "listeners": 1116,
+    "lyricists": null,
+    "album": "Bon soir, mademoiselle Paris",
+    "release_year": 1999,
+    "duration_ms": 288980,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,17 @@
     "artist": "Peter Nagy",
     "date": "19.10.2025",
     "time": "18:57",
-    "listeners": 1257
+    "listeners": 1257,
+    "lyricists": [
+      "Peter Nagy"
+    ],
+    "album": "Aj tak sme frajeri",
+    "release_year": 1996,
+    "duration_ms": 200400,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

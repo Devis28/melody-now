@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Učiteľka Tanca",
+    "artist": "Pavol Hammel",
+    "date": "19.10.2025",
+    "time": "15:32",
+    "listeners": 1592
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvojčatá",
+    "artist": "Patejdl Vašo",
+    "date": "19.10.2025",
+    "time": "15:27",
+    "listeners": 1609
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá",
+    "artist": "No Name",
+    "date": "19.10.2025",
+    "time": "15:24",
+    "listeners": 1669
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Když Láska Schází",
+    "artist": "Bartošová Iveta",
+    "date": "19.10.2025",
+    "time": "15:20",
+    "listeners": 1698
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cesta",
     "artist": "Kryštof ft. Tomáš Klus",
     "date": "19.10.2025",

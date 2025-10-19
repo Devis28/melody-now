@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dievča Amerika",
+    "artist": "Habera Pavol",
+    "date": "19.10.2025",
+    "time": "10:09",
+    "listeners": 1086
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neľutujem",
+    "artist": "Adam Ďurica",
+    "date": "19.10.2025",
+    "time": "10:05",
+    "listeners": 1087
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vyznanie",
+    "artist": "Marika Gombitová",
+    "date": "19.10.2025",
+    "time": "10:00",
+    "listeners": 1073
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "U Can't Stop",
+    "artist": "Mc Erik & Barbara",
+    "date": "19.10.2025",
+    "time": "10:00",
+    "listeners": 1052
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horou",
+    "artist": "Zuzana Smatanová",
+    "date": "19.10.2025",
+    "time": "09:55",
+    "listeners": 1057
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Žily",
     "artist": "No Name",
     "date": "19.10.2025",

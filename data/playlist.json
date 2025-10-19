@@ -5,7 +5,15 @@
     "artist": "Cara Irene",
     "date": "20.10.2025",
     "time": "01:38",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "What a Feelin' (Bonus Track Version)",
+    "release_year": 1983,
+    "duration_ms": 237053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Polemic",
     "date": "20.10.2025",
     "time": "01:35",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Gangster-SKA",
+    "release_year": 2002,
+    "duration_ms": 149880,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Miro Žbirka",
     "date": "20.10.2025",
     "time": "01:32",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 215027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

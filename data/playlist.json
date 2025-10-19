@@ -1,6 +1,102 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Vidiečan",
+    "artist": "Vidiek",
+    "date": "19.10.2025",
+    "time": "05:45",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Of My Life",
+    "artist": "Queen",
+    "date": "19.10.2025",
+    "time": "05:42",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "19.10.2025",
+    "time": "05:38",
+    "listeners": 202
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Is The Shield",
+    "artist": "Camouflage",
+    "date": "19.10.2025",
+    "time": "05:34",
+    "listeners": 196
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malý Veľký Vlak",
+    "artist": "Modus",
+    "date": "19.10.2025",
+    "time": "05:30",
+    "listeners": 203
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hello",
+    "artist": "Lionel Richie",
+    "date": "19.10.2025",
+    "time": "05:26",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hlavu Maj Hore",
+    "artist": "Gladiátor",
+    "date": "19.10.2025",
+    "time": "05:23",
+    "listeners": 201
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fuoco Nel Fuoco",
+    "artist": "Ramazzotti Eros",
+    "date": "19.10.2025",
+    "time": "05:19",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Máš V Rukáve Máj",
+    "artist": "Marika Gombitová",
+    "date": "19.10.2025",
+    "time": "05:17",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Viva Forever",
+    "artist": "Spice Girls",
+    "date": "19.10.2025",
+    "time": "05:12",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Can Win If You Want",
+    "artist": "Modern Talking",
+    "date": "19.10.2025",
+    "time": "05:08",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "date": "19.10.2025",
+    "time": "05:04",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Srdce Jako Kniže Rohan",
     "artist": "Muller Richard",
     "date": "19.10.2025",

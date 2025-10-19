@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dívka S Perlami Ve Vlasech",
+    "artist": "Aleš Brichta",
+    "date": "19.10.2025",
+    "time": "12:30",
+    "listeners": 1725
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Adresa Ja Adresa Ty",
+    "artist": "Gombitová Marika",
+    "date": "19.10.2025",
+    "time": "12:26",
+    "listeners": 1730
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Pocit",
+    "artist": "Cmorík Peter",
+    "date": "19.10.2025",
+    "time": "12:22",
+    "listeners": 1570
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Saxana",
+    "artist": "Petra Černocká",
+    "date": "19.10.2025",
+    "time": "12:19",
+    "listeners": 1723
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Víc Než Přítel",
+    "artist": "Černoch Karel Brabec Filip",
+    "date": "19.10.2025",
+    "time": "12:15",
+    "listeners": 1684
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Studánko Stříbrná",
+    "artist": "Zagorová Hana",
+    "date": "19.10.2025",
+    "time": "12:12",
+    "listeners": 1623
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Letím Tmou (Za Tebou)",
+    "artist": "Miro Žbirka",
+    "date": "19.10.2025",
+    "time": "12:09",
+    "listeners": 1705
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Chýbaš Mi",
     "artist": "Grigorov Robo Midi",
     "date": "19.10.2025",

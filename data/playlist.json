@@ -5,7 +5,15 @@
     "artist": "Mc Erik And Barbara",
     "date": "19.10.2025",
     "time": "11:06",
-    "listeners": 1330
+    "listeners": 1330,
+    "lyricists": null,
+    "album": "Second",
+    "release_year": 1996,
+    "duration_ms": 218427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Richard Müller",
     "date": "19.10.2025",
     "time": "10:57",
-    "listeners": 1328
+    "listeners": 1328,
+    "lyricists": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2011,
+    "duration_ms": 275653,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Rolincová Darina",
     "date": "19.10.2025",
     "time": "10:54",
-    "listeners": 1293
+    "listeners": 1293,
+    "lyricists": null,
+    "album": "Kto Chce & Ak Náhodou - Single",
+    "release_year": 1987,
+    "duration_ms": 163067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pesnička O Medulienke",
+    "artist": "Gladiator Hammel Pavol",
+    "date": "19.10.2025",
+    "time": "13:34",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Večírek",
+    "artist": "Tofi Sagvan",
+    "date": "19.10.2025",
+    "time": "13:30",
+    "listeners": 1990
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bez Veľkej Slávy",
+    "artist": "Darina Rolincová",
+    "date": "19.10.2025",
+    "time": "13:26",
+    "listeners": 1967
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Včely",
     "artist": "Smatanová Zuzana",
     "date": "19.10.2025",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Chtěl Bych Žít, Tak Jak Se Má",
+    "artist": "David Michal",
+    "date": "19.10.2025",
+    "time": "17:56",
+    "listeners": 1110
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "19.10.2025",
+    "time": "17:52",
+    "listeners": 1228
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Červená Řeka",
     "artist": "Helena Vondráčková",
     "date": "19.10.2025",

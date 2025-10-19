@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Palonder Marcel",
+    "date": "19.10.2025",
+    "time": "06:54",
+    "listeners": 295
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hrám",
+    "artist": "Karol Duchoň",
+    "date": "19.10.2025",
+    "time": "06:51",
+    "listeners": 301
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kým Vieš Snívať",
     "artist": "Superstar Top 11",
     "date": "19.10.2025",

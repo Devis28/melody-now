@@ -5,7 +5,16 @@
     "artist": "Pavol Habera",
     "date": "19.10.2025",
     "time": "14:52",
-    "listeners": 1853
+    "listeners": 1853,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Buty",
     "date": "19.10.2025",
     "time": "14:46",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Butykvariát",
+    "release_year": 1994,
+    "duration_ms": 271107,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Zbirka Miro & Gombitova Marika",
     "date": "19.10.2025",
     "time": "14:42",
-    "listeners": 1774
+    "listeners": 1774,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 246160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Gravis",
     "date": "19.10.2025",
     "time": "14:39",
-    "listeners": 1943
+    "listeners": 1943,
+    "lyricists": null,
+    "album": "Kolotoč masiek",
+    "release_year": 2007,
+    "duration_ms": 245180,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "I.M.T. Smile",
     "date": "19.10.2025",
     "time": "14:36",
-    "listeners": 1927
+    "listeners": 1927,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2008,
+    "duration_ms": 180933,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Michal Penk",
     "date": "19.10.2025",
     "time": "14:32",
-    "listeners": 1970
+    "listeners": 1970,
+    "lyricists": null,
+    "album": "Michal Penk",
+    "release_year": 2002,
+    "duration_ms": 219061,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Peter Nagy",
     "date": "19.10.2025",
     "time": "14:28",
-    "listeners": 1859
+    "listeners": 1859,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2002,
+    "duration_ms": 224307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Mária Čírová",
     "date": "19.10.2025",
     "time": "14:25",
-    "listeners": 1808
+    "listeners": 1808,
+    "lyricists": null,
+    "album": "Unikát - Single",
+    "release_year": 2016,
+    "duration_ms": 206360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +134,15 @@
     "artist": "Olympic",
     "date": "19.10.2025",
     "time": "14:22",
-    "listeners": 1923
+    "listeners": 1923,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 173307,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +150,15 @@
     "artist": "Michal David",
     "date": "19.10.2025",
     "time": "14:19",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Non Stop",
+    "release_year": 2010,
+    "duration_ms": 196840,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Team",
     "date": "19.10.2025",
     "time": "13:14",
-    "listeners": 1818
+    "listeners": 1818,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2003,
+    "duration_ms": 180360,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Michal Penk",
     "date": "19.10.2025",
     "time": "13:12",
-    "listeners": 1887
+    "listeners": 1887,
+    "lyricists": null,
+    "album": "Michal Penk",
+    "release_year": 2002,
+    "duration_ms": 154549,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Janda Dalibor",
     "date": "19.10.2025",
     "time": "13:09",
-    "listeners": 1940
+    "listeners": 1940,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 180120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Nagy Peter Muk Petr",
     "date": "19.10.2025",
     "time": "13:05",
-    "listeners": 1808
+    "listeners": 1808,
+    "lyricists": null,
+    "album": "Spolu",
+    "release_year": 1989,
+    "duration_ms": 204040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Vondráčková Helena",
     "date": "19.10.2025",
     "time": "13:02",
-    "listeners": 1886
+    "listeners": 1886,
+    "lyricists": null,
+    "album": "Ode Mne K Tobě",
+    "release_year": 1975,
+    "duration_ms": 180253,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -11279,5 +11279,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "kim wilde|kids in america": {
+    "release_year": 2001,
+    "artist_country": "GB",
+    "album": "The Hits Collection",
+    "duration_ms": 206427,
+    "genres": [
+      "Pop"
+    ]
   }
 }

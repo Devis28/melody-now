@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Personal Jesus",
+    "artist": "Depeche Mode",
+    "date": "19.10.2025",
+    "time": "21:21",
+    "listeners": 834
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Go West",
+    "artist": "Pet Shop Boys",
+    "date": "19.10.2025",
+    "time": "21:17",
+    "listeners": 856
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hooray! Hooray! Is A Holi-Holiday",
     "artist": "Boney M",
     "date": "19.10.2025",

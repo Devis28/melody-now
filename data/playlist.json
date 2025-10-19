@@ -1,6 +1,78 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ona Je Taká",
+    "artist": "Polemic",
+    "date": "19.10.2025",
+    "time": "08:34",
+    "listeners": 708
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Štesti Je Krasna Vec",
+    "artist": "Müller Richard",
+    "date": "19.10.2025",
+    "time": "08:29",
+    "listeners": 663
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ja Viem",
+    "artist": "Grigorov Robo",
+    "date": "19.10.2025",
+    "time": "08:25",
+    "listeners": 630
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Všichni Jsou Už V Mexiku",
+    "artist": "Michal Tučný",
+    "date": "19.10.2025",
+    "time": "08:21",
+    "listeners": 608
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "S Tím Bláznem Si Nic Nezačínej",
+    "artist": "Rottrová Marie",
+    "date": "19.10.2025",
+    "time": "08:16",
+    "listeners": 557
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zrcadlo",
+    "artist": "Muk Petr",
+    "date": "19.10.2025",
+    "time": "08:13",
+    "listeners": 570
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neznáma",
+    "artist": "Palonder Marcel",
+    "date": "19.10.2025",
+    "time": "08:08",
+    "listeners": 580
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dnes Už Viem",
+    "artist": "Pavol Hammel",
+    "date": "19.10.2025",
+    "time": "08:04",
+    "listeners": 490
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Diskohrátky",
+    "artist": "Hana Zagorová",
+    "date": "19.10.2025",
+    "time": "08:01",
+    "listeners": 559
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tornero",
     "artist": "Csáková Ilona",
     "date": "19.10.2025",

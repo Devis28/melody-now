@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tornero",
+    "artist": "Csáková Ilona",
+    "date": "19.10.2025",
+    "time": "07:57",
+    "listeners": 500
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veľký Sen Mora",
+    "artist": "Modus",
+    "date": "19.10.2025",
+    "time": "07:53",
+    "listeners": 488
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Je To Vo Hviezdach",
     "artist": "Pavol Habera",
     "date": "19.10.2025",

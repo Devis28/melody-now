@@ -11252,5 +11252,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "starship|we built this city": {
+    "release_year": 1994,
+    "artist_country": "US",
+    "album": "Knee Deep in the Hoopla",
+    "duration_ms": 296080,
+    "genres": [
+      "Rock"
+    ]
   }
 }

@@ -5,7 +5,15 @@
     "artist": "Village People",
     "date": "19.10.2025",
     "time": "21:52",
-    "listeners": 715
+    "listeners": 715,
+    "lyricists": null,
+    "album": "YMCA",
+    "release_year": 1993,
+    "duration_ms": 286800,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Starship",
     "date": "19.10.2025",
     "time": "21:47",
-    "listeners": 704
+    "listeners": 704,
+    "lyricists": null,
+    "album": "Knee Deep in the Hoopla",
+    "release_year": 1994,
+    "duration_ms": 296080,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Guru Josh",
     "date": "19.10.2025",
     "time": "21:44",
-    "listeners": 693
+    "listeners": 693,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Beds Are Burning",
+    "artist": "Midnight Oil",
+    "date": "19.10.2025",
+    "time": "20:48",
+    "listeners": 929
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sha La La",
+    "artist": "Vengaboys",
+    "date": "19.10.2025",
+    "time": "20:44",
+    "listeners": 1094
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Say Say Say",
     "artist": "Paul Mccartney & Michael Jackson",
     "date": "19.10.2025",

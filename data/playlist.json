@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Smútok Krásnych Dievčat",
+    "artist": "Duchoň Karol",
+    "date": "19.10.2025",
+    "time": "13:50",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nie Alebo Áno",
+    "artist": "No Name",
+    "date": "19.10.2025",
+    "time": "13:46",
+    "listeners": 1946
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ach, Ta Láska Nebeská",
     "artist": "Pilarová Eva Matuška Waldemar",
     "date": "19.10.2025",

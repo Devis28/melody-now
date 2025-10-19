@@ -5,7 +5,15 @@
     "artist": "Beata Dubasová",
     "date": "19.10.2025",
     "time": "11:23",
-    "listeners": 1382
+    "listeners": 1382,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 2001,
+    "duration_ms": 269000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Petr Rezek & Hana Zagorova",
     "date": "19.10.2025",
     "time": "11:20",
-    "listeners": 1318
+    "listeners": 1318,
+    "lyricists": null,
+    "album": "Nejkrásnější Déšť...",
+    "release_year": 1999,
+    "duration_ms": 185640,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Zoo & Jan Kalousek",
     "date": "19.10.2025",
     "time": "11:14",
-    "listeners": 1282
+    "listeners": 1282,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2005,
+    "duration_ms": 232973,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Gott Karel",
     "date": "19.10.2025",
     "time": "11:10",
-    "listeners": 1393
+    "listeners": 1393,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 239600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

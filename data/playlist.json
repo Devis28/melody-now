@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Vetroň",
+    "artist": "Hex",
+    "date": "20.10.2025",
+    "time": "01:28",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "20.10.2025",
+    "time": "01:23",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Účesy",
+    "artist": "Dubasová Beáta",
+    "date": "20.10.2025",
+    "time": "01:20",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blaze Of Glory",
+    "artist": "Bon Jovi, Jon",
+    "date": "20.10.2025",
+    "time": "01:14",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "20.10.2025",
+    "time": "01:09",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "date": "20.10.2025",
+    "time": "01:05",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spomaľ",
+    "artist": "Peha",
+    "date": "20.10.2025",
+    "time": "01:01",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Piccolo Amore",
     "artist": "Ricchi E Poveri",
     "date": "20.10.2025",

@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Cesta",
+    "artist": "Kryštof ft. Tomáš Klus",
+    "date": "19.10.2025",
+    "time": "15:16",
+    "listeners": 1726
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "19.10.2025",
+    "time": "15:12",
+    "listeners": 1737
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Róberta",
+    "artist": "Modus",
+    "date": "19.10.2025",
+    "time": "15:07",
+    "listeners": 1776
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Arabela",
+    "artist": "Rolincova Darinka",
+    "date": "19.10.2025",
+    "time": "15:03",
+    "listeners": 1855
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Modlitba Lásky",
+    "artist": "Robo Grigorov",
+    "date": "19.10.2025",
+    "time": "14:58",
+    "listeners": 1852
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nech Sa Deje Čo Sa Má",
+    "artist": "Zuzana Smatanová",
+    "date": "19.10.2025",
+    "time": "14:55",
+    "listeners": 1802
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Preč, Preč",
     "artist": "Pavol Habera",
     "date": "19.10.2025",

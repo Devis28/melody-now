@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hooray! Hooray! Is A Holi-Holiday",
+    "artist": "Boney M",
+    "date": "19.10.2025",
+    "time": "21:13",
+    "listeners": 814
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kúp Mi Knihu",
+    "artist": "Miro Žbirka",
+    "date": "19.10.2025",
+    "time": "21:09",
+    "listeners": 929
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mambo Italiano",
+    "artist": "Shaft",
+    "date": "19.10.2025",
+    "time": "21:06",
+    "listeners": 861
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamarátka Nádej",
+    "artist": "Vašo Patejdl",
+    "date": "19.10.2025",
+    "time": "21:02",
+    "listeners": 1003
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hey! Baby",
+    "artist": "Bruce Channel",
+    "date": "19.10.2025",
+    "time": "21:00",
+    "listeners": 941
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "19.10.2025",
+    "time": "20:56",
+    "listeners": 1033
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Too Funky",
+    "artist": "George Michael",
+    "date": "19.10.2025",
+    "time": "20:52",
+    "listeners": 1080
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Beds Are Burning",
     "artist": "Midnight Oil",
     "date": "19.10.2025",

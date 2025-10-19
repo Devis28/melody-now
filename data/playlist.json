@@ -5,7 +5,15 @@
     "artist": "Lucie Bila/Petr Hapka",
     "date": "19.10.2025",
     "time": "19:36",
-    "listeners": 1122
+    "listeners": 1122,
+    "lyricists": null,
+    "album": "Pozdni Sber",
+    "release_year": 1997,
+    "duration_ms": 297573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "David Michal Bartošová Iveta",
     "date": "19.10.2025",
     "time": "19:32",
-    "listeners": 1214
+    "listeners": 1214,
+    "lyricists": null,
+    "album": "Moje zapomenuté ploužáky 2",
+    "release_year": 2021,
+    "duration_ms": 230846,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

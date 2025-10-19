@@ -5,7 +5,15 @@
     "artist": "Heart",
     "date": "20.10.2025",
     "time": "00:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Greatest Hits 1985-1995",
+    "release_year": 2022,
+    "duration_ms": 219293,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Roxette",
     "date": "20.10.2025",
     "time": "00:34",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2006,
+    "duration_ms": 275667,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Müller Richard",
     "date": "20.10.2025",
     "time": "00:31",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Neuc Vtaka Lietat!",
+    "release_year": 1992,
+    "duration_ms": 220533,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

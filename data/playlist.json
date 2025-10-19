@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Je To Vo Hviezdach",
+    "artist": "Pavol Habera",
+    "date": "19.10.2025",
+    "time": "07:50",
+    "listeners": 504
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Stínu Kapradiny",
+    "artist": "Kratochvílová Jana",
+    "date": "19.10.2025",
+    "time": "07:45",
+    "listeners": 466
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Bozk",
     "artist": "I.M.T. Smile",
     "date": "19.10.2025",

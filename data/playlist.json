@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "19.10.2025",
     "time": "22:57",
-    "listeners": 419
+    "listeners": 419,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2004,
+    "duration_ms": 165227,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "19.10.2025",
     "time": "22:53",
-    "listeners": 427
+    "listeners": 427,
+    "lyricists": null,
+    "album": "ABBA: The Album",
+    "release_year": 1994,
+    "duration_ms": 245540,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

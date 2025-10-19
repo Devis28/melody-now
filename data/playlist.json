@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Daj Ruku Do Mojej Ruky",
+    "artist": "Smatanová Zuzana",
+    "date": "20.10.2025",
+    "time": "01:54",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "date": "20.10.2025",
+    "time": "01:50",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
     "title": "One More Night",
     "artist": "Phil Collins",
     "date": "20.10.2025",

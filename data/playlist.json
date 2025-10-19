@@ -5,7 +5,15 @@
     "artist": "Iveta Bartošová & Petr Sepéši",
     "date": "19.10.2025",
     "time": "10:29",
-    "listeners": 1203
+    "listeners": 1203,
+    "lyricists": null,
+    "album": "Knoflíky Lásky",
+    "release_year": 2008,
+    "duration_ms": 188387,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jiří Zmožek",
     "date": "19.10.2025",
     "time": "10:25",
-    "listeners": 1076
+    "listeners": 1076,
+    "lyricists": null,
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "release_year": 2001,
+    "duration_ms": 246093,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Helena Vondráčková",
     "date": "19.10.2025",
     "time": "10:22",
-    "listeners": 1210
+    "listeners": 1210,
+    "lyricists": null,
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "release_year": 1983,
+    "duration_ms": 173107,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Karol Duchoň",
     "date": "19.10.2025",
     "time": "10:18",
-    "listeners": 1086
+    "listeners": 1086,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1985,
+    "duration_ms": 203093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Michal David & Kroky Frantiska Janecka",
     "date": "19.10.2025",
     "time": "10:14",
-    "listeners": 1059
+    "listeners": 1059,
+    "lyricists": null,
+    "album": "Moje zapomenuté ploužáky",
+    "release_year": 2020,
+    "duration_ms": 217957,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

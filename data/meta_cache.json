@@ -11132,5 +11132,18 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "aleš brichta|dívka s perlami ve vlasech": {
+    "release_year": 1994,
+    "artist_country": "CZ",
+    "album": "Růže Pro Algernon",
+    "duration_ms": 361493,
+    "lyricists": [
+      "Aleš Brichta",
+      "Presser Gábor"
+    ],
+    "genres": [
+      "Rock"
+    ]
   }
 }

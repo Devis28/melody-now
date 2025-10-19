@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bozk",
+    "artist": "I.M.T. Smile",
+    "date": "19.10.2025",
+    "time": "07:41",
+    "listeners": 395
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Balada O Polných Vtákoch",
+    "artist": "Žbirka Miro",
+    "date": "19.10.2025",
+    "time": "07:38",
+    "listeners": 467
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandolína",
+    "artist": "Adam Ďurica",
+    "date": "19.10.2025",
+    "time": "07:35",
+    "listeners": 418
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Že Mi Je Ľúto",
+    "artist": "Elán & Lojzo",
+    "date": "19.10.2025",
+    "time": "07:32",
+    "listeners": 392
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Most Přes Minulost",
     "artist": "Bílá Lucie",
     "date": "19.10.2025",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Amnestia Na Neveru",
+    "artist": "Elán",
+    "date": "19.10.2025",
+    "time": "12:58",
+    "listeners": 1811
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My To Zvladnem",
+    "artist": "Iveta Bartosova & Petr Sepesi",
+    "date": "19.10.2025",
+    "time": "12:55",
+    "listeners": 1814
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Když Muž Se Ženou Snída",
+    "artist": "Gott Karel",
+    "date": "19.10.2025",
+    "time": "12:52",
+    "listeners": 1698
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Okno Mé Lásky",
     "artist": "Olympic",
     "date": "19.10.2025",

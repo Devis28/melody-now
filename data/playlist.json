@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kávu Si Osladím",
+    "artist": "Gott Karel",
+    "date": "19.10.2025",
+    "time": "19:54",
+    "listeners": 1292
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "19.10.2025",
+    "time": "19:50",
+    "listeners": 1269
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nekráčaj Predo Mnou",
     "artist": "Smatanová Zuzana",
     "date": "19.10.2025",

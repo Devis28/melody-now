@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nothing's Gonna Stop Me Now",
+    "artist": "Samantha Fox",
+    "date": "19.10.2025",
+    "time": "22:28",
+    "listeners": 517
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Land Of Dreaming",
+    "artist": "Masterboy",
+    "date": "19.10.2025",
+    "time": "22:24",
+    "listeners": 532
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kids In America",
+    "artist": "Kim Wilde",
+    "date": "19.10.2025",
+    "time": "22:21",
+    "listeners": 579
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "19.10.2025",
+    "time": "22:18",
+    "listeners": 577
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Le Freak",
+    "artist": "Chic",
+    "date": "19.10.2025",
+    "time": "22:14",
+    "listeners": 575
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maria Magdalena",
+    "artist": "Sandra",
+    "date": "19.10.2025",
+    "time": "22:10",
+    "listeners": 580
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Games People Play",
     "artist": "Inner Circle",
     "date": "19.10.2025",

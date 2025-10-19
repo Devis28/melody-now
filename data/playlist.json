@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čerešne",
+    "artist": "Smatanová Zuzana",
+    "date": "19.10.2025",
+    "time": "11:52",
+    "listeners": 1516
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kaskadér Bez Penazí",
+    "artist": "Elán",
+    "date": "19.10.2025",
+    "time": "11:49",
+    "listeners": 1446
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Opri Sa O Mňa",
+    "artist": "I.M.T Smile",
+    "date": "19.10.2025",
+    "time": "11:46",
+    "listeners": 1590
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sputana Laskou",
     "artist": "Peter & Julia Heckovci",
     "date": "19.10.2025",

@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Prievan V Peňaženke",
+    "artist": "Team",
+    "date": "19.10.2025",
+    "time": "13:14",
+    "listeners": 1818
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Má Daleká",
+    "artist": "Michal Penk",
+    "date": "19.10.2025",
+    "time": "13:12",
+    "listeners": 1887
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hráli Jsme Kličkovanou",
+    "artist": "Janda Dalibor",
+    "date": "19.10.2025",
+    "time": "13:09",
+    "listeners": 1940
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nelietajú",
+    "artist": "Nagy Peter Muk Petr",
+    "date": "19.10.2025",
+    "time": "13:05",
+    "listeners": 1808
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "19.10.2025",
+    "time": "13:02",
+    "listeners": 1886
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Amnestia Na Neveru",
     "artist": "Elán",
     "date": "19.10.2025",

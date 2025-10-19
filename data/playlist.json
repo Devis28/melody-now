@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Slub",
+    "artist": "Dara Rolins",
+    "date": "20.10.2025",
+    "time": "00:12",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nespáľme To Krásne V Nás",
+    "artist": "Zbirka Miro & Gombitova Marika",
+    "date": "20.10.2025",
+    "time": "00:09",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wonderful Life",
+    "artist": "Black",
+    "date": "20.10.2025",
+    "time": "00:04",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Should I Stay Or Should I Go",
+    "artist": "The Clash",
+    "date": "20.10.2025",
+    "time": "00:00",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sorry, I'm A Lady",
+    "artist": "Baccara",
+    "date": "19.10.2025",
+    "time": "23:57",
+    "listeners": 264
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nároční",
     "artist": "Team",
     "date": "19.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Michal David",
     "date": "19.10.2025",
     "time": "12:40",
-    "listeners": 1826
+    "listeners": 1826,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2010,
+    "duration_ms": 283933,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Müller Richard",
     "date": "19.10.2025",
     "time": "12:36",
-    "listeners": 1679
+    "listeners": 1679,
+    "lyricists": null,
+    "album": "Neuc Vtaka Lietat!",
+    "release_year": 1992,
+    "duration_ms": 233573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

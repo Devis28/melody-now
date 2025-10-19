@@ -5,7 +5,16 @@
     "artist": "Polemic",
     "date": "19.10.2025",
     "time": "08:34",
-    "listeners": 708
+    "listeners": 708,
+    "lyricists": null,
+    "album": "Yahman !",
+    "release_year": 2007,
+    "duration_ms": 140120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Müller Richard",
     "date": "19.10.2025",
     "time": "08:29",
-    "listeners": 663
+    "listeners": 663,
+    "lyricists": null,
+    "album": "Výberovka",
+    "release_year": 1988,
+    "duration_ms": 320040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Grigorov Robo",
     "date": "19.10.2025",
     "time": "08:25",
-    "listeners": 630
+    "listeners": 630,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2008,
+    "duration_ms": 209427,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Michal Tučný",
     "date": "19.10.2025",
     "time": "08:21",
-    "listeners": 608
+    "listeners": 608,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Rottrová Marie",
     "date": "19.10.2025",
     "time": "08:16",
-    "listeners": 557
+    "listeners": 557,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 1970,
+    "duration_ms": 221453,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Muk Petr",
     "date": "19.10.2025",
     "time": "08:13",
-    "listeners": 570
+    "listeners": 570,
+    "lyricists": null,
+    "album": "Slunce / To Nejlepsi",
+    "release_year": 2000,
+    "duration_ms": 176000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Palonder Marcel",
     "date": "19.10.2025",
     "time": "08:08",
-    "listeners": 580
+    "listeners": 580,
+    "lyricists": null,
+    "album": "Cudzinec v tvojom srdci",
+    "release_year": 1992,
+    "duration_ms": 244000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Pavol Hammel",
     "date": "19.10.2025",
     "time": "08:04",
-    "listeners": 490
+    "listeners": 490,
+    "lyricists": null,
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1998,
+    "duration_ms": 209533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +134,15 @@
     "artist": "Hana Zagorová",
     "date": "19.10.2025",
     "time": "08:01",
-    "listeners": 559
+    "listeners": 559,
+    "lyricists": null,
+    "album": "Singly 1981-1990",
+    "release_year": 2004,
+    "duration_ms": 205000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

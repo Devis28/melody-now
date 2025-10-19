@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bez Obáv",
+    "artist": "Čírová Mária",
+    "date": "19.10.2025",
+    "time": "19:28",
+    "listeners": 1282
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "19.10.2025",
+    "time": "19:24",
+    "listeners": 1232
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Biograf Láska",
+    "artist": "Hana Zagorová",
+    "date": "19.10.2025",
+    "time": "19:20",
+    "listeners": 1182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Obyčejný Muž",
+    "artist": "Spálený Petr",
+    "date": "19.10.2025",
+    "time": "19:15",
+    "listeners": 1243
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Vráť Mi Tie Hviezdy",
     "artist": "Dubasová Beáta",
     "date": "19.10.2025",

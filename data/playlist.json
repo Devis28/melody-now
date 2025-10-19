@@ -5,7 +5,15 @@
     "artist": "Muller Richard A Tereza Kerndlová",
     "date": "19.10.2025",
     "time": "18:37",
-    "listeners": 1216
+    "listeners": 1216,
+    "lyricists": null,
+    "album": "Výberovka",
+    "release_year": 2011,
+    "duration_ms": 273813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Pavel Roth",
     "date": "19.10.2025",
     "time": "18:34",
-    "listeners": 1234
+    "listeners": 1234,
+    "lyricists": null,
+    "album": "Krásnější Než Růže",
+    "release_year": 1998,
+    "duration_ms": 259107,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Hex",
     "date": "19.10.2025",
     "time": "18:29",
-    "listeners": 1234
+    "listeners": 1234,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 1997,
+    "duration_ms": 262867,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Imt Smile",
     "date": "19.10.2025",
     "time": "18:26",
-    "listeners": 1188
+    "listeners": 1188,
+    "lyricists": null,
+    "album": "Hlava Ma Sedem Otvorov",
+    "release_year": 2015,
+    "duration_ms": 189787,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Marie Rottrová",
     "date": "19.10.2025",
     "time": "18:23",
-    "listeners": 1218
+    "listeners": 1218,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2003,
+    "duration_ms": 200307,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

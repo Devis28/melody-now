@@ -5,7 +5,16 @@
     "artist": "Depeche Mode",
     "date": "19.10.2025",
     "time": "21:21",
-    "listeners": 834
+    "listeners": 834,
+    "lyricists": null,
+    "album": "The Singles 86-98",
+    "release_year": 1994,
+    "duration_ms": 224933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Pet Shop Boys",
     "date": "19.10.2025",
     "time": "21:17",
-    "listeners": 856
+    "listeners": 856,
+    "lyricists": null,
+    "album": "Ultimate",
+    "release_year": 2000,
+    "duration_ms": 302360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

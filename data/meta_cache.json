@@ -11225,5 +11225,15 @@
     "genres": [
       "Pop"
     ]
+  },
+  "depeche mode|personal jesus": {
+    "release_year": 1994,
+    "artist_country": "GB",
+    "album": "The Singles 86-98",
+    "duration_ms": 224933,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

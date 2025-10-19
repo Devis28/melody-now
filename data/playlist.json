@@ -5,7 +5,15 @@
     "artist": "Kryštof ft. Sima Martausová",
     "date": "19.10.2025",
     "time": "16:56",
-    "listeners": 1311
+    "listeners": 1311,
+    "lyricists": null,
+    "album": "Hvězdáři (feat. Sima Martausová) - Single",
+    "release_year": 2019,
+    "duration_ms": 242553,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Tublatanka",
     "date": "19.10.2025",
     "time": "16:52",
-    "listeners": 1203
+    "listeners": 1203,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 2006,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

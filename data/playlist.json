@@ -5,7 +5,15 @@
     "artist": "Ricchi E Poveri",
     "date": "20.10.2025",
     "time": "00:58",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1984,
+    "duration_ms": 198867,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Emilia",
     "date": "20.10.2025",
     "time": "00:54",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Emilia",
+      "Yogi"
+    ],
+    "album": "Big Big World",
+    "release_year": 2021,
+    "duration_ms": 205467,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Manilow Barry",
     "date": "20.10.2025",
     "time": "00:51",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Barry Manilow II",
+    "release_year": 1974,
+    "duration_ms": 213333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

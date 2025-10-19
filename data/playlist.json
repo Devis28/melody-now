@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dynamit",
+    "artist": "Olympic",
+    "date": "19.10.2025",
+    "time": "07:12",
+    "listeners": 339
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "19.10.2025",
+    "time": "07:09",
+    "listeners": 324
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V tichu",
+    "artist": "Katarína Knechtová",
+    "date": "19.10.2025",
+    "time": "07:05",
+    "listeners": 341
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voňavky Dievčat",
+    "artist": "Patejdl Vašo",
+    "date": "19.10.2025",
+    "time": "07:02",
+    "listeners": 307
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Koukej Se Mnou Si Píseň Broukej",
+    "artist": "Petra Černocká",
+    "date": "19.10.2025",
+    "time": "06:58",
+    "listeners": 323
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Láska",
     "artist": "Palonder Marcel",
     "date": "19.10.2025",

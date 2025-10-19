@@ -11375,5 +11375,15 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "the clash|should i stay or should i go": {
+    "artist_country": "GB",
+    "album": "Combat Rock",
+    "release_year": 1982,
+    "duration_ms": 188987,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

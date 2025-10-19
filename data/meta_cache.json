@@ -11261,5 +11261,23 @@
     "genres": [
       "Rock"
     ]
+  },
+  "inner circle|games people play": {
+    "release_year": 1994,
+    "artist_country": "JM",
+    "album": "Blazzin' Fire",
+    "duration_ms": 208230,
+    "genres": [
+      "Reggae"
+    ]
+  },
+  "kylie minogue|better the devil you know": {
+    "release_year": 2009,
+    "artist_country": "AU",
+    "album": "Better the Devil You Know",
+    "duration_ms": 232452,
+    "genres": [
+      "Pop"
+    ]
   }
 }

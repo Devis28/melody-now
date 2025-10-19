@@ -5,7 +5,15 @@
     "artist": "Rick Astley",
     "date": "19.10.2025",
     "time": "21:41",
-    "listeners": 748
+    "listeners": 748,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (Deluxe Edition - 2022 Remaster)",
+    "release_year": 2012,
+    "duration_ms": 206147,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Eruption",
     "date": "19.10.2025",
     "time": "21:37",
-    "listeners": 731
+    "listeners": 731,
+    "lyricists": [
+      "Eruption"
+    ],
+    "album": "4 Hits: Eruption - EP",
+    "release_year": 2016,
+    "duration_ms": 213200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

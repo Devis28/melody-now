@@ -11243,5 +11243,14 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "rick astley|whenever you need somebody": {
+    "artist_country": "GB",
+    "release_year": 2012,
+    "album": "Whenever You Need Somebody (Deluxe Edition - 2022 Remaster)",
+    "duration_ms": 206147,
+    "genres": [
+      "Pop"
+    ]
   }
 }

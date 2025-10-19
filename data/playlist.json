@@ -5,7 +5,15 @@
     "artist": "Olympic",
     "date": "19.10.2025",
     "time": "07:12",
-    "listeners": 339
+    "listeners": 339,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1993,
+    "duration_ms": 191000,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Shalom",
     "date": "19.10.2025",
     "time": "07:09",
-    "listeners": 324
+    "listeners": 324,
+    "lyricists": null,
+    "album": "Slunce / To Nejlepsi",
+    "release_year": 2014,
+    "duration_ms": 213956,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Katarína Knechtová",
     "date": "19.10.2025",
     "time": "07:05",
-    "listeners": 341
+    "listeners": 341,
+    "lyricists": null,
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "release_year": 2008,
+    "duration_ms": 212307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Patejdl Vašo",
     "date": "19.10.2025",
     "time": "07:02",
-    "listeners": 307
+    "listeners": 307,
+    "lyricists": null,
+    "album": "Lov na city",
+    "release_year": 1987,
+    "duration_ms": 205813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Petra Černocká",
     "date": "19.10.2025",
     "time": "06:58",
-    "listeners": 323
+    "listeners": 323,
+    "lyricists": null,
+    "album": "Bratislavská Lyra Supraphon 3 (1973-1976)",
+    "release_year": 2010,
+    "duration_ms": 230253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Superstar Top 11",
     "date": "19.10.2025",
     "time": "06:46",
-    "listeners": 273
+    "listeners": 273,
+    "lyricists": null,
+    "album": "Slovensko Hlada SuperStar",
+    "release_year": 2005,
+    "duration_ms": 254773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Miro Žbirka",
     "date": "19.10.2025",
     "time": "06:43",
-    "listeners": 285
+    "listeners": 285,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 176040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Habera, Pavol",
     "date": "19.10.2025",
     "time": "06:38",
-    "listeners": 265
+    "listeners": 265,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1995,
+    "duration_ms": 303493,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Waldemar Matuška",
     "date": "19.10.2025",
     "time": "06:35",
-    "listeners": 248
+    "listeners": 248,
+    "lyricists": null,
+    "album": "Píseň Pro Kristýnku A Další Hity",
+    "release_year": 2001,
+    "duration_ms": 221440,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

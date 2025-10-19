@@ -5,7 +5,15 @@
     "artist": "Smatanová Zuzana",
     "date": "19.10.2025",
     "time": "11:52",
-    "listeners": 1516
+    "listeners": 1516,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 2008,
+    "duration_ms": 259387,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "19.10.2025",
     "time": "11:49",
-    "listeners": 1446
+    "listeners": 1446,
+    "lyricists": null,
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "release_year": 1985,
+    "duration_ms": 223027,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "I.M.T Smile",
     "date": "19.10.2025",
     "time": "11:46",
-    "listeners": 1590
+    "listeners": 1590,
+    "lyricists": null,
+    "album": "Nech Sa Paci",
+    "release_year": 2005,
+    "duration_ms": 163267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

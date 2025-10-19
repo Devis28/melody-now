@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čo O Mne Vieš",
+    "artist": "Rolincova Darinka",
+    "date": "19.10.2025",
+    "time": "16:17",
+    "listeners": 1285
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yvetta",
+    "artist": "Jiří Korn",
+    "date": "19.10.2025",
+    "time": "16:15",
+    "listeners": 1417
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lovesong",
+    "artist": "Habera Pavol",
+    "date": "19.10.2025",
+    "time": "16:11",
+    "listeners": 1380
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stačí Si Priať",
+    "artist": "Smatanová Zuzana",
+    "date": "19.10.2025",
+    "time": "16:06",
+    "listeners": 1567
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "S Tebou",
+    "artist": "Žbirka Miro",
+    "date": "19.10.2025",
+    "time": "16:03",
+    "listeners": 1471
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Je V Tahu",
+    "artist": "Kotvald Petr",
+    "date": "19.10.2025",
+    "time": "15:59",
+    "listeners": 1480
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Věnování",
     "artist": "Filipová Lenka",
     "date": "19.10.2025",

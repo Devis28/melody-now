@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Reklama Na Ticho",
+    "artist": "Team",
+    "date": "19.10.2025",
+    "time": "18:54",
+    "listeners": 1231
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zamilovaná",
+    "artist": "Filipová Lenka",
+    "date": "19.10.2025",
+    "time": "18:51",
+    "listeners": 1281
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tri Štvrte Na Jeseň",
     "artist": "Vašo Patejdl",
     "date": "19.10.2025",

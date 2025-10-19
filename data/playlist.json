@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Say Say Say",
+    "artist": "Paul Mccartney & Michael Jackson",
+    "date": "19.10.2025",
+    "time": "20:40",
+    "listeners": 1026
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "SOS",
+    "artist": "ABBA",
+    "date": "19.10.2025",
+    "time": "20:37",
+    "listeners": 1027
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Like To Move It",
+    "artist": "Reel Ii Real",
+    "date": "19.10.2025",
+    "time": "20:33",
+    "listeners": 1147
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Človečina",
+    "artist": "Elán",
+    "date": "19.10.2025",
+    "time": "20:28",
+    "listeners": 1138
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Over My Shoulder",
+    "artist": "Mike & The Mechanics",
+    "date": "19.10.2025",
+    "time": "20:25",
+    "listeners": 1115
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kokomo",
+    "artist": "The Beach Boys",
+    "date": "19.10.2025",
+    "time": "20:21",
+    "listeners": 1087
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I Wanna B with U",
     "artist": "Fun Factory",
     "date": "19.10.2025",

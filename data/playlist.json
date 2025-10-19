@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "19.10.2025",
+    "time": "16:28",
+    "listeners": 1301
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Poslednýkrát",
+    "artist": "Peter Nagy",
+    "date": "19.10.2025",
+    "time": "16:25",
+    "listeners": 1370
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chci Zas V Tobě Spát",
+    "artist": "Lucie",
+    "date": "19.10.2025",
+    "time": "16:20",
+    "listeners": 1448
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čo O Mne Vieš",
     "artist": "Rolincova Darinka",
     "date": "19.10.2025",

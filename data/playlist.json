@@ -5,7 +5,16 @@
     "artist": "Pavol Hammel",
     "date": "19.10.2025",
     "time": "15:32",
-    "listeners": 1592
+    "listeners": 1592,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "Hráč",
+    "release_year": 1998,
+    "duration_ms": 155240,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Patejdl Vašo",
     "date": "19.10.2025",
     "time": "15:27",
-    "listeners": 1609
+    "listeners": 1609,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1986,
+    "duration_ms": 287667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "No Name",
     "date": "19.10.2025",
     "time": "15:24",
-    "listeners": 1669
+    "listeners": 1669,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2014,
+    "duration_ms": 197200,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Bartošová Iveta",
     "date": "19.10.2025",
     "time": "15:20",
-    "listeners": 1698
+    "listeners": 1698,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 227133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

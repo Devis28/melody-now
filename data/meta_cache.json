@@ -11235,5 +11235,13 @@
       "Pop",
       "Rock"
     ]
+  },
+  "lee ann|2 times": {
+    "album": "2 Times",
+    "release_year": 1998,
+    "duration_ms": 230933,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

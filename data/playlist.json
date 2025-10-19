@@ -5,7 +5,15 @@
     "artist": "Lee Ann",
     "date": "19.10.2025",
     "time": "21:33",
-    "listeners": 796
+    "listeners": 796,
+    "lyricists": null,
+    "album": "2 Times",
+    "release_year": 1998,
+    "duration_ms": 230933,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Cyndi Lauper",
     "date": "19.10.2025",
     "time": "21:29",
-    "listeners": 757
+    "listeners": 757,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 224510,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Prince Ital Joe & Marky Mark",
     "date": "19.10.2025",
     "time": "21:25",
-    "listeners": 797
+    "listeners": 797,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 2009,
+    "duration_ms": 241760,
+    "artist_country": "US",
+    "genres": [
+      "Hip-Hop",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

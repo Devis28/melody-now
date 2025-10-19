@@ -11338,5 +11338,15 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "milli vanilli|girl you know it's true": {
+    "release_year": 1990,
+    "artist_country": "DE",
+    "album": "Girl You Know It's True - The Best of Milli Vanilli",
+    "duration_ms": 198573,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

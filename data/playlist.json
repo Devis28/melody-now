@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Carrie",
+    "artist": "Europe",
+    "date": "20.10.2025",
+    "time": "12:45",
+    "listeners": 1755
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "20.10.2025",
+    "time": "12:42",
+    "listeners": 1604
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "20.10.2025",
+    "time": "12:38",
+    "listeners": 1723
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Psi Sa Bránia Útokom",
+    "artist": "Nagy, Peter A Raz, Jozef",
+    "date": "20.10.2025",
+    "time": "12:35",
+    "listeners": 1607
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ján Ámos Džínový",
     "artist": "Metalinda",
     "date": "20.10.2025",

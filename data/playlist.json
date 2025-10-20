@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pozhasínané",
+    "artist": "Modus",
+    "date": "20.10.2025",
+    "time": "21:25",
+    "listeners": 1121
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "20.10.2025",
+    "time": "21:21",
+    "listeners": 1054
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Farbami Dýcha Noc",
+    "artist": "Balogh Berco",
+    "date": "20.10.2025",
+    "time": "21:17",
+    "listeners": 1067
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nothing Compares 2 U",
+    "artist": "O'connor Sinéad",
+    "date": "20.10.2025",
+    "time": "21:12",
+    "listeners": 1228
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Touch By Touch",
     "artist": "Joy",
     "date": "20.10.2025",

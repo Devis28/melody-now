@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Boat On The River",
+    "artist": "Styx",
+    "date": "20.10.2025",
+    "time": "11:49",
+    "listeners": 1530
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "20.10.2025",
+    "time": "11:45",
+    "listeners": 1436
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Loď do neznáma",
     "artist": "Uherčík, Ďurinda, Griglák, Horváth",
     "date": "20.10.2025",

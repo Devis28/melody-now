@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "20.10.2025",
+    "time": "13:08",
+    "listeners": 1399
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "20.10.2025",
+    "time": "13:05",
+    "listeners": 1512
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Do Čista",
+    "artist": "Müller Richard",
+    "date": "20.10.2025",
+    "time": "13:01",
+    "listeners": 1585
+  },
+  {
+    "station": "Rádio Melody",
     "title": "To The Moon And Back",
     "artist": "Savage Garden",
     "date": "20.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Karol Duchoň",
     "date": "20.10.2025",
     "time": "11:26",
-    "listeners": 1292
+    "listeners": 1292,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 2006,
+    "duration_ms": 210347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "The Cranberries",
     "date": "20.10.2025",
     "time": "11:23",
-    "listeners": 1217
+    "listeners": 1217,
+    "lyricists": null,
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "release_year": 1993,
+    "duration_ms": 255107,
+    "artist_country": "IE",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,18 @@
     "artist": "Timmy T",
     "date": "20.10.2025",
     "time": "11:19",
-    "listeners": 1148
+    "listeners": 1148,
+    "lyricists": [
+      "Timmy T"
+    ],
+    "album": "Time After Time",
+    "release_year": 1991,
+    "duration_ms": 209427,
+    "artist_country": "US",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Vondráčková Helena",
     "date": "20.10.2025",
     "time": "11:17",
-    "listeners": 1121
+    "listeners": 1121,
+    "lyricists": null,
+    "album": "Kam Zmizel Ten Starý Song",
+    "release_year": 1992,
+    "duration_ms": 136800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Ten Sharp",
     "date": "20.10.2025",
     "time": "11:12",
-    "listeners": 1063
+    "listeners": 1063,
+    "lyricists": null,
+    "album": "You - Single",
+    "release_year": 2000,
+    "duration_ms": 272984,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,15 @@
     "artist": "Peter Nagy",
     "date": "20.10.2025",
     "time": "11:09",
-    "listeners": 1093
+    "listeners": 1093,
+    "lyricists": null,
+    "album": "\"Ale\"",
+    "release_year": 2011,
+    "duration_ms": 152800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,20 @@
     "artist": "Barry White",
     "date": "20.10.2025",
     "time": "11:06",
-    "listeners": 950
+    "listeners": 950,
+    "lyricists": [
+      "Barry White",
+      "Peter Sterling Radcliffe",
+      "Tony Sepe"
+    ],
+    "album": "The Complete 20th Century Records Singles (1973-1979)",
+    "release_year": 2005,
+    "duration_ms": 212987,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +126,15 @@
     "artist": "Farmer Mylene",
     "date": "20.10.2025",
     "time": "11:01",
-    "listeners": 1106
+    "listeners": 1106,
+    "lyricists": null,
+    "album": "L'autre",
+    "release_year": 1991,
+    "duration_ms": 322760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

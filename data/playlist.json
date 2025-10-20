@@ -5,7 +5,15 @@
     "artist": "Hana Zagorová",
     "date": "20.10.2025",
     "time": "19:58",
-    "listeners": 1599
+    "listeners": 1599,
+    "lyricists": null,
+    "album": "Kdyby se vrátil čas",
+    "release_year": 2003,
+    "duration_ms": 188480,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "20.10.2025",
     "time": "19:54",
-    "listeners": 1752
+    "listeners": 1752,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1992,
+    "duration_ms": 170800,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

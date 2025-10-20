@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Žily",
+    "artist": "No Name",
+    "date": "20.10.2025",
+    "time": "17:39",
+    "listeners": 2985
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Susanna",
+    "artist": "The Art Company",
+    "date": "20.10.2025",
+    "time": "17:34",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "20.10.2025",
+    "time": "17:31",
+    "listeners": 3000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tereza",
+    "artist": "Matuška Waldemar",
+    "date": "20.10.2025",
+    "time": "17:26",
+    "listeners": 3152
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pretty Young Girl",
+    "artist": "Bad Boys Blue",
+    "date": "20.10.2025",
+    "time": "17:23",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska Moja",
+    "artist": "Elán",
+    "date": "20.10.2025",
+    "time": "17:19",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Do You Really Want To Hurt Me",
+    "artist": "Culture Club",
+    "date": "20.10.2025",
+    "time": "17:12",
+    "listeners": 3052
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Trezor",
+    "artist": "Gott Karel & Olympic",
+    "date": "20.10.2025",
+    "time": "17:10",
+    "listeners": 3180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "There's A Party",
     "artist": "Dj Bobo",
     "date": "20.10.2025",

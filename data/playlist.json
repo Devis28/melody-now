@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Chíldren",
+    "artist": "Robert Miles",
+    "date": "20.10.2025",
+    "time": "22:32",
+    "listeners": 760
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Búrka",
+    "artist": "Čírová Mária",
+    "date": "20.10.2025",
+    "time": "22:28",
+    "listeners": 696
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stay",
+    "artist": "Bonnie Bianco & Pierre Cosso",
+    "date": "20.10.2025",
+    "time": "22:24",
+    "listeners": 752
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kaskadér",
+    "artist": "Elán",
+    "date": "20.10.2025",
+    "time": "22:20",
+    "listeners": 719
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "date": "20.10.2025",
+    "time": "22:18",
+    "listeners": 793
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Motýl Admirál",
+    "artist": "Miro Žbirka",
+    "date": "20.10.2025",
+    "time": "22:14",
+    "listeners": 794
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nič Nezmení Môj Svet",
     "artist": "Nagy Peter",
     "date": "20.10.2025",

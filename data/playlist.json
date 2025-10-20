@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Daddy Cool",
+    "artist": "Boney M",
+    "date": "20.10.2025",
+    "time": "09:18",
+    "listeners": 1687
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Because You Loved Me",
+    "artist": "Céline Dion",
+    "date": "20.10.2025",
+    "time": "09:13",
+    "listeners": 1778
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Víš Lásko",
+    "artist": "Bartošová Iveta",
+    "date": "20.10.2025",
+    "time": "09:09",
+    "listeners": 1887
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lady In Black",
+    "artist": "Uriah Heep",
+    "date": "20.10.2025",
+    "time": "09:04",
+    "listeners": 1896
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Rád",
+    "artist": "Miro Žbirka",
+    "date": "20.10.2025",
+    "time": "09:01",
+    "listeners": 1998
+  },
+  {
+    "station": "Rádio Melody",
     "title": "What Is Love",
     "artist": "Haddaway",
     "date": "20.10.2025",

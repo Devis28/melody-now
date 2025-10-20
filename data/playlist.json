@@ -5,7 +5,16 @@
     "artist": "Boney M.",
     "date": "20.10.2025",
     "time": "21:51",
-    "listeners": 985
+    "listeners": 985,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2012,
+    "duration_ms": 274960,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Imbruglia Natalie",
     "date": "20.10.2025",
     "time": "21:47",
-    "listeners": 1065
+    "listeners": 1065,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

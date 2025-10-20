@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čardáš Dvoch Sŕdc",
+    "artist": "Karol Duchoň",
+    "date": "20.10.2025",
+    "time": "11:26",
+    "listeners": 1292
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "20.10.2025",
+    "time": "11:23",
+    "listeners": 1217
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One More Try",
+    "artist": "Timmy T",
+    "date": "20.10.2025",
+    "time": "11:19",
+    "listeners": 1148
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lásko Má, Já Stůňu",
+    "artist": "Vondráčková Helena",
+    "date": "20.10.2025",
+    "time": "11:17",
+    "listeners": 1121
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You",
+    "artist": "Ten Sharp",
+    "date": "20.10.2025",
+    "time": "11:12",
+    "listeners": 1063
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Až Sa Znova Narodím",
+    "artist": "Peter Nagy",
+    "date": "20.10.2025",
+    "time": "11:09",
+    "listeners": 1093
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "20.10.2025",
+    "time": "11:06",
+    "listeners": 950
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Désenchantee",
+    "artist": "Farmer Mylene",
+    "date": "20.10.2025",
+    "time": "11:01",
+    "listeners": 1106
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Holding Out For A Hero",
     "artist": "Tyler Bonnie",
     "date": "20.10.2025",

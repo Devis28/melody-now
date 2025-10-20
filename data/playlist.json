@@ -5,7 +5,15 @@
     "artist": "Marie Rottrová",
     "date": "20.10.2025",
     "time": "16:19",
-    "listeners": 2215
+    "listeners": 2215,
+    "lyricists": null,
+    "album": "12× Marie Rottrová",
+    "release_year": 2003,
+    "duration_ms": 209600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Rednex",
     "date": "20.10.2025",
     "time": "16:12",
-    "listeners": 2115
+    "listeners": 2115,
+    "lyricists": null,
+    "album": "Sex & Violins",
+    "release_year": 1998,
+    "duration_ms": 236933,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Novák Petr",
     "date": "20.10.2025",
     "time": "16:10",
-    "listeners": 2044
+    "listeners": 2044,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 125867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Chris Norman",
     "date": "20.10.2025",
     "time": "16:07",
-    "listeners": 2040
+    "listeners": 2040,
+    "lyricists": null,
+    "album": "Some Hearts Are Diamonds",
+    "release_year": 2004,
+    "duration_ms": 223733,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "I.M.T. Smile",
     "date": "20.10.2025",
     "time": "16:03",
-    "listeners": 1941
+    "listeners": 1941,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2003,
+    "duration_ms": 277120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

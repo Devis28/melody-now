@@ -5,7 +5,16 @@
     "artist": "Collins Phil",
     "date": "20.10.2025",
     "time": "07:37",
-    "listeners": 2990
+    "listeners": 2990,
+    "lyricists": null,
+    "album": "The Singles (Deluxe Edition)",
+    "release_year": 1989,
+    "duration_ms": 322133,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Goombay Dance Band",
     "date": "20.10.2025",
     "time": "07:33",
-    "listeners": 2956
+    "listeners": 2956,
+    "lyricists": null,
+    "album": "Land of Gold",
+    "release_year": 1999,
+    "duration_ms": 265500,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Janda Dalibor",
     "date": "20.10.2025",
     "time": "07:24",
-    "listeners": 2770
+    "listeners": 2770,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 172707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

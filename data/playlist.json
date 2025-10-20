@@ -5,7 +5,19 @@
     "artist": "Eurythmics",
     "date": "20.10.2025",
     "time": "16:41",
-    "listeners": 2897
+    "listeners": 2897,
+    "lyricists": [
+      "Annie Lennox",
+      "Dave Stewart",
+      "Eurythmics"
+    ],
+    "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
+    "release_year": 2005,
+    "duration_ms": 216933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Queen",
     "date": "20.10.2025",
     "time": "16:37",
-    "listeners": 2756
+    "listeners": 2756,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1991,
+    "duration_ms": 271610,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Miro Žbirka",
     "date": "20.10.2025",
     "time": "16:34",
-    "listeners": 2743
+    "listeners": 2743,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 2007,
+    "duration_ms": 197960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,16 @@
     "artist": "Branigan Laura",
     "date": "20.10.2025",
     "time": "16:30",
-    "listeners": 2511
+    "listeners": 2511,
+    "lyricists": null,
+    "album": "Self Control",
+    "release_year": 1984,
+    "duration_ms": 246440,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "La Bouche",
     "date": "20.10.2025",
     "time": "16:26",
-    "listeners": 2485
+    "listeners": 2485,
+    "lyricists": null,
+    "album": "La Bouche: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 240867,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,15 @@
     "artist": "The George Baker Selection",
     "date": "20.10.2025",
     "time": "16:22",
-    "listeners": 2523
+    "listeners": 2523,
+    "lyricists": null,
+    "album": "Paloma Blanca",
+    "release_year": 1975,
+    "duration_ms": 209360,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,13 @@
     "artist": "Carmen, Eric",
     "date": "20.10.2025",
     "time": "05:02",
-    "listeners": 300
+    "listeners": 300,
+    "lyricists": null,
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 1987,
+    "duration_ms": 248427,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,16 @@
     "artist": "Team",
     "date": "20.10.2025",
     "time": "04:58",
-    "listeners": 274
+    "listeners": 274,
+    "lyricists": null,
+    "album": "Team Hity",
+    "release_year": 1994,
+    "duration_ms": 313400,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +36,15 @@
     "artist": "Bonnie Tyler",
     "date": "20.10.2025",
     "time": "04:54",
-    "listeners": 262
+    "listeners": 262,
+    "lyricists": null,
+    "album": "It's a Heartache",
+    "release_year": 1991,
+    "duration_ms": 209760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +52,16 @@
     "artist": "Dj Bobo",
     "date": "20.10.2025",
     "time": "04:50",
-    "listeners": 269
+    "listeners": 269,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 229893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Rogers Kenny &Parton Dolly",
     "date": "20.10.2025",
     "time": "04:46",
-    "listeners": 222
+    "listeners": 222,
+    "lyricists": null,
+    "album": "Ultimate Dolly Parton",
+    "release_year": 1983,
+    "duration_ms": 249293,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Adam Ďurica",
     "date": "20.10.2025",
     "time": "04:42",
-    "listeners": 221
+    "listeners": 221,
+    "lyricists": null,
+    "album": "Holubička - Single",
+    "release_year": 2018,
+    "duration_ms": 273955,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,16 @@
     "artist": "No Mercy",
     "date": "20.10.2025",
     "time": "04:37",
-    "listeners": 204
+    "listeners": 204,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1997,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Robo Opatovský",
     "date": "20.10.2025",
     "time": "04:33",
-    "listeners": 212
+    "listeners": 212,
+    "lyricists": null,
+    "album": "Keď Muž Miluje Ženu - Single",
+    "release_year": 2017,
+    "duration_ms": 249240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +134,17 @@
     "artist": "Houston Whitney",
     "date": "20.10.2025",
     "time": "04:28",
-    "listeners": 203
+    "listeners": 203,
+    "lyricists": null,
+    "album": "The Ultimate Collection",
+    "release_year": 1988,
+    "duration_ms": 283520,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +152,15 @@
     "artist": "Smatanová Zuzana",
     "date": "20.10.2025",
     "time": "04:24",
-    "listeners": 202
+    "listeners": 202,
+    "lyricists": null,
+    "album": "Tabletky Odvahy",
+    "release_year": 2007,
+    "duration_ms": 240883,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +168,15 @@
     "artist": "Eagles The",
     "date": "20.10.2025",
     "time": "04:20",
-    "listeners": 202
+    "listeners": 202,
+    "lyricists": null,
+    "album": "Hotel California (40th Anniversary Expanded Edition)",
+    "release_year": 1976,
+    "duration_ms": 391357,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +184,16 @@
     "artist": "Wonder Stevie",
     "date": "20.10.2025",
     "time": "04:15",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "The Definitive Collection",
+    "release_year": 2002,
+    "duration_ms": 262598,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +201,15 @@
     "artist": "Nocadeň",
     "date": "20.10.2025",
     "time": "04:12",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Nocadeň v Prahe (Live 2024)",
+    "release_year": 2015,
+    "duration_ms": 258587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +217,15 @@
     "artist": "Aerosmith",
     "date": "20.10.2025",
     "time": "04:07",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "I Don't Want To Miss A Thing EP",
+    "release_year": 1998,
+    "duration_ms": 299723,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +233,15 @@
     "artist": "Roxette",
     "date": "20.10.2025",
     "time": "04:02",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "It Must Have Been Love - Single",
+    "release_year": 1992,
+    "duration_ms": 259666,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +249,15 @@
     "artist": "Fun Factory",
     "date": "20.10.2025",
     "time": "03:59",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 207000,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +265,15 @@
     "artist": "Olympic",
     "date": "20.10.2025",
     "time": "03:56",
-    "listeners": 202
+    "listeners": 202,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 173307,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +281,15 @@
     "artist": "Marika Gombitová & Karel Gott",
     "date": "20.10.2025",
     "time": "03:52",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1998,
+    "duration_ms": 262373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +297,18 @@
     "artist": "Dr. Alban",
     "date": "20.10.2025",
     "time": "03:47",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ],
+    "album": "One Love",
+    "release_year": 1994,
+    "duration_ms": 243133,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +316,19 @@
     "artist": "Bryan Adams",
     "date": "20.10.2025",
     "time": "03:44",
-    "listeners": 199
+    "listeners": 199,
+    "lyricists": [
+      "Bryan Adams",
+      "Jim Vallance"
+    ],
+    "album": "Reckless (30th Anniversary)",
+    "release_year": 1989,
+    "duration_ms": 243360,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

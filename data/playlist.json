@@ -5,7 +5,16 @@
     "artist": "Elán",
     "date": "20.10.2025",
     "time": "08:23",
-    "listeners": 2688
+    "listeners": 2688,
+    "lyricists": null,
+    "album": "Živých Nás Nedostanú (Extended Version)",
+    "release_year": 1998,
+    "duration_ms": 225339,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Simply Red",
     "date": "20.10.2025",
     "time": "08:19",
-    "listeners": 2799
+    "listeners": 2799,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2003,
+    "duration_ms": 248600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Hana Zagorová",
     "date": "20.10.2025",
     "time": "08:14",
-    "listeners": 2856
+    "listeners": 2856,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 2011,
+    "duration_ms": 312320,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Inner Circle",
     "date": "20.10.2025",
     "time": "08:06",
-    "listeners": 2845
+    "listeners": 2845,
+    "lyricists": null,
+    "album": "Sweat (A La La La La Long) - Single",
+    "release_year": 1993,
+    "duration_ms": 227067,
+    "artist_country": "JM",
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Gott Karel",
     "date": "20.10.2025",
     "time": "08:02",
-    "listeners": 2843
+    "listeners": 2843,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 233107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Ramazzotti Eros",
     "date": "21.10.2025",
     "time": "00:47",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 323867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Modus",
     "date": "21.10.2025",
     "time": "00:43",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 208227,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,16 @@
     "artist": "Robert Miles",
     "date": "20.10.2025",
     "time": "22:32",
-    "listeners": 760
+    "listeners": 760,
+    "lyricists": null,
+    "album": "Dance Vault Mixes: Robert Miles - Children - EP",
+    "release_year": 1996,
+    "duration_ms": 243267,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Čírová Mária",
     "date": "20.10.2025",
     "time": "22:28",
-    "listeners": 696
+    "listeners": 696,
+    "lyricists": null,
+    "album": "Búrka",
+    "release_year": 2008,
+    "duration_ms": 245680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Bonnie Bianco & Pierre Cosso",
     "date": "20.10.2025",
     "time": "22:24",
-    "listeners": 752
+    "listeners": 752,
+    "lyricists": null,
+    "album": "Stay",
+    "release_year": 1987,
+    "duration_ms": 231598,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Elán",
     "date": "20.10.2025",
     "time": "22:20",
-    "listeners": 719
+    "listeners": 719,
+    "lyricists": null,
+    "album": "Legenda 1",
+    "release_year": 2003,
+    "duration_ms": 240000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "The Beatles",
     "date": "20.10.2025",
     "time": "22:18",
-    "listeners": 793
+    "listeners": 793,
+    "lyricists": null,
+    "album": "Help!",
+    "release_year": 1965,
+    "duration_ms": 125667,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Miro Žbirka",
     "date": "20.10.2025",
     "time": "22:14",
-    "listeners": 794
+    "listeners": 794,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 198027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

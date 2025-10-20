@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Chtěl Jsem Mít",
+    "artist": "Turbo",
+    "date": "20.10.2025",
+    "time": "19:30",
+    "listeners": 1769
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "20.10.2025",
+    "time": "19:26",
+    "listeners": 1974
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Já Budu Chodit Po Špičkách",
+    "artist": "Novák Petr",
+    "date": "20.10.2025",
+    "time": "19:24",
+    "listeners": 1920
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sme Také Aké Sme",
+    "artist": "Dubasová Beáta",
+    "date": "20.10.2025",
+    "time": "19:20",
+    "listeners": 2059
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Zůstaň Tu Se Mnou (Za Sny)",
     "artist": "Kryštof",
     "date": "20.10.2025",

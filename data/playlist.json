@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Zrpš",
+    "artist": "Hammel, Pavol",
+    "date": "20.10.2025",
+    "time": "07:45",
+    "listeners": 3037
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "20.10.2025",
+    "time": "07:40",
+    "listeners": 2954
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Another Day In Paradise",
     "artist": "Collins Phil",
     "date": "20.10.2025",

@@ -5,7 +5,17 @@
     "artist": "Bon Jovi",
     "date": "20.10.2025",
     "time": "13:23",
-    "listeners": 1359
+    "listeners": 1359,
+    "lyricists": [
+      "Jon Bon Jovi"
+    ],
+    "album": "Cross Road",
+    "release_year": 2004,
+    "duration_ms": 353027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "Jason Donovan",
     "date": "20.10.2025",
     "time": "13:21",
-    "listeners": 1319
+    "listeners": 1319,
+    "lyricists": null,
+    "album": "Ten Good Reasons",
+    "release_year": 1989,
+    "duration_ms": 152753,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Duchoň Karol",
     "date": "20.10.2025",
     "time": "13:17",
-    "listeners": 1329
+    "listeners": 1329,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1974,
+    "duration_ms": 208160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,16 @@
     "artist": "Unique Ii",
     "date": "20.10.2025",
     "time": "13:14",
-    "listeners": 1395
+    "listeners": 1395,
+    "lyricists": null,
+    "album": "LEVEL II",
+    "release_year": 2004,
+    "duration_ms": 198200,
+    "artist_country": "AT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

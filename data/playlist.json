@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Po Víne",
+    "artist": "Robo Grigorov",
+    "date": "21.10.2025",
+    "time": "00:13",
+    "listeners": 196
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "María",
+    "artist": "Ricky Martin",
+    "date": "21.10.2025",
+    "time": "00:09",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám, Kým Nemám",
+    "artist": "Elán",
+    "date": "21.10.2025",
+    "time": "00:05",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chytila Jsem Na Pasece Motýlka",
+    "artist": "Vondráčková Helena",
+    "date": "21.10.2025",
+    "time": "00:02",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Asi Nie Si",
+    "artist": "Richard Müller",
+    "date": "20.10.2025",
+    "time": "23:58",
+    "listeners": 289
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Láska",
     "artist": "Palonder Marcel",
     "date": "20.10.2025",

@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Touch By Touch",
+    "artist": "Joy",
+    "date": "20.10.2025",
+    "time": "21:09",
+    "listeners": 1160
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lay All Your Love On Me",
+    "artist": "Abba",
+    "date": "20.10.2025",
+    "time": "21:04",
+    "listeners": 1275
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Príliš Osobná Známosť",
+    "artist": "I.M.T. Smile & Nikol Štíbrová",
+    "date": "20.10.2025",
+    "time": "21:00",
+    "listeners": 1296
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pábitelé",
+    "artist": "Gott Karel",
+    "date": "20.10.2025",
+    "time": "20:57",
+    "listeners": 1318
+  },
+  {
+    "station": "Rádio Melody",
     "title": "As Long As You Love Me",
     "artist": "Backstreet Boys",
     "date": "20.10.2025",

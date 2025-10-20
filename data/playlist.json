@@ -5,7 +5,17 @@
     "artist": "R. Kelly",
     "date": "20.10.2025",
     "time": "22:53",
-    "listeners": 551
+    "listeners": 551,
+    "lyricists": [
+      "R. Kelly"
+    ],
+    "album": "The World's Greatest",
+    "release_year": 1998,
+    "duration_ms": 320707,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "Abba",
     "date": "20.10.2025",
     "time": "22:49",
-    "listeners": 545
+    "listeners": 545,
+    "lyricists": null,
+    "album": "The Visitors (Bonus Track Version)",
+    "release_year": 2005,
+    "duration_ms": 236770,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

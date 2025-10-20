@@ -5,7 +5,15 @@
     "artist": "Haddaway",
     "date": "20.10.2025",
     "time": "08:51",
-    "listeners": 2132
+    "listeners": 2132,
+    "lyricists": null,
+    "album": "What Is Love - EP",
+    "release_year": 1996,
+    "duration_ms": 270373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "David Michal & Kroky Frantiska Janecka",
     "date": "20.10.2025",
     "time": "08:49",
-    "listeners": 2475
+    "listeners": 2475,
+    "lyricists": null,
+    "album": "Mejdan Roku (Live)",
+    "release_year": 2010,
+    "duration_ms": 181560,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

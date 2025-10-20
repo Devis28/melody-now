@@ -5,7 +5,15 @@
     "artist": "Glenn Medeiros",
     "date": "20.10.2025",
     "time": "21:43",
-    "listeners": 1006
+    "listeners": 1006,
+    "lyricists": null,
+    "album": "Nothing's Gonna Change My Love for You",
+    "release_year": 1987,
+    "duration_ms": 231587,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Kryštof",
     "date": "20.10.2025",
     "time": "21:39",
-    "listeners": 1074
+    "listeners": 1074,
+    "lyricists": null,
+    "album": "Polocas",
+    "release_year": 2007,
+    "duration_ms": 206667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Marika Gombitová",
     "date": "20.10.2025",
     "time": "21:37",
-    "listeners": 1115
+    "listeners": 1115,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 1998,
+    "duration_ms": 162187,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

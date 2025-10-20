@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Another Day In Paradise",
+    "artist": "Collins Phil",
+    "date": "20.10.2025",
+    "time": "07:37",
+    "listeners": 2990
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "20.10.2025",
+    "time": "07:33",
+    "listeners": 2956
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oheň, Voda, Vítr",
+    "artist": "Janda Dalibor",
+    "date": "20.10.2025",
+    "time": "07:24",
+    "listeners": 2770
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Fading Like A Flower",
     "artist": "Roxette",
     "date": "20.10.2025",

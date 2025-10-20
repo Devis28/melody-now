@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ján Ámos Džínový",
+    "artist": "Metalinda",
+    "date": "20.10.2025",
+    "time": "12:29",
+    "listeners": 1655
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "20.10.2025",
+    "time": "12:25",
+    "listeners": 1742
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cherish",
+    "artist": "Madonna",
+    "date": "20.10.2025",
+    "time": "12:21",
+    "listeners": 1605
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "20.10.2025",
+    "time": "12:18",
+    "listeners": 1636
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Go Breaking My Heart",
+    "artist": "John Elton & Dee Kiki",
+    "date": "20.10.2025",
+    "time": "12:13",
+    "listeners": 1539
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Podvod",
+    "artist": "Honza Nedvěd",
+    "date": "20.10.2025",
+    "time": "12:07",
+    "listeners": 1466
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Only Time (Two Tribes Remix))",
+    "artist": "Enya",
+    "date": "20.10.2025",
+    "time": "12:04",
+    "listeners": 1392
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oh, Pretty Woman",
+    "artist": "Orbison Roy",
+    "date": "20.10.2025",
+    "time": "12:01",
+    "listeners": 1502
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Power Of Love",
     "artist": "Rush Jennifer",
     "date": "20.10.2025",

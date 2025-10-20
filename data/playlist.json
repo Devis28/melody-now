@@ -5,7 +5,15 @@
     "artist": "Ramazzotti Eros",
     "date": "20.10.2025",
     "time": "06:48",
-    "listeners": 1875
+    "listeners": 1875,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 323867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Wilde Kim",
     "date": "20.10.2025",
     "time": "06:43",
-    "listeners": 1784
+    "listeners": 1784,
+    "lyricists": null,
+    "album": "Close (Remastered Expanded Edition)",
+    "release_year": 1988,
+    "duration_ms": 209133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Jiří Schelinger",
     "date": "20.10.2025",
     "time": "06:40",
-    "listeners": 1767
+    "listeners": 1767,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2006,
+    "duration_ms": 191475,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

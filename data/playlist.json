@@ -1,6 +1,166 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hungry Eyes",
+    "artist": "Carmen, Eric",
+    "date": "20.10.2025",
+    "time": "05:02",
+    "listeners": 300
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čo S Tým",
+    "artist": "Team",
+    "date": "20.10.2025",
+    "time": "04:58",
+    "listeners": 274
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "20.10.2025",
+    "time": "04:54",
+    "listeners": 262
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "20.10.2025",
+    "time": "04:50",
+    "listeners": 269
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Islands In The Stream",
+    "artist": "Rogers Kenny &Parton Dolly",
+    "date": "20.10.2025",
+    "time": "04:46",
+    "listeners": 222
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Holubička",
+    "artist": "Adam Ďurica",
+    "date": "20.10.2025",
+    "time": "04:42",
+    "listeners": 221
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Where Do You Go",
+    "artist": "No Mercy",
+    "date": "20.10.2025",
+    "time": "04:37",
+    "listeners": 204
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Muž Miluje Ženu",
+    "artist": "Robo Opatovský",
+    "date": "20.10.2025",
+    "time": "04:33",
+    "listeners": 212
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Moment In Time",
+    "artist": "Houston Whitney",
+    "date": "20.10.2025",
+    "time": "04:28",
+    "listeners": 203
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zdá Sa Že To Stací",
+    "artist": "Smatanová Zuzana",
+    "date": "20.10.2025",
+    "time": "04:24",
+    "listeners": 202
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hotel California",
+    "artist": "Eagles The",
+    "date": "20.10.2025",
+    "time": "04:20",
+    "listeners": 202
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Just Called To Say I Love You",
+    "artist": "Wonder Stevie",
+    "date": "20.10.2025",
+    "time": "04:15",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V nás",
+    "artist": "Nocadeň",
+    "date": "20.10.2025",
+    "time": "04:12",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Don't Want To Miss A Thing",
+    "artist": "Aerosmith",
+    "date": "20.10.2025",
+    "time": "04:07",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It Must Have Been Love",
+    "artist": "Roxette",
+    "date": "20.10.2025",
+    "time": "04:02",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Celebration",
+    "artist": "Fun Factory",
+    "date": "20.10.2025",
+    "time": "03:59",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dej Mi Víc Své Lásky",
+    "artist": "Olympic",
+    "date": "20.10.2025",
+    "time": "03:56",
+    "listeners": 202
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neznámy Pár",
+    "artist": "Marika Gombitová & Karel Gott",
+    "date": "20.10.2025",
+    "time": "03:52",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "20.10.2025",
+    "time": "03:47",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Heaven",
+    "artist": "Bryan Adams",
+    "date": "20.10.2025",
+    "time": "03:44",
+    "listeners": 199
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sweet Harmony",
     "artist": "Beloved, The",
     "date": "20.10.2025",

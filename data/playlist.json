@@ -5,7 +5,15 @@
     "artist": "Beatles, The",
     "date": "21.10.2025",
     "time": "01:21",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "release_year": 1968,
+    "duration_ms": 431333,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Miro Zbirka",
     "date": "21.10.2025",
     "time": "01:17",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "K.O.",
+    "release_year": 1990,
+    "duration_ms": 277053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Imt Smile",
     "date": "21.10.2025",
     "time": "01:13",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Valec Extra",
+    "release_year": 2005,
+    "duration_ms": 237813,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,18 @@
     "artist": "Robbie Williams",
     "date": "21.10.2025",
     "time": "01:08",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ],
+    "album": "Escapology",
+    "release_year": 2009,
+    "duration_ms": 263867,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,18 @@
     "artist": "Madonna",
     "date": "21.10.2025",
     "time": "01:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Like a Prayer",
+    "release_year": 1989,
+    "duration_ms": 340867,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

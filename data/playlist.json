@@ -5,7 +5,15 @@
     "artist": "Zuzana Smatanová & Richard Autner",
     "date": "20.10.2025",
     "time": "23:27",
-    "listeners": 453
+    "listeners": 453,
+    "lyricists": null,
+    "album": "Prútikár (feat. Richard Autner) - Single",
+    "release_year": 2024,
+    "duration_ms": 244947,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Collins Phil",
     "date": "20.10.2025",
     "time": "23:24",
-    "listeners": 435
+    "listeners": 435,
+    "lyricists": null,
+    "album": "Hello, I Must Be Going! (Remastered)",
+    "release_year": 1982,
+    "duration_ms": 175747,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Yps",
     "date": "20.10.2025",
     "time": "23:21",
-    "listeners": 427
+    "listeners": 427,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 155440,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,13 @@
     "artist": "R.E.M.",
     "date": "20.10.2025",
     "time": "23:16",
-    "listeners": 468
+    "listeners": 468,
+    "lyricists": null,
+    "album": "Automatic For The People",
+    "release_year": 1999,
+    "duration_ms": 320351,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +68,20 @@
     "artist": "Kristína",
     "date": "20.10.2025",
     "time": "23:13",
-    "listeners": 445
+    "listeners": 445,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "album": "V Sieti Ta Mam",
+    "release_year": 2014,
+    "duration_ms": 227267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

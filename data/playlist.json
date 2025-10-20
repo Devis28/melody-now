@@ -5,7 +5,15 @@
     "artist": "Gombitová Marika & Patejdl Vašo",
     "date": "20.10.2025",
     "time": "23:44",
-    "listeners": 349
+    "listeners": 349,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 199360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Gipsy Kings",
     "date": "20.10.2025",
     "time": "23:41",
-    "listeners": 387
+    "listeners": 387,
+    "lyricists": null,
+    "album": "Gipsy Kings",
+    "release_year": 2013,
+    "duration_ms": 203333,
+    "artist_country": "FR",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

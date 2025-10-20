@@ -1,6 +1,222 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sweet Harmony",
+    "artist": "Beloved, The",
+    "date": "20.10.2025",
+    "time": "03:39",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Muzikantské Byty",
+    "artist": "Patejdl Vašo & Dubasová Beáta",
+    "date": "20.10.2025",
+    "time": "03:35",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Kami",
+    "artist": "Habera Pavol & Ibrahim Maiga",
+    "date": "20.10.2025",
+    "time": "03:31",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "A Kind Of Magic",
+    "artist": "Queen",
+    "date": "20.10.2025",
+    "time": "03:27",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čím To Je",
+    "artist": "No Name",
+    "date": "20.10.2025",
+    "time": "03:24",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Total Eclipse Of The Heart",
+    "artist": "Westlife",
+    "date": "20.10.2025",
+    "time": "03:19",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nevrav Mi Aký Som",
+    "artist": "Desmod",
+    "date": "20.10.2025",
+    "time": "03:15",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Un-Break My Heart",
+    "artist": "Braxton Toni",
+    "date": "20.10.2025",
+    "time": "03:11",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Brother Louie",
+    "artist": "Modern Talking",
+    "date": "20.10.2025",
+    "time": "03:07",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dve Malá Krídla Tu Nejsou",
+    "artist": "Vondráčková Helena",
+    "date": "20.10.2025",
+    "time": "03:02",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnečná Balada",
+    "artist": "Peha",
+    "date": "20.10.2025",
+    "time": "02:58",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cose Della Vita / Can't Stop Thinking Of You",
+    "artist": "Tina Turner/Eros Ramazzotti",
+    "date": "20.10.2025",
+    "time": "02:53",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Aj Tak Sme Frajeri",
+    "artist": "Nagy Peter",
+    "date": "20.10.2025",
+    "time": "02:50",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Time To Say Goodbye",
+    "artist": "Brightman Sarah&Bocelli Andrea",
+    "date": "20.10.2025",
+    "time": "02:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Seasons In The Sun",
+    "artist": "Terry Jacks",
+    "date": "20.10.2025",
+    "time": "02:42",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dážď",
+    "artist": "Peter Cmorík",
+    "date": "20.10.2025",
+    "time": "02:37",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Win Again",
+    "artist": "The Bee Gees",
+    "date": "20.10.2025",
+    "time": "02:34",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Co Bolí To Přebolí",
+    "artist": "Zbirka Miro & Martha",
+    "date": "20.10.2025",
+    "time": "02:30",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvaja",
+    "artist": "Gombitová Marika",
+    "date": "20.10.2025",
+    "time": "02:27",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cherish",
+    "artist": "Kool & The Gang",
+    "date": "20.10.2025",
+    "time": "02:23",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nič Nie Je Isté",
+    "artist": "Imt Smile",
+    "date": "20.10.2025",
+    "time": "02:19",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "El Condor Pasa",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "20.10.2025",
+    "time": "02:16",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dva Roky Prázdnin",
+    "artist": "Bartošová Iveta",
+    "date": "20.10.2025",
+    "time": "02:13",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kto Z Nás Dvoch Sa Lásky Opýta?",
+    "artist": "Team",
+    "date": "20.10.2025",
+    "time": "02:09",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "She's The One",
+    "artist": "Robbie Williams",
+    "date": "20.10.2025",
+    "time": "02:05",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Padá Hvězda",
+    "artist": "Janda Dalibor",
+    "date": "20.10.2025",
+    "time": "02:02",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fernando",
+    "artist": "Abba",
+    "date": "20.10.2025",
+    "time": "01:57",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Daj Ruku Do Mojej Ruky",
     "artist": "Smatanová Zuzana",
     "date": "20.10.2025",

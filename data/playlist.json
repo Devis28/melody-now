@@ -5,7 +5,15 @@
     "artist": "Backstreet Boys",
     "date": "20.10.2025",
     "time": "20:53",
-    "listeners": 1303
+    "listeners": 1303,
+    "lyricists": null,
+    "album": "Backstreet's Back",
+    "release_year": 1998,
+    "duration_ms": 221107,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Queen",
     "date": "20.10.2025",
     "time": "20:47",
-    "listeners": 1215
+    "listeners": 1215,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1975,
+    "duration_ms": 354947,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Kamen, Nick",
     "date": "20.10.2025",
     "time": "20:44",
-    "listeners": 1347
+    "listeners": 1347,
+    "lyricists": null,
+    "album": "Move Until We Fly",
+    "release_year": 1990,
+    "duration_ms": 240773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Jana Kirschner",
     "date": "20.10.2025",
     "time": "20:40",
-    "listeners": 1304
+    "listeners": 1304,
+    "lyricists": null,
+    "album": "16 Naj Pesničiek",
+    "release_year": 2000,
+    "duration_ms": 196520,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

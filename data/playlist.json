@@ -5,7 +5,15 @@
     "artist": "Banket",
     "date": "20.10.2025",
     "time": "18:31",
-    "listeners": 2653
+    "listeners": 2653,
+    "lyricists": null,
+    "album": "Bioelektrovízia",
+    "release_year": 1989,
+    "duration_ms": 189000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Team",
     "date": "20.10.2025",
     "time": "18:26",
-    "listeners": 2765
+    "listeners": 2765,
+    "lyricists": null,
+    "album": "Team 3",
+    "release_year": 1994,
+    "duration_ms": 242760,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Karel Zich",
     "date": "20.10.2025",
     "time": "18:23",
-    "listeners": 2599
+    "listeners": 2599,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 2004,
+    "duration_ms": 198040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Marika Gombitová",
     "date": "20.10.2025",
     "time": "18:17",
-    "listeners": 2864
+    "listeners": 2864,
+    "lyricists": null,
+    "album": "Nevy(í)dané Rarity",
+    "release_year": 2005,
+    "duration_ms": 322533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Ewa Farna",
     "date": "20.10.2025",
     "time": "18:14",
-    "listeners": 2788
+    "listeners": 2788,
+    "lyricists": null,
+    "album": "Všechno nebo nic (z filmu \"Všechno Nebo Nic\") - Single",
+    "release_year": 2020,
+    "duration_ms": 176400,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Ilona Csáková",
     "date": "20.10.2025",
     "time": "18:11",
-    "listeners": 3046
+    "listeners": 3046,
+    "lyricists": null,
+    "album": "22x Ilona - Best Of",
+    "release_year": 1999,
+    "duration_ms": 205147,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,13 @@
     "artist": "Taktici",
     "date": "20.10.2025",
     "time": "18:05",
-    "listeners": 2951
+    "listeners": 2951,
+    "lyricists": null,
+    "album": null,
+    "release_year": 1997,
+    "duration_ms": null,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +115,15 @@
     "artist": "Peter Nagy",
     "date": "20.10.2025",
     "time": "18:01",
-    "listeners": 2833
+    "listeners": 2833,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2004,
+    "duration_ms": 256667,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

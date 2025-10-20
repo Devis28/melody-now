@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "20.10.2025",
+    "time": "23:34",
+    "listeners": 394
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Together Forever",
+    "artist": "Astley Rick",
+    "date": "20.10.2025",
+    "time": "23:31",
+    "listeners": 388
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Prútikár",
     "artist": "Zuzana Smatanová & Richard Autner",
     "date": "20.10.2025",

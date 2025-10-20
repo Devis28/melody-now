@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Always",
+    "artist": "Bon Jovi",
+    "date": "20.10.2025",
+    "time": "13:23",
+    "listeners": 1359
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sealed With The Kiss",
+    "artist": "Jason Donovan",
+    "date": "20.10.2025",
+    "time": "13:21",
+    "listeners": 1319
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šiel, Šiel",
+    "artist": "Duchoň Karol",
+    "date": "20.10.2025",
+    "time": "13:17",
+    "listeners": 1329
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Break My Stride",
+    "artist": "Unique Ii",
+    "date": "20.10.2025",
+    "time": "13:14",
+    "listeners": 1395
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Dievča Neplač",
     "artist": "Brezovská Mirka",
     "date": "20.10.2025",

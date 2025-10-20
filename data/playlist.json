@@ -5,7 +5,15 @@
     "artist": "No Name",
     "date": "20.10.2025",
     "time": "17:39",
-    "listeners": 2985
+    "listeners": 2985,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 202093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Art Company",
     "date": "20.10.2025",
     "time": "17:34",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Susanna - Single",
+    "release_year": 2023,
+    "duration_ms": 285062,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Robert Miles/Maria Nayler",
     "date": "20.10.2025",
     "time": "17:31",
-    "listeners": 3000
+    "listeners": 3000,
+    "lyricists": null,
+    "album": "Dreamland (Including One and One)",
+    "release_year": 2019,
+    "duration_ms": 238493,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Matuška Waldemar",
     "date": "20.10.2025",
     "time": "17:26",
-    "listeners": 3152
+    "listeners": 3152,
+    "lyricists": null,
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "release_year": 1964,
+    "duration_ms": 145680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,16 @@
     "artist": "Bad Boys Blue",
     "date": "20.10.2025",
     "time": "17:23",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 1988,
+    "duration_ms": 346507,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Elán",
     "date": "20.10.2025",
     "time": "17:19",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2007,
+    "duration_ms": 304554,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Culture Club",
     "date": "20.10.2025",
     "time": "17:12",
-    "listeners": 3052
+    "listeners": 3052,
+    "lyricists": null,
+    "album": "Kissing to Be Clever",
+    "release_year": 1982,
+    "duration_ms": 262173,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "Gott Karel & Olympic",
     "date": "20.10.2025",
     "time": "17:10",
-    "listeners": 3180
+    "listeners": 3180,
+    "lyricists": null,
+    "album": "Cesta Rájem",
+    "release_year": 1965,
+    "duration_ms": 116573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

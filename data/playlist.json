@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Uličník Bozk",
+    "artist": "Gombitová Marika & Patejdl Vašo",
+    "date": "20.10.2025",
+    "time": "23:44",
+    "listeners": 349
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bamboléo",
+    "artist": "Gipsy Kings",
+    "date": "20.10.2025",
+    "time": "23:41",
+    "listeners": 387
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Bed Of Roses",
     "artist": "Bon Jovi",
     "date": "20.10.2025",

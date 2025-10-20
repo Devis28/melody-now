@@ -5,7 +5,15 @@
     "artist": "Dalibor Janda",
     "date": "20.10.2025",
     "time": "15:49",
-    "listeners": 1763
+    "listeners": 1763,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1993,
+    "duration_ms": 293667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Boney M",
     "date": "20.10.2025",
     "time": "15:45",
-    "listeners": 1564
+    "listeners": 1564,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 241373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "The Scorpions",
     "date": "20.10.2025",
     "time": "15:39",
-    "listeners": 1551
+    "listeners": 1551,
+    "lyricists": null,
+    "album": "Crazy World",
+    "release_year": 1999,
+    "duration_ms": 312360,
+    "artist_country": "DE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

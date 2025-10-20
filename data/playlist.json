@@ -1,6 +1,94 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Come Back And Stay",
+    "artist": "Bad Boys Blue",
+    "date": "20.10.2025",
+    "time": "20:36",
+    "listeners": 1320
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "20.10.2025",
+    "time": "20:33",
+    "listeners": 1357
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Naveky",
+    "artist": "Katarína Knechtová",
+    "date": "20.10.2025",
+    "time": "20:29",
+    "listeners": 1450
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Got You Babe",
+    "artist": "Ub 40 Hynde Chrissie",
+    "date": "20.10.2025",
+    "time": "20:26",
+    "listeners": 1418
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ženská Menom Panika",
+    "artist": "Team",
+    "date": "20.10.2025",
+    "time": "20:22",
+    "listeners": 1421
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're The One That I Want",
+    "artist": "Travolta John & Newton-John Olivia",
+    "date": "20.10.2025",
+    "time": "20:20",
+    "listeners": 1335
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Moonlight Shadow",
+    "artist": "Oldfield Mike & Reilly Maggie",
+    "date": "20.10.2025",
+    "time": "20:17",
+    "listeners": 1465
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jediný A Jediná",
+    "artist": "Zuzana Smatanová",
+    "date": "20.10.2025",
+    "time": "20:12",
+    "listeners": 1560
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stay Another Day",
+    "artist": "East 17",
+    "date": "20.10.2025",
+    "time": "20:08",
+    "listeners": 1617
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "20.10.2025",
+    "time": "20:04",
+    "listeners": 1715
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "20.10.2025",
+    "time": "20:01",
+    "listeners": 1581
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Zdá Se",
     "artist": "Hana Zagorová",
     "date": "20.10.2025",

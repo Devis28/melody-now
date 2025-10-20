@@ -5,7 +5,15 @@
     "artist": "Brontosauři",
     "date": "20.10.2025",
     "time": "14:27",
-    "listeners": 936
+    "listeners": 936,
+    "lyricists": null,
+    "album": "Na Kameni Kamen",
+    "release_year": 2007,
+    "duration_ms": 159227,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Nazareth",
     "date": "20.10.2025",
     "time": "14:24",
-    "listeners": 916
+    "listeners": 916,
+    "lyricists": null,
+    "album": "Hair of the Dog",
+    "release_year": 2002,
+    "duration_ms": 232120,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Alphaville",
     "date": "20.10.2025",
     "time": "14:20",
-    "listeners": 969
+    "listeners": 969,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2009,
+    "duration_ms": 286160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Adams Bryan & Stewart Rod & Sting",
     "date": "20.10.2025",
     "time": "14:13",
-    "listeners": 977
+    "listeners": 977,
+    "lyricists": null,
+    "album": "All For Love (Luca Schreiner Remix) [feat. Richard Smitt] - Single",
+    "release_year": 2018,
+    "duration_ms": 178560,
+    "artist_country": null,
+    "genres": [
+      "Classical",
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Gott Karel",
     "date": "20.10.2025",
     "time": "14:10",
-    "listeners": 1006
+    "listeners": 1006,
+    "lyricists": null,
+    "album": "Lady Carneval",
+    "release_year": 1987,
+    "duration_ms": 180227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Roxette",
     "date": "20.10.2025",
     "time": "14:05",
-    "listeners": 947
+    "listeners": 947,
+    "lyricists": null,
+    "album": "Look Sharp!",
+    "release_year": 1995,
+    "duration_ms": 328093,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Geri Halliwell",
     "date": "20.10.2025",
     "time": "14:02",
-    "listeners": 1031
+    "listeners": 1031,
+    "lyricists": null,
+    "album": "It's Raining Men - Single",
+    "release_year": 2002,
+    "duration_ms": 255160,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

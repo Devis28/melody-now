@@ -5,7 +5,15 @@
     "artist": "Roxette",
     "date": "20.10.2025",
     "time": "07:20",
-    "listeners": 2698
+    "listeners": 2698,
+    "lyricists": null,
+    "album": "Fading Like A Flower - Single",
+    "release_year": 1992,
+    "duration_ms": 145808,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Smokie",
     "date": "20.10.2025",
     "time": "07:17",
-    "listeners": 2566
+    "listeners": 2566,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2003,
+    "duration_ms": 196867,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Miro Zbirka",
     "date": "20.10.2025",
     "time": "07:13",
-    "listeners": 2521
+    "listeners": 2521,
+    "lyricists": null,
+    "album": "K.O.",
+    "release_year": 1990,
+    "duration_ms": 277053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,18 @@
     "artist": "Robbie Williams",
     "date": "20.10.2025",
     "time": "07:05",
-    "listeners": 2164
+    "listeners": 2164,
+    "lyricists": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ],
+    "album": "Escapology",
+    "release_year": 2009,
+    "duration_ms": 263867,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,18 @@
     "artist": "Jaroslav Uhlíř",
     "date": "20.10.2025",
     "time": "07:02",
-    "listeners": 2241
+    "listeners": 2241,
+    "lyricists": [
+      "Jaroslav Uhlíř",
+      "Zdeněk Svěrák"
+    ],
+    "album": "Country Gold 80. léta",
+    "release_year": 1998,
+    "duration_ms": 189787,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sny O Tygri Lady",
+    "artist": "Patek Arnost",
+    "date": "20.10.2025",
+    "time": "18:55",
+    "listeners": 2306
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "20.10.2025",
+    "time": "18:52",
+    "listeners": 2511
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Slovenských Dolinách",
+    "artist": "Duchoň Karol",
+    "date": "20.10.2025",
+    "time": "18:49",
+    "listeners": 2195
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kočka",
     "artist": "Elán",
     "date": "20.10.2025",

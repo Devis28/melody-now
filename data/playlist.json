@@ -5,7 +5,16 @@
     "artist": "Joy",
     "date": "20.10.2025",
     "time": "21:09",
-    "listeners": 1160
+    "listeners": 1160,
+    "lyricists": null,
+    "album": "The Original Maxi-Singles Collection & B-Sides",
+    "release_year": 2006,
+    "duration_ms": 325147,
+    "artist_country": "AT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Abba",
     "date": "20.10.2025",
     "time": "21:04",
-    "listeners": 1275
+    "listeners": 1275,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1981,
+    "duration_ms": 274867,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "I.M.T. Smile & Nikol Štíbrová",
     "date": "20.10.2025",
     "time": "21:00",
-    "listeners": 1296
+    "listeners": 1296,
+    "lyricists": null,
+    "album": "SRDCE ROZUM BLVD",
+    "release_year": 2021,
+    "duration_ms": 271597,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Gott Karel",
     "date": "20.10.2025",
     "time": "20:57",
-    "listeners": 1318
+    "listeners": 1318,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 184307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

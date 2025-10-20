@@ -5,7 +5,16 @@
     "artist": "Tobias Szidi",
     "date": "21.10.2025",
     "time": "01:55",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2008,
+    "duration_ms": 307000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,18 @@
     "artist": "Jaroslav Uhlíř",
     "date": "21.10.2025",
     "time": "01:52",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Jaroslav Uhlíř",
+      "Zdeněk Svěrák"
+    ],
+    "album": "Country Gold 80. léta",
+    "release_year": 1998,
+    "duration_ms": 189787,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

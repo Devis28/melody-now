@@ -5,7 +5,16 @@
     "artist": "Collins Phil",
     "date": "21.10.2025",
     "time": "00:38",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Singles (Deluxe Edition)",
+    "release_year": 1989,
+    "duration_ms": 322133,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Cher",
     "date": "21.10.2025",
     "time": "00:35",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 1999,
+    "duration_ms": 239027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

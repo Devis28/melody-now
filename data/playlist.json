@@ -5,7 +5,15 @@
     "artist": "Jackson, Michael",
     "date": "21.10.2025",
     "time": "01:39",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "The Essential Michael Jackson",
+    "release_year": 1991,
+    "duration_ms": 385713,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Roxette",
     "date": "21.10.2025",
     "time": "01:36",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Fading Like A Flower - Single",
+    "release_year": 1992,
+    "duration_ms": 145808,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peha",
     "date": "21.10.2025",
     "time": "01:32",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "release_year": 2005,
+    "duration_ms": 236680,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tancujem S Tebou Rád",
+    "artist": "Karol Duchoň",
+    "date": "20.10.2025",
+    "time": "09:42",
+    "listeners": 1250
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rhythm Is A Dancer",
+    "artist": "Snap",
+    "date": "20.10.2025",
+    "time": "09:38",
+    "listeners": 1327
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "20.10.2025",
+    "time": "09:34",
+    "listeners": 1393
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Zbohom Bud, Lipova Lyzka,...",
     "artist": "Dočolomanský Michal",
     "date": "20.10.2025",

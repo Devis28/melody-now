@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kráľovná Bielych Tenisiek",
+    "artist": "Elán",
+    "date": "20.10.2025",
+    "time": "08:23",
+    "listeners": 2688
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stars",
+    "artist": "Simply Red",
+    "date": "20.10.2025",
+    "time": "08:19",
+    "listeners": 2799
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maluj Zase Obrázky",
+    "artist": "Hana Zagorová",
+    "date": "20.10.2025",
+    "time": "08:14",
+    "listeners": 2856
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sweat (A La La La Long)",
+    "artist": "Inner Circle",
+    "date": "20.10.2025",
+    "time": "08:06",
+    "listeners": 2845
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "To Musím Zvládnout Sám",
+    "artist": "Gott Karel",
+    "date": "20.10.2025",
+    "time": "08:02",
+    "listeners": 2843
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Best",
     "artist": "Tina Turner",
     "date": "20.10.2025",

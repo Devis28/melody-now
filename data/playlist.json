@@ -5,7 +5,15 @@
     "artist": "Turbo",
     "date": "20.10.2025",
     "time": "19:30",
-    "listeners": 1769
+    "listeners": 1769,
+    "lyricists": null,
+    "album": "To Byla, Pánové, Jízda",
+    "release_year": 2010,
+    "duration_ms": 270533,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Kotvald Petr",
     "date": "20.10.2025",
     "time": "19:26",
-    "listeners": 1974
+    "listeners": 1974,
+    "lyricists": null,
+    "album": "Gejzír",
+    "release_year": 1990,
+    "duration_ms": 227267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Novák Petr",
     "date": "20.10.2025",
     "time": "19:24",
-    "listeners": 1920
+    "listeners": 1920,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 141027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Dubasová Beáta",
     "date": "20.10.2025",
     "time": "19:20",
-    "listeners": 2059
+    "listeners": 2059,
+    "lyricists": null,
+    "album": "Beáta",
+    "release_year": 1987,
+    "duration_ms": 255360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

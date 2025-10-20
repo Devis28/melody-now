@@ -5,7 +5,16 @@
     "artist": "Rush Jennifer",
     "date": "20.10.2025",
     "time": "11:52",
-    "listeners": 1513
+    "listeners": 1513,
+    "lyricists": null,
+    "album": "Jennifer Rush",
+    "release_year": 1984,
+    "duration_ms": 361231,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

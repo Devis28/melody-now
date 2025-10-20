@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Prútikár",
+    "artist": "Zuzana Smatanová & Richard Autner",
+    "date": "20.10.2025",
+    "time": "23:27",
+    "listeners": 453
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Can't Hurry Love",
+    "artist": "Collins Phil",
+    "date": "20.10.2025",
+    "time": "23:24",
+    "listeners": 435
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Kúp Mi Rontgen",
+    "artist": "Yps",
+    "date": "20.10.2025",
+    "time": "23:21",
+    "listeners": 427
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody Hurts",
+    "artist": "R.E.M.",
+    "date": "20.10.2025",
+    "time": "23:16",
+    "listeners": 468
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stonka",
+    "artist": "Kristína",
+    "date": "20.10.2025",
+    "time": "23:13",
+    "listeners": 445
+  },
+  {
+    "station": "Rádio Melody",
     "title": "We Love To Love",
     "artist": "P. M. Sampson & Double Key",
     "date": "20.10.2025",

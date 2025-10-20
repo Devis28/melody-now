@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "20.10.2025",
     "time": "21:25",
-    "listeners": 1121
+    "listeners": 1121,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 257907,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Depeche Mode",
     "date": "20.10.2025",
     "time": "21:21",
-    "listeners": 1054
+    "listeners": 1054,
+    "lyricists": null,
+    "album": "Violator (Deluxe)",
+    "release_year": 1999,
+    "duration_ms": 372827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Balogh Berco",
     "date": "20.10.2025",
     "time": "21:17",
-    "listeners": 1067
+    "listeners": 1067,
+    "lyricists": null,
+    "album": "Siedmy pád",
+    "release_year": 2007,
+    "duration_ms": 202507,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "O'connor Sinéad",
     "date": "20.10.2025",
     "time": "21:12",
-    "listeners": 1228
+    "listeners": 1228,
+    "lyricists": null,
+    "album": "I Do Not Want What I Haven't Got (Deluxe Edition)",
+    "release_year": 1990,
+    "duration_ms": 310880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

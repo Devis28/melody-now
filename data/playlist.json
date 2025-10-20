@@ -5,7 +5,21 @@
     "artist": "Toto",
     "date": "20.10.2025",
     "time": "13:52",
-    "listeners": 1194
+    "listeners": 1194,
+    "lyricists": [
+      "Graham Johnson",
+      "Pasquale Losito",
+      "Toto Cutugno",
+      "Vito Pallavicini"
+    ],
+    "album": "Toto IV",
+    "release_year": 1994,
+    "duration_ms": 295283,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +27,17 @@
     "artist": "Queen",
     "date": "20.10.2025",
     "time": "13:50",
-    "listeners": 1178
+    "listeners": 1178,
+    "lyricists": [
+      "Queen"
+    ],
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1994,
+    "duration_ms": 121235,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +45,15 @@
     "artist": "Grigorov Robo",
     "date": "20.10.2025",
     "time": "13:47",
-    "listeners": 1186
+    "listeners": 1186,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2008,
+    "duration_ms": 209427,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +61,15 @@
     "artist": "C.C. Catch",
     "date": "20.10.2025",
     "time": "13:43",
-    "listeners": 1095
+    "listeners": 1095,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1994,
+    "duration_ms": 209533,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +77,15 @@
     "artist": "Jiří Schelinger",
     "date": "20.10.2025",
     "time": "13:40",
-    "listeners": 1162
+    "listeners": 1162,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2004,
+    "duration_ms": 240880,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

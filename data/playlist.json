@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "20.10.2025",
     "time": "18:44",
-    "listeners": 2384
+    "listeners": 2384,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gott Karel",
     "date": "20.10.2025",
     "time": "18:40",
-    "listeners": 2673
+    "listeners": 2673,
+    "lyricists": null,
+    "album": "Lidovky Mého Srdce",
+    "release_year": 2010,
+    "duration_ms": 102427,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Tublatanka",
     "date": "20.10.2025",
     "time": "18:36",
-    "listeners": 2527
+    "listeners": 2527,
+    "lyricists": null,
+    "album": "Rockové Balady",
+    "release_year": 1992,
+    "duration_ms": 327893,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Adam Ďurica",
     "date": "20.10.2025",
     "time": "18:33",
-    "listeners": 2508
+    "listeners": 2508,
+    "lyricists": null,
+    "album": "Spolu",
+    "release_year": 2016,
+    "duration_ms": 147750,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

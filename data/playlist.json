@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Loď do neznáma",
+    "artist": "Uherčík, Ďurinda, Griglák, Horváth",
+    "date": "20.10.2025",
+    "time": "11:41",
+    "listeners": 1449
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mrs. Robinson",
+    "artist": "Simon, Paul & Garfunkel, Art",
+    "date": "20.10.2025",
+    "time": "11:37",
+    "listeners": 1367
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Of Us",
+    "artist": "Osborne Joan",
+    "date": "20.10.2025",
+    "time": "11:33",
+    "listeners": 1332
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Locomotion",
+    "artist": "Kylie Minogue",
+    "date": "20.10.2025",
+    "time": "11:30",
+    "listeners": 1317
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čardáš Dvoch Sŕdc",
     "artist": "Karol Duchoň",
     "date": "20.10.2025",

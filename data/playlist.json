@@ -5,7 +5,15 @@
     "artist": "Alexandra Burke",
     "date": "20.10.2025",
     "time": "05:52",
-    "listeners": 669
+    "listeners": 669,
+    "lyricists": null,
+    "album": "Overcome (Deluxe Edition)",
+    "release_year": 2018,
+    "duration_ms": 217827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Desirelles",
     "date": "20.10.2025",
     "time": "05:48",
-    "listeners": 657
+    "listeners": 657,
+    "lyricists": null,
+    "album": "François",
+    "release_year": 1980,
+    "duration_ms": 264585,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,17 @@
     "artist": "Barbra Streisand",
     "date": "20.10.2025",
     "time": "05:44",
-    "listeners": 644
+    "listeners": 644,
+    "lyricists": [
+      "Barbra Streisand"
+    ],
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "release_year": 1982,
+    "duration_ms": 233280,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Erasure",
     "date": "20.10.2025",
     "time": "05:40",
-    "listeners": 560
+    "listeners": 560,
+    "lyricists": null,
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "release_year": 2005,
+    "duration_ms": 237840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Men At Work",
     "date": "20.10.2025",
     "time": "05:36",
-    "listeners": 516
+    "listeners": 516,
+    "lyricists": null,
+    "album": "Business As Usual",
+    "release_year": 2001,
+    "duration_ms": 222320,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Zich Karel & Filipová Lenka",
     "date": "20.10.2025",
     "time": "05:33",
-    "listeners": 501
+    "listeners": 501,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 1981,
+    "duration_ms": 218240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Juanes",
     "date": "20.10.2025",
     "time": "05:29",
-    "listeners": 460
+    "listeners": 460,
+    "lyricists": [
+      "Juanes"
+    ],
+    "album": "Mi Sangre",
+    "release_year": 2005,
+    "duration_ms": 216707,
+    "artist_country": "CO",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "Tublatanka",
     "date": "20.10.2025",
     "time": "05:24",
-    "listeners": 433
+    "listeners": 433,
+    "lyricists": null,
+    "album": "Skúsime to cez vesmír",
+    "release_year": 2002,
+    "duration_ms": 298893,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +135,15 @@
     "artist": "Smokie",
     "date": "20.10.2025",
     "time": "05:20",
-    "listeners": 394
+    "listeners": 394,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2009,
+    "duration_ms": 237667,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +151,15 @@
     "artist": "Minogue Kylie",
     "date": "20.10.2025",
     "time": "05:17",
-    "listeners": 348
+    "listeners": 348,
+    "lyricists": null,
+    "album": "Kylie",
+    "release_year": 1987,
+    "duration_ms": 204128,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +167,15 @@
     "artist": "I.M.T. Smile",
     "date": "20.10.2025",
     "time": "05:14",
-    "listeners": 367
+    "listeners": 367,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 178840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +183,16 @@
     "artist": "Mckenzie Scott",
     "date": "20.10.2025",
     "time": "05:11",
-    "listeners": 304
+    "listeners": 304,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +200,15 @@
     "artist": "N'dour Youssou & Cherry Neneh",
     "date": "20.10.2025",
     "time": "05:06",
-    "listeners": 287
+    "listeners": 287,
+    "lyricists": null,
+    "album": "The Guide (Wommat)",
+    "release_year": 1994,
+    "duration_ms": 306227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

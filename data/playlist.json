@@ -5,7 +5,15 @@
     "artist": "Desmod",
     "date": "20.10.2025",
     "time": "21:32",
-    "listeners": 1060
+    "listeners": 1060,
+    "lyricists": null,
+    "album": "Javorový Album: Akustický Výber",
+    "release_year": 2006,
+    "duration_ms": 260587,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Michael George",
     "date": "20.10.2025",
     "time": "21:29",
-    "listeners": 1052
+    "listeners": 1052,
+    "lyricists": null,
+    "album": "Faith (Deluxe Edition)",
+    "release_year": 1987,
+    "duration_ms": 193200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

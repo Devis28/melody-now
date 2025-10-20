@@ -5,7 +5,15 @@
     "artist": "Kryštof",
     "date": "20.10.2025",
     "time": "19:15",
-    "listeners": 2033
+    "listeners": 2033,
+    "lyricists": null,
+    "album": "25",
+    "release_year": 2017,
+    "duration_ms": 376000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bilá Lucie",
     "date": "20.10.2025",
     "time": "19:11",
-    "listeners": 1837
+    "listeners": 1837,
+    "lyricists": null,
+    "album": "Platinum Collection",
+    "release_year": 1998,
+    "duration_ms": 211897,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "No Name",
     "date": "20.10.2025",
     "time": "19:06",
-    "listeners": 1987
+    "listeners": 1987,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2003,
+    "duration_ms": 210307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Hana Hegerová",
     "date": "20.10.2025",
     "time": "19:03",
-    "listeners": 1965
+    "listeners": 1965,
+    "lyricists": null,
+    "album": "Paběrky",
+    "release_year": 2015,
+    "duration_ms": 183600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,16 @@
     "artist": "Imt Smile",
     "date": "20.10.2025",
     "time": "18:59",
-    "listeners": 2049
+    "listeners": 2049,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 231800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

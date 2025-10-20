@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Gimme Gimme Gimme A Man After Midnight",
+    "artist": "Abba",
+    "date": "20.10.2025",
+    "time": "08:44",
+    "listeners": 2472
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tarzan Boy",
+    "artist": "Baltimora",
+    "date": "20.10.2025",
+    "time": "08:41",
+    "listeners": 2389
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "S Nohami Na Stole",
+    "artist": "Nagy Peter",
+    "date": "20.10.2025",
+    "time": "08:36",
+    "listeners": 2609
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Que Sera Mi Vida",
+    "artist": "The Gibson Brothers",
+    "date": "20.10.2025",
+    "time": "08:33",
+    "listeners": 2461
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kráľovná Bielych Tenisiek",
     "artist": "Elán",
     "date": "20.10.2025",

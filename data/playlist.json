@@ -5,7 +5,15 @@
     "artist": "The Gipsy Kings",
     "date": "20.10.2025",
     "time": "15:36",
-    "listeners": 1419
+    "listeners": 1419,
+    "lyricists": null,
+    "album": "The Essential Gipsy Kings",
+    "release_year": 1989,
+    "duration_ms": 219667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Shalom",
     "date": "20.10.2025",
     "time": "15:32",
-    "listeners": 1303
+    "listeners": 1303,
+    "lyricists": null,
+    "album": "Slunce / To Nejlepsi",
+    "release_year": 2014,
+    "duration_ms": 213956,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "David Michal Kroky Františka Janečka",
     "date": "20.10.2025",
     "time": "15:27",
-    "listeners": 1285
+    "listeners": 1285,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 193239,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "20.10.2025",
     "time": "15:23",
-    "listeners": 1320
+    "listeners": 1320,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 1994,
+    "duration_ms": 238467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Clapton Eric",
     "date": "20.10.2025",
     "time": "15:18",
-    "listeners": 1205
+    "listeners": 1205,
+    "lyricists": null,
+    "album": "Clapton Chronicles: The Best of Eric Clapton",
+    "release_year": 1992,
+    "duration_ms": 271760,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Vondráčková Helena Neckář Václav",
     "date": "20.10.2025",
     "time": "15:16",
-    "listeners": 1095
+    "listeners": 1095,
+    "lyricists": null,
+    "album": "Rendez Vous",
+    "release_year": 1965,
+    "duration_ms": 143680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Williams, Robbie",
     "date": "20.10.2025",
     "time": "15:08",
-    "listeners": 1094
+    "listeners": 1094,
+    "lyricists": null,
+    "album": "Sing When You're Winning",
+    "release_year": 2000,
+    "duration_ms": 237401,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

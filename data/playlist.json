@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "20.10.2025",
+    "time": "10:50",
+    "listeners": 982
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "20.10.2025",
+    "time": "10:47",
+    "listeners": 1035
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch Me (I Want Your Body)",
+    "artist": "Fox Samantha",
+    "date": "20.10.2025",
+    "time": "10:44",
+    "listeners": 1039
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malý Princ",
+    "artist": "Aya",
+    "date": "20.10.2025",
+    "time": "10:39",
+    "listeners": 924
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Imagine",
+    "artist": "John Lennon, The Plastic Ono Band",
+    "date": "20.10.2025",
+    "time": "10:36",
+    "listeners": 856
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sestrička Z Kramárov",
     "artist": "Elán",
     "date": "20.10.2025",

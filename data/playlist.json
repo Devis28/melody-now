@@ -5,7 +5,16 @@
     "artist": "Beloved, The",
     "date": "20.10.2025",
     "time": "03:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Conscience",
+    "release_year": 1989,
+    "duration_ms": 301467,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Patejdl Vašo & Dubasová Beáta",
     "date": "20.10.2025",
     "time": "03:35",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 1989,
+    "duration_ms": 223787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Habera Pavol & Ibrahim Maiga",
     "date": "20.10.2025",
     "time": "03:31",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2008,
+    "duration_ms": 226000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Queen",
     "date": "20.10.2025",
     "time": "03:27",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "A Kind of Magic (Deluxe Edition)",
+    "release_year": 1993,
+    "duration_ms": 264254,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "No Name",
     "date": "20.10.2025",
     "time": "03:24",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2014,
+    "duration_ms": 199733,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Westlife",
     "date": "20.10.2025",
     "time": "03:19",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Love Album",
+    "release_year": 2007,
+    "duration_ms": 279619,
+    "artist_country": "IE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,16 @@
     "artist": "Desmod",
     "date": "20.10.2025",
     "time": "03:15",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Molekuly Zvuku",
+    "release_year": 2017,
+    "duration_ms": 207978,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +120,15 @@
     "artist": "Braxton Toni",
     "date": "20.10.2025",
     "time": "03:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Secrets",
+    "release_year": 1996,
+    "duration_ms": 270333,
+    "artist_country": null,
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +136,15 @@
     "artist": "Modern Talking",
     "date": "20.10.2025",
     "time": "03:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Very Best of Modern Talking",
+    "release_year": 2009,
+    "duration_ms": 221093,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +152,15 @@
     "artist": "Vondráčková Helena",
     "date": "20.10.2025",
     "time": "03:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "release_year": 1992,
+    "duration_ms": 290640,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +168,15 @@
     "artist": "Peha",
     "date": "20.10.2025",
     "time": "02:58",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2003,
+    "duration_ms": 232616,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +184,15 @@
     "artist": "Tina Turner/Eros Ramazzotti",
     "date": "20.10.2025",
     "time": "02:53",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 291133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +200,15 @@
     "artist": "Nagy Peter",
     "date": "20.10.2025",
     "time": "02:50",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Šachy robia človeka",
+    "release_year": 1989,
+    "duration_ms": 201813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +216,15 @@
     "artist": "Brightman Sarah&Bocelli Andrea",
     "date": "20.10.2025",
     "time": "02:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Romanza",
+    "release_year": 1995,
+    "duration_ms": 244627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +232,15 @@
     "artist": "Terry Jacks",
     "date": "20.10.2025",
     "time": "02:42",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Seasons In The Sun (Expanded Edition)",
+    "release_year": 2010,
+    "duration_ms": 208853,
+    "artist_country": "CA",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +248,16 @@
     "artist": "Peter Cmorík",
     "date": "20.10.2025",
     "time": "02:37",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Nadherny Den",
+    "release_year": 2008,
+    "duration_ms": 279720,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +265,15 @@
     "artist": "The Bee Gees",
     "date": "20.10.2025",
     "time": "02:34",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "E.S.P.",
+    "release_year": 2004,
+    "duration_ms": 241400,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +281,15 @@
     "artist": "Zbirka Miro & Martha",
     "date": "20.10.2025",
     "time": "02:30",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2001,
+    "duration_ms": 204173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +297,15 @@
     "artist": "Gombitová Marika",
     "date": "20.10.2025",
     "time": "02:27",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Kam idú ľudia?",
+    "release_year": 1990,
+    "duration_ms": 219093,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +313,24 @@
     "artist": "Kool & The Gang",
     "date": "20.10.2025",
     "time": "02:23",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Claydes Smith",
+      "Clifford Adams",
+      "Curtis “Fitz” Williams",
+      "George Brown",
+      "James “J.T.” Taylor",
+      "Jim Bonnefond",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ],
+    "album": "Emergency",
+    "release_year": 1984,
+    "duration_ms": 290600,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +338,15 @@
     "artist": "Imt Smile",
     "date": "20.10.2025",
     "time": "02:19",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2020,
+    "duration_ms": 241160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +354,15 @@
     "artist": "Simon Paul & Garfunkel Art",
     "date": "20.10.2025",
     "time": "02:16",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Bridge Over Troubled Water",
+    "release_year": 1970,
+    "duration_ms": 188595,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +370,15 @@
     "artist": "Bartošová Iveta",
     "date": "20.10.2025",
     "time": "02:13",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 172600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -189,7 +386,15 @@
     "artist": "Team",
     "date": "20.10.2025",
     "time": "02:09",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2011,
+    "duration_ms": 242413,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -197,7 +402,16 @@
     "artist": "Robbie Williams",
     "date": "20.10.2025",
     "time": "02:05",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "I've Been Expecting You",
+    "release_year": 1998,
+    "duration_ms": 258027,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -205,7 +419,15 @@
     "artist": "Janda Dalibor",
     "date": "20.10.2025",
     "time": "02:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 190627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -213,7 +435,17 @@
     "artist": "Abba",
     "date": "20.10.2025",
     "time": "01:57",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 1976,
+    "duration_ms": 253220,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

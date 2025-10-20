@@ -5,7 +5,15 @@
     "artist": "Nagy Peter",
     "date": "20.10.2025",
     "time": "22:10",
-    "listeners": 785
+    "listeners": 785,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 253000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Soul Asylum",
     "date": "20.10.2025",
     "time": "22:05",
-    "listeners": 846
+    "listeners": 846,
+    "lyricists": null,
+    "album": "Black Gold: The Best of Soul Asylum",
+    "release_year": 2007,
+    "duration_ms": 266067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Ricchi E Poveri",
     "date": "20.10.2025",
     "time": "22:02",
-    "listeners": 920
+    "listeners": 920,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1987,
+    "duration_ms": 190693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Cher",
     "date": "20.10.2025",
     "time": "21:59",
-    "listeners": 880
+    "listeners": 880,
+    "lyricists": null,
+    "album": "Love Hurts",
+    "release_year": 1999,
+    "duration_ms": 170000,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Team",
     "date": "20.10.2025",
     "time": "21:55",
-    "listeners": 1009
+    "listeners": 1009,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2006,
+    "duration_ms": 221933,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

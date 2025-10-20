@@ -5,7 +5,15 @@
     "artist": "Fool's Garden",
     "date": "20.10.2025",
     "time": "13:36",
-    "listeners": 1277
+    "listeners": 1277,
+    "lyricists": null,
+    "album": "Dish of the Day",
+    "release_year": 1995,
+    "duration_ms": 191027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Patejdl, Vaso",
     "date": "20.10.2025",
     "time": "13:32",
-    "listeners": 1378
+    "listeners": 1378,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 252013,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Boney M.",
     "date": "20.10.2025",
     "time": "13:29",
-    "listeners": 1303
+    "listeners": 1303,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2025,
+    "duration_ms": 261200,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

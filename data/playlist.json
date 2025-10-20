@@ -5,7 +5,13 @@
     "artist": "Uherčík, Ďurinda, Griglák, Horváth",
     "date": "20.10.2025",
     "time": "11:41",
-    "listeners": 1449
+    "listeners": 1449,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,15 @@
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "20.10.2025",
     "time": "11:37",
-    "listeners": 1367
+    "listeners": 1367,
+    "lyricists": null,
+    "album": "Bookends",
+    "release_year": 1968,
+    "duration_ms": 247420,
+    "artist_country": null,
+    "genres": [
+      "Classical"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Osborne Joan",
     "date": "20.10.2025",
     "time": "11:33",
-    "listeners": 1332
+    "listeners": 1332,
+    "lyricists": null,
+    "album": "Relish",
+    "release_year": 1995,
+    "duration_ms": 320467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,16 @@
     "artist": "Kylie Minogue",
     "date": "20.10.2025",
     "time": "11:30",
-    "listeners": 1317
+    "listeners": 1317,
+    "lyricists": null,
+    "album": "Showgirl - Homecoming (Live)",
+    "release_year": 2012,
+    "duration_ms": 283333,
+    "artist_country": "AU",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

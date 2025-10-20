@@ -5,7 +5,13 @@
     "artist": "Whitney Houston",
     "date": "20.10.2025",
     "time": "17:54",
-    "listeners": 3098
+    "listeners": 3098,
+    "lyricists": null,
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "release_year": 2000,
+    "duration_ms": 271093,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,15 @@
     "artist": "Abba",
     "date": "20.10.2025",
     "time": "17:51",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 212304,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

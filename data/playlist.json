@@ -5,7 +5,16 @@
     "artist": "Boney M",
     "date": "20.10.2025",
     "time": "09:18",
-    "listeners": 1687
+    "listeners": 1687,
+    "lyricists": null,
+    "album": "Daddy Cool",
+    "release_year": 2016,
+    "duration_ms": 206086,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Céline Dion",
     "date": "20.10.2025",
     "time": "09:13",
-    "listeners": 1778
+    "listeners": 1778,
+    "lyricists": null,
+    "album": "Falling Into You",
+    "release_year": 1999,
+    "duration_ms": 273667,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Bartošová Iveta",
     "date": "20.10.2025",
     "time": "09:09",
-    "listeners": 1887
+    "listeners": 1887,
+    "lyricists": null,
+    "album": "I.B.",
+    "release_year": 1987,
+    "duration_ms": 221205,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Uriah Heep",
     "date": "20.10.2025",
     "time": "09:04",
-    "listeners": 1896
+    "listeners": 1896,
+    "lyricists": null,
+    "album": "The Best of... Pt. 1",
+    "release_year": 1996,
+    "duration_ms": 282307,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Miro Žbirka",
     "date": "20.10.2025",
     "time": "09:01",
-    "listeners": 1998
+    "listeners": 1998,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 181307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

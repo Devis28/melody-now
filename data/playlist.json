@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "There's A Party",
+    "artist": "Dj Bobo",
+    "date": "20.10.2025",
+    "time": "17:06",
+    "listeners": 3117
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pieseň Pre Nesmelých",
+    "artist": "Team",
+    "date": "20.10.2025",
+    "time": "17:02",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angel",
+    "artist": "Shaggy",
+    "date": "20.10.2025",
+    "time": "16:55",
+    "listeners": 3030
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Yes Sir, I Can Boogie",
     "artist": "Baccara",
     "date": "20.10.2025",

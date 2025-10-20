@@ -5,7 +5,15 @@
     "artist": "Vondráčková Helena",
     "date": "20.10.2025",
     "time": "06:14",
-    "listeners": 1212
+    "listeners": 1212,
+    "lyricists": null,
+    "album": "Růže Kvetou Dál",
+    "release_year": 1964,
+    "duration_ms": 154200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ricky Martin",
     "date": "20.10.2025",
     "time": "06:06",
-    "listeners": 918
+    "listeners": 918,
+    "lyricists": null,
+    "album": "Ricky Martin",
+    "release_year": 1997,
+    "duration_ms": 271267,
+    "artist_country": "PR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Elán",
     "date": "20.10.2025",
     "time": "06:03",
-    "listeners": 898
+    "listeners": 898,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 1992,
+    "duration_ms": 232613,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Jermaine Jackson & Pia Zadora",
     "date": "20.10.2025",
     "time": "05:56",
-    "listeners": 815
+    "listeners": 815,
+    "lyricists": null,
+    "album": "Jermaine Jackson: Greatest Hits",
+    "release_year": 2018,
+    "duration_ms": 243790,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

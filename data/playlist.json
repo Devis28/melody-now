@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Zlodejka Snov Ii",
+    "artist": "Miro Žbirka",
+    "date": "20.10.2025",
+    "time": "19:50",
+    "listeners": 1646
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kdo Vchází Do Tvých Snů Má Lásko",
+    "artist": "Neckář Václav",
+    "date": "20.10.2025",
+    "time": "19:45",
+    "listeners": 1698
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hurikán",
     "artist": "Janda Dalibor",
     "date": "20.10.2025",

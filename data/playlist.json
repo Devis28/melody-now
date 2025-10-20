@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "20.10.2025",
     "time": "10:33",
-    "listeners": 886
+    "listeners": 886,
+    "lyricists": null,
+    "album": "Netvor z čiernej hviezdy Q7A",
+    "release_year": 2004,
+    "duration_ms": 238000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Alizee",
     "date": "20.10.2025",
     "time": "10:28",
-    "listeners": 867
+    "listeners": 867,
+    "lyricists": null,
+    "album": "Gourmandises",
+    "release_year": 2001,
+    "duration_ms": 264283,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,17 @@
     "artist": "Abba",
     "date": "20.10.2025",
     "time": "10:24",
-    "listeners": 836
+    "listeners": 836,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 2008,
+    "duration_ms": 231844,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Soulsister",
     "date": "20.10.2025",
     "time": "10:20",
-    "listeners": 901
+    "listeners": 901,
+    "lyricists": null,
+    "album": "Live Savings",
+    "release_year": 1990,
+    "duration_ms": 280776,
+    "artist_country": "BE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Jana Kirschner",
     "date": "20.10.2025",
     "time": "10:17",
-    "listeners": 907
+    "listeners": 907,
+    "lyricists": null,
+    "album": "Živá",
+    "release_year": 2017,
+    "duration_ms": 228594,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Suzi Quatro",
     "date": "20.10.2025",
     "time": "10:13",
-    "listeners": 976
+    "listeners": 976,
+    "lyricists": null,
+    "album": "If You Knew Suzi… (2017 Remaster)",
+    "release_year": 1988,
+    "duration_ms": 232994,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,19 @@
     "artist": "Fancy",
     "date": "20.10.2025",
     "time": "10:09",
-    "listeners": 900
+    "listeners": 900,
+    "lyricists": [
+      "Alfons Weindorf",
+      "Fancy",
+      "Sabrina Lorenz"
+    ],
+    "album": "Hit Collection",
+    "release_year": 1998,
+    "duration_ms": 217880,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +123,18 @@
     "artist": "Jon Secada",
     "date": "20.10.2025",
     "time": "10:03",
-    "listeners": 1049
+    "listeners": 1049,
+    "lyricists": [
+      "Jon Secada",
+      "Miguel A. Morejón"
+    ],
+    "album": "Jon Secada",
+    "release_year": 1993,
+    "duration_ms": 327427,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +142,15 @@
     "artist": "Vondrackova Helena + Korn Jiri",
     "date": "20.10.2025",
     "time": "10:00",
-    "listeners": 996
+    "listeners": 996,
+    "lyricists": null,
+    "album": "Těch Pár Dnů",
+    "release_year": null,
+    "duration_ms": 179000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "20.10.2025",
     "time": "08:44",
-    "listeners": 2472
+    "listeners": 2472,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1979,
+    "duration_ms": 289887,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Baltimora",
     "date": "20.10.2025",
     "time": "08:41",
-    "listeners": 2389
+    "listeners": 2389,
+    "lyricists": null,
+    "album": "Living In the Background",
+    "release_year": 1997,
+    "duration_ms": 378947,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Nagy Peter",
     "date": "20.10.2025",
     "time": "08:36",
-    "listeners": 2609
+    "listeners": 2609,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2009,
+    "duration_ms": 264040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "The Gibson Brothers",
     "date": "20.10.2025",
     "time": "08:33",
-    "listeners": 2461
+    "listeners": 2461,
+    "lyricists": null,
+    "album": "Cuba",
+    "release_year": 2005,
+    "duration_ms": 352533,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

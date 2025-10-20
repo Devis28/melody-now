@@ -5,7 +5,15 @@
     "artist": "Brezovská Mirka",
     "date": "20.10.2025",
     "time": "13:08",
-    "listeners": 1399
+    "listeners": 1399,
+    "lyricists": null,
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "release_year": 2016,
+    "duration_ms": 197007,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Beatles",
     "date": "20.10.2025",
     "time": "13:05",
-    "listeners": 1512
+    "listeners": 1512,
+    "lyricists": null,
+    "album": "Abbey Road (Remastered)",
+    "release_year": 1978,
+    "duration_ms": 185733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Müller Richard",
     "date": "20.10.2025",
     "time": "13:01",
-    "listeners": 1585
+    "listeners": 1585,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2012,
+    "duration_ms": 280013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

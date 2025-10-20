@@ -5,7 +5,15 @@
     "artist": "Cher",
     "date": "20.10.2025",
     "time": "06:37",
-    "listeners": 1531
+    "listeners": 1531,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 1999,
+    "duration_ms": 239027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Sandra",
     "date": "20.10.2025",
     "time": "06:34",
-    "listeners": 1488
+    "listeners": 1488,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 2018,
+    "duration_ms": 221107,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Kelly Family, The",
     "date": "20.10.2025",
     "time": "06:30",
-    "listeners": 1420
+    "listeners": 1420,
+    "lyricists": null,
+    "album": "Over the Hump",
+    "release_year": 1994,
+    "duration_ms": 224507,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Beatles, The",
     "date": "20.10.2025",
     "time": "06:23",
-    "listeners": 1380
+    "listeners": 1380,
+    "lyricists": null,
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "release_year": 1968,
+    "duration_ms": 431333,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Zagorová Hana Kotvald Petr Hložek Stanislav",
     "date": "20.10.2025",
     "time": "06:19",
-    "listeners": 1254
+    "listeners": 1254,
+    "lyricists": null,
+    "album": "Sanitka 2",
+    "release_year": 2013,
+    "duration_ms": 217747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Mckee Maria",
     "date": "20.10.2025",
     "time": "06:16",
-    "listeners": 1084
+    "listeners": 1084,
+    "lyricists": null,
+    "album": "Ultimate Collection: Maria McKee",
+    "release_year": 1993,
+    "duration_ms": 224707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

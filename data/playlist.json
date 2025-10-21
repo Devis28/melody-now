@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "date": "21.10.2025",
+    "time": "18:52",
+    "listeners": 2155
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Správne Dievčatá",
+    "artist": "Gombitová Marika",
+    "date": "21.10.2025",
+    "time": "18:47",
+    "listeners": 2476
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slzy Tvý Mámy",
+    "artist": "Olympic",
+    "date": "21.10.2025",
+    "time": "18:43",
+    "listeners": 2396
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Discopříběh",
+    "artist": "David Michal",
+    "date": "21.10.2025",
+    "time": "18:40",
+    "listeners": 2478
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Keď Sme Sami",
     "artist": "Hex",
     "date": "21.10.2025",

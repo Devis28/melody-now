@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "21.10.2025",
     "time": "17:28",
-    "listeners": 2978
+    "listeners": 2978,
+    "lyricists": null,
+    "album": "Meky",
+    "release_year": 1997,
+    "duration_ms": 188467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Smokie",
     "date": "21.10.2025",
     "time": "17:24",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2009,
+    "duration_ms": 237667,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Team",
     "date": "21.10.2025",
     "time": "17:19",
-    "listeners": 2934
+    "listeners": 2934,
+    "lyricists": null,
+    "album": "Team Hity",
+    "release_year": 2011,
+    "duration_ms": 307467,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

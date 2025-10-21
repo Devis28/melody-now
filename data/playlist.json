@@ -5,7 +5,15 @@
     "artist": "Bad Boys Blue",
     "date": "21.10.2025",
     "time": "17:44",
-    "listeners": 3198
+    "listeners": 3198,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 2009,
+    "duration_ms": 321840,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Dj Bobo",
     "date": "21.10.2025",
     "time": "17:41",
-    "listeners": 3110
+    "listeners": 3110,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 229893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Modus",
     "date": "21.10.2025",
     "time": "17:37",
-    "listeners": 3178
+    "listeners": 3178,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 1998,
+    "duration_ms": 289613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,17 @@
     "artist": "Kaoma",
     "date": "21.10.2025",
     "time": "17:34",
-    "listeners": 3081
+    "listeners": 3081,
+    "lyricists": [
+      "Kaoma"
+    ],
+    "album": "La Lambada",
+    "release_year": 1991,
+    "duration_ms": 207467,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

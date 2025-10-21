@@ -5,7 +5,16 @@
     "artist": "Beloved, The",
     "date": "21.10.2025",
     "time": "13:42",
-    "listeners": 1200
+    "listeners": 1200,
+    "lyricists": null,
+    "album": "Conscience",
+    "release_year": 1989,
+    "duration_ms": 301467,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Michael Sembello",
     "date": "21.10.2025",
     "time": "13:36",
-    "listeners": 1284
+    "listeners": 1284,
+    "lyricists": [
+      "Dennis Matkosky",
+      "Michael Sembello"
+    ],
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "release_year": 2022,
+    "duration_ms": 244707,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,13 @@
     "artist": "Israel",
     "date": "21.10.2025",
     "time": "11:38",
-    "listeners": 1325
+    "listeners": 1325,
+    "lyricists": null,
+    "album": "Unforgettable",
+    "release_year": 2006,
+    "duration_ms": 244013,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,18 @@
     "artist": "Elton John",
     "date": "21.10.2025",
     "time": "11:34",
-    "listeners": 1391
+    "listeners": 1391,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition)",
+    "release_year": 2003,
+    "duration_ms": 228928,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "David Michal",
     "date": "21.10.2025",
     "time": "11:32",
-    "listeners": 1297
+    "listeners": 1297,
+    "lyricists": null,
+    "album": "Non Stop",
+    "release_year": 2001,
+    "duration_ms": 137707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

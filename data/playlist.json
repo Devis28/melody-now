@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hlupák Váhá",
+    "artist": "Katapult",
+    "date": "21.10.2025",
+    "time": "19:58",
+    "listeners": 1576
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Líbezná",
+    "artist": "David Michal",
+    "date": "21.10.2025",
+    "time": "19:53",
+    "listeners": 1565
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nie Alebo Áno",
     "artist": "No Name",
     "date": "21.10.2025",

@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Joe Le Taxi",
+    "artist": "Paradis, Vanessa",
+    "date": "21.10.2025",
+    "time": "16:15",
+    "listeners": 2103
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "date": "21.10.2025",
+    "time": "16:11",
+    "listeners": 2094
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Message",
+    "artist": "Love Message",
+    "date": "21.10.2025",
+    "time": "16:07",
+    "listeners": 2198
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vyznanie",
+    "artist": "Marika Gombitová",
+    "date": "21.10.2025",
+    "time": "16:03",
+    "listeners": 1958
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "L' Italiano",
+    "artist": "Toto Cutugno",
+    "date": "21.10.2025",
+    "time": "15:54",
+    "listeners": 1766
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sen",
     "artist": "Mc Erik And Barbara",
     "date": "21.10.2025",

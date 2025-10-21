@@ -5,7 +5,15 @@
     "artist": "Camouflage",
     "date": "21.10.2025",
     "time": "17:51",
-    "listeners": 3189
+    "listeners": 3189,
+    "lyricists": null,
+    "album": "Love Is A Shield - Single",
+    "release_year": 1989,
+    "duration_ms": 241013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Pavol Hammel",
     "date": "21.10.2025",
     "time": "17:49",
-    "listeners": 3084
+    "listeners": 3084,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1997,
+    "duration_ms": 168587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

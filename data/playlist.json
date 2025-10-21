@@ -5,7 +5,15 @@
     "artist": "Žbirka Miro",
     "date": "21.10.2025",
     "time": "21:04",
-    "listeners": 1206
+    "listeners": 1206,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 1988,
+    "duration_ms": 164347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Richard Müller",
     "date": "21.10.2025",
     "time": "21:00",
-    "listeners": 1296
+    "listeners": 1296,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2017,
+    "duration_ms": 297640,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Iglesias Enrique",
     "date": "21.10.2025",
     "time": "20:56",
-    "listeners": 1314
+    "listeners": 1314,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 209200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Abba",
     "date": "21.10.2025",
     "time": "20:54",
-    "listeners": 1293
+    "listeners": 1293,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1974,
+    "duration_ms": 165800,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

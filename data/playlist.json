@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "21.10.2025",
+    "time": "05:52",
+    "listeners": 678
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Want To Know What Love Is",
+    "artist": "Foreigner",
+    "date": "21.10.2025",
+    "time": "05:48",
+    "listeners": 686
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Gimme Gimme Gimme A Man After Midnight",
+    "artist": "Abba",
+    "date": "21.10.2025",
+    "time": "05:43",
+    "listeners": 622
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "21.10.2025",
+    "time": "05:38",
+    "listeners": 556
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Podvod",
+    "artist": "Honza Nedvěd",
+    "date": "21.10.2025",
+    "time": "05:34",
+    "listeners": 486
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Only Time (Two Tribes Remix))",
+    "artist": "Enya",
+    "date": "21.10.2025",
+    "time": "05:31",
+    "listeners": 482
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Loď do neznáma",
     "artist": "Uherčík, Ďurinda, Griglák, Horváth",
     "date": "21.10.2025",

@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Voulez Vous",
+    "artist": "Abba",
+    "date": "21.10.2025",
+    "time": "14:55",
+    "listeners": 957
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "21.10.2025",
+    "time": "14:52",
+    "listeners": 952
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Okno Mé Lásky",
+    "artist": "Olympic",
+    "date": "21.10.2025",
+    "time": "14:48",
+    "listeners": 958
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "21.10.2025",
+    "time": "14:41",
+    "listeners": 915
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nikita",
+    "artist": "Elton John",
+    "date": "21.10.2025",
+    "time": "14:36",
+    "listeners": 842
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Když Muž Se Ženou Snída",
+    "artist": "Gott Karel",
+    "date": "21.10.2025",
+    "time": "14:32",
+    "listeners": 885
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Heaven Is A Place On Earth",
+    "artist": "Belinda Carlisle",
+    "date": "21.10.2025",
+    "time": "14:25",
+    "listeners": 841
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "21.10.2025",
+    "time": "14:21",
+    "listeners": 950
+  },
+  {
+    "station": "Rádio Melody",
     "title": "It's A Sin",
     "artist": "Pet Shop Boys",
     "date": "21.10.2025",

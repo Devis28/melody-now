@@ -5,7 +5,15 @@
     "artist": "Muller Richard & Anna K. Ivan Tasler",
     "date": "21.10.2025",
     "time": "23:26",
-    "listeners": 403
+    "listeners": 403,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2000,
+    "duration_ms": 376360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Václav Neckář",
     "date": "21.10.2025",
     "time": "23:22",
-    "listeners": 449
+    "listeners": 449,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 2003,
+    "duration_ms": 268907,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Modern Talking",
     "date": "21.10.2025",
     "time": "23:18",
-    "listeners": 480
+    "listeners": 480,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1984,
+    "duration_ms": 202228,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Peter Bič Project",
     "date": "21.10.2025",
     "time": "23:13",
-    "listeners": 472
+    "listeners": 472,
+    "lyricists": null,
+    "album": "Labyrint",
+    "release_year": 2019,
+    "duration_ms": 309780,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

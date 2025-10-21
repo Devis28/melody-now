@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Vymyslená",
+    "artist": "Elán",
+    "date": "21.10.2025",
+    "time": "09:09",
+    "listeners": 1875
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nah Neh Nah",
+    "artist": "Vaya Con Dios",
+    "date": "21.10.2025",
+    "time": "09:06",
+    "listeners": 2085
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "21.10.2025",
+    "time": "09:03",
+    "listeners": 1998
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nothing Else Matters",
     "artist": "Metallica",
     "date": "21.10.2025",

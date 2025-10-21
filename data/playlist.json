@@ -5,7 +5,15 @@
     "artist": "Nazareth",
     "date": "21.10.2025",
     "time": "09:49",
-    "listeners": 1158
+    "listeners": 1158,
+    "lyricists": null,
+    "album": "2Xs",
+    "release_year": 2005,
+    "duration_ms": 204827,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Beata Dubasová",
     "date": "21.10.2025",
     "time": "09:44",
-    "listeners": 1167
+    "listeners": 1167,
+    "lyricists": null,
+    "album": "Za dverami mojej izby",
+    "release_year": 1990,
+    "duration_ms": 303903,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Yazoo",
     "date": "21.10.2025",
     "time": "09:41",
-    "listeners": 1387
+    "listeners": 1387,
+    "lyricists": null,
+    "album": "Upstairs at Eric's (Remastered)",
+    "release_year": 2008,
+    "duration_ms": 195213,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

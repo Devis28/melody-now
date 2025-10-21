@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nie Alebo Áno",
+    "artist": "No Name",
+    "date": "21.10.2025",
+    "time": "19:49",
+    "listeners": 1660
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jednoho Dne Se Vrátíš",
+    "artist": "Věra Špinarová",
+    "date": "21.10.2025",
+    "time": "19:45",
+    "listeners": 1694
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slobodná",
+    "artist": "Elán",
+    "date": "21.10.2025",
+    "time": "19:41",
+    "listeners": 1710
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nočná Optika",
+    "artist": "Müller Richard",
+    "date": "21.10.2025",
+    "time": "19:37",
+    "listeners": 1818
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dr. Jekyll A Mr. Hyde",
+    "artist": "Miro Žbirka",
+    "date": "21.10.2025",
+    "time": "19:33",
+    "listeners": 1713
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bílá Královna",
+    "artist": "Stanislav Hlozek & Petr Kotvald",
+    "date": "21.10.2025",
+    "time": "19:29",
+    "listeners": 1888
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Bozk",
     "artist": "I.M.T. Smile",
     "date": "21.10.2025",

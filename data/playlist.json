@@ -5,7 +5,15 @@
     "artist": "Darina Rolincová",
     "date": "21.10.2025",
     "time": "22:53",
-    "listeners": 555
+    "listeners": 555,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1998,
+    "duration_ms": 238640,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Eagles The",
     "date": "21.10.2025",
     "time": "22:48",
-    "listeners": 606
+    "listeners": 606,
+    "lyricists": null,
+    "album": "Hotel California (40th Anniversary Expanded Edition)",
+    "release_year": 1976,
+    "duration_ms": 391357,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

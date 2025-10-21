@@ -5,7 +5,15 @@
     "artist": "I.M.T. Smile",
     "date": "21.10.2025",
     "time": "19:25",
-    "listeners": 2035
+    "listeners": 2035,
+    "lyricists": null,
+    "album": "2010 Odysea Dva",
+    "release_year": 2020,
+    "duration_ms": 232120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Matuška Waldemar",
     "date": "21.10.2025",
     "time": "19:20",
-    "listeners": 2116
+    "listeners": 2116,
+    "lyricists": null,
+    "album": "Co Neodnesl Čas",
+    "release_year": 1991,
+    "duration_ms": 300107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Plavci",
     "date": "21.10.2025",
     "time": "19:17",
-    "listeners": 2128
+    "listeners": 2128,
+    "lyricists": null,
+    "album": "Rangers (Plavci) - Největší hity",
+    "release_year": 1994,
+    "duration_ms": 160827,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Gott Karel",
     "date": "21.10.2025",
     "time": "19:14",
-    "listeners": 1997
+    "listeners": 1997,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 172893,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

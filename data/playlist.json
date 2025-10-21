@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hard To Say I'm Sorry",
+    "artist": "Chicago",
+    "date": "21.10.2025",
+    "time": "06:23",
+    "listeners": 1290
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ten Príbeh Je Preč",
+    "artist": "Beata Dubasová",
+    "date": "21.10.2025",
+    "time": "06:19",
+    "listeners": 1198
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Sound Of Silence",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "21.10.2025",
+    "time": "06:16",
+    "listeners": 1147
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "date": "21.10.2025",
+    "time": "06:12",
+    "listeners": 1109
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Truly Madly Deeply",
+    "artist": "Savage Garden",
+    "date": "21.10.2025",
+    "time": "06:06",
+    "listeners": 917
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Medulienka",
+    "artist": "Hammel Pavol",
+    "date": "21.10.2025",
+    "time": "06:02",
+    "listeners": 961
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cause You Are Young",
     "artist": "C.C. Catch",
     "date": "21.10.2025",

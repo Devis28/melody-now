@@ -5,7 +5,15 @@
     "artist": "Pet Shop Boys",
     "date": "21.10.2025",
     "time": "14:16",
-    "listeners": 916
+    "listeners": 916,
+    "lyricists": null,
+    "album": "Actually (2018 Remaster)",
+    "release_year": 1991,
+    "duration_ms": 299253,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Rod Stewart",
     "date": "21.10.2025",
     "time": "14:09",
-    "listeners": 872
+    "listeners": 872,
+    "lyricists": null,
+    "album": "Some Guys Have All the Luck",
+    "release_year": 1993,
+    "duration_ms": 278600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Enigma",
     "date": "21.10.2025",
     "time": "14:05",
-    "listeners": 1017
+    "listeners": 1017,
+    "lyricists": null,
+    "album": "Love Sensuality Devotion: The Greatest Hits",
+    "release_year": 2001,
+    "duration_ms": 255533,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Patejdl Vašo",
     "date": "21.10.2025",
     "time": "14:02",
-    "listeners": 1095
+    "listeners": 1095,
+    "lyricists": null,
+    "album": "Lov na city",
+    "release_year": 1987,
+    "duration_ms": 205813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,16 @@
     "artist": "The Police",
     "date": "21.10.2025",
     "time": "13:54",
-    "listeners": 1035
+    "listeners": 1035,
+    "lyricists": null,
+    "album": "Synchronicity (Remastered 2003)",
+    "release_year": 1983,
+    "duration_ms": 253960,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

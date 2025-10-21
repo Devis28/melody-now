@@ -5,7 +5,15 @@
     "artist": "Shalom",
     "date": "21.10.2025",
     "time": "21:35",
-    "listeners": 991
+    "listeners": 991,
+    "lyricists": null,
+    "album": "Bon soir, mademoiselle Paris",
+    "release_year": 1999,
+    "duration_ms": 288980,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vidiek",
     "date": "21.10.2025",
     "time": "21:32",
-    "listeners": 1063
+    "listeners": 1063,
+    "lyricists": null,
+    "album": "Nechajte si ju!",
+    "release_year": 2000,
+    "duration_ms": 171013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Mercury Freddie",
     "date": "21.10.2025",
     "time": "21:29",
-    "listeners": 1136
+    "listeners": 1136,
+    "lyricists": null,
+    "album": "Never Boring",
+    "release_year": 1993,
+    "duration_ms": 217411,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Gombitová Marika",
     "date": "21.10.2025",
     "time": "21:25",
-    "listeners": 1121
+    "listeners": 1121,
+    "lyricists": null,
+    "album": "Mince na dne fontán",
+    "release_year": 1983,
+    "duration_ms": 224013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

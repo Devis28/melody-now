@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "21.10.2025",
+    "time": "16:29",
+    "listeners": 2565
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Človečina",
+    "artist": "Elán",
+    "date": "21.10.2025",
+    "time": "16:24",
+    "listeners": 2454
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Infinity",
+    "artist": "Guru Josh",
+    "date": "21.10.2025",
+    "time": "16:21",
+    "listeners": 2517
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Joe Le Taxi",
     "artist": "Paradis, Vanessa",
     "date": "21.10.2025",

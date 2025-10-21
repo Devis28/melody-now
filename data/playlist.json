@@ -5,7 +5,15 @@
     "artist": "Pet Shop Boys",
     "date": "21.10.2025",
     "time": "12:27",
-    "listeners": 1786
+    "listeners": 1786,
+    "lyricists": null,
+    "album": "Ultimate",
+    "release_year": 2000,
+    "duration_ms": 302360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Rottrová Marie",
     "date": "21.10.2025",
     "time": "12:23",
-    "listeners": 1629
+    "listeners": 1629,
+    "lyricists": null,
+    "album": "To Mám Tak Ráda",
+    "release_year": 1975,
+    "duration_ms": 222067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gloria Gaynor",
     "date": "21.10.2025",
     "time": "12:20",
-    "listeners": 1678
+    "listeners": 1678,
+    "lyricists": null,
+    "album": "I Will Survive: The Anthology",
+    "release_year": 2001,
+    "duration_ms": 481693,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Guns N Roses",
     "date": "21.10.2025",
     "time": "12:16",
-    "listeners": 1491
+    "listeners": 1491,
+    "lyricists": null,
+    "album": "Use Your Illusion I",
+    "release_year": 1992,
+    "duration_ms": 283733,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Miro Žbirka",
     "date": "21.10.2025",
     "time": "12:10",
-    "listeners": 1535
+    "listeners": 1535,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 2007,
+    "duration_ms": 307013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Michal Tučný",
     "date": "21.10.2025",
     "time": "12:06",
-    "listeners": 1526
+    "listeners": 1526,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Vengaboys",
     "date": "21.10.2025",
     "time": "12:02",
-    "listeners": 1512
+    "listeners": 1512,
+    "lyricists": null,
+    "album": "Boom, Boom, Boom, Boom!! - Single",
+    "release_year": 1998,
+    "duration_ms": 202583,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

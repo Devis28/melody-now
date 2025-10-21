@@ -5,7 +5,15 @@
     "artist": "Karel Gott & Darinka Rolincová",
     "date": "21.10.2025",
     "time": "18:13",
-    "listeners": 3034
+    "listeners": 3034,
+    "lyricists": null,
+    "album": "Zvonky Štěstí, Moje Druhé Já - Single",
+    "release_year": 2007,
+    "duration_ms": 236693,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karmen Pál-Baláž",
     "date": "21.10.2025",
     "time": "18:07",
-    "listeners": 2972
+    "listeners": 2972,
+    "lyricists": null,
+    "album": "Anjel - Single",
+    "release_year": 2023,
+    "duration_ms": 255102,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Elán",
     "date": "21.10.2025",
     "time": "18:02",
-    "listeners": 2902
+    "listeners": 2902,
+    "lyricists": null,
+    "album": "Hodina slovenčiny",
+    "release_year": 2008,
+    "duration_ms": 275987,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Zucchero,Paul Young",
     "date": "21.10.2025",
     "time": "17:55",
-    "listeners": 2776
+    "listeners": 2776,
+    "lyricists": null,
+    "album": "All the Best",
+    "release_year": 1991,
+    "duration_ms": 267080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

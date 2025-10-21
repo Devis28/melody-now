@@ -5,7 +5,15 @@
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "21.10.2025",
     "time": "20:49",
-    "listeners": 1419
+    "listeners": 1419,
+    "lyricists": null,
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "release_year": 1997,
+    "duration_ms": 301520,
+    "artist_country": null,
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,20 @@
     "artist": "Kristína",
     "date": "21.10.2025",
     "time": "20:45",
-    "listeners": 1335
+    "listeners": 1335,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "album": "V Sieti Ta Mam",
+    "release_year": 2014,
+    "duration_ms": 221000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +42,16 @@
     "artist": "Cars The",
     "date": "21.10.2025",
     "time": "20:41",
-    "listeners": 1354
+    "listeners": 1354,
+    "lyricists": null,
+    "album": "Heartbeat City",
+    "release_year": 1984,
+    "duration_ms": 234332,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +59,15 @@
     "artist": "Rimes Leann",
     "date": "21.10.2025",
     "time": "20:37",
-    "listeners": 1409
+    "listeners": 1409,
+    "lyricists": null,
+    "album": "Coyote Ugly",
+    "release_year": 2000,
+    "duration_ms": 215507,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",

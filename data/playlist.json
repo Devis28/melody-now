@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sme Svoji",
+    "artist": "Nagy Peter",
+    "date": "22.10.2025",
+    "time": "00:56",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Absolutely Everybody",
+    "artist": "Vanessa Amorosi",
+    "date": "22.10.2025",
+    "time": "00:52",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "date": "22.10.2025",
+    "time": "00:46",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Mi, Lásko, Není Dvacet Let",
+    "artist": "Jiří Zmožek",
+    "date": "22.10.2025",
+    "time": "00:42",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Musím Už Ísť",
     "artist": "Kelecsényi Martin",
     "date": "22.10.2025",

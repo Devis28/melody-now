@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sme Svoji",
+    "artist": "Nagy Peter",
+    "date": "21.10.2025",
+    "time": "06:50",
+    "listeners": 1917
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Absolutely Everybody",
+    "artist": "Vanessa Amorosi",
+    "date": "21.10.2025",
+    "time": "06:45",
+    "listeners": 1858
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Je Jaká Je",
     "artist": "Karel Gott",
     "date": "21.10.2025",

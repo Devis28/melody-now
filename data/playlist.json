@@ -5,7 +5,15 @@
     "artist": "Marika Gombitová",
     "date": "21.10.2025",
     "time": "10:30",
-    "listeners": 911
+    "listeners": 911,
+    "lyricists": null,
+    "album": "Single (1977 - 1989)",
+    "release_year": 2000,
+    "duration_ms": 202960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Pavol Habera",
     "date": "21.10.2025",
     "time": "10:27",
-    "listeners": 956
+    "listeners": 956,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Camouflage",
     "date": "21.10.2025",
     "time": "10:23",
-    "listeners": 874
+    "listeners": 874,
+    "lyricists": null,
+    "album": "Best of Camouflage: We Stroke the Flames",
+    "release_year": 2009,
+    "duration_ms": 253267,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Vondráčková Helena &Korn Jiří",
     "date": "21.10.2025",
     "time": "10:19",
-    "listeners": 924
+    "listeners": 924,
+    "lyricists": null,
+    "album": "Těch Pár Dnů",
+    "release_year": 2007,
+    "duration_ms": 282827,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Roxette",
     "date": "21.10.2025",
     "time": "10:15",
-    "listeners": 940
+    "listeners": 940,
+    "lyricists": null,
+    "album": "Joyride (30th Anniversary Edition)",
+    "release_year": 1995,
+    "duration_ms": 263093,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Žbirka Miro",
     "date": "21.10.2025",
     "time": "10:09",
-    "listeners": 947
+    "listeners": 947,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 1983,
+    "duration_ms": 245027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "I Santo California",
     "date": "21.10.2025",
     "time": "10:05",
-    "listeners": 996
+    "listeners": 996,
+    "lyricists": null,
+    "album": "Tornerò/Volveré - Single",
+    "release_year": 2001,
+    "duration_ms": 226355,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,18 @@
     "artist": "Michael Jackson",
     "date": "21.10.2025",
     "time": "10:02",
-    "listeners": 1062
+    "listeners": 1062,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "release_year": 2005,
+    "duration_ms": 284310,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Pink Floyd",
     "date": "21.10.2025",
     "time": "23:50",
-    "listeners": 334
+    "listeners": 334,
+    "lyricists": null,
+    "album": "The Division Bell",
+    "release_year": 1994,
+    "duration_ms": 511013,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

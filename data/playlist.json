@@ -5,7 +5,15 @@
     "artist": "Petra Janů",
     "date": "21.10.2025",
     "time": "20:33",
-    "listeners": 1442
+    "listeners": 1442,
+    "lyricists": null,
+    "album": "Už Nejsem Volná (Bonus Track Version)",
+    "release_year": 2000,
+    "duration_ms": 263733,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Desmod",
     "date": "21.10.2025",
     "time": "20:28",
-    "listeners": 1397
+    "listeners": 1397,
+    "lyricists": null,
+    "album": "Symphomusiq Tour",
+    "release_year": 2009,
+    "duration_ms": 625053,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Donovan Jason",
     "date": "21.10.2025",
     "time": "20:25",
-    "listeners": 1463
+    "listeners": 1463,
+    "lyricists": null,
+    "album": "Too Many Broken Hearts",
+    "release_year": 1989,
+    "duration_ms": 208373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Grigorov Robo",
     "date": "21.10.2025",
     "time": "20:21",
-    "listeners": 1512
+    "listeners": 1512,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 212402,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,13 @@
     "artist": "John, Elton",
     "date": "21.10.2025",
     "time": "20:17",
-    "listeners": 1529
+    "listeners": 1529,
+    "lyricists": null,
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "release_year": 1994,
+    "duration_ms": 241907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +83,15 @@
     "artist": "Peha",
     "date": "21.10.2025",
     "time": "20:14",
-    "listeners": 1517
+    "listeners": 1517,
+    "lyricists": null,
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "release_year": 2003,
+    "duration_ms": 206800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +99,15 @@
     "artist": "Joel Billy",
     "date": "21.10.2025",
     "time": "20:10",
-    "listeners": 1435
+    "listeners": 1435,
+    "lyricists": null,
+    "album": "River of Dreams",
+    "release_year": 1993,
+    "duration_ms": 245893,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +115,15 @@
     "artist": "Team",
     "date": "21.10.2025",
     "time": "20:09",
-    "listeners": 1527
+    "listeners": 1527,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2005,
+    "duration_ms": 130373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +131,19 @@
     "artist": "Al Bano & Romina Power",
     "date": "21.10.2025",
     "time": "20:04",
-    "listeners": 1656
+    "listeners": 1656,
+    "lyricists": [
+      "Al Bano Carrisi",
+      "Ciro Dammicco",
+      "Romina Power"
+    ],
+    "album": "Al Bano e Romina Power",
+    "release_year": 2007,
+    "duration_ms": 264773,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +151,15 @@
     "artist": "Palonder Marcel",
     "date": "21.10.2025",
     "time": "20:00",
-    "listeners": 1526
+    "listeners": 1526,
+    "lyricists": null,
+    "album": "Cudzinec v tvojom srdci",
+    "release_year": 1992,
+    "duration_ms": 244000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

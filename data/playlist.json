@@ -5,7 +5,15 @@
     "artist": "Londonbeat",
     "date": "21.10.2025",
     "time": "09:27",
-    "listeners": 1555
+    "listeners": 1555,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 228280,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Pavol Hammel",
     "date": "21.10.2025",
     "time": "09:25",
-    "listeners": 1606
+    "listeners": 1606,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "Hráč",
+    "release_year": 1998,
+    "duration_ms": 155240,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Pointer Sisters, The",
     "date": "21.10.2025",
     "time": "09:21",
-    "listeners": 1560
+    "listeners": 1560,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1982,
+    "duration_ms": 228440,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Lucie",
     "date": "21.10.2025",
     "time": "09:16",
-    "listeners": 1712
+    "listeners": 1712,
+    "lyricists": null,
+    "album": "Hity Tommü",
+    "release_year": 1999,
+    "duration_ms": 249667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,16 @@
     "artist": "Leo Sayer",
     "date": "21.10.2025",
     "time": "09:12",
-    "listeners": 2057
+    "listeners": 2057,
+    "lyricists": null,
+    "album": "Endless Journey – The Essential Leo Sayer",
+    "release_year": 2005,
+    "duration_ms": 252728,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

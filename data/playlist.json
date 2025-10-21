@@ -1,6 +1,78 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Žuvačka Za Uchom",
+    "artist": "Grigorov Robo",
+    "date": "22.10.2025",
+    "time": "01:29",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'm So Excited",
+    "artist": "Pointer Sisters, The",
+    "date": "22.10.2025",
+    "time": "01:25",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ešte Váham",
+    "artist": "Kristína",
+    "date": "22.10.2025",
+    "time": "01:21",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "22.10.2025",
+    "time": "01:19",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Náhlenie",
+    "artist": "Heckovci Julia A Peter",
+    "date": "22.10.2025",
+    "time": "01:15",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hero (Metro Mix)",
+    "artist": "Iglesias, Enrique",
+    "date": "22.10.2025",
+    "time": "01:11",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ulica",
+    "artist": "Elán",
+    "date": "22.10.2025",
+    "time": "01:08",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chiquitita",
+    "artist": "Abba",
+    "date": "22.10.2025",
+    "time": "01:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oteckovia",
+    "artist": "Hex",
+    "date": "22.10.2025",
+    "time": "00:59",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sme Svoji",
     "artist": "Nagy Peter",
     "date": "22.10.2025",

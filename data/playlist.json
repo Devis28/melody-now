@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bon Soir, Mademoiselle Paris",
+    "artist": "Shalom",
+    "date": "21.10.2025",
+    "time": "21:35",
+    "listeners": 991
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nechajte Si Ju",
+    "artist": "Vidiek",
+    "date": "21.10.2025",
+    "time": "21:32",
+    "listeners": 1063
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Living On My Own",
+    "artist": "Mercury Freddie",
+    "date": "21.10.2025",
+    "time": "21:29",
+    "listeners": 1136
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Školská Lavica",
+    "artist": "Gombitová Marika",
+    "date": "21.10.2025",
+    "time": "21:25",
+    "listeners": 1121
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Gloria",
     "artist": "Tozzi, Umberto",
     "date": "21.10.2025",

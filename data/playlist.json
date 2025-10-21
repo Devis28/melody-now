@@ -5,7 +5,15 @@
     "artist": "Smatanová Zuzana",
     "date": "22.10.2025",
     "time": "00:10",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Entirely Good",
+    "release_year": 2003,
+    "duration_ms": 231611,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Savage Garden",
     "date": "22.10.2025",
     "time": "00:05",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Daniel Jones",
+      "Darren Hayes"
+    ],
+    "album": "Savage Garden",
+    "release_year": 2014,
+    "duration_ms": 277194,
+    "artist_country": "AU",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Chicago",
     "date": "22.10.2025",
     "time": "00:01",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
+    "release_year": 1982,
+    "duration_ms": 223280,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Zbirka Miro & Martha",
     "date": "21.10.2025",
     "time": "23:58",
-    "listeners": 309
+    "listeners": 309,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2001,
+    "duration_ms": 204173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,16 @@
     "artist": "Ronettes, The",
     "date": "21.10.2025",
     "time": "23:55",
-    "listeners": 313
+    "listeners": 313,
+    "lyricists": null,
+    "album": "Be My Baby: The Very Best of The Ronettes",
+    "release_year": 1963,
+    "duration_ms": 160907,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

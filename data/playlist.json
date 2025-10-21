@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Fuoco Nel Fuoco",
+    "artist": "Ramazzotti Eros",
+    "date": "22.10.2025",
+    "time": "01:46",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ďakujem Že Si",
+    "artist": "No Name",
+    "date": "22.10.2025",
+    "time": "01:43",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Orinoco Flow",
     "artist": "Enya",
     "date": "22.10.2025",

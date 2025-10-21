@@ -5,7 +5,15 @@
     "artist": "Mr. Big",
     "date": "21.10.2025",
     "time": "11:28",
-    "listeners": 1339
+    "listeners": 1339,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2005,
+    "duration_ms": 206973,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Elán",
     "date": "21.10.2025",
     "time": "11:24",
-    "listeners": 1318
+    "listeners": 1318,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 2010,
+    "duration_ms": 249000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Alphaville",
     "date": "21.10.2025",
     "time": "11:20",
-    "listeners": 1317
+    "listeners": 1317,
+    "lyricists": null,
+    "album": "First Harvest 1984-1992",
+    "release_year": 2024,
+    "duration_ms": 267907,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Exil",
     "date": "21.10.2025",
     "time": "11:16",
-    "listeners": 1147
+    "listeners": 1147,
+    "lyricists": null,
+    "album": "Kamarát - EP",
+    "release_year": 1996,
+    "duration_ms": 215615,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Smokie",
     "date": "21.10.2025",
     "time": "11:12",
-    "listeners": 1114
+    "listeners": 1114,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 1998,
+    "duration_ms": 244733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "David, F.R.",
     "date": "21.10.2025",
     "time": "11:07",
-    "listeners": 1010
+    "listeners": 1010,
+    "lyricists": null,
+    "album": "Words",
+    "release_year": 1982,
+    "duration_ms": 208000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Hana Zagorová",
     "date": "21.10.2025",
     "time": "11:04",
-    "listeners": 1068
+    "listeners": 1068,
+    "lyricists": null,
+    "album": "Hanka",
+    "release_year": 2011,
+    "duration_ms": 180373,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Abba",
     "date": "21.10.2025",
     "time": "11:01",
-    "listeners": 1049
+    "listeners": 1049,
+    "lyricists": null,
+    "album": "Waterloo",
+    "release_year": 1994,
+    "duration_ms": 176440,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

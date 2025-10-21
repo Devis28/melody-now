@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I'd Love You To Want Me",
+    "artist": "Lobo",
+    "date": "21.10.2025",
+    "time": "07:31",
+    "listeners": 2875
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Neverending Story",
+    "artist": "Limahl",
+    "date": "21.10.2025",
+    "time": "07:22",
+    "listeners": 2668
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Frozen",
+    "artist": "Madonna",
+    "date": "21.10.2025",
+    "time": "07:18",
+    "listeners": 2489
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Slepých Uličkách",
+    "artist": "Zbirka Miro & Gombitova Marika",
+    "date": "21.10.2025",
+    "time": "07:15",
+    "listeners": 2343
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hero (Metro Mix)",
     "artist": "Iglesias, Enrique",
     "date": "21.10.2025",

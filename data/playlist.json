@@ -5,7 +5,15 @@
     "artist": "Dubasová Beáta",
     "date": "21.10.2025",
     "time": "18:52",
-    "listeners": 2155
+    "listeners": 2155,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 1993,
+    "duration_ms": 215000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gombitová Marika",
     "date": "21.10.2025",
     "time": "18:47",
-    "listeners": 2476
+    "listeners": 2476,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 191333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Olympic",
     "date": "21.10.2025",
     "time": "18:43",
-    "listeners": 2396
+    "listeners": 2396,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 2001,
+    "duration_ms": 257853,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "David Michal",
     "date": "21.10.2025",
     "time": "18:40",
-    "listeners": 2478
+    "listeners": 2478,
+    "lyricists": null,
+    "album": "Discopříběh",
+    "release_year": 1987,
+    "duration_ms": 191443,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

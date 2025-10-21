@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Manic Monday",
+    "artist": "The Bangles",
+    "date": "21.10.2025",
+    "time": "08:37",
+    "listeners": 2822
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "21.10.2025",
+    "time": "08:34",
+    "listeners": 2668
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Proklínám",
+    "artist": "Ledecký Janek",
+    "date": "21.10.2025",
+    "time": "08:30",
+    "listeners": 2947
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "21.10.2025",
+    "time": "08:21",
+    "listeners": 2789
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Unchained Melody",
+    "artist": "The Righteous Brothers",
+    "date": "21.10.2025",
+    "time": "08:18",
+    "listeners": 2694
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malá Nočná Búrka",
+    "artist": "Team",
+    "date": "21.10.2025",
+    "time": "08:13",
+    "listeners": 3154
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ordinary World",
+    "artist": "Duran Duran",
+    "date": "21.10.2025",
+    "time": "08:06",
+    "listeners": 2913
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Báječná Ženská",
+    "artist": "Tučný Michal",
+    "date": "21.10.2025",
+    "time": "08:02",
+    "listeners": 3162
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Fuoco Nel Fuoco",
     "artist": "Ramazzotti Eros",
     "date": "21.10.2025",

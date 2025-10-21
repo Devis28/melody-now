@@ -5,7 +5,16 @@
     "artist": "Habera Pavol",
     "date": "21.10.2025",
     "time": "13:50",
-    "listeners": 1072
+    "listeners": 1072,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2001,
+    "duration_ms": 241000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Hammel Pavol",
     "date": "21.10.2025",
     "time": "13:47",
-    "listeners": 1151
+    "listeners": 1151,
+    "lyricists": null,
+    "album": "Pavol Hammel & Prúdy 1966 – 1975",
+    "release_year": 1969,
+    "duration_ms": 154490,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

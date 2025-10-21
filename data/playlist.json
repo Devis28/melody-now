@@ -5,7 +5,15 @@
     "artist": "Lucie",
     "date": "21.10.2025",
     "time": "19:10",
-    "listeners": 2064
+    "listeners": 2064,
+    "lyricists": null,
+    "album": "Cerny Kocky Mokry Zaby",
+    "release_year": 1994,
+    "duration_ms": 296600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Peter Nagy",
     "date": "21.10.2025",
     "time": "19:07",
-    "listeners": 2152
+    "listeners": 2152,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 1996,
+    "duration_ms": 195427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Karol Duchoň",
     "date": "21.10.2025",
     "time": "19:04",
-    "listeners": 2050
+    "listeners": 2050,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1985,
+    "duration_ms": 203093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Buty",
     "date": "21.10.2025",
     "time": "19:00",
-    "listeners": 2039
+    "listeners": 2039,
+    "lyricists": null,
+    "album": "Drevo",
+    "release_year": 2005,
+    "duration_ms": 242160,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Hana Zagorova",
     "date": "21.10.2025",
     "time": "18:56",
-    "listeners": 2161
+    "listeners": 2161,
+    "lyricists": null,
+    "album": "Singly 1981-1990",
+    "release_year": 2013,
+    "duration_ms": 235000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

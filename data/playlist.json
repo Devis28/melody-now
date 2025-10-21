@@ -5,7 +5,15 @@
     "artist": "Tozzi, Umberto",
     "date": "21.10.2025",
     "time": "21:21",
-    "listeners": 1060
+    "listeners": 1060,
+    "lyricists": null,
+    "album": "Gloria",
+    "release_year": 1979,
+    "duration_ms": 264674,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Darina Rolincová",
     "date": "21.10.2025",
     "time": "21:17",
-    "listeners": 1149
+    "listeners": 1149,
+    "lyricists": null,
+    "album": "Téměř Růžový Příběh",
+    "release_year": 1998,
+    "duration_ms": 218600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Modus",
     "date": "21.10.2025",
     "time": "21:13",
-    "listeners": 1169
+    "listeners": 1169,
+    "lyricists": null,
+    "album": "Keď sa raz oči dohodnú",
+    "release_year": 1998,
+    "duration_ms": 276653,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Meat Loaf",
     "date": "21.10.2025",
     "time": "21:07",
-    "listeners": 1282
+    "listeners": 1282,
+    "lyricists": null,
+    "album": "Bat Out Of Hell II: Back Into Hell (Deluxe)",
+    "release_year": 1996,
+    "duration_ms": 316467,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

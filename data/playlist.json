@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "21.10.2025",
     "time": "13:33",
-    "listeners": 1193
+    "listeners": 1193,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 176040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ub 40",
     "date": "21.10.2025",
     "time": "13:29",
-    "listeners": 1373
+    "listeners": 1373,
+    "lyricists": null,
+    "album": "The Very Best of UB40: 1980-2000",
+    "release_year": 1993,
+    "duration_ms": 208733,
+    "artist_country": null,
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Zich Karel",
     "date": "21.10.2025",
     "time": "13:26",
-    "listeners": 1304
+    "listeners": 1304,
+    "lyricists": null,
+    "album": "...To Nejlepší",
+    "release_year": 1981,
+    "duration_ms": 207133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

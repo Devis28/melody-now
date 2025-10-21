@@ -5,7 +5,15 @@
     "artist": "Hex",
     "date": "21.10.2025",
     "time": "18:35",
-    "listeners": 2659
+    "listeners": 2659,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2015,
+    "duration_ms": 250920,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Peter Bič Project",
     "date": "21.10.2025",
     "time": "18:32",
-    "listeners": 2581
+    "listeners": 2581,
+    "lyricists": null,
+    "album": "Čoskoro - Single",
+    "release_year": 2024,
+    "duration_ms": 207516,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Žbirka Miro",
     "date": "21.10.2025",
     "time": "18:29",
-    "listeners": 2764
+    "listeners": 2764,
+    "lyricists": null,
+    "album": "Nemoderný chalan",
+    "release_year": 1984,
+    "duration_ms": 142307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Janda Dalibor",
     "date": "21.10.2025",
     "time": "18:26",
-    "listeners": 2911
+    "listeners": 2911,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 180120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Helena Vondráčková",
     "date": "21.10.2025",
     "time": "18:23",
-    "listeners": 2790
+    "listeners": 2790,
+    "lyricists": null,
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "release_year": 1983,
+    "duration_ms": 173107,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "21.10.2025",
     "time": "18:20",
-    "listeners": 2712
+    "listeners": 2712,
+    "lyricists": null,
+    "album": "V Pohodě (Bonus Track Version)",
+    "release_year": 2010,
+    "duration_ms": 205333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Neckář Václav",
     "date": "21.10.2025",
     "time": "18:17",
-    "listeners": 2905
+    "listeners": 2905,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 1965,
+    "duration_ms": 175627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

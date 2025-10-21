@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "You're A Woman",
+    "artist": "Bad Boys Blue",
+    "date": "21.10.2025",
+    "time": "17:44",
+    "listeners": 3198
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "21.10.2025",
+    "time": "17:41",
+    "listeners": 3110
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veľký Sen Mora",
+    "artist": "Modus",
+    "date": "21.10.2025",
+    "time": "17:37",
+    "listeners": 3178
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lambada",
+    "artist": "Kaoma",
+    "date": "21.10.2025",
+    "time": "17:34",
+    "listeners": 3081
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Letím Tmou (Za Tebou)",
     "artist": "Miro Žbirka",
     "date": "21.10.2025",

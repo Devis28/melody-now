@@ -5,7 +5,15 @@
     "artist": "Karel Gott",
     "date": "21.10.2025",
     "time": "06:42",
-    "listeners": 1762
+    "listeners": 1762,
+    "lyricists": null,
+    "album": "'76 (Bonus Track Version)",
+    "release_year": 1998,
+    "duration_ms": 230827,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jiří Zmožek",
     "date": "21.10.2025",
     "time": "06:38",
-    "listeners": 1629
+    "listeners": 1629,
+    "lyricists": null,
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "release_year": 2001,
+    "duration_ms": 246093,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Cher",
     "date": "21.10.2025",
     "time": "06:35",
-    "listeners": 1676
+    "listeners": 1676,
+    "lyricists": null,
+    "album": "Heart of Stone",
+    "release_year": 2000,
+    "duration_ms": 239827,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Michal Dočolomanský",
     "date": "21.10.2025",
     "time": "06:31",
-    "listeners": 1387
+    "listeners": 1387,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 1993,
+    "duration_ms": 231831,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

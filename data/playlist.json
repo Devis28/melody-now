@@ -5,7 +5,13 @@
     "artist": "Desmod & Majself",
     "date": "21.10.2025",
     "time": "03:23",
-    "listeners": 197
+    "listeners": 197,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,15 @@
     "artist": "Uriah Heep",
     "date": "21.10.2025",
     "time": "03:18",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "The Best of... Pt. 1",
+    "release_year": 1996,
+    "duration_ms": 282307,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Bartošová Iveta",
     "date": "21.10.2025",
     "time": "03:15",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "I.B.",
+    "release_year": 1987,
+    "duration_ms": 221205,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Zuzana Smatanová",
     "date": "21.10.2025",
     "time": "03:12",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Dvere",
+    "release_year": 2011,
+    "duration_ms": 192467,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,16 @@
     "artist": "Céline Dion",
     "date": "21.10.2025",
     "time": "03:07",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Falling Into You",
+    "release_year": 1999,
+    "duration_ms": 273667,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +84,15 @@
     "artist": "Michal David",
     "date": "21.10.2025",
     "time": "03:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Bláznivá Noc",
+    "release_year": 1983,
+    "duration_ms": 212253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +100,15 @@
     "artist": "Miro Žbirka",
     "date": "21.10.2025",
     "time": "03:00",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 181307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +116,15 @@
     "artist": "Smokie",
     "date": "21.10.2025",
     "time": "02:57",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2003,
+    "duration_ms": 196867,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +132,15 @@
     "artist": "Habera Pavol",
     "date": "21.10.2025",
     "time": "02:52",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Boli Sme Raz Milovani",
+    "release_year": 2000,
+    "duration_ms": 297467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +148,15 @@
     "artist": "Simply Red",
     "date": "21.10.2025",
     "time": "02:48",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2003,
+    "duration_ms": 248600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +164,19 @@
     "artist": "Bon Jovi",
     "date": "21.10.2025",
     "time": "02:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ],
+    "album": "Slippery When Wet",
+    "release_year": 1986,
+    "duration_ms": 222644,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +184,15 @@
     "artist": "Haddaway",
     "date": "21.10.2025",
     "time": "02:40",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "What Is Love - EP",
+    "release_year": 1996,
+    "duration_ms": 270373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +200,16 @@
     "artist": "Tina Turner",
     "date": "21.10.2025",
     "time": "02:36",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Simply the Best",
+    "release_year": 1994,
+    "duration_ms": 255937,
+    "artist_country": "CH",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +217,15 @@
     "artist": "I.M.T. Smile & Ondrej Kandráč",
     "date": "21.10.2025",
     "time": "02:33",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Hej, sokoly! (feat. Ondrej Kandrac) - Single",
+    "release_year": 2023,
+    "duration_ms": 174251,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +233,15 @@
     "artist": "Soulsister",
     "date": "21.10.2025",
     "time": "02:29",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Live Savings",
+    "release_year": 1990,
+    "duration_ms": 280776,
+    "artist_country": "BE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +249,16 @@
     "artist": "Gladiátor",
     "date": "21.10.2025",
     "time": "02:24",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Single (1994-2002)",
+    "release_year": 2020,
+    "duration_ms": 303173,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +266,15 @@
     "artist": "Nagy Peter",
     "date": "21.10.2025",
     "time": "02:20",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2009,
+    "duration_ms": 264040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +282,15 @@
     "artist": "Marika Gombitová",
     "date": "21.10.2025",
     "time": "02:15",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 2009,
+    "duration_ms": 286013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +298,15 @@
     "artist": "Inner Circle",
     "date": "21.10.2025",
     "time": "02:12",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Sweat (A La La La La Long) - Single",
+    "release_year": 1993,
+    "duration_ms": 227067,
+    "artist_country": "JM",
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +314,15 @@
     "artist": "Gott Karel",
     "date": "21.10.2025",
     "time": "02:07",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 233107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +330,15 @@
     "artist": "The Goombay Dance Band",
     "date": "21.10.2025",
     "time": "02:03",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Sun of Jamaica",
+    "release_year": 1980,
+    "duration_ms": 264000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +346,15 @@
     "artist": "Janda Dalibor",
     "date": "21.10.2025",
     "time": "02:00",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 172707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

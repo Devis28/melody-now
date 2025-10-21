@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sweet Harmony",
+    "artist": "Beloved, The",
+    "date": "21.10.2025",
+    "time": "13:42",
+    "listeners": 1200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "21.10.2025",
+    "time": "13:36",
+    "listeners": 1284
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Denisa",
     "artist": "Miro Žbirka",
     "date": "21.10.2025",

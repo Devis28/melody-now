@@ -5,7 +5,15 @@
     "artist": "The Bangles",
     "date": "21.10.2025",
     "time": "08:37",
-    "listeners": 2822
+    "listeners": 2822,
+    "lyricists": null,
+    "album": "The Bangles Greatest Hits",
+    "release_year": 2022,
+    "duration_ms": 184863,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
     "date": "21.10.2025",
     "time": "08:34",
-    "listeners": 2668
+    "listeners": 2668,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2001,
+    "duration_ms": 182773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Ledecký Janek",
     "date": "21.10.2025",
     "time": "08:30",
-    "listeners": 2947
+    "listeners": 2947,
+    "lyricists": null,
+    "album": "Promilujem celou noc",
+    "release_year": 1998,
+    "duration_ms": 233307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Army Of Lovers",
     "date": "21.10.2025",
     "time": "08:21",
-    "listeners": 2789
+    "listeners": 2789,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "The Righteous Brothers",
     "date": "21.10.2025",
     "time": "08:18",
-    "listeners": 2694
+    "listeners": 2694,
+    "lyricists": null,
+    "album": "The Very Best of the Righteous Brothers - Unchained Melody",
+    "release_year": 1965,
+    "duration_ms": 216267,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Team",
     "date": "21.10.2025",
     "time": "08:13",
-    "listeners": 3154
+    "listeners": 3154,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2006,
+    "duration_ms": 246560,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,16 @@
     "artist": "Duran Duran",
     "date": "21.10.2025",
     "time": "08:06",
-    "listeners": 2913
+    "listeners": 2913,
+    "lyricists": null,
+    "album": "Duran Duran (The Wedding Album)",
+    "release_year": 1993,
+    "duration_ms": 340200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "Tučný Michal",
     "date": "21.10.2025",
     "time": "08:02",
-    "listeners": 3162
+    "listeners": 3162,
+    "lyricists": null,
+    "album": "Poslední Kovboj",
+    "release_year": 1980,
+    "duration_ms": 250760,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",

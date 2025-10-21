@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hero (Metro Mix)",
+    "artist": "Iglesias, Enrique",
+    "date": "21.10.2025",
+    "time": "07:05",
+    "listeners": 2376
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ulica",
+    "artist": "Elán",
+    "date": "21.10.2025",
+    "time": "07:02",
+    "listeners": 2102
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "How Deep Is Your Love",
+    "artist": "The Bee Gees",
+    "date": "21.10.2025",
+    "time": "06:53",
+    "listeners": 2040
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sme Svoji",
     "artist": "Nagy Peter",
     "date": "21.10.2025",

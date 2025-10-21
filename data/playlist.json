@@ -5,7 +5,15 @@
     "artist": "Tublatanka",
     "date": "21.10.2025",
     "time": "09:37",
-    "listeners": 1455
+    "listeners": 1455,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 2006,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Louis Armstrong",
     "date": "21.10.2025",
     "time": "09:35",
-    "listeners": 1365
+    "listeners": 1365,
+    "lyricists": null,
+    "album": "What a Wonderful World",
+    "release_year": 1996,
+    "duration_ms": 139434,
+    "artist_country": "US",
+    "genres": [
+      "Jazz"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Slivová Silvia",
     "date": "21.10.2025",
     "time": "09:31",
-    "listeners": 1441
+    "listeners": 1441,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 233373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

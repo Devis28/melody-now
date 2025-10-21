@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Streets Of Philadelphia",
+    "artist": "Springsteen Bruce",
+    "date": "21.10.2025",
+    "time": "23:09",
+    "listeners": 475
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Time Of My Life",
+    "artist": "Jennifer Warnes/Bill Medley",
+    "date": "21.10.2025",
+    "time": "23:04",
+    "listeners": 529
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mláďatá",
+    "artist": "Elán",
+    "date": "21.10.2025",
+    "time": "23:00",
+    "listeners": 549
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bamboleo",
+    "artist": "Garcia",
+    "date": "21.10.2025",
+    "time": "22:57",
+    "listeners": 551
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cesta do rozprávky",
     "artist": "Darina Rolincová",
     "date": "21.10.2025",

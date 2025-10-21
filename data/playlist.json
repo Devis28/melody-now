@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Jesenná Láska",
+    "artist": "Žbirka Miro",
+    "date": "21.10.2025",
+    "time": "21:04",
+    "listeners": 1206
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Odchádzajú Lásky",
+    "artist": "Richard Müller",
+    "date": "21.10.2025",
+    "time": "21:00",
+    "listeners": 1296
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Rhythm Divine",
+    "artist": "Iglesias Enrique",
+    "date": "21.10.2025",
+    "time": "20:56",
+    "listeners": 1314
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waterloo",
+    "artist": "Abba",
+    "date": "21.10.2025",
+    "time": "20:54",
+    "listeners": 1293
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I'll Be Missing You",
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "21.10.2025",

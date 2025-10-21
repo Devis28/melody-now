@@ -5,7 +5,15 @@
     "artist": "Janda Dalibor",
     "date": "21.10.2025",
     "time": "13:09",
-    "listeners": 1405
+    "listeners": 1405,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 196867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "U2",
     "date": "21.10.2025",
     "time": "13:04",
-    "listeners": 1412
+    "listeners": 1412,
+    "lyricists": [
+      "Bono",
+      "U2"
+    ],
+    "album": "U218 Singles",
+    "release_year": 1988,
+    "duration_ms": 275400,
+    "artist_country": "IE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Karol Duchoň",
     "date": "21.10.2025",
     "time": "13:01",
-    "listeners": 1514
+    "listeners": 1514,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 198707,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,17 @@
     "artist": "Vangelis",
     "date": "21.10.2025",
     "time": "12:54",
-    "listeners": 1539
+    "listeners": 1539,
+    "lyricists": [
+      "Vangelis"
+    ],
+    "album": "1492 - Conquest of Paradise",
+    "release_year": 2001,
+    "duration_ms": 278200,
+    "artist_country": "GR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "Abba",
     "date": "21.10.2025",
     "time": "12:50",
-    "listeners": 1537
+    "listeners": 1537,
+    "lyricists": null,
+    "album": "ABBA: The Album",
+    "release_year": 2006,
+    "duration_ms": 228700,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,16 @@
     "artist": "Esposito Joe",
     "date": "21.10.2025",
     "time": "12:46",
-    "listeners": 1496
+    "listeners": 1496,
+    "lyricists": null,
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "release_year": 1983,
+    "duration_ms": 249640,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

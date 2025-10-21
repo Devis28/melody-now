@@ -5,7 +5,19 @@
     "artist": "Robbie Williams",
     "date": "21.10.2025",
     "time": "07:41",
-    "listeners": 2731
+    "listeners": 2731,
+    "lyricists": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ],
+    "album": "Life Thru a Lens",
+    "release_year": 1997,
+    "duration_ms": 265000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Zagorová Hana Hložek Stanislav Kotvald Petr",
     "date": "21.10.2025",
     "time": "07:37",
-    "listeners": 3070
+    "listeners": 3070,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 1995,
+    "duration_ms": 249813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Brontosauři",
     "date": "21.10.2025",
     "time": "07:34",
-    "listeners": 2950
+    "listeners": 2950,
+    "lyricists": null,
+    "album": "Vsechny Hity",
+    "release_year": 2001,
+    "duration_ms": 139747,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

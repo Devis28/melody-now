@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "21.10.2025",
     "time": "14:55",
-    "listeners": 957
+    "listeners": 957,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1994,
+    "duration_ms": 306787,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "A-Ha",
     "date": "21.10.2025",
     "time": "14:52",
-    "listeners": 952
+    "listeners": 952,
+    "lyricists": null,
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "release_year": 2003,
+    "duration_ms": 228520,
+    "artist_country": "NO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Olympic",
     "date": "21.10.2025",
     "time": "14:48",
-    "listeners": 958
+    "listeners": 958,
+    "lyricists": null,
+    "album": "Ulice",
+    "release_year": 2010,
+    "duration_ms": 292507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Shakira & Freshlyground",
     "date": "21.10.2025",
     "time": "14:41",
-    "listeners": 915
+    "listeners": 915,
+    "lyricists": null,
+    "album": "Éxitos de Verano",
+    "release_year": 2014,
+    "duration_ms": 201773,
+    "artist_country": "CO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,18 @@
     "artist": "Elton John",
     "date": "21.10.2025",
     "time": "14:36",
-    "listeners": 842
+    "listeners": 842,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Ice On Fire ((Remastered))",
+    "release_year": 1997,
+    "duration_ms": 343240,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,15 @@
     "artist": "Gott Karel",
     "date": "21.10.2025",
     "time": "14:32",
-    "listeners": 885
+    "listeners": 885,
+    "lyricists": null,
+    "album": "Jágr vs Gott - Single",
+    "release_year": 2018,
+    "duration_ms": 190549,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,15 @@
     "artist": "Belinda Carlisle",
     "date": "21.10.2025",
     "time": "14:25",
-    "listeners": 841
+    "listeners": 841,
+    "lyricists": null,
+    "album": "Heaven on Earth",
+    "release_year": 2005,
+    "duration_ms": 247093,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +121,15 @@
     "artist": "Penk Michal",
     "date": "21.10.2025",
     "time": "14:21",
-    "listeners": 950
+    "listeners": 950,
+    "lyricists": null,
+    "album": "Hit Album",
+    "release_year": 1992,
+    "duration_ms": 278000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

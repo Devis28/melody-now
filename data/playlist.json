@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "21.10.2025",
     "time": "09:09",
-    "listeners": 1875
+    "listeners": 1875,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2004,
+    "duration_ms": 138120,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vaya Con Dios",
     "date": "21.10.2025",
     "time": "09:06",
-    "listeners": 2085
+    "listeners": 2085,
+    "lyricists": null,
+    "album": "Night Owls",
+    "release_year": 2002,
+    "duration_ms": 174533,
+    "artist_country": "BE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Karol Duchoň",
     "date": "21.10.2025",
     "time": "09:03",
-    "listeners": 1998
+    "listeners": 1998,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 209427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

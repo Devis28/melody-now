@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Right Here Waiting",
+    "artist": "Marx Richard",
+    "date": "21.10.2025",
+    "time": "10:54",
+    "listeners": 959
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "California Dreamin'",
+    "artist": "Mamas & The Papas",
+    "date": "21.10.2025",
+    "time": "10:51",
+    "listeners": 1041
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nahý 2",
+    "artist": "Richard  Muller",
+    "date": "21.10.2025",
+    "time": "10:47",
+    "listeners": 887
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "She's Like The Wind",
+    "artist": "Patrick Swayze",
+    "date": "21.10.2025",
+    "time": "10:44",
+    "listeners": 888
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Není Všechno Paráda",
+    "artist": "Karel Zich",
+    "date": "21.10.2025",
+    "time": "10:41",
+    "listeners": 880
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "True Colors",
+    "artist": "Phil Collins",
+    "date": "21.10.2025",
+    "time": "10:37",
+    "listeners": 917
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "21.10.2025",
+    "time": "10:34",
+    "listeners": 854
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Študentská Láska",
     "artist": "Marika Gombitová",
     "date": "21.10.2025",

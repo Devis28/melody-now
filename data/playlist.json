@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Musím Už Ísť",
+    "artist": "Kelecsényi Martin",
+    "date": "22.10.2025",
+    "time": "00:38",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Manic Monday",
+    "artist": "The Bangles",
+    "date": "22.10.2025",
+    "time": "00:35",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ten Príbeh Je Preč",
+    "artist": "Beata Dubasová",
+    "date": "22.10.2025",
+    "time": "00:31",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ty A Tvoja Sestra",
     "artist": "No Name",
     "date": "22.10.2025",

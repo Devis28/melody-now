@@ -5,7 +5,15 @@
     "artist": "C.C. Catch",
     "date": "21.10.2025",
     "time": "05:55",
-    "listeners": 776
+    "listeners": 776,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1994,
+    "duration_ms": 209533,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

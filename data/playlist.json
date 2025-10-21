@@ -5,7 +5,15 @@
     "artist": "No Name",
     "date": "22.10.2025",
     "time": "00:28",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Best Of",
+    "release_year": 2022,
+    "duration_ms": 203107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Cher",
     "date": "22.10.2025",
     "time": "00:24",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Heart of Stone",
+    "release_year": 2000,
+    "duration_ms": 239827,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peter Bič Project",
     "date": "22.10.2025",
     "time": "00:21",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Skúšame sa nájsť - Single",
+    "release_year": 2024,
+    "duration_ms": 187187,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Simon Paul & Garfunkel Art",
     "date": "22.10.2025",
     "time": "00:18",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Sounds of Silence",
+    "release_year": 1965,
+    "duration_ms": 190102,
+    "artist_country": null,
+    "genres": [
+      "Folk",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,19 @@
     "artist": "Bon Jovi",
     "date": "22.10.2025",
     "time": "00:14",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ],
+    "album": "Slippery When Wet",
+    "release_year": 2022,
+    "duration_ms": 249581,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

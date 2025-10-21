@@ -5,7 +5,15 @@
     "artist": "Springsteen Bruce",
     "date": "21.10.2025",
     "time": "23:09",
-    "listeners": 475
+    "listeners": 475,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 196813,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Jennifer Warnes/Bill Medley",
     "date": "21.10.2025",
     "time": "23:04",
-    "listeners": 529
+    "listeners": 529,
+    "lyricists": null,
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 1987,
+    "duration_ms": 290333,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Elán",
     "date": "21.10.2025",
     "time": "23:00",
-    "listeners": 549
+    "listeners": 549,
+    "lyricists": null,
+    "album": "Ôsmy svetadiel (Remastered)",
+    "release_year": 2015,
+    "duration_ms": 239107,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Garcia",
     "date": "21.10.2025",
     "time": "22:57",
-    "listeners": 551
+    "listeners": 551,
+    "lyricists": null,
+    "album": "Bamboleo - Single",
+    "release_year": 2000,
+    "duration_ms": 228963,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

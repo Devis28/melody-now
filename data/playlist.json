@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dream On",
+    "artist": "Nazareth",
+    "date": "21.10.2025",
+    "time": "09:49",
+    "listeners": 1158
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "21.10.2025",
+    "time": "09:44",
+    "listeners": 1167
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Only You",
+    "artist": "Yazoo",
+    "date": "21.10.2025",
+    "time": "09:41",
+    "listeners": 1387
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Matka",
     "artist": "Tublatanka",
     "date": "21.10.2025",

@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Gloria",
+    "artist": "Tozzi, Umberto",
+    "date": "21.10.2025",
+    "time": "21:21",
+    "listeners": 1060
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjelik Môj",
+    "artist": "Darina Rolincová",
+    "date": "21.10.2025",
+    "time": "21:17",
+    "listeners": 1149
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Raz Oči Dohodnú",
+    "artist": "Modus",
+    "date": "21.10.2025",
+    "time": "21:13",
+    "listeners": 1169
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'd Do Anything For Love But I Won't Do That",
+    "artist": "Meat Loaf",
+    "date": "21.10.2025",
+    "time": "21:07",
+    "listeners": 1282
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Jesenná Láska",
     "artist": "Žbirka Miro",
     "date": "21.10.2025",

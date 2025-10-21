@@ -5,7 +5,15 @@
     "artist": "Madam",
     "date": "21.10.2025",
     "time": "21:44",
-    "listeners": 1011
+    "listeners": 1011,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 269880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Belinda Carlisle",
     "date": "21.10.2025",
     "time": "21:39",
-    "listeners": 1027
+    "listeners": 1027,
+    "lyricists": null,
+    "album": "Runaway Horses",
+    "release_year": 2013,
+    "duration_ms": 285027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

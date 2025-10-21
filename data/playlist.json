@@ -1,6 +1,94 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Loď do neznáma",
+    "artist": "Uherčík, Ďurinda, Griglák, Horváth",
+    "date": "21.10.2025",
+    "time": "05:27",
+    "listeners": 406
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Imagine",
+    "artist": "John Lennon, The Plastic Ono Band",
+    "date": "21.10.2025",
+    "time": "05:24",
+    "listeners": 406
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dolce Vita",
+    "artist": "Paris Ryan",
+    "date": "21.10.2025",
+    "time": "05:21",
+    "listeners": 377
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "21.10.2025",
+    "time": "05:17",
+    "listeners": 345
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Až Sa Znova Narodím",
+    "artist": "Peter Nagy",
+    "date": "21.10.2025",
+    "time": "05:14",
+    "listeners": 346
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bailamos",
+    "artist": "Enrique Iglesias",
+    "date": "21.10.2025",
+    "time": "05:11",
+    "listeners": 328
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maluj Zase Obrázky",
+    "artist": "Hana Zagorová",
+    "date": "21.10.2025",
+    "time": "05:05",
+    "listeners": 296
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Locomotion",
+    "artist": "Kylie Minogue",
+    "date": "21.10.2025",
+    "time": "05:02",
+    "listeners": 277
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spoluhráčka",
+    "artist": "Modus",
+    "date": "21.10.2025",
+    "time": "04:58",
+    "listeners": 260
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "21.10.2025",
+    "time": "04:54",
+    "listeners": 262
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Is In The Air",
+    "artist": "John Paul Young",
+    "date": "21.10.2025",
+    "time": "04:51",
+    "listeners": 240
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Moi...Lolita",
     "artist": "Alizee",
     "date": "21.10.2025",

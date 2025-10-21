@@ -5,7 +5,15 @@
     "artist": "Chicago",
     "date": "21.10.2025",
     "time": "06:23",
-    "listeners": 1290
+    "listeners": 1290,
+    "lyricists": null,
+    "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
+    "release_year": 1982,
+    "duration_ms": 223280,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Beata Dubasová",
     "date": "21.10.2025",
     "time": "06:19",
-    "listeners": 1198
+    "listeners": 1198,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 2001,
+    "duration_ms": 269000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Simon Paul & Garfunkel Art",
     "date": "21.10.2025",
     "time": "06:16",
-    "listeners": 1147
+    "listeners": 1147,
+    "lyricists": null,
+    "album": "Sounds of Silence",
+    "release_year": 1965,
+    "duration_ms": 190102,
+    "artist_country": null,
+    "genres": [
+      "Folk",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,19 @@
     "artist": "Bon Jovi",
     "date": "21.10.2025",
     "time": "06:12",
-    "listeners": 1109
+    "listeners": 1109,
+    "lyricists": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ],
+    "album": "Slippery When Wet",
+    "release_year": 2022,
+    "duration_ms": 249581,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,18 @@
     "artist": "Savage Garden",
     "date": "21.10.2025",
     "time": "06:06",
-    "listeners": 917
+    "listeners": 917,
+    "lyricists": [
+      "Daniel Jones",
+      "Darren Hayes"
+    ],
+    "album": "Savage Garden",
+    "release_year": 2014,
+    "duration_ms": 277194,
+    "artist_country": "AU",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +93,15 @@
     "artist": "Hammel Pavol",
     "date": "21.10.2025",
     "time": "06:02",
-    "listeners": 961
+    "listeners": 961,
+    "lyricists": null,
+    "album": "Vrabec vševed",
+    "release_year": 1979,
+    "duration_ms": 201293,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Keď Sme Sami",
+    "artist": "Hex",
+    "date": "21.10.2025",
+    "time": "18:35",
+    "listeners": 2659
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čoskoro",
+    "artist": "Peter Bič Project",
+    "date": "21.10.2025",
+    "time": "18:32",
+    "listeners": 2581
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Poraď Si Sám",
+    "artist": "Žbirka Miro",
+    "date": "21.10.2025",
+    "time": "18:29",
+    "listeners": 2764
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hráli Jsme Kličkovanou",
+    "artist": "Janda Dalibor",
+    "date": "21.10.2025",
+    "time": "18:26",
+    "listeners": 2911
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malovaný Džbánku",
+    "artist": "Helena Vondráčková",
+    "date": "21.10.2025",
+    "time": "18:23",
+    "listeners": 2790
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Pohodě",
+    "artist": "Stanislav Hložek & Petr Kotvald",
+    "date": "21.10.2025",
+    "time": "18:20",
+    "listeners": 2712
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lékořice",
+    "artist": "Neckář Václav",
+    "date": "21.10.2025",
+    "time": "18:17",
+    "listeners": 2905
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Zvonky Štestí",
     "artist": "Karel Gott & Darinka Rolincová",
     "date": "21.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Alphaville",
     "date": "21.10.2025",
     "time": "22:09",
-    "listeners": 834
+    "listeners": 834,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2005,
+    "duration_ms": 226706,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Olympic",
     "date": "21.10.2025",
     "time": "22:05",
-    "listeners": 851
+    "listeners": 851,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1993,
+    "duration_ms": 259973,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "David Michal",
     "date": "21.10.2025",
     "time": "22:01",
-    "listeners": 845
+    "listeners": 845,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 234840,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Grigorov Robo",
     "date": "21.10.2025",
     "time": "21:57",
-    "listeners": 903
+    "listeners": 903,
+    "lyricists": null,
+    "album": "Balady",
+    "release_year": 2006,
+    "duration_ms": 261107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Norman Chris & Quatro Suzi",
     "date": "21.10.2025",
     "time": "21:53",
-    "listeners": 954
+    "listeners": 954,
+    "lyricists": null,
+    "album": "Collections: Smokie",
+    "release_year": 1977,
+    "duration_ms": 238200,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Je Jaká Je",
+    "artist": "Karel Gott",
+    "date": "21.10.2025",
+    "time": "06:42",
+    "listeners": 1762
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Mi, Lásko, Není Dvacet Let",
+    "artist": "Jiří Zmožek",
+    "date": "21.10.2025",
+    "time": "06:38",
+    "listeners": 1629
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "If I Could Turn Back Time",
+    "artist": "Cher",
+    "date": "21.10.2025",
+    "time": "06:35",
+    "listeners": 1676
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľúbim Ťa",
+    "artist": "Michal Dočolomanský",
+    "date": "21.10.2025",
+    "time": "06:31",
+    "listeners": 1387
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hard To Say I'm Sorry",
     "artist": "Chicago",
     "date": "21.10.2025",

@@ -1,6 +1,182 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Moi...Lolita",
+    "artist": "Alizee",
+    "date": "21.10.2025",
+    "time": "04:47",
+    "listeners": 230
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slovenská",
+    "artist": "Miro Žbirka",
+    "date": "21.10.2025",
+    "time": "04:44",
+    "listeners": 248
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Power Of Love",
+    "artist": "Rush Jennifer",
+    "date": "21.10.2025",
+    "time": "04:38",
+    "listeners": 229
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malý Princ",
+    "artist": "Aya",
+    "date": "21.10.2025",
+    "time": "04:33",
+    "listeners": 205
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Holding Out For A Hero",
+    "artist": "Tyler Bonnie",
+    "date": "21.10.2025",
+    "time": "04:29",
+    "listeners": 217
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Dobrom Aj Zlom",
+    "artist": "Zuzana Smatanová",
+    "date": "21.10.2025",
+    "time": "04:26",
+    "listeners": 199
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One More Try",
+    "artist": "Timmy T",
+    "date": "21.10.2025",
+    "time": "04:22",
+    "listeners": 208
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tak Si So Mnou Opakuj",
+    "artist": "Gombitová Marika",
+    "date": "21.10.2025",
+    "time": "04:19",
+    "listeners": 201
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pokoj V Duši",
+    "artist": "Jana Kirschner",
+    "date": "21.10.2025",
+    "time": "04:16",
+    "listeners": 198
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Francúzky",
+    "artist": "Patejdl Vašo",
+    "date": "21.10.2025",
+    "time": "04:12",
+    "listeners": 198
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rhythm Is A Dancer",
+    "artist": "Snap",
+    "date": "21.10.2025",
+    "time": "04:08",
+    "listeners": 205
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Flames Of Love",
+    "artist": "Fancy",
+    "date": "21.10.2025",
+    "time": "04:04",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zrpš",
+    "artist": "Hammel, Pavol",
+    "date": "21.10.2025",
+    "time": "04:01",
+    "listeners": 197
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "21.10.2025",
+    "time": "03:57",
+    "listeners": 196
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Over My Shoulder",
+    "artist": "Mike & The Mechanics",
+    "date": "21.10.2025",
+    "time": "03:54",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "21.10.2025",
+    "time": "03:50",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "21.10.2025",
+    "time": "03:46",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievča Z Reklamy",
+    "artist": "Dubasová Beáta",
+    "date": "21.10.2025",
+    "time": "03:42",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cherish",
+    "artist": "Madonna",
+    "date": "21.10.2025",
+    "time": "03:38",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "21.10.2025",
+    "time": "03:34",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mmuoj Boze",
+    "artist": "Katarina Knechtova",
+    "date": "21.10.2025",
+    "time": "03:30",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch Me (I Want Your Body)",
+    "artist": "Fox Samantha",
+    "date": "21.10.2025",
+    "time": "03:27",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kométa (Pre Gumpa)",
     "artist": "Desmod & Majself",
     "date": "21.10.2025",

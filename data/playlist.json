@@ -5,7 +5,15 @@
     "artist": "Žbirka Miro",
     "date": "21.10.2025",
     "time": "15:38",
-    "listeners": 1537
+    "listeners": 1537,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 190587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Paul Young",
     "date": "21.10.2025",
     "time": "15:34",
-    "listeners": 1477
+    "listeners": 1477,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2005,
+    "duration_ms": 214381,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Corona",
     "date": "21.10.2025",
     "time": "15:29",
-    "listeners": 1408
+    "listeners": 1408,
+    "lyricists": null,
+    "album": "The Rhythm of the Night",
+    "release_year": 1994,
+    "duration_ms": 264280,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,17 @@
     "artist": "Barbra Streisand",
     "date": "21.10.2025",
     "time": "15:25",
-    "listeners": 1235
+    "listeners": 1235,
+    "lyricists": [
+      "Barbra Streisand"
+    ],
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "release_year": 1982,
+    "duration_ms": 233280,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "21.10.2025",
     "time": "15:21",
-    "listeners": 1225
+    "listeners": 1225,
+    "lyricists": null,
+    "album": "Holky Z Naší Školky",
+    "release_year": 2010,
+    "duration_ms": 232493,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Gloria Gaynor",
     "date": "21.10.2025",
     "time": "15:15",
-    "listeners": 1180
+    "listeners": 1180,
+    "lyricists": null,
+    "album": "Make It 80's & 90's",
+    "release_year": 2000,
+    "duration_ms": 254600,
+    "artist_country": "US",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Jiří Schelinger",
     "date": "21.10.2025",
     "time": "15:12",
-    "listeners": 1152
+    "listeners": 1152,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2006,
+    "duration_ms": 191475,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "C.C. Catch",
     "date": "21.10.2025",
     "time": "15:08",
-    "listeners": 1066
+    "listeners": 1066,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2005,
+    "duration_ms": 215800,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +135,13 @@
     "artist": "Metalinda",
     "date": "21.10.2025",
     "time": "15:04",
-    "listeners": 1101
+    "listeners": 1101,
+    "lyricists": null,
+    "album": null,
+    "release_year": 1996,
+    "duration_ms": null,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

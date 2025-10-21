@@ -1,6 +1,182 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kométa (Pre Gumpa)",
+    "artist": "Desmod & Majself",
+    "date": "21.10.2025",
+    "time": "03:23",
+    "listeners": 197
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lady In Black",
+    "artist": "Uriah Heep",
+    "date": "21.10.2025",
+    "time": "03:18",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Víš Lásko",
+    "artist": "Bartošová Iveta",
+    "date": "21.10.2025",
+    "time": "03:15",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvere",
+    "artist": "Zuzana Smatanová",
+    "date": "21.10.2025",
+    "time": "03:12",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Because You Loved Me",
+    "artist": "Céline Dion",
+    "date": "21.10.2025",
+    "time": "03:07",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pár Přátel",
+    "artist": "Michal David",
+    "date": "21.10.2025",
+    "time": "03:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Rád",
+    "artist": "Miro Žbirka",
+    "date": "21.10.2025",
+    "time": "03:00",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Play Your Rock 'n' Roll To Me",
+    "artist": "Smokie",
+    "date": "21.10.2025",
+    "time": "02:57",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Pri Mne Spíš",
+    "artist": "Habera Pavol",
+    "date": "21.10.2025",
+    "time": "02:52",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stars",
+    "artist": "Simply Red",
+    "date": "21.10.2025",
+    "time": "02:48",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "date": "21.10.2025",
+    "time": "02:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "21.10.2025",
+    "time": "02:40",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "21.10.2025",
+    "time": "02:36",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hej, Sokoly!",
+    "artist": "I.M.T. Smile & Ondrej Kandráč",
+    "date": "21.10.2025",
+    "time": "02:33",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Way To Your Heart",
+    "artist": "Soulsister",
+    "date": "21.10.2025",
+    "time": "02:29",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dnes Je Skvelý Den",
+    "artist": "Gladiátor",
+    "date": "21.10.2025",
+    "time": "02:24",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "S Nohami Na Stole",
+    "artist": "Nagy Peter",
+    "date": "21.10.2025",
+    "time": "02:20",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cukráreň Na Dlani Námestia",
+    "artist": "Marika Gombitová",
+    "date": "21.10.2025",
+    "time": "02:15",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sweat (A La La La Long)",
+    "artist": "Inner Circle",
+    "date": "21.10.2025",
+    "time": "02:12",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "To Musím Zvládnout Sám",
+    "artist": "Gott Karel",
+    "date": "21.10.2025",
+    "time": "02:07",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "21.10.2025",
+    "time": "02:03",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oheň, Voda, Vítr",
+    "artist": "Janda Dalibor",
+    "date": "21.10.2025",
+    "time": "02:00",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Chlap Z Kríža",
     "artist": "Tobias Szidi",
     "date": "21.10.2025",

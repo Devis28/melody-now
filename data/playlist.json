@@ -5,7 +5,15 @@
     "artist": "Nagy Peter",
     "date": "21.10.2025",
     "time": "06:50",
-    "listeners": 1917
+    "listeners": 1917,
+    "lyricists": null,
+    "album": "Mne sa neschováš",
+    "release_year": 1985,
+    "duration_ms": 197013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vanessa Amorosi",
     "date": "21.10.2025",
     "time": "06:45",
-    "listeners": 1858
+    "listeners": 1858,
+    "lyricists": null,
+    "album": "The Power (15 Year Anniversary Edition)",
+    "release_year": 2001,
+    "duration_ms": 224600,
+    "artist_country": "AU",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

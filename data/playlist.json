@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "G8",
+    "date": "21.10.2025",
+    "time": "23:37",
+    "listeners": 389
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Komajota",
+    "date": "21.10.2025",
+    "time": "23:34",
+    "listeners": 380
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ave Maria",
+    "artist": "Rush Jennifer",
+    "date": "21.10.2025",
+    "time": "23:31",
+    "listeners": 385
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Baroko",
     "artist": "Muller Richard & Anna K. Ivan Tasler",
     "date": "21.10.2025",

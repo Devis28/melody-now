@@ -5,7 +5,15 @@
     "artist": "Gott Karel",
     "date": "22.10.2025",
     "time": "09:42",
-    "listeners": 1238
+    "listeners": 1238,
+    "lyricists": null,
+    "album": "Lady Carneval",
+    "release_year": 1987,
+    "duration_ms": 180227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Guns N Roses",
     "date": "22.10.2025",
     "time": "09:36",
-    "listeners": 1327
+    "listeners": 1327,
+    "lyricists": null,
+    "album": "Use Your Illusion I",
+    "release_year": 1991,
+    "duration_ms": 536067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

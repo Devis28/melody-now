@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "22.10.2025",
+    "time": "06:45",
+    "listeners": 1967
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "22.10.2025",
+    "time": "06:40",
+    "listeners": 1872
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Look",
+    "artist": "Roxette",
+    "date": "22.10.2025",
+    "time": "06:36",
+    "listeners": 1710
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "22.10.2025",
+    "time": "06:34",
+    "listeners": 1558
+  },
+  {
+    "station": "Rádio Melody",
     "title": "If You Can't Give Me Love",
     "artist": "Suzi Quatro",
     "date": "22.10.2025",

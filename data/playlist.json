@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Xanadu",
+    "artist": "Olivia Newton-John And Electric Light Orchestra",
+    "date": "22.10.2025",
+    "time": "11:41",
+    "listeners": 1255
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "date": "22.10.2025",
+    "time": "11:38",
+    "listeners": 1384
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Perfect Day",
+    "artist": "Duran Duran",
+    "date": "22.10.2025",
+    "time": "11:34",
+    "listeners": 1327
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milujem",
+    "artist": "Zenit",
+    "date": "22.10.2025",
+    "time": "11:30",
+    "listeners": 1352
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Trezor",
+    "artist": "Gott Karel & Olympic",
+    "date": "22.10.2025",
+    "time": "11:28",
+    "listeners": 1249
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Spending My Time",
     "artist": "Roxette",
     "date": "22.10.2025",

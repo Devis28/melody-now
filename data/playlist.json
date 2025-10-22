@@ -1,6 +1,86 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Something's Gotten Hold Of My Heart",
+    "artist": "Gene Pitney/Marc Almond",
+    "date": "22.10.2025",
+    "time": "20:36",
+    "listeners": 1334
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "22.10.2025",
+    "time": "20:32",
+    "listeners": 1413
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandolína",
+    "artist": "Adam Ďurica",
+    "date": "22.10.2025",
+    "time": "20:29",
+    "listeners": 1405
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Time After Time",
+    "artist": "Cyndi Lauper",
+    "date": "22.10.2025",
+    "time": "20:25",
+    "listeners": 1429
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Unikát",
+    "artist": "Mária Čírová",
+    "date": "22.10.2025",
+    "time": "20:22",
+    "listeners": 1562
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "date": "22.10.2025",
+    "time": "20:20",
+    "listeners": 1470
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lietam V Tom Tiež",
+    "artist": "Team",
+    "date": "22.10.2025",
+    "time": "20:16",
+    "listeners": 1449
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horehronie",
+    "artist": "Kristína",
+    "date": "22.10.2025",
+    "time": "20:13",
+    "listeners": 1519
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "All For Love",
+    "artist": "Adams Bryan & Stewart Rod & Sting",
+    "date": "22.10.2025",
+    "time": "20:07",
+    "listeners": 1579
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Brother Louie",
+    "artist": "Modern Talking",
+    "date": "22.10.2025",
+    "time": "20:03",
+    "listeners": 1649
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cas Sluhu",
     "artist": "Zoo & Jan Kalousek",
     "date": "22.10.2025",

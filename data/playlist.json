@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Šaty",
+    "artist": "Gombitová Marika",
+    "date": "22.10.2025",
+    "time": "07:32",
+    "listeners": 2985
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Felicita",
+    "artist": "Bano Al & Power Romina",
+    "date": "22.10.2025",
+    "time": "07:23",
+    "listeners": 2794
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "22.10.2025",
+    "time": "07:19",
+    "listeners": 2456
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cez Plece",
+    "artist": "Pavol Hammel",
+    "date": "22.10.2025",
+    "time": "07:16",
+    "listeners": 2659
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Zústanu Svúj",
     "artist": "Gott Karel",
     "date": "22.10.2025",

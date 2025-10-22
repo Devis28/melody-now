@@ -5,7 +5,15 @@
     "artist": "Vašo Patejdl",
     "date": "22.10.2025",
     "time": "07:43",
-    "listeners": 3069
+    "listeners": 3069,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2005,
+    "duration_ms": 273160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "No Mercy",
     "date": "22.10.2025",
     "time": "07:39",
-    "listeners": 2843
+    "listeners": 2843,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1997,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Slade",
     "date": "22.10.2025",
     "time": "07:36",
-    "listeners": 2769
+    "listeners": 2769,
+    "lyricists": null,
+    "album": "The Amazing Kamikaze Syndrome (Expanded)",
+    "release_year": 2002,
+    "duration_ms": 334427,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

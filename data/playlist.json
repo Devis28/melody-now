@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nepriznaná",
+    "artist": "Vašo Patejdl",
+    "date": "23.10.2025",
+    "time": "01:51",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Where Do You Go",
+    "artist": "No Mercy",
+    "date": "23.10.2025",
+    "time": "01:46",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čakám Ťa, Láska",
     "artist": "Elán",
     "date": "23.10.2025",

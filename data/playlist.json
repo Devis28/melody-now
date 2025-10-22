@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "22.10.2025",
+    "time": "19:46",
+    "listeners": 1740
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Smútok Krásnych Dievčat",
+    "artist": "Duchoň Karol",
+    "date": "22.10.2025",
+    "time": "19:43",
+    "listeners": 1699
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tisíc A Jedenkrát",
     "artist": "Elán",
     "date": "22.10.2025",

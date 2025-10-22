@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Šumienky Z Polomu",
+    "artist": "Dubasová Beáta",
+    "date": "22.10.2025",
+    "time": "19:30",
+    "listeners": 2009
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Daruj Mi Svoj Najkrajší Deň",
+    "artist": "Gravis",
+    "date": "22.10.2025",
+    "time": "19:27",
+    "listeners": 1992
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veselá Pesnička",
+    "artist": "I.M.T. Smile",
+    "date": "22.10.2025",
+    "time": "19:24",
+    "listeners": 1899
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Máš Chuť Majoránky",
+    "artist": "Karel Zich",
+    "date": "22.10.2025",
+    "time": "19:21",
+    "listeners": 2089
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Taliansky Muzikál",
     "artist": "Júlia a Peter Hečkovci",
     "date": "22.10.2025",

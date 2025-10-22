@@ -5,7 +5,15 @@
     "artist": "Gombitová Marika",
     "date": "22.10.2025",
     "time": "07:32",
-    "listeners": 2985
+    "listeners": 2985,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 250240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bano Al & Power Romina",
     "date": "22.10.2025",
     "time": "07:23",
-    "listeners": 2794
+    "listeners": 2794,
+    "lyricists": null,
+    "album": "Al Bano e Romina Power",
+    "release_year": 1982,
+    "duration_ms": 192853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,18 @@
     "artist": "Dr. Alban",
     "date": "22.10.2025",
     "time": "07:19",
-    "listeners": 2456
+    "listeners": 2456,
+    "lyricists": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ],
+    "album": "One Love",
+    "release_year": 1994,
+    "duration_ms": 243133,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Pavol Hammel",
     "date": "22.10.2025",
     "time": "07:16",
-    "listeners": 2659
+    "listeners": 2659,
+    "lyricists": null,
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1981,
+    "duration_ms": 152573,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

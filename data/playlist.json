@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "My, Oh My",
+    "artist": "Slade",
+    "date": "23.10.2025",
+    "time": "01:24",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvaja",
+    "artist": "Gombitová Marika",
+    "date": "23.10.2025",
+    "time": "01:20",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Boat On The River",
+    "artist": "Styx",
+    "date": "23.10.2025",
+    "time": "01:17",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Felicita",
+    "artist": "Bano Al & Power Romina",
+    "date": "23.10.2025",
+    "time": "01:14",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Poslednýkrát",
     "artist": "Peter Nagy",
     "date": "23.10.2025",

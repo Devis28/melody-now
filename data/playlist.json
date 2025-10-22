@@ -5,7 +5,16 @@
     "artist": "Frankie Goes To Hollywood",
     "date": "22.10.2025",
     "time": "13:53",
-    "listeners": 1109
+    "listeners": 1109,
+    "lyricists": null,
+    "album": "Welcome to the Pleasuredome",
+    "release_year": 1994,
+    "duration_ms": 332507,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,19 @@
     "artist": "Ben E. King",
     "date": "22.10.2025",
     "time": "13:50",
-    "listeners": 1191
+    "listeners": 1191,
+    "lyricists": [
+      "Ben E. King",
+      "Jerry Leiber",
+      "Mike Stoller"
+    ],
+    "album": "The Very Best of Ben E. King",
+    "release_year": 2024,
+    "duration_ms": 174800,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

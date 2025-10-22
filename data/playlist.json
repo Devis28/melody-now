@@ -5,7 +5,13 @@
     "artist": "Rolincova Darinka",
     "date": "22.10.2025",
     "time": "20:51",
-    "listeners": 1321
+    "listeners": 1321,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 238640,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,19 @@
     "artist": "Eros Ramazzotti",
     "date": "22.10.2025",
     "time": "20:47",
-    "listeners": 1329
+    "listeners": 1329,
+    "lyricists": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ],
+    "album": "Eros Best Love Songs (Special Edition)",
+    "release_year": 1996,
+    "duration_ms": 267680,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Manilow Barry",
     "date": "22.10.2025",
     "time": "20:43",
-    "listeners": 1406
+    "listeners": 1406,
+    "lyricists": null,
+    "album": "Barry Manilow II",
+    "release_year": 1974,
+    "duration_ms": 213333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Marika Gombitová",
     "date": "22.10.2025",
     "time": "20:41",
-    "listeners": 1503
+    "listeners": 1503,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 1998,
+    "duration_ms": 146013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

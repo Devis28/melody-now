@@ -5,7 +5,15 @@
     "artist": "Roxette",
     "date": "22.10.2025",
     "time": "11:23",
-    "listeners": 1240
+    "listeners": 1240,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2006,
+    "duration_ms": 275667,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Milli Vanilli",
     "date": "22.10.2025",
     "time": "11:19",
-    "listeners": 1170
+    "listeners": 1170,
+    "lyricists": null,
+    "album": "80s 100 Hits – Volume 2",
+    "release_year": 2001,
+    "duration_ms": 225253,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Novák Petr",
     "date": "22.10.2025",
     "time": "11:17",
-    "listeners": 1049
+    "listeners": 1049,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 125867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Masterboy",
     "date": "22.10.2025",
     "time": "11:13",
-    "listeners": 1272
+    "listeners": 1272,
+    "lyricists": null,
+    "album": "Generation of Love",
+    "release_year": 1998,
+    "duration_ms": 243000,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,18 @@
     "artist": "Lionel Richie",
     "date": "22.10.2025",
     "time": "11:08",
-    "listeners": 1047
+    "listeners": 1047,
+    "lyricists": [
+      "Lionel Richie"
+    ],
+    "album": "Hello from Las Vegas (Deluxe) [Live]",
+    "release_year": 1995,
+    "duration_ms": 266547,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Baccara",
     "date": "22.10.2025",
     "time": "11:05",
-    "listeners": 974
+    "listeners": 974,
+    "lyricists": null,
+    "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire",
+    "release_year": 2004,
+    "duration_ms": 219067,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +104,15 @@
     "artist": "Kotvald Petr",
     "date": "22.10.2025",
     "time": "11:01",
-    "listeners": 1020
+    "listeners": 1020,
+    "lyricists": null,
+    "album": "Gejzír",
+    "release_year": 1990,
+    "duration_ms": 227267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

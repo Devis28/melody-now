@@ -5,7 +5,18 @@
     "artist": "Elton John",
     "date": "22.10.2025",
     "time": "04:59",
-    "listeners": 272
+    "listeners": 272,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition)",
+    "release_year": 2003,
+    "duration_ms": 228928,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,16 @@
     "artist": "Gladiátor",
     "date": "22.10.2025",
     "time": "04:56",
-    "listeners": 277
+    "listeners": 277,
+    "lyricists": null,
+    "album": "Hlavu Maj Hore",
+    "release_year": 2020,
+    "duration_ms": 203929,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Žbirka Miro",
     "date": "22.10.2025",
     "time": "04:52",
-    "listeners": 265
+    "listeners": 265,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 1983,
+    "duration_ms": 245027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,16 @@
     "artist": "Phil Collins",
     "date": "22.10.2025",
     "time": "04:47",
-    "listeners": 219
+    "listeners": 219,
+    "lyricists": null,
+    "album": "Testify (Deluxe Edition) [Remastered]",
+    "release_year": 1999,
+    "duration_ms": 331573,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,16 @@
     "artist": "Herman's Hermits",
     "date": "22.10.2025",
     "time": "04:44",
-    "listeners": 217
+    "listeners": 217,
+    "lyricists": null,
+    "album": "The BEST EVER: Sixties",
+    "release_year": 1991,
+    "duration_ms": 174333,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +91,16 @@
     "artist": "Pavol Habera",
     "date": "22.10.2025",
     "time": "04:41",
-    "listeners": 219
+    "listeners": 219,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +108,15 @@
     "artist": "Katarína Knechtová",
     "date": "22.10.2025",
     "time": "04:38",
-    "listeners": 222
+    "listeners": 222,
+    "lyricists": null,
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "release_year": 2008,
+    "duration_ms": 212307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +124,16 @@
     "artist": "Esposito Joe",
     "date": "22.10.2025",
     "time": "04:33",
-    "listeners": 211
+    "listeners": 211,
+    "lyricists": null,
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "release_year": 1983,
+    "duration_ms": 249640,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +141,18 @@
     "artist": "Michael Jackson",
     "date": "22.10.2025",
     "time": "04:30",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "release_year": 2005,
+    "duration_ms": 284310,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +160,15 @@
     "artist": "Peter Nagy",
     "date": "22.10.2025",
     "time": "04:27",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 177027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +176,15 @@
     "artist": "Rottrová Marie",
     "date": "22.10.2025",
     "time": "04:23",
-    "listeners": 197
+    "listeners": 197,
+    "lyricists": null,
+    "album": "To Mám Tak Ráda",
+    "release_year": 1975,
+    "duration_ms": 222067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +192,15 @@
     "artist": "Elán",
     "date": "22.10.2025",
     "time": "04:21",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1992,
+    "duration_ms": 164893,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +208,15 @@
     "artist": "Louis Armstrong",
     "date": "22.10.2025",
     "time": "04:18",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "What a Wonderful World",
+    "release_year": 1996,
+    "duration_ms": 139434,
+    "artist_country": "US",
+    "genres": [
+      "Jazz"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +224,15 @@
     "artist": "David, F.R.",
     "date": "22.10.2025",
     "time": "04:15",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "Words",
+    "release_year": 1982,
+    "duration_ms": 208000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +240,15 @@
     "artist": "Vidiek",
     "date": "22.10.2025",
     "time": "04:12",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Nechajte si ju!",
+    "release_year": 2012,
+    "duration_ms": 221040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +256,15 @@
     "artist": "Roxette",
     "date": "22.10.2025",
     "time": "04:07",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Joyride (30th Anniversary Edition)",
+    "release_year": 1995,
+    "duration_ms": 263093,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +272,15 @@
     "artist": "Marx Richard",
     "date": "22.10.2025",
     "time": "04:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Repeat Offender",
+    "release_year": 1989,
+    "duration_ms": 264333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +288,13 @@
     "artist": "Peter & Julia Heckovci",
     "date": "22.10.2025",
     "time": "03:58",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +302,15 @@
     "artist": "Londonbeat",
     "date": "22.10.2025",
     "time": "03:54",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 228280,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +318,15 @@
     "artist": "Superstar Top 11",
     "date": "22.10.2025",
     "time": "03:50",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Slovensko Hlada SuperStar",
+    "release_year": 2005,
+    "duration_ms": 254773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

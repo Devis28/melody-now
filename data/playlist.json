@@ -5,7 +5,16 @@
     "artist": "Tina Turner",
     "date": "22.10.2025",
     "time": "15:55",
-    "listeners": 1791
+    "listeners": 1791,
+    "lyricists": null,
+    "album": "Simply the Best",
+    "release_year": 1994,
+    "duration_ms": 255937,
+    "artist_country": "CH",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Grigorov Robo",
     "date": "22.10.2025",
     "time": "15:52",
-    "listeners": 1676
+    "listeners": 1676,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2008,
+    "duration_ms": 209427,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Orbison Roy",
     "date": "22.10.2025",
     "time": "15:48",
-    "listeners": 1727
+    "listeners": 1727,
+    "lyricists": null,
+    "album": "Oh! Pretty Woman",
+    "release_year": 1964,
+    "duration_ms": 178929,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

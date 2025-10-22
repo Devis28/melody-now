@@ -5,7 +5,15 @@
     "artist": "I.M.T. Smile",
     "date": "22.10.2025",
     "time": "22:55",
-    "listeners": 540
+    "listeners": 540,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2003,
+    "duration_ms": 277120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Mckenzie Scott",
     "date": "22.10.2025",
     "time": "22:52",
-    "listeners": 589
+    "listeners": 589,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

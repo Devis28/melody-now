@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "22.10.2025",
+    "time": "11:23",
+    "listeners": 1240
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Girl I'm Gonna Miss You",
+    "artist": "Milli Vanilli",
+    "date": "22.10.2025",
+    "time": "11:19",
+    "listeners": 1170
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Povídej",
+    "artist": "Novák Petr",
+    "date": "22.10.2025",
+    "time": "11:17",
+    "listeners": 1049
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Land Of Dreaming",
+    "artist": "Masterboy",
+    "date": "22.10.2025",
+    "time": "11:13",
+    "listeners": 1272
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "date": "22.10.2025",
+    "time": "11:08",
+    "listeners": 1047
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sorry, I'm A Lady",
+    "artist": "Baccara",
+    "date": "22.10.2025",
+    "time": "11:05",
+    "listeners": 974
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "22.10.2025",
+    "time": "11:01",
+    "listeners": 1020
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Midnight Lady",
     "artist": "Chris Norman",
     "date": "22.10.2025",

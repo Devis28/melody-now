@@ -5,7 +5,15 @@
     "artist": "Gott Karel",
     "date": "22.10.2025",
     "time": "07:12",
-    "listeners": 2330
+    "listeners": 2330,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 239600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Mr. Big",
     "date": "22.10.2025",
     "time": "07:04",
-    "listeners": 2284
+    "listeners": 2284,
+    "lyricists": null,
+    "album": "Big, Bigger, Biggest! The Best of Mr. Big",
+    "release_year": 2018,
+    "duration_ms": 208507,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,19 @@
     "artist": "ABBA",
     "date": "22.10.2025",
     "time": "07:01",
-    "listeners": 2151
+    "listeners": 2151,
+    "lyricists": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ],
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 201959,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

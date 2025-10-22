@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Poslednýkrát",
+    "artist": "Peter Nagy",
+    "date": "23.10.2025",
+    "time": "01:11",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Secret Love",
+    "artist": "The Bee Gees",
+    "date": "23.10.2025",
+    "time": "01:06",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zústanu Svúj",
+    "artist": "Gott Karel",
+    "date": "23.10.2025",
+    "time": "01:02",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veľa Lásky",
+    "artist": "I.M.T. Smile",
+    "date": "23.10.2025",
+    "time": "00:59",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Somebody Dance With Me",
     "artist": "Dj Bobo",
     "date": "23.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Dubasová Beáta",
     "date": "22.10.2025",
     "time": "19:30",
-    "listeners": 2009
+    "listeners": 2009,
+    "lyricists": null,
+    "album": "Úschovňa pohľadov",
+    "release_year": 1988,
+    "duration_ms": 288747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gravis",
     "date": "22.10.2025",
     "time": "19:27",
-    "listeners": 1992
+    "listeners": 1992,
+    "lyricists": null,
+    "album": "Kolotoč masiek",
+    "release_year": 1989,
+    "duration_ms": 194235,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "I.M.T. Smile",
     "date": "22.10.2025",
     "time": "19:24",
-    "listeners": 1899
+    "listeners": 1899,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 178840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Karel Zich",
     "date": "22.10.2025",
     "time": "19:21",
-    "listeners": 2089
+    "listeners": 2089,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 2004,
+    "duration_ms": 198040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

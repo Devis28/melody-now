@@ -5,7 +5,15 @@
     "artist": "Queen",
     "date": "22.10.2025",
     "time": "17:51",
-    "listeners": 3060
+    "listeners": 3060,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1986,
+    "duration_ms": 314489,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karel Gott",
     "date": "22.10.2025",
     "time": "17:48",
-    "listeners": 3041
+    "listeners": 3041,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 2006,
+    "duration_ms": 170067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

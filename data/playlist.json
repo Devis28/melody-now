@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hrám",
+    "artist": "Karol Duchoň",
+    "date": "22.10.2025",
+    "time": "12:46",
+    "listeners": 1612
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Keep Me Hanging On",
+    "artist": "Wilde Kim",
+    "date": "22.10.2025",
+    "time": "12:42",
+    "listeners": 1564
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wind Of Change",
+    "artist": "The Scorpions",
+    "date": "22.10.2025",
+    "time": "12:37",
+    "listeners": 1495
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Que Sera Mi Vida",
+    "artist": "The Gibson Brothers",
+    "date": "22.10.2025",
+    "time": "12:34",
+    "listeners": 1478
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamarátka Nádej",
+    "artist": "Vašo Patejdl",
+    "date": "22.10.2025",
+    "time": "12:30",
+    "listeners": 1685
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The One And Only",
     "artist": "Chesney Hawkes",
     "date": "22.10.2025",

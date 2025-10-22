@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "S Tebou",
+    "artist": "Žbirka Miro",
+    "date": "22.10.2025",
+    "time": "21:59",
+    "listeners": 885
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Are The Champions",
+    "artist": "Queen",
+    "date": "22.10.2025",
+    "time": "21:56",
+    "listeners": 978
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stačí Si Priať",
+    "artist": "Smatanová Zuzana",
+    "date": "22.10.2025",
+    "time": "21:52",
+    "listeners": 1007
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Viva Forever",
     "artist": "Spice Girls",
     "date": "22.10.2025",

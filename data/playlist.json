@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Midnight Lady",
+    "artist": "Chris Norman",
+    "date": "22.10.2025",
+    "time": "10:54",
+    "listeners": 1007
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kočka",
+    "artist": "Elán",
+    "date": "22.10.2025",
+    "time": "10:49",
+    "listeners": 1058
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "date": "22.10.2025",
+    "time": "10:45",
+    "listeners": 955
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Chlapci V Pasci",
     "artist": "Gombitová Marika",
     "date": "22.10.2025",

@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Somebody Dance With Me",
+    "artist": "Dj Bobo",
+    "date": "23.10.2025",
+    "time": "00:55",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Všetci Sa Zídeme V Jednej Posteli",
+    "artist": "Robo Grigorov",
+    "date": "23.10.2025",
+    "time": "00:52",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "23.10.2025",
+    "time": "00:48",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "23.10.2025",
+    "time": "00:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Radio Ga Ga",
+    "artist": "Queen",
+    "date": "23.10.2025",
+    "time": "00:41",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Keď Príde Láska",
     "artist": "Mc Erik And Barbara",
     "date": "23.10.2025",

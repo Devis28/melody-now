@@ -5,7 +5,15 @@
     "artist": "Brontosauři",
     "date": "23.10.2025",
     "time": "00:18",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Na Kameni Kamen",
+    "release_year": 2007,
+    "duration_ms": 159227,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "No Name",
     "date": "23.10.2025",
     "time": "00:15",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "25 The Best Of No Name",
+    "release_year": 2003,
+    "duration_ms": 211507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Mr. Big",
     "date": "23.10.2025",
     "time": "00:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Big, Bigger, Biggest! The Best of Mr. Big",
+    "release_year": 2018,
+    "duration_ms": 208507,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Modern Talking",
     "date": "23.10.2025",
     "time": "00:08",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Let's Talk About Love",
+    "release_year": 1985,
+    "duration_ms": 226333,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Bonnie Tyler",
     "date": "23.10.2025",
     "time": "00:04",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "It's a Heartache",
+    "release_year": 1991,
+    "duration_ms": 209760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

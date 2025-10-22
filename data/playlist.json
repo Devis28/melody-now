@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "22.10.2025",
+    "time": "13:25",
+    "listeners": 1361
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piccolo Amore",
+    "artist": "Ricchi E Poveri",
+    "date": "22.10.2025",
+    "time": "13:22",
+    "listeners": 1338
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Super Trouper",
+    "artist": "Abba",
+    "date": "22.10.2025",
+    "time": "13:18",
+    "listeners": 1352
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Habera, Pavol",
+    "date": "22.10.2025",
+    "time": "13:13",
+    "listeners": 1295
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Oheň, Voda, Vítr",
     "artist": "Janda Dalibor",
     "date": "22.10.2025",

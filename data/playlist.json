@@ -5,7 +5,15 @@
     "artist": "Hana Zagorová",
     "date": "22.10.2025",
     "time": "13:38",
-    "listeners": 1268
+    "listeners": 1268,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 2011,
+    "duration_ms": 312320,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Keating Ronan",
     "date": "22.10.2025",
     "time": "13:34",
-    "listeners": 1196
+    "listeners": 1196,
+    "lyricists": null,
+    "album": "Ronan",
+    "release_year": 1999,
+    "duration_ms": 256827,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "The Belle Stars",
     "date": "22.10.2025",
     "time": "13:31",
-    "listeners": 1233
+    "listeners": 1233,
+    "lyricists": null,
+    "album": "The Belle Stars",
+    "release_year": 1981,
+    "duration_ms": 178720,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Hammel Pavol",
     "date": "22.10.2025",
     "time": "13:28",
-    "listeners": 1291
+    "listeners": 1291,
+    "lyricists": null,
+    "album": "Vrabec vševed",
+    "release_year": 1979,
+    "duration_ms": 201293,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

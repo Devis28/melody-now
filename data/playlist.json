@@ -5,7 +5,15 @@
     "artist": "Donna Summer",
     "date": "22.10.2025",
     "time": "15:42",
-    "listeners": 1415
+    "listeners": 1415,
+    "lyricists": null,
+    "album": "Another Place & Time",
+    "release_year": 1993,
+    "duration_ms": 208773,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jiří Schelinger",
     "date": "22.10.2025",
     "time": "15:40",
-    "listeners": 1506
+    "listeners": 1506,
+    "lyricists": null,
+    "album": "Jsem Prý Blázen Jen",
+    "release_year": 2007,
+    "duration_ms": 132800,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,18 @@
     "artist": "Bon Jovi",
     "date": "22.10.2025",
     "time": "15:33",
-    "listeners": 1546
+    "listeners": 1546,
+    "lyricists": [
+      "Jon Bon Jovi"
+    ],
+    "album": "Keep the Faith",
+    "release_year": 2016,
+    "duration_ms": 394528,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "John Elton & Dee Kiki",
     "date": "22.10.2025",
     "time": "15:27",
-    "listeners": 1251
+    "listeners": 1251,
+    "lyricists": null,
+    "album": "Rock of the Westies (Remastered)",
+    "release_year": 1975,
+    "duration_ms": 275440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Miro Žbirka",
     "date": "22.10.2025",
     "time": "15:23",
-    "listeners": 1187
+    "listeners": 1187,
+    "lyricists": null,
+    "album": "Sezónne lásky",
+    "release_year": 2007,
+    "duration_ms": 223787,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,16 @@
     "artist": "Robert Miles",
     "date": "22.10.2025",
     "time": "15:20",
-    "listeners": 1238
+    "listeners": 1238,
+    "lyricists": null,
+    "album": "Dance Vault Mixes: Robert Miles - Children - EP",
+    "release_year": 1996,
+    "duration_ms": 243267,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,15 @@
     "artist": "Ub 40",
     "date": "22.10.2025",
     "time": "15:12",
-    "listeners": 1094
+    "listeners": 1094,
+    "lyricists": null,
+    "album": "The Very Best Of",
+    "release_year": 1989,
+    "duration_ms": 230000,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +121,15 @@
     "artist": "Vondráčková Helena",
     "date": "22.10.2025",
     "time": "15:10",
-    "listeners": 1185
+    "listeners": 1185,
+    "lyricists": null,
+    "album": "Kam Zmizel Ten Starý Song",
+    "release_year": 1992,
+    "duration_ms": 136800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +137,15 @@
     "artist": "Take That",
     "date": "22.10.2025",
     "time": "15:06",
-    "listeners": 1022
+    "listeners": 1022,
+    "lyricists": null,
+    "album": "Nobody Else (Expanded Edition)",
+    "release_year": 1996,
+    "duration_ms": 242267,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +153,15 @@
     "artist": "Elán",
     "date": "22.10.2025",
     "time": "15:03",
-    "listeners": 1132
+    "listeners": 1132,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2004,
+    "duration_ms": 165227,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +169,15 @@
     "artist": "Michael, George",
     "date": "22.10.2025",
     "time": "14:54",
-    "listeners": 899
+    "listeners": 899,
+    "lyricists": null,
+    "album": "Make It Big",
+    "release_year": 1984,
+    "duration_ms": 392267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +185,15 @@
     "artist": "Village People",
     "date": "22.10.2025",
     "time": "14:50",
-    "listeners": 915
+    "listeners": 915,
+    "lyricists": null,
+    "album": "YMCA",
+    "release_year": 1993,
+    "duration_ms": 286800,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +201,19 @@
     "artist": "Fancy",
     "date": "22.10.2025",
     "time": "14:47",
-    "listeners": 898
+    "listeners": 898,
+    "lyricists": [
+      "Alfons Weindorf",
+      "Fancy",
+      "Sabrina Lorenz"
+    ],
+    "album": "Hit Collection",
+    "release_year": 1998,
+    "duration_ms": 217880,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +221,15 @@
     "artist": "Aya",
     "date": "22.10.2025",
     "time": "14:41",
-    "listeners": 894
+    "listeners": 894,
+    "lyricists": null,
+    "album": "AYA 30 ROKOV & ŠTÁTNY KOMORNÝ ORCHESTER ŽILINA (Live Concert Version)",
+    "release_year": 2011,
+    "duration_ms": 445000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

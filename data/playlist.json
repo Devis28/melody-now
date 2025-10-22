@@ -5,7 +5,15 @@
     "artist": "Peter Nagy",
     "date": "23.10.2025",
     "time": "01:11",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Labute A Havrany",
+    "release_year": 2018,
+    "duration_ms": 191960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Bee Gees",
     "date": "23.10.2025",
     "time": "01:06",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "High Civilization",
+    "release_year": 1991,
+    "duration_ms": 222800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gott Karel",
     "date": "23.10.2025",
     "time": "01:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 239600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "I.M.T. Smile",
     "date": "23.10.2025",
     "time": "00:59",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2012,
+    "duration_ms": 195293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

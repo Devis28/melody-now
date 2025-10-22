@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Neľutujem",
+    "artist": "Adam Ďurica",
+    "date": "23.10.2025",
+    "time": "00:29",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nothing's Gonna Stop Us Now",
+    "artist": "Starship",
+    "date": "23.10.2025",
+    "time": "00:25",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zdá Sa Že To Stací",
+    "artist": "Smatanová Zuzana",
+    "date": "23.10.2025",
+    "time": "00:21",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Na Kameni Kámen",
     "artist": "Brontosauři",
     "date": "23.10.2025",

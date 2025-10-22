@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Arabela",
+    "artist": "Rolincova Darinka",
+    "date": "22.10.2025",
+    "time": "20:51",
+    "listeners": 1321
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "22.10.2025",
+    "time": "20:47",
+    "listeners": 1329
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "22.10.2025",
+    "time": "20:43",
+    "listeners": 1406
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Máš V Rukáve Máj",
+    "artist": "Marika Gombitová",
+    "date": "22.10.2025",
+    "time": "20:41",
+    "listeners": 1503
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Something's Gotten Hold Of My Heart",
     "artist": "Gene Pitney/Marc Almond",
     "date": "22.10.2025",

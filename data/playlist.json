@@ -5,7 +5,15 @@
     "artist": "Farmer Mylene",
     "date": "22.10.2025",
     "time": "08:53",
-    "listeners": 2192
+    "listeners": 2192,
+    "lyricists": null,
+    "album": "L'autre",
+    "release_year": 1991,
+    "duration_ms": 322760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Michal David",
     "date": "22.10.2025",
     "time": "08:50",
-    "listeners": 2445
+    "listeners": 2445,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2010,
+    "duration_ms": 283933,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

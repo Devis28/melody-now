@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "22.10.2025",
+    "time": "06:30",
+    "listeners": 1376
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Léto",
+    "artist": "Bartošová Iveta",
+    "date": "22.10.2025",
+    "time": "06:22",
+    "listeners": 1211
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Somebody Dance With Me",
+    "artist": "Dj Bobo",
+    "date": "22.10.2025",
+    "time": "06:18",
+    "listeners": 1225
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čakám Ťa, Láska",
+    "artist": "Elán",
+    "date": "22.10.2025",
+    "time": "06:14",
+    "listeners": 1047
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bol Raz Jeden Žiak",
+    "artist": "Grigorov Robo",
+    "date": "22.10.2025",
+    "time": "06:07",
+    "listeners": 961
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cheri Cheri Lady",
+    "artist": "Modern Talking",
+    "date": "22.10.2025",
+    "time": "06:03",
+    "listeners": 982
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sempre Sempre",
     "artist": "Al Bano & Romina Power",
     "date": "22.10.2025",

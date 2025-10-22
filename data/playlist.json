@@ -5,7 +5,15 @@
     "artist": "Chris Norman",
     "date": "22.10.2025",
     "time": "10:54",
-    "listeners": 1007
+    "listeners": 1007,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2002,
+    "duration_ms": 250000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "22.10.2025",
     "time": "10:49",
-    "listeners": 1058
+    "listeners": 1058,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,18 @@
     "artist": "Umberto Tozzi",
     "date": "22.10.2025",
     "time": "10:45",
-    "listeners": 955
+    "listeners": 955,
+    "lyricists": [
+      "Giancarlo Bigazzi",
+      "Umberto Tozzi"
+    ],
+    "album": "E' nell' aria…ti amo",
+    "release_year": 2006,
+    "duration_ms": 245693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

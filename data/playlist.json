@@ -5,7 +5,15 @@
     "artist": "Goombay Dance Band",
     "date": "22.10.2025",
     "time": "09:18",
-    "listeners": 1709
+    "listeners": 1709,
+    "lyricists": null,
+    "album": "Land of Gold",
+    "release_year": 1999,
+    "duration_ms": 265500,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Orchestral Manoeuvres In The Dark",
     "date": "22.10.2025",
     "time": "09:14",
-    "listeners": 1691
+    "listeners": 1691,
+    "lyricists": null,
+    "album": "Sugar Tax",
+    "release_year": 2011,
+    "duration_ms": 249173,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Bartošová Iveta",
     "date": "22.10.2025",
     "time": "09:10",
-    "listeners": 1776
+    "listeners": 1776,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 172600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Smokie",
     "date": "22.10.2025",
     "time": "09:06",
-    "listeners": 1926
+    "listeners": 1926,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2003,
+    "duration_ms": 196867,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Ramazzotti Eros",
     "date": "22.10.2025",
     "time": "09:02",
-    "listeners": 2007
+    "listeners": 2007,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 323867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

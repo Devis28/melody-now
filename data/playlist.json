@@ -5,7 +5,15 @@
     "artist": "Júlia a Peter Hečkovci",
     "date": "22.10.2025",
     "time": "19:18",
-    "listeners": 1863
+    "listeners": 1863,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 164771,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Matuška Waldemar",
     "date": "22.10.2025",
     "time": "19:14",
-    "listeners": 1908
+    "listeners": 1908,
+    "lyricists": null,
+    "album": "Textempore (Písně s texty Ivo Fischera)",
+    "release_year": 1965,
+    "duration_ms": 233240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Grigorov Robo",
     "date": "22.10.2025",
     "time": "19:10",
-    "listeners": 2047
+    "listeners": 2047,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2006,
+    "duration_ms": 294013,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Hex",
     "date": "22.10.2025",
     "time": "19:06",
-    "listeners": 2194
+    "listeners": 2194,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2002,
+    "duration_ms": 226493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Rolincová Darina",
     "date": "22.10.2025",
     "time": "19:03",
-    "listeners": 2040
+    "listeners": 2040,
+    "lyricists": null,
+    "album": "Kto Chce & Ak Náhodou - Single",
+    "release_year": 1987,
+    "duration_ms": 163067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,18 @@
     "artist": "Jana Kirschner",
     "date": "22.10.2025",
     "time": "19:00",
-    "listeners": 2295
+    "listeners": 2295,
+    "lyricists": [
+      "Ivan Tásler",
+      "Jana Kirschner"
+    ],
+    "album": "V Cudzom Meste",
+    "release_year": 2000,
+    "duration_ms": 199347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

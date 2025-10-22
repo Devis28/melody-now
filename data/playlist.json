@@ -1,6 +1,94 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Gejzír",
+    "artist": "Petr Kotvald",
+    "date": "22.10.2025",
+    "time": "18:56",
+    "listeners": 2237
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "22.10.2025",
+    "time": "18:52",
+    "listeners": 2478
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ján Ámos Džínový",
+    "artist": "Metalinda",
+    "date": "22.10.2025",
+    "time": "18:46",
+    "listeners": 2272
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Snad Jsem To Zavinil Já",
+    "artist": "Olympic",
+    "date": "22.10.2025",
+    "time": "18:43",
+    "listeners": 2382
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Štesti Je Krasna Vec",
+    "artist": "Müller Richard",
+    "date": "22.10.2025",
+    "time": "18:38",
+    "listeners": 2416
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pěkná Pěkná Pěkná",
+    "artist": "Ledecký Janek",
+    "date": "22.10.2025",
+    "time": "18:34",
+    "listeners": 2427
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Desmod",
+    "date": "22.10.2025",
+    "time": "18:31",
+    "listeners": 2789
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Snídane V Tráve",
+    "artist": "Tucný Michal",
+    "date": "22.10.2025",
+    "time": "18:28",
+    "listeners": 2761
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Rád",
+    "artist": "Miro Žbirka",
+    "date": "22.10.2025",
+    "time": "18:25",
+    "listeners": 2680
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Já Budu Chodit Po Špičkách",
+    "artist": "Novák Petr",
+    "date": "22.10.2025",
+    "time": "18:22",
+    "listeners": 2708
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Miestna Jednička",
+    "artist": "Patejdl Vašo",
+    "date": "22.10.2025",
+    "time": "18:19",
+    "listeners": 2745
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hej Mistre Basu",
     "artist": "Hana Zagorova & Karel Wagner",
     "date": "22.10.2025",

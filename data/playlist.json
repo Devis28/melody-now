@@ -5,7 +5,15 @@
     "artist": "Marie Rottrová",
     "date": "22.10.2025",
     "time": "23:34",
-    "listeners": 388
+    "listeners": 388,
+    "lyricists": null,
+    "album": "12× Marie Rottrová",
+    "release_year": 2003,
+    "duration_ms": 209600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Grigorov Robo Midi",
     "date": "22.10.2025",
     "time": "23:31",
-    "listeners": 401
+    "listeners": 401,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Status Quo",
     "date": "22.10.2025",
     "time": "23:27",
-    "listeners": 428
+    "listeners": 428,
+    "lyricists": null,
+    "album": "In the Army Now - The Collection",
+    "release_year": 2010,
+    "duration_ms": 281147,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

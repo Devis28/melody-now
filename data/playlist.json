@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "22.10.2025",
+    "time": "08:45",
+    "listeners": 2533
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Happy People",
+    "artist": "Prince Ital Joe Feat.Marky Mark",
+    "date": "22.10.2025",
+    "time": "08:42",
+    "listeners": 2607
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'm Still Standing",
+    "artist": "Elton John",
+    "date": "22.10.2025",
+    "time": "08:39",
+    "listeners": 2594
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "22.10.2025",
+    "time": "08:35",
+    "listeners": 2865
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Řeka Lásky",
+    "artist": "Marie Rottrová",
+    "date": "22.10.2025",
+    "time": "08:32",
+    "listeners": 2520
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Netrpezliví",
+    "artist": "Elán",
+    "date": "22.10.2025",
+    "time": "08:21",
+    "listeners": 2732
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Return To Innocence",
     "artist": "Enigma",
     "date": "22.10.2025",

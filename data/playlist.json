@@ -5,7 +5,19 @@
     "artist": "Mc Erik And Barbara",
     "date": "23.10.2025",
     "time": "00:37",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": [
+      "Barbara Haščáková",
+      "MC Erik"
+    ],
+    "album": "U Can't Stop (96 Version)",
+    "release_year": 2023,
+    "duration_ms": 248867,
+    "artist_country": "SK",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Bartošová Iveta",
     "date": "23.10.2025",
     "time": "00:33",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Nekonecna/Best Of",
+    "release_year": 1998,
+    "duration_ms": 224920,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

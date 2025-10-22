@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Riddle",
+    "artist": "Nik Kershaw",
+    "date": "22.10.2025",
+    "time": "22:38",
+    "listeners": 634
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska, Necestuj Tým Vlakom",
+    "artist": "Pavol Habera",
+    "date": "22.10.2025",
+    "time": "22:35",
+    "listeners": 639
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Pocit",
+    "artist": "Cmorík Peter",
+    "date": "22.10.2025",
+    "time": "22:30",
+    "listeners": 652
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cherish",
     "artist": "Madonna",
     "date": "22.10.2025",

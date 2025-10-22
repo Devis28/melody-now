@@ -5,7 +5,15 @@
     "artist": "Petr Kotvald",
     "date": "22.10.2025",
     "time": "18:56",
-    "listeners": 2237
+    "listeners": 2237,
+    "lyricists": null,
+    "album": "Konto 87 - 88 - 8990 - 91",
+    "release_year": 2016,
+    "duration_ms": 220133,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vondráčková Helena",
     "date": "22.10.2025",
     "time": "18:52",
-    "listeners": 2478
+    "listeners": 2478,
+    "lyricists": null,
+    "album": "Ode Mne K Tobě",
+    "release_year": 1975,
+    "duration_ms": 180253,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Metalinda",
     "date": "22.10.2025",
     "time": "18:46",
-    "listeners": 2272
+    "listeners": 2272,
+    "lyricists": null,
+    "album": "Metalinda",
+    "release_year": 1990,
+    "duration_ms": 336968,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Olympic",
     "date": "22.10.2025",
     "time": "18:43",
-    "listeners": 2382
+    "listeners": 2382,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 183200,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Müller Richard",
     "date": "22.10.2025",
     "time": "18:38",
-    "listeners": 2416
+    "listeners": 2416,
+    "lyricists": null,
+    "album": "Výberovka",
+    "release_year": 1988,
+    "duration_ms": 320040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Ledecký Janek",
     "date": "22.10.2025",
     "time": "18:34",
-    "listeners": 2427
+    "listeners": 2427,
+    "lyricists": null,
+    "album": "Právě teď",
+    "release_year": 1993,
+    "duration_ms": 269120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,16 @@
     "artist": "Desmod",
     "date": "22.10.2025",
     "time": "18:31",
-    "listeners": 2789
+    "listeners": 2789,
+    "lyricists": null,
+    "album": "Molekuly Zvuku",
+    "release_year": 2017,
+    "duration_ms": 188490,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,16 @@
     "artist": "Tucný Michal",
     "date": "22.10.2025",
     "time": "18:28",
-    "listeners": 2761
+    "listeners": 2761,
+    "lyricists": null,
+    "album": "Snídaně V Trávě",
+    "release_year": 2015,
+    "duration_ms": 178120,
+    "artist_country": null,
+    "genres": [
+      "Country",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +136,15 @@
     "artist": "Miro Žbirka",
     "date": "22.10.2025",
     "time": "18:25",
-    "listeners": 2680
+    "listeners": 2680,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 181307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +152,15 @@
     "artist": "Novák Petr",
     "date": "22.10.2025",
     "time": "18:22",
-    "listeners": 2708
+    "listeners": 2708,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 141027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +168,15 @@
     "artist": "Patejdl Vašo",
     "date": "22.10.2025",
     "time": "18:19",
-    "listeners": 2745
+    "listeners": 2745,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1986,
+    "duration_ms": 203867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "22.10.2025",
     "time": "19:38",
-    "listeners": 1711
+    "listeners": 1711,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1994,
+    "duration_ms": 279000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Balet",
     "date": "22.10.2025",
     "time": "19:35",
-    "listeners": 1827
+    "listeners": 1827,
+    "lyricists": null,
+    "album": "Hej Pane Diskžokej",
+    "release_year": 2013,
+    "duration_ms": 208133,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

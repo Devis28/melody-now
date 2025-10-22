@@ -5,7 +5,15 @@
     "artist": "Adam Ďurica",
     "date": "23.10.2025",
     "time": "00:29",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Akustické koncerty (Acoustic / Live)",
+    "release_year": 2023,
+    "duration_ms": 265998,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Starship",
     "date": "23.10.2025",
     "time": "00:25",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "No Protection",
+    "release_year": 1987,
+    "duration_ms": 270333,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Smatanová Zuzana",
     "date": "23.10.2025",
     "time": "00:21",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Tabletky Odvahy",
+    "release_year": 2007,
+    "duration_ms": 240883,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

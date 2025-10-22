@@ -5,7 +5,15 @@
     "artist": "Hana Zagorová",
     "date": "22.10.2025",
     "time": "16:20",
-    "listeners": 2286
+    "listeners": 2286,
+    "lyricists": null,
+    "album": "Singly 1981-1990",
+    "release_year": 2004,
+    "duration_ms": 205000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Ace Of Base",
     "date": "22.10.2025",
     "time": "16:13",
-    "listeners": 2367
+    "listeners": 2367,
+    "lyricists": [
+      "Ace of Base"
+    ],
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 1995,
+    "duration_ms": 211213,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,18 @@
     "artist": "Jaroslav Uhlíř",
     "date": "22.10.2025",
     "time": "16:10",
-    "listeners": 1987
+    "listeners": 1987,
+    "lyricists": [
+      "Jaroslav Uhlíř",
+      "Zdeněk Svěrák"
+    ],
+    "album": "Country Gold 80. léta",
+    "release_year": 1998,
+    "duration_ms": 189787,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +58,16 @@
     "artist": "Blondie",
     "date": "22.10.2025",
     "time": "16:06",
-    "listeners": 2146
+    "listeners": 2146,
+    "lyricists": null,
+    "album": "Autoamerican (Bonus Track) [2001 Remaster]",
+    "release_year": 2002,
+    "duration_ms": 280267,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +75,17 @@
     "artist": "Shakira",
     "date": "22.10.2025",
     "time": "16:03",
-    "listeners": 2066
+    "listeners": 2066,
+    "lyricists": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ],
+    "album": "Laundry Service",
+    "release_year": 2001,
+    "duration_ms": 196160,
+    "artist_country": "CO",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

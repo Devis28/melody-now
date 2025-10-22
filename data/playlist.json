@@ -5,7 +5,15 @@
     "artist": "Kryštof ft. Sima Martausová",
     "date": "22.10.2025",
     "time": "21:30",
-    "listeners": 1101
+    "listeners": 1101,
+    "lyricists": null,
+    "album": "Hvězdáři (feat. Sima Martausová) - Single",
+    "release_year": 2019,
+    "duration_ms": 242553,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Sandra",
     "date": "22.10.2025",
     "time": "21:26",
-    "listeners": 1178
+    "listeners": 1178,
+    "lyricists": null,
+    "album": "Paintings in Yellow",
+    "release_year": 2000,
+    "duration_ms": 412160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

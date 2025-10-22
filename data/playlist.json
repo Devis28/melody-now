@@ -5,7 +5,18 @@
     "artist": "Sting",
     "date": "22.10.2025",
     "time": "23:11",
-    "listeners": 516
+    "listeners": 516,
+    "lyricists": [
+      "Sting"
+    ],
+    "album": "Ten Summoner's Tales",
+    "release_year": 2024,
+    "duration_ms": 222120,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,16 @@
     "artist": "Black",
     "date": "22.10.2025",
     "time": "23:06",
-    "listeners": 540
+    "listeners": 540,
+    "lyricists": null,
+    "album": "Wonderful Life",
+    "release_year": 2003,
+    "duration_ms": 287933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Vondrackova Helena + Korn Jiri",
     "date": "22.10.2025",
     "time": "23:03",
-    "listeners": 487
+    "listeners": 487,
+    "lyricists": null,
+    "album": "Těch Pár Dnů",
+    "release_year": null,
+    "duration_ms": 179000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Elán",
     "date": "22.10.2025",
     "time": "22:58",
-    "listeners": 521
+    "listeners": 521,
+    "lyricists": null,
+    "album": "Legenda 5: Posledná...",
+    "release_year": 2007,
+    "duration_ms": 271773,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

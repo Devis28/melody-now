@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Moviestar",
+    "artist": "Harpo",
+    "date": "22.10.2025",
+    "time": "10:14",
+    "listeners": 897
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chráň Svoje Bláznovstvá",
+    "artist": "Peter Nagy",
+    "date": "22.10.2025",
+    "time": "10:09",
+    "listeners": 957
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cigaretka Na Dva Ťahy",
+    "artist": "Richard Müller",
+    "date": "22.10.2025",
+    "time": "10:06",
+    "listeners": 942
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Gimme Gimme Gimme A Man After Midnight",
+    "artist": "Abba",
+    "date": "22.10.2025",
+    "time": "10:01",
+    "listeners": 1039
+  },
+  {
+    "station": "Rádio Melody",
     "title": "What Is Love",
     "artist": "Haddaway",
     "date": "22.10.2025",

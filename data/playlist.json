@@ -5,7 +5,17 @@
     "artist": "Harpo",
     "date": "22.10.2025",
     "time": "10:14",
-    "listeners": 897
+    "listeners": 897,
+    "lyricists": [
+      "Harpo"
+    ],
+    "album": "Moviestar",
+    "release_year": 2002,
+    "duration_ms": 202280,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "Peter Nagy",
     "date": "22.10.2025",
     "time": "10:09",
-    "listeners": 957
+    "listeners": 957,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2011,
+    "duration_ms": 171240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Richard Müller",
     "date": "22.10.2025",
     "time": "10:06",
-    "listeners": 942
+    "listeners": 942,
+    "lyricists": null,
+    "album": "Koncert (Live)",
+    "release_year": 2002,
+    "duration_ms": 436587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Abba",
     "date": "22.10.2025",
     "time": "10:01",
-    "listeners": 1039
+    "listeners": 1039,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1979,
+    "duration_ms": 289887,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Olivia Newton-John And Electric Light Orchestra",
     "date": "22.10.2025",
     "time": "11:41",
-    "listeners": 1255
+    "listeners": 1255,
+    "lyricists": null,
+    "album": "Xanadu (From the Original Motion Picture Soundtrack)",
+    "release_year": 1980,
+    "duration_ms": 208240,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Miro Žbirka",
     "date": "22.10.2025",
     "time": "11:38",
-    "listeners": 1384
+    "listeners": 1384,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 2007,
+    "duration_ms": 197960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Duran Duran",
     "date": "22.10.2025",
     "time": "11:34",
-    "listeners": 1327
+    "listeners": 1327,
+    "lyricists": null,
+    "album": "Thank You",
+    "release_year": 1995,
+    "duration_ms": 230933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Zenit",
     "date": "22.10.2025",
     "time": "11:30",
-    "listeners": 1352
+    "listeners": 1352,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 233960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Gott Karel & Olympic",
     "date": "22.10.2025",
     "time": "11:28",
-    "listeners": 1249
+    "listeners": 1249,
+    "lyricists": null,
+    "album": "Cesta Rájem",
+    "release_year": 1965,
+    "duration_ms": 116573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "22.10.2025",
     "time": "23:23",
-    "listeners": 417
+    "listeners": 417,
+    "lyricists": null,
+    "album": "Modus",
+    "release_year": 2005,
+    "duration_ms": 218600,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "La Bouche",
     "date": "22.10.2025",
     "time": "23:19",
-    "listeners": 470
+    "listeners": 470,
+    "lyricists": null,
+    "album": "La Bouche: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 240867,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Patejdl Vašo",
     "date": "22.10.2025",
     "time": "23:15",
-    "listeners": 468
+    "listeners": 468,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1986,
+    "duration_ms": 287667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

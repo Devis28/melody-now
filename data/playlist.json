@@ -5,7 +5,15 @@
     "artist": "Grigorov Robo",
     "date": "22.10.2025",
     "time": "13:25",
-    "listeners": 1361
+    "listeners": 1361,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ricchi E Poveri",
     "date": "22.10.2025",
     "time": "13:22",
-    "listeners": 1338
+    "listeners": 1338,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1984,
+    "duration_ms": 198867,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Abba",
     "date": "22.10.2025",
     "time": "13:18",
-    "listeners": 1352
+    "listeners": 1352,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1989,
+    "duration_ms": 251298,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Habera, Pavol",
     "date": "22.10.2025",
     "time": "13:13",
-    "listeners": 1295
+    "listeners": 1295,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1995,
+    "duration_ms": 303493,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

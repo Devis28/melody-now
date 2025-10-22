@@ -5,7 +5,16 @@
     "artist": "Zoo & Jan Kalousek",
     "date": "22.10.2025",
     "time": "19:59",
-    "listeners": 1454
+    "listeners": 1454,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2005,
+    "duration_ms": 232973,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Olympic",
     "date": "22.10.2025",
     "time": "19:55",
-    "listeners": 1648
+    "listeners": 1648,
+    "lyricists": null,
+    "album": "Balady",
+    "release_year": 1992,
+    "duration_ms": 256373,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Žbirka Miro",
     "date": "22.10.2025",
     "time": "19:51",
-    "listeners": 1584
+    "listeners": 1584,
+    "lyricists": null,
+    "album": "Nemoderný chalan",
+    "release_year": 1984,
+    "duration_ms": 222640,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tisíc A Jedenkrát",
+    "artist": "Elán",
+    "date": "22.10.2025",
+    "time": "19:38",
+    "listeners": 1711
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hej Pane Diskžokej",
+    "artist": "Balet",
+    "date": "22.10.2025",
+    "time": "19:35",
+    "listeners": 1827
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Šumienky Z Polomu",
     "artist": "Dubasová Beáta",
     "date": "22.10.2025",

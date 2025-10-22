@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "22.10.2025",
+    "time": "16:40",
+    "listeners": 2834
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čardáš Dvoch Sŕdc",
+    "artist": "Karol Duchoň",
+    "date": "22.10.2025",
+    "time": "16:36",
+    "listeners": 2654
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Wanna Dance With Somebody",
+    "artist": "Whitney Houston",
+    "date": "22.10.2025",
+    "time": "16:32",
+    "listeners": 2576
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Obchodník S Deštěm",
+    "artist": "Kryštof",
+    "date": "22.10.2025",
+    "time": "16:26",
+    "listeners": 2477
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "22.10.2025",
+    "time": "16:23",
+    "listeners": 2337
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Diskohrátky",
     "artist": "Hana Zagorová",
     "date": "22.10.2025",

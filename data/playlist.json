@@ -5,7 +5,15 @@
     "artist": "Žbirka Miro",
     "date": "22.10.2025",
     "time": "21:59",
-    "listeners": 885
+    "listeners": 885,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 1983,
+    "duration_ms": 225040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Queen",
     "date": "22.10.2025",
     "time": "21:56",
-    "listeners": 978
+    "listeners": 978,
+    "lyricists": null,
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1977,
+    "duration_ms": 179191,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Smatanová Zuzana",
     "date": "22.10.2025",
     "time": "21:52",
-    "listeners": 1007
+    "listeners": 1007,
+    "lyricists": null,
+    "album": "Gemini",
+    "release_year": 2009,
+    "duration_ms": 215439,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

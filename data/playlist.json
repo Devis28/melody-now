@@ -5,7 +5,15 @@
     "artist": "Janda Dalibor",
     "date": "22.10.2025",
     "time": "13:09",
-    "listeners": 1494
+    "listeners": 1494,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 172707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The George Baker Selection",
     "date": "22.10.2025",
     "time": "13:05",
-    "listeners": 1574
+    "listeners": 1574,
+    "lyricists": null,
+    "album": "Paloma Blanca",
+    "release_year": 1975,
+    "duration_ms": 209360,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Queen",
     "date": "22.10.2025",
     "time": "13:01",
-    "listeners": 1566
+    "listeners": 1566,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1991,
+    "duration_ms": 271610,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

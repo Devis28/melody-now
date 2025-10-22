@@ -1,6 +1,238 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Voulez Vous",
+    "artist": "Abba",
+    "date": "22.10.2025",
+    "time": "03:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "22.10.2025",
+    "time": "03:40",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Won't Let The Sun Go Down On Me",
+    "artist": "Kershaw Nik",
+    "date": "22.10.2025",
+    "time": "03:37",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Matka",
+    "artist": "Tublatanka",
+    "date": "22.10.2025",
+    "time": "03:33",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nemožná",
+    "artist": "Slivová Silvia",
+    "date": "22.10.2025",
+    "time": "03:29",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cesty II. Triedy",
+    "artist": "Ivan Tásler & I.M.T. Smile",
+    "date": "22.10.2025",
+    "time": "03:25",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sounds Like A Melody",
+    "artist": "Alphaville",
+    "date": "22.10.2025",
+    "time": "03:21",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Posledné Dobré Dievča",
+    "artist": "Pavol Habera",
+    "date": "22.10.2025",
+    "time": "03:18",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šrouby Do Hlavy",
+    "artist": "Lucie",
+    "date": "22.10.2025",
+    "time": "03:14",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Škandál",
+    "artist": "Polemic",
+    "date": "22.10.2025",
+    "time": "03:11",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Can't Help Falling In Love",
+    "artist": "Ub 40",
+    "date": "22.10.2025",
+    "time": "03:08",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vymyslená",
+    "artist": "Elán",
+    "date": "22.10.2025",
+    "time": "03:05",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Slepých Uličkách",
+    "artist": "Zbirka Miro & Gombitova Marika",
+    "date": "22.10.2025",
+    "time": "03:02",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "22.10.2025",
+    "time": "02:58",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Made In Italy",
+    "artist": "Ricchi E Poveri",
+    "date": "22.10.2025",
+    "time": "02:55",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nothing Else Matters",
+    "artist": "Metallica",
+    "date": "22.10.2025",
+    "time": "02:49",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Je Jaká Je",
+    "artist": "Karel Gott",
+    "date": "22.10.2025",
+    "time": "02:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cirkus Leto",
+    "artist": "Pavol Hammel",
+    "date": "22.10.2025",
+    "time": "02:42",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "She's Like The Wind",
+    "artist": "Patrick Swayze",
+    "date": "22.10.2025",
+    "time": "02:38",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "22.10.2025",
+    "time": "02:34",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nenahraditeľná",
+    "artist": "Sima Martausová & For You",
+    "date": "22.10.2025",
+    "time": "02:31",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Great Commandment",
+    "artist": "Camouflage",
+    "date": "22.10.2025",
+    "time": "02:28",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Môj Starý Dobrý Kabát",
+    "artist": "Tublatanka",
+    "date": "22.10.2025",
+    "time": "02:25",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'd Love You To Want Me",
+    "artist": "Lobo",
+    "date": "22.10.2025",
+    "time": "02:21",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Proklínám",
+    "artist": "Ledecký Janek",
+    "date": "22.10.2025",
+    "time": "02:17",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pár Dní",
+    "artist": "Desmod & Zuzana Smatanová",
+    "date": "22.10.2025",
+    "time": "02:13",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ordinary World",
+    "artist": "Duran Duran",
+    "date": "22.10.2025",
+    "time": "02:08",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malá Nočná Búrka",
+    "artist": "Team",
+    "date": "22.10.2025",
+    "time": "02:03",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nonstop",
+    "artist": "David Michal",
+    "date": "22.10.2025",
+    "time": "02:00",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Len Sa Smej",
     "artist": "Peter Bič Project",
     "date": "22.10.2025",

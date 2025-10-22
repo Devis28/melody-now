@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Torn",
+    "artist": "Imbruglia Natalie",
+    "date": "22.10.2025",
+    "time": "17:41",
+    "listeners": 3095
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "date": "22.10.2025",
+    "time": "17:39",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Dvaja",
     "artist": "Grigorov Robo",
     "date": "22.10.2025",

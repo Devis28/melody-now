@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "22.10.2025",
     "time": "03:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1994,
+    "duration_ms": 306787,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Beata Dubasová",
     "date": "22.10.2025",
     "time": "03:40",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Za dverami mojej izby",
+    "release_year": 1990,
+    "duration_ms": 303903,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Kershaw Nik",
     "date": "22.10.2025",
     "time": "03:37",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Human Racing",
+    "release_year": 1983,
+    "duration_ms": 203853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Tublatanka",
     "date": "22.10.2025",
     "time": "03:33",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 2006,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Slivová Silvia",
     "date": "22.10.2025",
     "time": "03:29",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 233373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Ivan Tásler & I.M.T. Smile",
     "date": "22.10.2025",
     "time": "03:25",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2023,
+    "duration_ms": 234587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Alphaville",
     "date": "22.10.2025",
     "time": "03:21",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "First Harvest 1984-1992",
+    "release_year": 2024,
+    "duration_ms": 267907,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +117,16 @@
     "artist": "Pavol Habera",
     "date": "22.10.2025",
     "time": "03:18",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 1991,
+    "duration_ms": 201667,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +134,15 @@
     "artist": "Lucie",
     "date": "22.10.2025",
     "time": "03:14",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Hity Tommü",
+    "release_year": 1999,
+    "duration_ms": 249667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +150,15 @@
     "artist": "Polemic",
     "date": "22.10.2025",
     "time": "03:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Nelam Si Tym Hlavu",
+    "release_year": 2002,
+    "duration_ms": 160760,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +166,15 @@
     "artist": "Ub 40",
     "date": "22.10.2025",
     "time": "03:08",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "The Very Best of UB40: 1980-2000",
+    "release_year": 1993,
+    "duration_ms": 208733,
+    "artist_country": null,
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +182,15 @@
     "artist": "Elán",
     "date": "22.10.2025",
     "time": "03:05",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2004,
+    "duration_ms": 138120,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +198,15 @@
     "artist": "Zbirka Miro & Gombitova Marika",
     "date": "22.10.2025",
     "time": "03:02",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 246160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +214,16 @@
     "artist": "Army Of Lovers",
     "date": "22.10.2025",
     "time": "02:58",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +231,15 @@
     "artist": "Ricchi E Poveri",
     "date": "22.10.2025",
     "time": "02:55",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Ricchi e Poveri",
+    "release_year": 1981,
+    "duration_ms": 201253,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +247,16 @@
     "artist": "Metallica",
     "date": "22.10.2025",
     "time": "02:49",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Metallica (Deluxe Box Set)",
+    "release_year": 1991,
+    "duration_ms": 388733,
+    "artist_country": "US",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +264,15 @@
     "artist": "Karel Gott",
     "date": "22.10.2025",
     "time": "02:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "'76 (Bonus Track Version)",
+    "release_year": 1998,
+    "duration_ms": 230827,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +280,16 @@
     "artist": "Pavol Hammel",
     "date": "22.10.2025",
     "time": "02:42",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "THE BEST OF PAVOL HAMMEL",
+    "release_year": 1981,
+    "duration_ms": 164947,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +297,16 @@
     "artist": "Patrick Swayze",
     "date": "22.10.2025",
     "time": "02:38",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": [
+      "Patrick Swayze",
+      "Stacy Widelitz"
+    ],
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 2007,
+    "duration_ms": 232907,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +314,15 @@
     "artist": "Gladiátor",
     "date": "22.10.2025",
     "time": "02:34",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Babylon Hotel",
+    "release_year": 2020,
+    "duration_ms": 236507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +330,15 @@
     "artist": "Sima Martausová & For You",
     "date": "22.10.2025",
     "time": "02:31",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Len Tak Sa Stíšim",
+    "release_year": 2019,
+    "duration_ms": 252405,
+    "artist_country": "SK",
+    "genres": [
+      "Folk"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +346,15 @@
     "artist": "Camouflage",
     "date": "22.10.2025",
     "time": "02:28",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Best of Camouflage: We Stroke the Flames",
+    "release_year": 2009,
+    "duration_ms": 253267,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +362,15 @@
     "artist": "Tublatanka",
     "date": "22.10.2025",
     "time": "02:25",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Zeravé znamenie osudu",
+    "release_year": 2012,
+    "duration_ms": 197013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -189,7 +378,18 @@
     "artist": "Lobo",
     "date": "22.10.2025",
     "time": "02:21",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Lobo"
+    ],
+    "album": "I'd Love You To Want Me - Single",
+    "release_year": 2008,
+    "duration_ms": 248973,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -197,7 +397,15 @@
     "artist": "Ledecký Janek",
     "date": "22.10.2025",
     "time": "02:17",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Promilujem celou noc",
+    "release_year": 1998,
+    "duration_ms": 233307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -205,7 +413,15 @@
     "artist": "Desmod & Zuzana Smatanová",
     "date": "22.10.2025",
     "time": "02:13",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Skupinova Terapia",
+    "release_year": 2004,
+    "duration_ms": 210480,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -213,7 +429,16 @@
     "artist": "Duran Duran",
     "date": "22.10.2025",
     "time": "02:08",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Duran Duran (The Wedding Album)",
+    "release_year": 1993,
+    "duration_ms": 340200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -221,7 +446,15 @@
     "artist": "Team",
     "date": "22.10.2025",
     "time": "02:03",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2006,
+    "duration_ms": 246560,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -229,7 +462,15 @@
     "artist": "David Michal",
     "date": "22.10.2025",
     "time": "02:00",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 211960,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

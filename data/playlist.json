@@ -5,7 +5,15 @@
     "artist": "Vašo Patejdl",
     "date": "23.10.2025",
     "time": "01:51",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2005,
+    "duration_ms": 273160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "No Mercy",
     "date": "23.10.2025",
     "time": "01:46",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1997,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

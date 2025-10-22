@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Taliansky Muzikál",
+    "artist": "Júlia a Peter Hečkovci",
+    "date": "22.10.2025",
+    "time": "19:18",
+    "listeners": 1863
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jó Tresne Zraly",
+    "artist": "Matuška Waldemar",
+    "date": "22.10.2025",
+    "time": "19:14",
+    "listeners": 1908
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Povedzme",
+    "artist": "Grigorov Robo",
+    "date": "22.10.2025",
+    "time": "19:10",
+    "listeners": 2047
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chvíľu áno, chvíľu nie",
+    "artist": "Hex",
+    "date": "22.10.2025",
+    "time": "19:06",
+    "listeners": 2194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ak Náhodou",
+    "artist": "Rolincová Darina",
+    "date": "22.10.2025",
+    "time": "19:03",
+    "listeners": 2040
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Cudzom Meste",
+    "artist": "Jana Kirschner",
+    "date": "22.10.2025",
+    "time": "19:00",
+    "listeners": 2295
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Gejzír",
     "artist": "Petr Kotvald",
     "date": "22.10.2025",

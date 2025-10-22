@@ -1,6 +1,166 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Candle In The Wind",
+    "artist": "Elton John",
+    "date": "22.10.2025",
+    "time": "04:59",
+    "listeners": 272
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hlavu Maj Hore",
+    "artist": "Gladiátor",
+    "date": "22.10.2025",
+    "time": "04:56",
+    "listeners": 277
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Múr Našich Lások",
+    "artist": "Žbirka Miro",
+    "date": "22.10.2025",
+    "time": "04:52",
+    "listeners": 265
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "True Colors",
+    "artist": "Phil Collins",
+    "date": "22.10.2025",
+    "time": "04:47",
+    "listeners": 219
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "No Milk Today",
+    "artist": "Herman's Hermits",
+    "date": "22.10.2025",
+    "time": "04:44",
+    "listeners": 217
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Preč, Preč",
+    "artist": "Pavol Habera",
+    "date": "22.10.2025",
+    "time": "04:41",
+    "listeners": 219
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V tichu",
+    "artist": "Katarína Knechtová",
+    "date": "22.10.2025",
+    "time": "04:38",
+    "listeners": 222
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lady Lady Lady",
+    "artist": "Esposito Joe",
+    "date": "22.10.2025",
+    "time": "04:33",
+    "listeners": 211
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "22.10.2025",
+    "time": "04:30",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Je Tu Láska",
+    "artist": "Peter Nagy",
+    "date": "22.10.2025",
+    "time": "04:27",
+    "listeners": 201
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stestí",
+    "artist": "Rottrová Marie",
+    "date": "22.10.2025",
+    "time": "04:23",
+    "listeners": 197
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neobzerajte Sa Pani Lótová",
+    "artist": "Elán",
+    "date": "22.10.2025",
+    "time": "04:21",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "What A Wonderful World",
+    "artist": "Louis Armstrong",
+    "date": "22.10.2025",
+    "time": "04:18",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Words",
+    "artist": "David, F.R.",
+    "date": "22.10.2025",
+    "time": "04:15",
+    "listeners": 201
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vidiečan",
+    "artist": "Vidiek",
+    "date": "22.10.2025",
+    "time": "04:12",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Joyride",
+    "artist": "Roxette",
+    "date": "22.10.2025",
+    "time": "04:07",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Right Here Waiting",
+    "artist": "Marx Richard",
+    "date": "22.10.2025",
+    "time": "04:02",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sputana Laskou",
+    "artist": "Peter & Julia Heckovci",
+    "date": "22.10.2025",
+    "time": "03:58",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I've Been Thinking About You",
+    "artist": "Londonbeat",
+    "date": "22.10.2025",
+    "time": "03:54",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Vieš Snívať",
+    "artist": "Superstar Top 11",
+    "date": "22.10.2025",
+    "time": "03:50",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Voulez Vous",
     "artist": "Abba",
     "date": "22.10.2025",

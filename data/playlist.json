@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hej Mistre Basu",
+    "artist": "Hana Zagorova & Karel Wagner",
+    "date": "22.10.2025",
+    "time": "18:16",
+    "listeners": 2935
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Severanka",
+    "artist": "Team",
+    "date": "22.10.2025",
+    "time": "18:11",
+    "listeners": 2948
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nech Sa Deje Čo Sa Má",
+    "artist": "Zuzana Smatanová",
+    "date": "22.10.2025",
+    "time": "18:06",
+    "listeners": 3045
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá Láska",
+    "artist": "Ráž Jožo",
+    "date": "22.10.2025",
+    "time": "18:02",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Black Velvet",
+    "artist": "Myles Alannah",
+    "date": "22.10.2025",
+    "time": "17:54",
+    "listeners": 2842
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Who Wants To Live Forever",
     "artist": "Queen",
     "date": "22.10.2025",

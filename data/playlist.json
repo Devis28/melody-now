@@ -5,7 +5,15 @@
     "artist": "Imbruglia Natalie",
     "date": "22.10.2025",
     "time": "17:41",
-    "listeners": 3095
+    "listeners": 3095,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Beatles",
     "date": "22.10.2025",
     "time": "17:39",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Help!",
+    "release_year": 1965,
+    "duration_ms": 125667,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

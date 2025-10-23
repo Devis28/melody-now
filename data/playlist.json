@@ -5,7 +5,15 @@
     "artist": "East 17",
     "date": "23.10.2025",
     "time": "15:54",
-    "listeners": 1921
+    "listeners": 1921,
+    "lyricists": null,
+    "album": "Steam",
+    "release_year": 1994,
+    "duration_ms": 267133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Brezovská Mirka",
     "date": "23.10.2025",
     "time": "15:51",
-    "listeners": 1900
+    "listeners": 1900,
+    "lyricists": null,
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "release_year": 2016,
+    "duration_ms": 197007,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Ace Of Base",
     "date": "23.10.2025",
     "time": "15:48",
-    "listeners": 1758
+    "listeners": 1758,
+    "lyricists": null,
+    "album": "The Bridge (Remastered)",
+    "release_year": 1995,
+    "duration_ms": 221187,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

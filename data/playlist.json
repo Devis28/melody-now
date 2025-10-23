@@ -5,7 +5,15 @@
     "artist": "Iveta Bartošová",
     "date": "23.10.2025",
     "time": "19:16",
-    "listeners": 1935
+    "listeners": 1935,
+    "lyricists": null,
+    "album": "Jedna jedina",
+    "release_year": 2005,
+    "duration_ms": 194733,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Buty",
     "date": "23.10.2025",
     "time": "19:13",
-    "listeners": 1911
+    "listeners": 1911,
+    "lyricists": null,
+    "album": "Drevo",
+    "release_year": 2005,
+    "duration_ms": 242160,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Desmod",
     "date": "23.10.2025",
     "time": "19:06",
-    "listeners": 2156
+    "listeners": 2156,
+    "lyricists": null,
+    "album": "Vyberovka",
+    "release_year": 2009,
+    "duration_ms": 296520,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Janda Dalibor",
     "date": "23.10.2025",
     "time": "19:03",
-    "listeners": 2166
+    "listeners": 2166,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 190627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Hex",
     "date": "23.10.2025",
     "time": "18:59",
-    "listeners": 2034
+    "listeners": 2034,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2015,
+    "duration_ms": 232840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

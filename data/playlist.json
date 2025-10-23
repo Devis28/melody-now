@@ -5,7 +5,15 @@
     "artist": "Falco",
     "date": "23.10.2025",
     "time": "17:06",
-    "listeners": 2876
+    "listeners": 2876,
+    "lyricists": null,
+    "album": "Emotional (Deluxe Version) [2021 Remaster]",
+    "release_year": 2002,
+    "duration_ms": 338293,
+    "artist_country": "AT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Beata Dubasová",
     "date": "23.10.2025",
     "time": "17:02",
-    "listeners": 2995
+    "listeners": 2995,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 2001,
+    "duration_ms": 269000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Eagles The",
     "date": "23.10.2025",
     "time": "16:54",
-    "listeners": 3050
+    "listeners": 3050,
+    "lyricists": null,
+    "album": "Hotel California (40th Anniversary Expanded Edition)",
+    "release_year": 1976,
+    "duration_ms": 391357,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

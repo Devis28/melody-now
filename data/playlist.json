@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "23.10.2025",
     "time": "05:52",
-    "listeners": 724
+    "listeners": 724,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Frankie Goes To Hollywood",
     "date": "23.10.2025",
     "time": "05:47",
-    "listeners": 655
+    "listeners": 655,
+    "lyricists": null,
+    "album": "Welcome to the Pleasuredome",
+    "release_year": 1994,
+    "duration_ms": 332507,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Modus",
     "date": "23.10.2025",
     "time": "05:45",
-    "listeners": 678
+    "listeners": 678,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 144240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

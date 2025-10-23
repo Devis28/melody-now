@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "You Win Again",
+    "artist": "The Bee Gees",
+    "date": "23.10.2025",
+    "time": "16:38",
+    "listeners": 2618
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "23.10.2025",
+    "time": "16:35",
+    "listeners": 2703
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "23.10.2025",
+    "time": "16:30",
+    "listeners": 2572
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "23.10.2025",
+    "time": "16:26",
+    "listeners": 2454
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Mi, Lásko, Není Dvacet Let",
+    "artist": "Jiří Zmožek",
+    "date": "23.10.2025",
+    "time": "16:22",
+    "listeners": 2557
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "23.10.2025",
+    "time": "16:18",
+    "listeners": 2293
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sharazan",
     "artist": "Al Bano & Romina Power",
     "date": "23.10.2025",

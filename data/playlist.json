@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "23.10.2025",
+    "time": "06:35",
+    "listeners": 1588
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zbohom Bud, Lipova Lyzka,...",
+    "artist": "Dočolomanský Michal",
+    "date": "23.10.2025",
+    "time": "06:32",
+    "listeners": 1501
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "date": "23.10.2025",
+    "time": "06:28",
+    "listeners": 1440
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "23.10.2025",
+    "time": "06:21",
+    "listeners": 1180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Líbezná",
     "artist": "David Michal",
     "date": "23.10.2025",

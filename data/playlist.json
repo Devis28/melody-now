@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sunshine Reggae",
+    "artist": "Laid Back",
+    "date": "23.10.2025",
+    "time": "13:54",
+    "listeners": 1042
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "date": "23.10.2025",
+    "time": "13:50",
+    "listeners": 1136
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tri Slová",
     "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
     "date": "23.10.2025",

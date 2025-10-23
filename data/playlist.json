@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "When I Need You",
+    "artist": "Leo Sayer",
+    "date": "23.10.2025",
+    "time": "08:53",
+    "listeners": 2128
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Decibely Lásky",
+    "artist": "David Michal Kroky Františka Janečka",
+    "date": "23.10.2025",
+    "time": "08:50",
+    "listeners": 2232
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Free",
     "artist": "Lighthouse Family",
     "date": "23.10.2025",

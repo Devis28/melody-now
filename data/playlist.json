@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "23.10.2025",
+    "time": "13:47",
+    "listeners": 1197
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Neverending Story",
+    "artist": "Limahl",
+    "date": "23.10.2025",
+    "time": "13:44",
+    "listeners": 1160
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Stín Katedrál",
     "artist": "Shalom",
     "date": "23.10.2025",

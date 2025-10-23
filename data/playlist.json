@@ -5,7 +5,15 @@
     "artist": "Habera Pavol",
     "date": "24.10.2025",
     "time": "00:12",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Boli Sme Raz Milovani",
+    "release_year": 2000,
+    "duration_ms": 227827,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Mr. President",
     "date": "24.10.2025",
     "time": "00:08",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "We See The Same Sun",
+    "release_year": 2022,
+    "duration_ms": 218733,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,18 @@
     "artist": "Robo Grigorov",
     "date": "24.10.2025",
     "time": "00:04",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "album": "Chýbaš Mi...",
+    "release_year": 2006,
+    "duration_ms": 273293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Miro Žbirka",
     "date": "24.10.2025",
     "time": "00:00",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 2007,
+    "duration_ms": 198160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Juanes",
     "date": "23.10.2025",
     "time": "23:57",
-    "listeners": 328
+    "listeners": 328,
+    "lyricists": [
+      "Juanes"
+    ],
+    "album": "Mi Sangre",
+    "release_year": 2005,
+    "duration_ms": 216707,
+    "artist_country": "CO",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

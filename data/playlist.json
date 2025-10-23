@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pesnička O Medulienke",
+    "artist": "Gladiator Hammel Pavol",
+    "date": "23.10.2025",
+    "time": "22:11",
+    "listeners": 820
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Big In Japan",
+    "artist": "Alphaville",
+    "date": "23.10.2025",
+    "time": "22:06",
+    "listeners": 828
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "23.10.2025",
+    "time": "22:03",
+    "listeners": 862
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Daj Ruku Do Mojej Ruky",
+    "artist": "Smatanová Zuzana",
+    "date": "23.10.2025",
+    "time": "22:00",
+    "listeners": 889
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "date": "23.10.2025",
+    "time": "21:55",
+    "listeners": 948
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Time To Say Goodbye",
     "artist": "Brightman Sarah&Bocelli Andrea",
     "date": "23.10.2025",

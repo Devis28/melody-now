@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Boli Sme Raz Milovaní",
+    "artist": "Habera Pavol",
+    "date": "24.10.2025",
+    "time": "00:12",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Coco Jambo",
+    "artist": "Mr. President",
+    "date": "24.10.2025",
+    "time": "00:08",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Modlitba Lásky",
+    "artist": "Robo Grigorov",
+    "date": "24.10.2025",
+    "time": "00:04",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "24.10.2025",
+    "time": "00:00",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "La Camisa Negra",
+    "artist": "Juanes",
+    "date": "23.10.2025",
+    "time": "23:57",
+    "listeners": 328
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Každá Trampota Má Svou Mez",
     "artist": "Vondráčková Helena &Korn Jiří",
     "date": "23.10.2025",

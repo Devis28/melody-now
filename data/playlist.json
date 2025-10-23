@@ -5,7 +5,15 @@
     "artist": "Brightman Sarah&Bocelli Andrea",
     "date": "23.10.2025",
     "time": "21:51",
-    "listeners": 981
+    "listeners": 981,
+    "lyricists": null,
+    "album": "Romanza",
+    "release_year": 1995,
+    "duration_ms": 244627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Tyler Bonnie",
     "date": "23.10.2025",
     "time": "21:47",
-    "listeners": 895
+    "listeners": 895,
+    "lyricists": null,
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "release_year": 1984,
+    "duration_ms": 350705,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

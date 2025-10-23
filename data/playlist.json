@@ -5,7 +5,15 @@
     "artist": "Pavol Habera & Team",
     "date": "23.10.2025",
     "time": "02:50",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "The Best Of",
+    "release_year": 2021,
+    "duration_ms": 325507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Farmer Mylene",
     "date": "23.10.2025",
     "time": "02:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "L'autre",
+    "release_year": 1991,
+    "duration_ms": 322760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Dušan Hlaváček",
     "date": "23.10.2025",
     "time": "02:41",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Zaľúbení",
+    "release_year": 1987,
+    "duration_ms": 233352,
+    "artist_country": "SK",
+    "genres": [
+      "Folk",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "23.10.2025",
     "time": "02:37",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 1994,
+    "duration_ms": 238467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Michal David",
     "date": "23.10.2025",
     "time": "02:33",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2010,
+    "duration_ms": 283933,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Modus",
     "date": "23.10.2025",
     "time": "02:29",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 1998,
+    "duration_ms": 260800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,13 @@
     "artist": "Berlin",
     "date": "23.10.2025",
     "time": "02:25",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Top Gun (Original Motion Picture Soundtrack) [Special Expanded Edition]",
+    "release_year": 2009,
+    "duration_ms": 255733,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +116,15 @@
     "artist": "Peha",
     "date": "23.10.2025",
     "time": "02:22",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "release_year": 2003,
+    "duration_ms": 206800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +132,16 @@
     "artist": "Erasure",
     "date": "23.10.2025",
     "time": "02:18",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Hits! The Very Best of Erasure",
+    "release_year": 1993,
+    "duration_ms": 237613,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +149,15 @@
     "artist": "No Name",
     "date": "23.10.2025",
     "time": "02:14",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2006,
+    "duration_ms": 197707,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +165,15 @@
     "artist": "Mariah Carey",
     "date": "23.10.2025",
     "time": "02:11",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 214040,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +181,15 @@
     "artist": "Duchon  Karol",
     "date": "23.10.2025",
     "time": "02:06",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "20 naj, Vol. 2",
+    "release_year": 2016,
+    "duration_ms": 249933,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +197,19 @@
     "artist": "ABBA",
     "date": "23.10.2025",
     "time": "02:03",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ],
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 201959,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +217,15 @@
     "artist": "Gladiátor",
     "date": "23.10.2025",
     "time": "02:00",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Mesto",
+    "release_year": 2020,
+    "duration_ms": 197000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +233,15 @@
     "artist": "Orchestral Manoeuvres In The Dark",
     "date": "23.10.2025",
     "time": "01:56",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Sugar Tax",
+    "release_year": 2011,
+    "duration_ms": 249173,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

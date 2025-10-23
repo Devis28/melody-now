@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Horou",
+    "artist": "Zuzana Smatanová",
+    "date": "24.10.2025",
+    "time": "00:29",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "24.10.2025",
+    "time": "00:25",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Je Tu Láska",
+    "artist": "Peter Nagy",
+    "date": "24.10.2025",
+    "time": "00:23",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yes Sir, I Can Boogie",
+    "artist": "Baccara",
+    "date": "24.10.2025",
+    "time": "00:18",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stánky",
+    "artist": "Brontosauři",
+    "date": "24.10.2025",
+    "time": "00:16",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Boli Sme Raz Milovaní",
     "artist": "Habera Pavol",
     "date": "24.10.2025",

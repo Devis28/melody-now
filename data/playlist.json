@@ -5,7 +5,15 @@
     "artist": "No Name",
     "date": "23.10.2025",
     "time": "20:54",
-    "listeners": 1268
+    "listeners": 1268,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2003,
+    "duration_ms": 210307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Abba",
     "date": "23.10.2025",
     "time": "20:50",
-    "listeners": 1349
+    "listeners": 1349,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 1976,
+    "duration_ms": 253220,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Penk Michal",
     "date": "23.10.2025",
     "time": "20:46",
-    "listeners": 1451
+    "listeners": 1451,
+    "lyricists": null,
+    "album": "Hit Album",
+    "release_year": 1992,
+    "duration_ms": 278000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

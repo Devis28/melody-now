@@ -5,7 +5,15 @@
     "artist": "Pretenders, The",
     "date": "23.10.2025",
     "time": "07:35",
-    "listeners": 2996
+    "listeners": 2996,
+    "lyricists": null,
+    "album": "Last of the Independents",
+    "release_year": 1994,
+    "duration_ms": 238827,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "John Paul Young",
     "date": "23.10.2025",
     "time": "07:32",
-    "listeners": 2713
+    "listeners": 2713,
+    "lyricists": null,
+    "album": "Vanda and Young: The Official Songbook",
+    "release_year": 1996,
+    "duration_ms": 208413,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,19 @@
     "artist": "Enrique Iglesias",
     "date": "23.10.2025",
     "time": "07:22",
-    "listeners": 2440
+    "listeners": 2440,
+    "lyricists": [
+      "Enrique Iglesias",
+      "Mark Taylor",
+      "Paul Barry"
+    ],
+    "album": "Enrique",
+    "release_year": 2000,
+    "duration_ms": 220160,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

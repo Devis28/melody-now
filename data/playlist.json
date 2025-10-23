@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "23.10.2025",
+    "time": "05:41",
+    "listeners": 576
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Just Called To Say I Love You",
+    "artist": "Wonder Stevie",
+    "date": "23.10.2025",
+    "time": "05:36",
+    "listeners": 489
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Baby, I Love Your Way",
+    "artist": "Big Mountain",
+    "date": "23.10.2025",
+    "time": "05:32",
+    "listeners": 462
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamarátka Nádej",
+    "artist": "Vašo Patejdl",
+    "date": "23.10.2025",
+    "time": "05:29",
+    "listeners": 468
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Moviestar",
+    "artist": "Harpo",
+    "date": "23.10.2025",
+    "time": "05:26",
+    "listeners": 421
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Iko Iko",
+    "artist": "The Belle Stars",
+    "date": "23.10.2025",
+    "time": "05:23",
+    "listeners": 415
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "23.10.2025",
+    "time": "05:18",
+    "listeners": 368
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Útoč Láskou",
+    "artist": "Bartosova, Iveta",
+    "date": "23.10.2025",
+    "time": "05:15",
+    "listeners": 342
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Perfect Day",
     "artist": "Duran Duran",
     "date": "23.10.2025",

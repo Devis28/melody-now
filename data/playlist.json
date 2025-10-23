@@ -5,7 +5,15 @@
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "23.10.2025",
     "time": "10:25",
-    "listeners": 930
+    "listeners": 930,
+    "lyricists": null,
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "release_year": 1997,
+    "duration_ms": 301520,
+    "artist_country": null,
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Roxette",
     "date": "23.10.2025",
     "time": "10:21",
-    "listeners": 878
+    "listeners": 878,
+    "lyricists": null,
+    "album": "Joyride (30th Anniversary Edition)",
+    "release_year": 2011,
+    "duration_ms": 265733,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Tučný Michal",
     "date": "23.10.2025",
     "time": "10:17",
-    "listeners": 970
+    "listeners": 970,
+    "lyricists": null,
+    "album": "Poslední Kovboj",
+    "release_year": 1980,
+    "duration_ms": 250760,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Mckee Maria",
     "date": "23.10.2025",
     "time": "10:13",
-    "listeners": 945
+    "listeners": 945,
+    "lyricists": null,
+    "album": "Ultimate Collection: Maria McKee",
+    "release_year": 1993,
+    "duration_ms": 224707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,16 @@
     "artist": "Bad Boys Blue",
     "date": "23.10.2025",
     "time": "10:09",
-    "listeners": 967
+    "listeners": 967,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 1988,
+    "duration_ms": 346507,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Matuška Waldemar",
     "date": "23.10.2025",
     "time": "10:05",
-    "listeners": 1001
+    "listeners": 1001,
+    "lyricists": null,
+    "album": "Co Neodnesl Čas",
+    "release_year": 1991,
+    "duration_ms": 300107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Rimes Leann",
     "date": "23.10.2025",
     "time": "10:01",
-    "listeners": 957
+    "listeners": 957,
+    "lyricists": null,
+    "album": "Coyote Ugly",
+    "release_year": 2000,
+    "duration_ms": 215507,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Cutting Crew",
     "date": "23.10.2025",
     "time": "09:53",
-    "listeners": 1150
+    "listeners": 1150,
+    "lyricists": null,
+    "album": "Broadcast",
+    "release_year": 2019,
+    "duration_ms": 280400,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Guru Josh",
     "date": "23.10.2025",
     "time": "09:50",
-    "listeners": 1170
+    "listeners": 1170,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

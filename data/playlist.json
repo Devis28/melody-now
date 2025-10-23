@@ -5,7 +5,15 @@
     "artist": "Duran Duran",
     "date": "23.10.2025",
     "time": "05:11",
-    "listeners": 342
+    "listeners": 342,
+    "lyricists": null,
+    "album": "Thank You",
+    "release_year": 1995,
+    "duration_ms": 230933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Zich Karel & Filipová Lenka",
     "date": "23.10.2025",
     "time": "05:07",
-    "listeners": 284
+    "listeners": 284,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 1981,
+    "duration_ms": 218240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Zenit",
     "date": "23.10.2025",
     "time": "05:03",
-    "listeners": 290
+    "listeners": 290,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 233960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Peha",
     "date": "23.10.2025",
     "time": "04:59",
-    "listeners": 278
+    "listeners": 278,
+    "lyricists": null,
+    "album": "Největší slovenské hity všech dob",
+    "release_year": 2005,
+    "duration_ms": 250027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Richard Müller",
     "date": "23.10.2025",
     "time": "04:56",
-    "listeners": 254
+    "listeners": 254,
+    "lyricists": null,
+    "album": "Koncert (Live)",
+    "release_year": 2002,
+    "duration_ms": 436587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Smokie",
     "date": "23.10.2025",
     "time": "04:52",
-    "listeners": 248
+    "listeners": 248,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2003,
+    "duration_ms": 196867,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Haddaway",
     "date": "23.10.2025",
     "time": "04:48",
-    "listeners": 240
+    "listeners": 240,
+    "lyricists": null,
+    "album": "What Is Love - EP",
+    "release_year": 1996,
+    "duration_ms": 270373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +117,15 @@
     "artist": "I.M.T. Smile",
     "date": "23.10.2025",
     "time": "04:45",
-    "listeners": 241
+    "listeners": 241,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2020,
+    "duration_ms": 197947,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +133,15 @@
     "artist": "Wilde Kim",
     "date": "23.10.2025",
     "time": "04:41",
-    "listeners": 221
+    "listeners": 221,
+    "lyricists": null,
+    "album": "Another Step",
+    "release_year": 1986,
+    "duration_ms": 255220,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +149,15 @@
     "artist": "Erasure",
     "date": "23.10.2025",
     "time": "04:36",
-    "listeners": 215
+    "listeners": 215,
+    "lyricists": null,
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "release_year": 2005,
+    "duration_ms": 237840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +165,18 @@
     "artist": "Lionel Richie",
     "date": "23.10.2025",
     "time": "04:32",
-    "listeners": 212
+    "listeners": 212,
+    "lyricists": [
+      "Lionel Richie"
+    ],
+    "album": "Hello from Las Vegas (Deluxe) [Live]",
+    "release_year": 1995,
+    "duration_ms": 266547,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +184,15 @@
     "artist": "Hex",
     "date": "23.10.2025",
     "time": "04:28",
-    "listeners": 207
+    "listeners": 207,
+    "lyricists": null,
+    "album": "Kde je tu láska?",
+    "release_year": 2023,
+    "duration_ms": 260316,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +200,15 @@
     "artist": "Olivia Newton-John And Electric Light Orchestra",
     "date": "23.10.2025",
     "time": "04:25",
-    "listeners": 204
+    "listeners": 204,
+    "lyricists": null,
+    "album": "Xanadu (From the Original Motion Picture Soundtrack)",
+    "release_year": 1980,
+    "duration_ms": 208240,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +216,13 @@
     "artist": "Rolincova Darinka",
     "date": "23.10.2025",
     "time": "04:22",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 189827,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",

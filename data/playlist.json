@@ -5,7 +5,15 @@
     "artist": "Bartošová Iveta",
     "date": "23.10.2025",
     "time": "12:23",
-    "listeners": 1602
+    "listeners": 1602,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 227133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Neckář Václav",
     "date": "23.10.2025",
     "time": "12:17",
-    "listeners": 1631
+    "listeners": 1631,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 1965,
+    "duration_ms": 323453,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Simply Red",
     "date": "23.10.2025",
     "time": "12:13",
-    "listeners": 1579
+    "listeners": 1579,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2003,
+    "duration_ms": 248600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Nagy Peter",
     "date": "23.10.2025",
     "time": "12:09",
-    "listeners": 1696
+    "listeners": 1696,
+    "lyricists": null,
+    "album": "Šachy robia človeka",
+    "release_year": 1989,
+    "duration_ms": 201813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Streisand Barbra",
     "date": "23.10.2025",
     "time": "12:06",
-    "listeners": 1449
+    "listeners": 1449,
+    "lyricists": null,
+    "album": "Guilty",
+    "release_year": 1980,
+    "duration_ms": 233400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Corona",
     "date": "23.10.2025",
     "time": "12:01",
-    "listeners": 1602
+    "listeners": 1602,
+    "lyricists": null,
+    "album": "The Rhythm of the Night",
+    "release_year": 1994,
+    "duration_ms": 264280,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Gombitová Marika",
     "date": "23.10.2025",
     "time": "21:23",
-    "listeners": 1139
+    "listeners": 1139,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1987,
+    "duration_ms": 333653,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dubasová Beáta",
     "date": "23.10.2025",
     "time": "21:20",
-    "listeners": 1150
+    "listeners": 1150,
+    "lyricists": null,
+    "album": "Najväčšie hity 1985 - 2020",
+    "release_year": 2020,
+    "duration_ms": 173880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Louis Armstrong",
     "date": "23.10.2025",
     "time": "21:17",
-    "listeners": 1202
+    "listeners": 1202,
+    "lyricists": null,
+    "album": "What a Wonderful World",
+    "release_year": 1996,
+    "duration_ms": 139434,
+    "artist_country": "US",
+    "genres": [
+      "Jazz"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Gott Karel",
     "date": "23.10.2025",
     "time": "21:13",
-    "listeners": 1261
+    "listeners": 1261,
+    "lyricists": null,
+    "album": "Lidovky Mého Srdce",
+    "release_year": 2010,
+    "duration_ms": 102427,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

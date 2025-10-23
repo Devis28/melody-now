@@ -5,7 +5,15 @@
     "artist": "Zuzana Smatanová",
     "date": "24.10.2025",
     "time": "00:29",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Horou - Single",
+    "release_year": 2018,
+    "duration_ms": 246659,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Taylor Dayne",
     "date": "24.10.2025",
     "time": "00:25",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "release_year": 2004,
+    "duration_ms": 220880,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peter Nagy",
     "date": "24.10.2025",
     "time": "00:23",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 177027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Baccara",
     "date": "24.10.2025",
     "time": "00:18",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "70s 100 Hits",
+    "release_year": 1997,
+    "duration_ms": 274581,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Brontosauři",
     "date": "24.10.2025",
     "time": "00:16",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Vsechny Hity",
+    "release_year": 1991,
+    "duration_ms": 133293,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

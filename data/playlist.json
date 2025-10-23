@@ -5,7 +5,15 @@
     "artist": "Michal Tučný",
     "date": "23.10.2025",
     "time": "14:49",
-    "listeners": 997
+    "listeners": 997,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Opus",
     "date": "23.10.2025",
     "time": "14:43",
-    "listeners": 891
+    "listeners": 891,
+    "lyricists": null,
+    "album": "Live Is Life - Single",
+    "release_year": 1991,
+    "duration_ms": 249500,
+    "artist_country": "AT",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Abba",
     "date": "23.10.2025",
     "time": "14:40",
-    "listeners": 924
+    "listeners": 924,
+    "lyricists": null,
+    "album": "Waterloo",
+    "release_year": 1994,
+    "duration_ms": 176440,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Team",
     "date": "23.10.2025",
     "time": "14:37",
-    "listeners": 884
+    "listeners": 884,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2003,
+    "duration_ms": 180360,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Vengaboys",
     "date": "23.10.2025",
     "time": "14:33",
-    "listeners": 894
+    "listeners": 894,
+    "lyricists": null,
+    "album": "Boom, Boom, Boom, Boom!! - Single",
+    "release_year": 1998,
+    "duration_ms": 202583,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Smokie",
     "date": "23.10.2025",
     "time": "14:26",
-    "listeners": 935
+    "listeners": 935,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 1998,
+    "duration_ms": 244733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,16 @@
     "artist": "Patejdl, Vaso",
     "date": "23.10.2025",
     "time": "14:22",
-    "listeners": 949
+    "listeners": 949,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 252013,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "Tina Turner/Eros Ramazzotti",
     "date": "23.10.2025",
     "time": "14:17",
-    "listeners": 913
+    "listeners": 913,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 291133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +135,15 @@
     "artist": "Gott Karel & Holanová Marcela",
     "date": "23.10.2025",
     "time": "14:11",
-    "listeners": 960
+    "listeners": 960,
+    "lyricists": null,
+    "album": "Umbrella EP",
+    "release_year": 2022,
+    "duration_ms": 234456,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +151,15 @@
     "artist": "Boney M.",
     "date": "23.10.2025",
     "time": "14:08",
-    "listeners": 938
+    "listeners": 938,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2025,
+    "duration_ms": 261200,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +167,15 @@
     "artist": "Adams, Bryan",
     "date": "23.10.2025",
     "time": "14:04",
-    "listeners": 961
+    "listeners": 961,
+    "lyricists": null,
+    "album": "Bare Bones (Live)",
+    "release_year": 2010,
+    "duration_ms": 227133,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +183,15 @@
     "artist": "Zagorová Hana Kotvald Petr Hložek Stanislav",
     "date": "23.10.2025",
     "time": "14:01",
-    "listeners": 1081
+    "listeners": 1081,
+    "lyricists": null,
+    "album": "Sanitka 2",
+    "release_year": 2013,
+    "duration_ms": 217747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

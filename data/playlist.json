@@ -5,7 +5,19 @@
     "artist": "Al Bano & Romina Power",
     "date": "23.10.2025",
     "time": "16:11",
-    "listeners": 2160
+    "listeners": 2160,
+    "lyricists": [
+      "Al Bano Carrisi",
+      "Ciro Dammicco",
+      "Romina Power"
+    ],
+    "album": "Al Bano e Romina Power",
+    "release_year": 2007,
+    "duration_ms": 264773,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,16 @@
     "artist": "Prince Ital Joe & Marky Mark",
     "date": "23.10.2025",
     "time": "16:07",
-    "listeners": 1970
+    "listeners": 1970,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 2009,
+    "duration_ms": 241760,
+    "artist_country": "US",
+    "genres": [
+      "Hip-Hop",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +42,15 @@
     "artist": "Miro Zbirka",
     "date": "23.10.2025",
     "time": "16:03",
-    "listeners": 2047
+    "listeners": 2047,
+    "lyricists": null,
+    "album": "K.O.",
+    "release_year": 1990,
+    "duration_ms": 277053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

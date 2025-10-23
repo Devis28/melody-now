@@ -5,7 +5,18 @@
     "artist": "Robin Gibb",
     "date": "23.10.2025",
     "time": "20:42",
-    "listeners": 1389
+    "listeners": 1389,
+    "lyricists": [
+      "Maurice Gibb",
+      "Robin Gibb"
+    ],
+    "album": "How Old Are You?",
+    "release_year": 1983,
+    "duration_ms": 228000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,16 @@
     "artist": "Habera Pavol",
     "date": "23.10.2025",
     "time": "20:38",
-    "listeners": 1368
+    "listeners": 1368,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2001,
+    "duration_ms": 241000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,16 @@
     "artist": "Sandra",
     "date": "23.10.2025",
     "time": "20:34",
-    "listeners": 1413
+    "listeners": 1413,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 2018,
+    "duration_ms": 221107,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +58,15 @@
     "artist": "Smatanová Zuzana",
     "date": "23.10.2025",
     "time": "20:31",
-    "listeners": 1549
+    "listeners": 1549,
+    "lyricists": null,
+    "album": "Rozprávač",
+    "release_year": 2005,
+    "duration_ms": 205380,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "Francesco Napoli",
     "date": "23.10.2025",
     "time": "20:27",
-    "listeners": 1488
+    "listeners": 1488,
+    "lyricists": null,
+    "album": "Balla... the First Dance",
+    "release_year": 2014,
+    "duration_ms": 352560,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,15 @@
     "artist": "AC+",
     "date": "23.10.2025",
     "time": "20:24",
-    "listeners": 1521
+    "listeners": 1521,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 1990,
+    "duration_ms": 213160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,16 @@
     "artist": "Army Of Lovers",
     "date": "23.10.2025",
     "time": "20:20",
-    "listeners": 1407
+    "listeners": 1407,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +123,16 @@
     "artist": "Money Factor",
     "date": "23.10.2025",
     "time": "20:16",
-    "listeners": 1579
+    "listeners": 1579,
+    "lyricists": null,
+    "album": "Rockové Balady",
+    "release_year": 2008,
+    "duration_ms": 241760,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

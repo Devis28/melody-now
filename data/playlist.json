@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I Wanna B with U",
+    "artist": "Fun Factory",
+    "date": "23.10.2025",
+    "time": "21:33",
+    "listeners": 1138
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vetroň",
+    "artist": "Hex",
+    "date": "23.10.2025",
+    "time": "21:28",
+    "listeners": 1027
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Koloseum",
     "artist": "Gombitová Marika",
     "date": "23.10.2025",

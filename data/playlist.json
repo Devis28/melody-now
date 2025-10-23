@@ -5,7 +5,15 @@
     "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
     "date": "23.10.2025",
     "time": "13:47",
-    "listeners": 1197
+    "listeners": 1197,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2001,
+    "duration_ms": 182773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Limahl",
     "date": "23.10.2025",
     "time": "13:44",
-    "listeners": 1160
+    "listeners": 1160,
+    "lyricists": null,
+    "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
+    "release_year": 2008,
+    "duration_ms": 210013,
+    "artist_country": "GB",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

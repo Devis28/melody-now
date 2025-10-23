@@ -5,7 +5,15 @@
     "artist": "Uriah Heep",
     "date": "23.10.2025",
     "time": "23:18",
-    "listeners": 423
+    "listeners": 423,
+    "lyricists": null,
+    "album": "The Best of... Pt. 1",
+    "release_year": 1996,
+    "duration_ms": 282307,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "23.10.2025",
     "time": "23:16",
-    "listeners": 482
+    "listeners": 482,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1992,
+    "duration_ms": 170800,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Nocadeň",
     "date": "23.10.2025",
     "time": "23:12",
-    "listeners": 462
+    "listeners": 462,
+    "lyricists": null,
+    "album": "Nocadeň v Prahe (Live 2024)",
+    "release_year": 2015,
+    "duration_ms": 258587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Bon Jovi, Jon",
     "date": "23.10.2025",
     "time": "23:06",
-    "listeners": 493
+    "listeners": 493,
+    "lyricists": null,
+    "album": "Blaze of Glory (Inspired by the Film \"Young Guns II\")",
+    "release_year": 1990,
+    "duration_ms": 335240,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Janda Dalibor",
     "date": "23.10.2025",
     "time": "23:03",
-    "listeners": 523
+    "listeners": 523,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 229080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

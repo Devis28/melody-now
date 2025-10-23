@@ -5,7 +5,13 @@
     "artist": "Metalinda",
     "date": "23.10.2025",
     "time": "21:42",
-    "listeners": 1032
+    "listeners": 1032,
+    "lyricists": null,
+    "album": null,
+    "release_year": 1996,
+    "duration_ms": null,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,13 @@
     "artist": "Taktici",
     "date": "23.10.2025",
     "time": "21:40",
-    "listeners": 1024
+    "listeners": 1024,
+    "lyricists": null,
+    "album": null,
+    "release_year": 1997,
+    "duration_ms": null,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +33,22 @@
     "artist": "Queen",
     "date": "23.10.2025",
     "time": "21:36",
-    "listeners": 987
+    "listeners": 987,
+    "lyricists": [
+      "Angie Stone",
+      "Bahamadia",
+      "Erykah Badu",
+      "James Poyser",
+      "Queen Latifah",
+      "Rashad Smith"
+    ],
+    "album": "A Night at the Opera",
+    "release_year": 1975,
+    "duration_ms": 219055,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

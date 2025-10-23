@@ -5,7 +5,15 @@
     "artist": "Lenka Filipová",
     "date": "23.10.2025",
     "time": "08:16",
-    "listeners": 2983
+    "listeners": 2983,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 2007,
+    "duration_ms": 213253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Pavol Hammel",
     "date": "23.10.2025",
     "time": "08:13",
-    "listeners": 2920
+    "listeners": 2920,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "Hráč",
+    "release_year": 1998,
+    "duration_ms": 155240,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Garcia",
     "date": "23.10.2025",
     "time": "08:05",
-    "listeners": 2925
+    "listeners": 2925,
+    "lyricists": null,
+    "album": "Bamboleo - Single",
+    "release_year": 2000,
+    "duration_ms": 228963,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Michal David",
     "date": "23.10.2025",
     "time": "08:02",
-    "listeners": 3116
+    "listeners": 3116,
+    "lyricists": null,
+    "album": "Non Stop",
+    "release_year": 2010,
+    "duration_ms": 196840,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

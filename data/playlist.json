@@ -5,7 +5,15 @@
     "artist": "Aerosmith",
     "date": "23.10.2025",
     "time": "13:27",
-    "listeners": 1218
+    "listeners": 1218,
+    "lyricists": null,
+    "album": "I Don't Want To Miss A Thing EP",
+    "release_year": 1998,
+    "duration_ms": 299723,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Ronettes, The",
     "date": "23.10.2025",
     "time": "13:25",
-    "listeners": 1280
+    "listeners": 1280,
+    "lyricists": null,
+    "album": "Be My Baby: The Very Best of The Ronettes",
+    "release_year": 1963,
+    "duration_ms": 160907,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,20 @@
     "artist": "Van Halen",
     "date": "23.10.2025",
     "time": "13:21",
-    "listeners": 1438
+    "listeners": 1438,
+    "lyricists": [
+      "Alex Van Halen",
+      "David Lee Roth",
+      "Edward Van Halen",
+      "Michael Anthony"
+    ],
+    "album": "1984",
+    "release_year": 1983,
+    "duration_ms": 241643,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

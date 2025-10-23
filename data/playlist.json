@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mamma Mia",
+    "artist": "Abba",
+    "date": "23.10.2025",
+    "time": "11:26",
+    "listeners": 1301
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blue Savannah",
+    "artist": "Erasure",
+    "date": "23.10.2025",
+    "time": "11:22",
+    "listeners": 1232
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "23.10.2025",
+    "time": "11:18",
+    "listeners": 1192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sunny",
+    "artist": "Boney M",
+    "date": "23.10.2025",
+    "time": "11:14",
+    "listeners": 1170
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch By Touch",
+    "artist": "Joy",
+    "date": "23.10.2025",
+    "time": "11:08",
+    "listeners": 1049
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľudia Nie Sú Zlí",
+    "artist": "I.M.T. Smile",
+    "date": "23.10.2025",
+    "time": "11:05",
+    "listeners": 992
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľúbim Ťa",
+    "artist": "Michal Dočolomanský",
+    "date": "23.10.2025",
+    "time": "11:01",
+    "listeners": 1005
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mexican Girl",
     "artist": "Smokie",
     "date": "23.10.2025",

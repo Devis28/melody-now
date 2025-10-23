@@ -5,7 +5,19 @@
     "artist": "Eurythmics",
     "date": "23.10.2025",
     "time": "06:45",
-    "listeners": 2035
+    "listeners": 2035,
+    "lyricists": [
+      "Annie Lennox",
+      "Dave Stewart",
+      "Eurythmics"
+    ],
+    "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
+    "release_year": 2005,
+    "duration_ms": 216933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Jiří Schelinger",
     "date": "23.10.2025",
     "time": "06:42",
-    "listeners": 1746
+    "listeners": 1746,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2004,
+    "duration_ms": 240880,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,16 @@
     "artist": "Robert Miles/Maria Nayler",
     "date": "23.10.2025",
     "time": "06:38",
-    "listeners": 1632
+    "listeners": 1632,
+    "lyricists": null,
+    "album": "Dreamland (Including One and One)",
+    "release_year": 2019,
+    "duration_ms": 238493,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

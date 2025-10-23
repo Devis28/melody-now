@@ -5,7 +5,16 @@
     "artist": "Leo Sayer",
     "date": "23.10.2025",
     "time": "08:53",
-    "listeners": 2128
+    "listeners": 2128,
+    "lyricists": null,
+    "album": "Endless Journey – The Essential Leo Sayer",
+    "release_year": 2005,
+    "duration_ms": 252728,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "David Michal Kroky Františka Janečka",
     "date": "23.10.2025",
     "time": "08:50",
-    "listeners": 2232
+    "listeners": 2232,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 193239,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

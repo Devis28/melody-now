@@ -5,7 +5,15 @@
     "artist": "Kotvald Petr",
     "date": "23.10.2025",
     "time": "05:41",
-    "listeners": 576
+    "listeners": 576,
+    "lyricists": null,
+    "album": "Gejzír",
+    "release_year": 1990,
+    "duration_ms": 227267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Wonder Stevie",
     "date": "23.10.2025",
     "time": "05:36",
-    "listeners": 489
+    "listeners": 489,
+    "lyricists": null,
+    "album": "The Definitive Collection",
+    "release_year": 2002,
+    "duration_ms": 262598,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Big Mountain",
     "date": "23.10.2025",
     "time": "05:32",
-    "listeners": 462
+    "listeners": 462,
+    "lyricists": null,
+    "album": "Unity",
+    "release_year": 1994,
+    "duration_ms": 249520,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Vašo Patejdl",
     "date": "23.10.2025",
     "time": "05:29",
-    "listeners": 468
+    "listeners": 468,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2015,
+    "duration_ms": 192507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,17 @@
     "artist": "Harpo",
     "date": "23.10.2025",
     "time": "05:26",
-    "listeners": 421
+    "listeners": 421,
+    "lyricists": [
+      "Harpo"
+    ],
+    "album": "Moviestar",
+    "release_year": 2002,
+    "duration_ms": 202280,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,15 @@
     "artist": "The Belle Stars",
     "date": "23.10.2025",
     "time": "05:23",
-    "listeners": 415
+    "listeners": 415,
+    "lyricists": null,
+    "album": "The Belle Stars",
+    "release_year": 1981,
+    "duration_ms": 178720,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,15 @@
     "artist": "Roxette",
     "date": "23.10.2025",
     "time": "05:18",
-    "listeners": 368
+    "listeners": 368,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2006,
+    "duration_ms": 275667,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +121,15 @@
     "artist": "Bartosova, Iveta",
     "date": "23.10.2025",
     "time": "05:15",
-    "listeners": 342
+    "listeners": 342,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 208667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Cher",
     "date": "23.10.2025",
     "time": "04:18",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 1999,
+    "duration_ms": 239027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Heckovci Peter A Julia",
     "date": "23.10.2025",
     "time": "04:14",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 219095,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Masterboy",
     "date": "23.10.2025",
     "time": "04:11",
-    "listeners": 198
+    "listeners": 198,
+    "lyricists": null,
+    "album": "Generation of Love",
+    "release_year": 1998,
+    "duration_ms": 243000,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Modern Talking",
     "date": "23.10.2025",
     "time": "04:07",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "The Very Best of Modern Talking",
+    "release_year": 1997,
+    "duration_ms": 223027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Kiss",
     "date": "23.10.2025",
     "time": "04:03",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "KISS Off The Soundboard: Live In Virginia Beach",
+    "release_year": 2013,
+    "duration_ms": 372867,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Čírová Mária",
     "date": "23.10.2025",
     "time": "03:59",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Na Dosah",
+    "release_year": 2011,
+    "duration_ms": 247707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Roxette",
     "date": "23.10.2025",
     "time": "03:55",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Fading Like A Flower - Single",
+    "release_year": 1992,
+    "duration_ms": 145808,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +117,15 @@
     "artist": "Peter Nagy",
     "date": "23.10.2025",
     "time": "03:52",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2011,
+    "duration_ms": 171240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +133,15 @@
     "artist": "Guns N Roses",
     "date": "23.10.2025",
     "time": "03:46",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Use Your Illusion I",
+    "release_year": 1991,
+    "duration_ms": 536067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +149,15 @@
     "artist": "Gombitová Marika",
     "date": "23.10.2025",
     "time": "03:43",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 250240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +165,15 @@
     "artist": "Adam Ďurica",
     "date": "23.10.2025",
     "time": "03:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Holubička - Single",
+    "release_year": 2018,
+    "duration_ms": 273955,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +181,15 @@
     "artist": "Milli Vanilli",
     "date": "23.10.2025",
     "time": "03:35",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "80s 100 Hits – Volume 2",
+    "release_year": 2001,
+    "duration_ms": 225253,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +197,15 @@
     "artist": "Ramazzotti Eros",
     "date": "23.10.2025",
     "time": "03:31",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 323867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +213,15 @@
     "artist": "Smatanová Zuzana",
     "date": "23.10.2025",
     "time": "03:26",
-    "listeners": 199
+    "listeners": 199,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 2008,
+    "duration_ms": 259387,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +229,15 @@
     "artist": "Chris Norman",
     "date": "23.10.2025",
     "time": "03:22",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2002,
+    "duration_ms": 250000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +245,15 @@
     "artist": "Imt Smile",
     "date": "23.10.2025",
     "time": "03:19",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2007,
+    "duration_ms": 207533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +261,15 @@
     "artist": "Marie Rottrová",
     "date": "23.10.2025",
     "time": "03:16",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2003,
+    "duration_ms": 200307,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +277,15 @@
     "artist": "Rick Astley",
     "date": "23.10.2025",
     "time": "03:12",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1999,
+    "duration_ms": 213560,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +293,15 @@
     "artist": "Müller Richard",
     "date": "23.10.2025",
     "time": "03:10",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "01",
+    "release_year": 2004,
+    "duration_ms": 189107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +309,15 @@
     "artist": "Enigma",
     "date": "23.10.2025",
     "time": "03:05",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "The Platinum Collection",
+    "release_year": 2001,
+    "duration_ms": 251427,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +325,15 @@
     "artist": "Bartošová Iveta",
     "date": "23.10.2025",
     "time": "03:01",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 172600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +341,16 @@
     "artist": "Chesney Hawkes",
     "date": "23.10.2025",
     "time": "02:58",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Buddy's Song",
+    "release_year": 1991,
+    "duration_ms": 223667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +358,15 @@
     "artist": "Pavol Hammel",
     "date": "23.10.2025",
     "time": "02:55",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1981,
+    "duration_ms": 152573,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

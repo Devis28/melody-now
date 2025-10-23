@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bozk",
+    "artist": "I.M.T. Smile",
+    "date": "23.10.2025",
+    "time": "23:35",
+    "listeners": 420
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tri Štvrte Na Jeseň",
+    "artist": "Vašo Patejdl",
+    "date": "23.10.2025",
+    "time": "23:31",
+    "listeners": 437
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Girls Just Wanna Have Fun",
     "artist": "Cyndi Lauper",
     "date": "23.10.2025",

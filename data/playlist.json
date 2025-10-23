@@ -5,7 +5,16 @@
     "artist": "Lighthouse Family",
     "date": "23.10.2025",
     "time": "08:45",
-    "listeners": 2515
+    "listeners": 2515,
+    "lyricists": null,
+    "album": "Whatever Gets You Through the Day",
+    "release_year": 2001,
+    "duration_ms": 316360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Gott Karel",
     "date": "23.10.2025",
     "time": "08:42",
-    "listeners": 2529
+    "listeners": 2529,
+    "lyricists": null,
+    "album": "Má Píseň",
+    "release_year": 1972,
+    "duration_ms": 156347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,13 @@
     "artist": "Israel",
     "date": "23.10.2025",
     "time": "08:39",
-    "listeners": 2424
+    "listeners": 2424,
+    "lyricists": null,
+    "album": "Unforgettable",
+    "release_year": 2006,
+    "duration_ms": 244013,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +52,16 @@
     "artist": "Branigan Laura",
     "date": "23.10.2025",
     "time": "08:35",
-    "listeners": 2708
+    "listeners": 2708,
+    "lyricists": null,
+    "album": "Self Control",
+    "release_year": 1984,
+    "duration_ms": 246440,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Duchoň Karol",
     "date": "23.10.2025",
     "time": "08:32",
-    "listeners": 2633
+    "listeners": 2633,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 161480,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Lucie",
     "date": "23.10.2025",
     "time": "08:23",
-    "listeners": 2673
+    "listeners": 2673,
+    "lyricists": null,
+    "album": "Hity Tommü",
+    "release_year": 1999,
+    "duration_ms": 249667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "John Lennon, The Plastic Ono Band",
     "date": "23.10.2025",
     "time": "08:20",
-    "listeners": 2988
+    "listeners": 2988,
+    "lyricists": null,
+    "album": "Power To The People (Live At The One To One Concert - Afternoon & Evening Shows)",
+    "release_year": 2025,
+    "duration_ms": 202891,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

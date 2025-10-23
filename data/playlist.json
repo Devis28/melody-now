@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "23.10.2025",
     "time": "11:26",
-    "listeners": 1301
+    "listeners": 1301,
+    "lyricists": null,
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 212304,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Erasure",
     "date": "23.10.2025",
     "time": "11:22",
-    "listeners": 1232
+    "listeners": 1232,
+    "lyricists": null,
+    "album": "Hits! The Very Best of Erasure",
+    "release_year": 2003,
+    "duration_ms": 260227,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gladiátor",
     "date": "23.10.2025",
     "time": "11:18",
-    "listeners": 1192
+    "listeners": 1192,
+    "lyricists": null,
+    "album": "Babylon Hotel",
+    "release_year": 2020,
+    "duration_ms": 236507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Boney M",
     "date": "23.10.2025",
     "time": "11:14",
-    "listeners": 1170
+    "listeners": 1170,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 241373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,16 @@
     "artist": "Joy",
     "date": "23.10.2025",
     "time": "11:08",
-    "listeners": 1049
+    "listeners": 1049,
+    "lyricists": null,
+    "album": "The Original Maxi-Singles Collection & B-Sides",
+    "release_year": 2006,
+    "duration_ms": 325147,
+    "artist_country": "AT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "I.M.T. Smile",
     "date": "23.10.2025",
     "time": "11:05",
-    "listeners": 992
+    "listeners": 992,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2008,
+    "duration_ms": 180933,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Michal Dočolomanský",
     "date": "23.10.2025",
     "time": "11:01",
-    "listeners": 1005
+    "listeners": 1005,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 1993,
+    "duration_ms": 231831,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

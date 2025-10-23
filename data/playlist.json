@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sweet Dreams",
+    "artist": "Eurythmics",
+    "date": "24.10.2025",
+    "time": "00:57",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tell Him",
+    "artist": "Dion Celine & Streisand Barbra",
+    "date": "24.10.2025",
+    "time": "00:53",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Winner Takes It All",
     "artist": "Abba",
     "date": "24.10.2025",

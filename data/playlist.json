@@ -5,7 +5,15 @@
     "artist": "Exil",
     "date": "23.10.2025",
     "time": "17:48",
-    "listeners": 3034
+    "listeners": 3034,
+    "lyricists": null,
+    "album": "Kamarát - EP",
+    "release_year": 1996,
+    "duration_ms": 215615,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Survivor",
     "date": "23.10.2025",
     "time": "17:42",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Eye of the Tiger",
+    "release_year": 2022,
+    "duration_ms": 243773,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

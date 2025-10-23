@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sweet Dreams",
+    "artist": "Eurythmics",
+    "date": "23.10.2025",
+    "time": "06:45",
+    "listeners": 2035
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Holubí Dúm",
+    "artist": "Jiří Schelinger",
+    "date": "23.10.2025",
+    "time": "06:42",
+    "listeners": 1746
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "23.10.2025",
+    "time": "06:38",
+    "listeners": 1632
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tell It To My Heart",
     "artist": "Taylor Dayne",
     "date": "23.10.2025",

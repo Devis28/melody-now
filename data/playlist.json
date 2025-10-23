@@ -5,7 +5,19 @@
     "artist": "Eurythmics",
     "date": "24.10.2025",
     "time": "00:57",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Annie Lennox",
+      "Dave Stewart",
+      "Eurythmics"
+    ],
+    "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
+    "release_year": 2005,
+    "duration_ms": 216933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,16 @@
     "artist": "Dion Celine & Streisand Barbra",
     "date": "24.10.2025",
     "time": "00:53",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Let's Talk About Love",
+    "release_year": 1997,
+    "duration_ms": 291160,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

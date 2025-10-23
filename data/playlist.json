@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Veľký Sen Mora",
+    "artist": "Modus",
+    "date": "23.10.2025",
+    "time": "09:46",
+    "listeners": 1195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "23.10.2025",
+    "time": "09:42",
+    "listeners": 1313
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Sound Of Silence",
     "artist": "Simon Paul & Garfunkel Art",
     "date": "23.10.2025",

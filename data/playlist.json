@@ -5,7 +5,15 @@
     "artist": "Slivová Silvia",
     "date": "23.10.2025",
     "time": "19:52",
-    "listeners": 1652
+    "listeners": 1652,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 233373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Richard  Muller",
     "date": "23.10.2025",
     "time": "19:47",
-    "listeners": 1775
+    "listeners": 1775,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2006,
+    "duration_ms": 300693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Duchoň Karol",
     "date": "23.10.2025",
     "time": "19:44",
-    "listeners": 1687
+    "listeners": 1687,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1974,
+    "duration_ms": 208160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

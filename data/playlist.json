@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tell Him",
+    "artist": "Dion Celine & Streisand Barbra",
+    "date": "23.10.2025",
+    "time": "06:53",
+    "listeners": 2003
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dej Mi Víc Své Lásky",
+    "artist": "Olympic",
+    "date": "23.10.2025",
+    "time": "06:51",
+    "listeners": 1965
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sweet Dreams",
     "artist": "Eurythmics",
     "date": "23.10.2025",

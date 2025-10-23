@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Winner Takes It All",
+    "artist": "Abba",
+    "date": "24.10.2025",
+    "time": "00:48",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "24.10.2025",
+    "time": "00:44",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pierko pravdy",
     "artist": "Beáta Dubasová",
     "date": "24.10.2025",

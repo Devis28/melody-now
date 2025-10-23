@@ -5,7 +5,15 @@
     "artist": "Taylor Dayne",
     "date": "23.10.2025",
     "time": "06:35",
-    "listeners": 1588
+    "listeners": 1588,
+    "lyricists": null,
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "release_year": 2004,
+    "duration_ms": 220880,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dočolomanský Michal",
     "date": "23.10.2025",
     "time": "06:32",
-    "listeners": 1501
+    "listeners": 1501,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 2008,
+    "duration_ms": 187943,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "The Police",
     "date": "23.10.2025",
     "time": "06:28",
-    "listeners": 1440
+    "listeners": 1440,
+    "lyricists": null,
+    "album": "Synchronicity (Remastered 2003)",
+    "release_year": 1983,
+    "duration_ms": 253960,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Gladiator",
     "date": "23.10.2025",
     "time": "06:21",
-    "listeners": 1180
+    "listeners": 1180,
+    "lyricists": null,
+    "album": "Zlate Hity",
+    "release_year": 2011,
+    "duration_ms": 215627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

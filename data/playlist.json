@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Horúca Láska",
+    "artist": "Lukáš Adamec",
+    "date": "23.10.2025",
+    "time": "22:30",
+    "listeners": 703
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "23.10.2025",
+    "time": "22:26",
+    "listeners": 789
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stonka",
+    "artist": "Kristína",
+    "date": "23.10.2025",
+    "time": "22:22",
+    "listeners": 744
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Total Eclipse Of The Heart",
+    "artist": "Westlife",
+    "date": "23.10.2025",
+    "time": "22:18",
+    "listeners": 780
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ztraceny Raj",
+    "artist": "Vaso Patejdl A Heidi Janku",
+    "date": "23.10.2025",
+    "time": "22:14",
+    "listeners": 839
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pesnička O Medulienke",
     "artist": "Gladiator Hammel Pavol",
     "date": "23.10.2025",

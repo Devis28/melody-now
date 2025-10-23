@@ -5,7 +5,15 @@
     "artist": "Cyndi Lauper",
     "date": "23.10.2025",
     "time": "23:27",
-    "listeners": 480
+    "listeners": 480,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 224510,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Robo Opatovský",
     "date": "23.10.2025",
     "time": "23:23",
-    "listeners": 435
+    "listeners": 435,
+    "lyricists": null,
+    "album": "Keď Muž Miluje Ženu - Single",
+    "release_year": 2017,
+    "duration_ms": 249240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

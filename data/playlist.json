@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kamarát",
+    "artist": "Exil",
+    "date": "23.10.2025",
+    "time": "17:48",
+    "listeners": 3034
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "23.10.2025",
+    "time": "17:42",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Co Bolí To Přebolí",
     "artist": "Zbirka Miro & Martha",
     "date": "23.10.2025",

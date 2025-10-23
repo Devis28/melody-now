@@ -5,7 +5,16 @@
     "artist": "Céline Dion",
     "date": "23.10.2025",
     "time": "15:19",
-    "listeners": 1237
+    "listeners": 1237,
+    "lyricists": null,
+    "album": "Let's Talk About Love",
+    "release_year": 1998,
+    "duration_ms": 280000,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Elán",
     "date": "23.10.2025",
     "time": "15:15",
-    "listeners": 1245
+    "listeners": 1245,
+    "lyricists": null,
+    "album": "Netvor z čiernej hviezdy Q7A",
+    "release_year": 2004,
+    "duration_ms": 238000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "23.10.2025",
     "time": "15:11",
-    "listeners": 1131
+    "listeners": 1131,
+    "lyricists": null,
+    "album": "Bookends",
+    "release_year": 1968,
+    "duration_ms": 247420,
+    "artist_country": null,
+    "genres": [
+      "Classical"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Černoch Karel Brabec Filip",
     "date": "23.10.2025",
     "time": "15:07",
-    "listeners": 1011
+    "listeners": 1011,
+    "lyricists": null,
+    "album": "Setkání",
+    "release_year": 1968,
+    "duration_ms": 257880,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,18 @@
     "artist": "Michael Jackson",
     "date": "23.10.2025",
     "time": "15:03",
-    "listeners": 1010
+    "listeners": 1010,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "release_year": 2005,
+    "duration_ms": 284310,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,15 @@
     "artist": "Pet Shop Boys",
     "date": "23.10.2025",
     "time": "14:53",
-    "listeners": 969
+    "listeners": 969,
+    "lyricists": null,
+    "album": "Ultimate",
+    "release_year": 2000,
+    "duration_ms": 302360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

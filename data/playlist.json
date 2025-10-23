@@ -5,7 +5,15 @@
     "artist": "Beáta Dubasová",
     "date": "24.10.2025",
     "time": "00:41",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Pierko pravdy - Single",
+    "release_year": 2023,
+    "duration_ms": 190000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Sabrina",
     "date": "24.10.2025",
     "time": "00:37",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1999,
+    "duration_ms": 231986,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gladiator",
     "date": "24.10.2025",
     "time": "00:34",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Zlate Hity",
+    "release_year": 2011,
+    "duration_ms": 215627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

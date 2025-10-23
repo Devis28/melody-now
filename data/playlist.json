@@ -1,6 +1,118 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Perfect Day",
+    "artist": "Duran Duran",
+    "date": "23.10.2025",
+    "time": "05:11",
+    "listeners": 342
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mosty",
+    "artist": "Zich Karel & Filipová Lenka",
+    "date": "23.10.2025",
+    "time": "05:07",
+    "listeners": 284
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milujem",
+    "artist": "Zenit",
+    "date": "23.10.2025",
+    "time": "05:03",
+    "listeners": 290
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spomaľ",
+    "artist": "Peha",
+    "date": "23.10.2025",
+    "time": "04:59",
+    "listeners": 278
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cigaretka Na Dva Ťahy",
+    "artist": "Richard Müller",
+    "date": "23.10.2025",
+    "time": "04:56",
+    "listeners": 254
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Play Your Rock 'n' Roll To Me",
+    "artist": "Smokie",
+    "date": "23.10.2025",
+    "time": "04:52",
+    "listeners": 248
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "23.10.2025",
+    "time": "04:48",
+    "listeners": 240
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čo Ak",
+    "artist": "I.M.T. Smile",
+    "date": "23.10.2025",
+    "time": "04:45",
+    "listeners": 241
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Keep Me Hanging On",
+    "artist": "Wilde Kim",
+    "date": "23.10.2025",
+    "time": "04:41",
+    "listeners": 221
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Always",
+    "artist": "Erasure",
+    "date": "23.10.2025",
+    "time": "04:36",
+    "listeners": 215
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "date": "23.10.2025",
+    "time": "04:32",
+    "listeners": 212
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pomaranče z Kuby",
+    "artist": "Hex",
+    "date": "23.10.2025",
+    "time": "04:28",
+    "listeners": 207
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Xanadu",
+    "artist": "Olivia Newton-John And Electric Light Orchestra",
+    "date": "23.10.2025",
+    "time": "04:25",
+    "listeners": 204
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Az Raz Budem Ucitelkou",
+    "artist": "Rolincova Darinka",
+    "date": "23.10.2025",
+    "time": "04:22",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Believe",
     "artist": "Cher",
     "date": "23.10.2025",

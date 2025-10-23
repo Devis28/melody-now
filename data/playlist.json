@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "She's The One",
+    "artist": "Robbie Williams",
+    "date": "23.10.2025",
+    "time": "17:56",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "23.10.2025",
+    "time": "17:52",
+    "listeners": 3110
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kamarát",
     "artist": "Exil",
     "date": "23.10.2025",

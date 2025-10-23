@@ -5,7 +5,15 @@
     "artist": "The Scorpions",
     "date": "23.10.2025",
     "time": "23:47",
-    "listeners": 369
+    "listeners": 369,
+    "lyricists": null,
+    "album": "Crazy World",
+    "release_year": 1999,
+    "duration_ms": 312360,
+    "artist_country": "DE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Müller Richard",
     "date": "23.10.2025",
     "time": "23:43",
-    "listeners": 341
+    "listeners": 341,
+    "lyricists": null,
+    "album": "Neuc Vtaka Lietat!",
+    "release_year": 1992,
+    "duration_ms": 220533,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,19 @@
     "artist": "Lionel Richie",
     "date": "23.10.2025",
     "time": "23:39",
-    "listeners": 394
+    "listeners": 394,
+    "lyricists": [
+      "James Anthony Carmichael",
+      "Lionel Richie"
+    ],
+    "album": "Can't Slow Down",
+    "release_year": 1983,
+    "duration_ms": 248401,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

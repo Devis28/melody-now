@@ -5,7 +5,16 @@
     "artist": "Dj Bobo",
     "date": "23.10.2025",
     "time": "22:59",
-    "listeners": 567
+    "listeners": 567,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 229893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Petra Černocká",
     "date": "23.10.2025",
     "time": "22:56",
-    "listeners": 576
+    "listeners": 576,
+    "lyricists": null,
+    "album": "Se Mnou Si Píseň Broukej",
+    "release_year": 1996,
+    "duration_ms": 168493,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

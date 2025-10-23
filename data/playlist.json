@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Prý Se Tomu Říká Láska",
+    "artist": "Lenka Filipová",
+    "date": "23.10.2025",
+    "time": "08:16",
+    "listeners": 2983
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Učiteľka Tanca",
+    "artist": "Pavol Hammel",
+    "date": "23.10.2025",
+    "time": "08:13",
+    "listeners": 2920
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bamboleo",
+    "artist": "Garcia",
+    "date": "23.10.2025",
+    "time": "08:05",
+    "listeners": 2925
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Colu, Pijeme Colu",
+    "artist": "Michal David",
+    "date": "23.10.2025",
+    "time": "08:02",
+    "listeners": 3116
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sweet Harmony",
     "artist": "Beloved, The",
     "date": "23.10.2025",

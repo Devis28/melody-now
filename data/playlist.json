@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Sound Of Silence",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "23.10.2025",
+    "time": "09:39",
+    "listeners": 1300
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Od Tatier K Dunaju",
+    "artist": "Elán",
+    "date": "23.10.2025",
+    "time": "09:36",
+    "listeners": 1311
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Klid, Mír A Pokora",
     "artist": "Muller Richard A Tereza Kerndlová",
     "date": "23.10.2025",

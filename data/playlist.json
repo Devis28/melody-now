@@ -5,7 +5,15 @@
     "artist": "Shalom",
     "date": "23.10.2025",
     "time": "11:41",
-    "listeners": 1349
+    "listeners": 1349,
+    "lyricists": null,
+    "album": "Bon soir, mademoiselle Paris",
+    "release_year": 1999,
+    "duration_ms": 288980,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Righteous Brothers",
     "date": "23.10.2025",
     "time": "11:37",
-    "listeners": 1298
+    "listeners": 1298,
+    "lyricists": null,
+    "album": "The Very Best of the Righteous Brothers - Unchained Melody",
+    "release_year": 1965,
+    "duration_ms": 216267,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Miro Žbirka",
     "date": "23.10.2025",
     "time": "11:34",
-    "listeners": 1291
+    "listeners": 1291,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 198027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Alexandra Burke",
     "date": "23.10.2025",
     "time": "11:30",
-    "listeners": 1208
+    "listeners": 1208,
+    "lyricists": null,
+    "album": "Overcome (Deluxe Edition)",
+    "release_year": 2018,
+    "duration_ms": 217827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

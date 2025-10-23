@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "date": "23.10.2025",
+    "time": "17:30",
+    "listeners": 2912
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám, Kým Nemám",
+    "artist": "Elán",
+    "date": "23.10.2025",
+    "time": "17:24",
+    "listeners": 3152
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "California Dreamin'",
+    "artist": "Mamas & The Papas",
+    "date": "23.10.2025",
+    "time": "17:22",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pábitelé",
+    "artist": "Gott Karel",
+    "date": "23.10.2025",
+    "time": "17:19",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rhythm Is A Dancer",
+    "artist": "Snap",
+    "date": "23.10.2025",
+    "time": "17:13",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Není Všechno Paráda",
+    "artist": "Karel Zich",
+    "date": "23.10.2025",
+    "time": "17:11",
+    "listeners": 3108
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Jeanny (Part 1)",
     "artist": "Falco",
     "date": "23.10.2025",

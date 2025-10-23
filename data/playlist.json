@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Flashdance ( What A Feeling )",
+    "artist": "Cara Irene",
+    "date": "23.10.2025",
+    "time": "15:44",
+    "listeners": 1676
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Paráda",
+    "artist": "Zich Karel",
+    "date": "23.10.2025",
+    "time": "15:40",
+    "listeners": 1511
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Got You Babe",
+    "artist": "Ub 40 Hynde Chrissie",
+    "date": "23.10.2025",
+    "time": "15:33",
+    "listeners": 1435
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "23.10.2025",
+    "time": "15:27",
+    "listeners": 1308
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "23.10.2025",
+    "time": "15:24",
+    "listeners": 1327
+  },
+  {
+    "station": "Rádio Melody",
     "title": "My Heart Will Go On",
     "artist": "Céline Dion",
     "date": "23.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Peter Nagy",
     "date": "23.10.2025",
     "time": "19:41",
-    "listeners": 1829
+    "listeners": 1829,
+    "lyricists": null,
+    "album": "\"Ale\"",
+    "release_year": 2011,
+    "duration_ms": 152800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hana Zagorová",
     "date": "23.10.2025",
     "time": "19:39",
-    "listeners": 1762
+    "listeners": 1762,
+    "lyricists": null,
+    "album": "Hanka",
+    "release_year": 2011,
+    "duration_ms": 180373,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Imt Smile",
     "date": "23.10.2025",
     "time": "19:35",
-    "listeners": 1784
+    "listeners": 1784,
+    "lyricists": null,
+    "album": "Hlava Ma Sedem Otvorov",
+    "release_year": 2015,
+    "duration_ms": 189787,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

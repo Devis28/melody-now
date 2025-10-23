@@ -5,7 +5,15 @@
     "artist": "Lucie",
     "date": "23.10.2025",
     "time": "12:39",
-    "listeners": 1623
+    "listeners": 1623,
+    "lyricists": null,
+    "album": "V Opere",
+    "release_year": 2009,
+    "duration_ms": 305187,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán & Lojzo",
     "date": "23.10.2025",
     "time": "12:35",
-    "listeners": 1523
+    "listeners": 1523,
+    "lyricists": null,
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "release_year": 2003,
+    "duration_ms": 235173,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Ricchi E Poveri",
     "date": "23.10.2025",
     "time": "12:32",
-    "listeners": 1623
+    "listeners": 1623,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1998,
+    "duration_ms": 175667,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,13 @@
     "artist": "R.E.M.",
     "date": "23.10.2025",
     "time": "12:26",
-    "listeners": 1765
+    "listeners": 1765,
+    "lyricists": null,
+    "album": "Automatic For The People",
+    "release_year": 1999,
+    "duration_ms": 320351,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

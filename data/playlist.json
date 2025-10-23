@@ -5,7 +5,15 @@
     "artist": "I.M.T. Smile",
     "date": "23.10.2025",
     "time": "23:35",
-    "listeners": 420
+    "listeners": 420,
+    "lyricists": null,
+    "album": "2010 Odysea Dva",
+    "release_year": 2020,
+    "duration_ms": 232120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vašo Patejdl",
     "date": "23.10.2025",
     "time": "23:31",
-    "listeners": 437
+    "listeners": 437,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1994,
+    "duration_ms": 298267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "23.10.2025",
     "time": "09:16",
-    "listeners": 1679
+    "listeners": 1679,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1974,
+    "duration_ms": 165800,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hana Zagorová",
     "date": "23.10.2025",
     "time": "09:09",
-    "listeners": 1884
+    "listeners": 1884,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 1982,
+    "duration_ms": 277067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Fun Factory",
     "date": "23.10.2025",
     "time": "09:06",
-    "listeners": 1871
+    "listeners": 1871,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 207000,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Zbirka Miro & Gombitova Marika",
     "date": "23.10.2025",
     "time": "09:02",
-    "listeners": 2044
+    "listeners": 2044,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 246160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Dara Rolins",
     "date": "23.10.2025",
     "time": "21:10",
-    "listeners": 1223
+    "listeners": 1223,
+    "lyricists": null,
+    "album": "Etc",
+    "release_year": 2017,
+    "duration_ms": 273733,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "R.E.M.",
     "date": "23.10.2025",
     "time": "21:04",
-    "listeners": 1347
+    "listeners": 1347,
+    "lyricists": null,
+    "album": "Out of Time (25th Anniversary Edition)",
+    "release_year": 2004,
+    "duration_ms": 268427,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Žbirka Miroslav",
     "date": "23.10.2025",
     "time": "21:01",
-    "listeners": 1365
+    "listeners": 1365,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 1988,
+    "duration_ms": 187107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Adiemus",
     "date": "23.10.2025",
     "time": "20:58",
-    "listeners": 1313
+    "listeners": 1313,
+    "lyricists": null,
+    "album": "Classic Summer Chillout",
+    "release_year": 1998,
+    "duration_ms": 225529,
+    "artist_country": "GB",
+    "genres": [
+      "Classical"
+    ]
   },
   {
     "station": "Rádio Melody",

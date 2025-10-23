@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Jeanny (Part 1)",
+    "artist": "Falco",
+    "date": "23.10.2025",
+    "time": "17:06",
+    "listeners": 2876
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ten Príbeh Je Preč",
+    "artist": "Beata Dubasová",
+    "date": "23.10.2025",
+    "time": "17:02",
+    "listeners": 2995
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hotel California",
+    "artist": "Eagles The",
+    "date": "23.10.2025",
+    "time": "16:54",
+    "listeners": 3050
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Can You Feel The Love Tonight",
     "artist": "John, Elton",
     "date": "23.10.2025",

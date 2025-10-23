@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I Was Born To Love You",
+    "artist": "Freddie Mercury",
+    "date": "24.10.2025",
+    "time": "01:28",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Búrka",
+    "artist": "Čírová Mária",
+    "date": "24.10.2025",
+    "time": "01:24",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I'll Stand By You",
     "artist": "Pretenders, The",
     "date": "24.10.2025",

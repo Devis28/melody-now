@@ -5,7 +5,19 @@
     "artist": "Dario G",
     "date": "23.10.2025",
     "time": "12:50",
-    "listeners": 1534
+    "listeners": 1534,
+    "lyricists": [
+      "Dario G",
+      "Gilbert Gabriel",
+      "Nick Laird-Clowes"
+    ],
+    "album": "Sunmachine",
+    "release_year": 2016,
+    "duration_ms": 379200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Rolincová Darina",
     "date": "23.10.2025",
     "time": "12:47",
-    "listeners": 1580
+    "listeners": 1580,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 241867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,16 @@
     "artist": "Herman's Hermits",
     "date": "23.10.2025",
     "time": "12:44",
-    "listeners": 1602
+    "listeners": 1602,
+    "lyricists": null,
+    "album": "The BEST EVER: Sixties",
+    "release_year": 1991,
+    "duration_ms": 174333,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

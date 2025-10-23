@@ -5,7 +5,15 @@
     "artist": "Queen",
     "date": "23.10.2025",
     "time": "17:30",
-    "listeners": 2912
+    "listeners": 2912,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1975,
+    "duration_ms": 354947,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "23.10.2025",
     "time": "17:24",
-    "listeners": 3152
+    "listeners": 3152,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 1992,
+    "duration_ms": 232613,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Mamas & The Papas",
     "date": "23.10.2025",
     "time": "17:22",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "If You Can Believe Your Eyes and Ears",
+    "release_year": 1991,
+    "duration_ms": 162373,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Gott Karel",
     "date": "23.10.2025",
     "time": "17:19",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 184307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Snap",
     "date": "23.10.2025",
     "time": "17:13",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "The Madman's Return",
+    "release_year": 1998,
+    "duration_ms": 332230,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Karel Zich",
     "date": "23.10.2025",
     "time": "17:11",
-    "listeners": 3108
+    "listeners": 3108,
+    "lyricists": null,
+    "album": "Singly (1980-1990)",
+    "release_year": 2009,
+    "duration_ms": 148040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

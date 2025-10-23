@@ -5,7 +5,16 @@
     "artist": "Dion Celine & Streisand Barbra",
     "date": "23.10.2025",
     "time": "06:53",
-    "listeners": 2003
+    "listeners": 2003,
+    "lyricists": null,
+    "album": "Let's Talk About Love",
+    "release_year": 1997,
+    "duration_ms": 291160,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Olympic",
     "date": "23.10.2025",
     "time": "06:51",
-    "listeners": 1965
+    "listeners": 1965,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 173307,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

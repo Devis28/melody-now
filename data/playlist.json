@@ -5,7 +5,16 @@
     "artist": "Midnight Oil",
     "date": "23.10.2025",
     "time": "22:43",
-    "listeners": 610
+    "listeners": 610,
+    "lyricists": null,
+    "album": "Diesel and Dust (2008 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 255680,
+    "artist_country": "AU",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Gott Karel",
     "date": "23.10.2025",
     "time": "22:39",
-    "listeners": 681
+    "listeners": 681,
+    "lyricists": null,
+    "album": "Jágr vs Gott - Single",
+    "release_year": 2018,
+    "duration_ms": 190549,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Nagy Peter",
     "date": "23.10.2025",
     "time": "22:34",
-    "listeners": 663
+    "listeners": 663,
+    "lyricists": null,
+    "album": "Chrán svoje bláznovstvá",
+    "release_year": 1984,
+    "duration_ms": 292040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Free",
+    "artist": "Lighthouse Family",
+    "date": "23.10.2025",
+    "time": "08:45",
+    "listeners": 2515
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kávu Si Osladím",
+    "artist": "Gott Karel",
+    "date": "23.10.2025",
+    "time": "08:42",
+    "listeners": 2529
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Over The Rainbow/What A Wonderful World",
+    "artist": "Israel",
+    "date": "23.10.2025",
+    "time": "08:39",
+    "listeners": 2424
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Self Control",
+    "artist": "Branigan Laura",
+    "date": "23.10.2025",
+    "time": "08:35",
+    "listeners": 2708
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Slovenských Dolinách",
+    "artist": "Duchoň Karol",
+    "date": "23.10.2025",
+    "time": "08:32",
+    "listeners": 2633
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šrouby Do Hlavy",
+    "artist": "Lucie",
+    "date": "23.10.2025",
+    "time": "08:23",
+    "listeners": 2673
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Imagine",
+    "artist": "John Lennon, The Plastic Ono Band",
+    "date": "23.10.2025",
+    "time": "08:20",
+    "listeners": 2988
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Prý Se Tomu Říká Láska",
     "artist": "Lenka Filipová",
     "date": "23.10.2025",

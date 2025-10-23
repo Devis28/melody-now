@@ -5,7 +5,16 @@
     "artist": "Peter Cmorík",
     "date": "23.10.2025",
     "time": "22:51",
-    "listeners": 594
+    "listeners": 594,
+    "lyricists": null,
+    "album": "Nadherny Den",
+    "release_year": 2008,
+    "duration_ms": 279720,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,18 @@
     "artist": "Madonna",
     "date": "23.10.2025",
     "time": "22:47",
-    "listeners": 642
+    "listeners": 642,
+    "lyricists": [
+      "David Foster",
+      "Madonna"
+    ],
+    "album": "Something to Remember",
+    "release_year": 2000,
+    "duration_ms": 278136,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

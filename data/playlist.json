@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Beds Are Burning",
+    "artist": "Midnight Oil",
+    "date": "23.10.2025",
+    "time": "22:43",
+    "listeners": 610
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Když Muž Se Ženou Snída",
+    "artist": "Gott Karel",
+    "date": "23.10.2025",
+    "time": "22:39",
+    "listeners": 681
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kristínka Iba Spí",
+    "artist": "Nagy Peter",
+    "date": "23.10.2025",
+    "time": "22:34",
+    "listeners": 663
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Horúca Láska",
     "artist": "Lukáš Adamec",
     "date": "23.10.2025",

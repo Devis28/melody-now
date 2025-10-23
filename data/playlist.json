@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pierko pravdy",
+    "artist": "Beáta Dubasová",
+    "date": "24.10.2025",
+    "time": "00:41",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Boys",
+    "artist": "Sabrina",
+    "date": "24.10.2025",
+    "time": "00:37",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "24.10.2025",
+    "time": "00:34",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Horou",
     "artist": "Zuzana Smatanová",
     "date": "24.10.2025",

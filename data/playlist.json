@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Girls Just Wanna Have Fun",
+    "artist": "Cyndi Lauper",
+    "date": "23.10.2025",
+    "time": "23:27",
+    "listeners": 480
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Muž Miluje Ženu",
+    "artist": "Robo Opatovský",
+    "date": "23.10.2025",
+    "time": "23:23",
+    "listeners": 435
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Lady In Black",
     "artist": "Uriah Heep",
     "date": "23.10.2025",

@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Maturitné Tablo",
+    "artist": "Hečková Júlia",
+    "date": "23.10.2025",
+    "time": "19:31",
+    "listeners": 1857
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "23.10.2025",
+    "time": "19:26",
+    "listeners": 1851
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tereza",
+    "artist": "Matuška Waldemar",
+    "date": "23.10.2025",
+    "time": "19:24",
+    "listeners": 1795
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Umenie Žiť",
+    "artist": "Patejdl Vašo",
+    "date": "23.10.2025",
+    "time": "19:19",
+    "listeners": 1919
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Rozvíjej Se Poupátko",
     "artist": "Iveta Bartošová",
     "date": "23.10.2025",

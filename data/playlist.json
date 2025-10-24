@@ -5,7 +5,15 @@
     "artist": "Queen",
     "date": "24.10.2025",
     "time": "20:31",
-    "listeners": 1487
+    "listeners": 1487,
+    "lyricists": null,
+    "album": "A Kind of Magic (Deluxe Edition)",
+    "release_year": 1993,
+    "duration_ms": 264254,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Shaggy",
     "date": "24.10.2025",
     "time": "20:27",
-    "listeners": 1391
+    "listeners": 1391,
+    "lyricists": null,
+    "album": "Hot Shot",
+    "release_year": 2000,
+    "duration_ms": 235133,
+    "artist_country": "JM",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Human League, The",
     "date": "24.10.2025",
     "time": "20:23",
-    "listeners": 1407
+    "listeners": 1407,
+    "lyricists": null,
+    "album": "Anthology: A Very British Synthesizer Group (Deluxe Edition)",
+    "release_year": 1981,
+    "duration_ms": 238907,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "The Cranberries",
     "date": "24.10.2025",
     "time": "20:19",
-    "listeners": 1469
+    "listeners": 1469,
+    "lyricists": null,
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "release_year": 1993,
+    "duration_ms": 255107,
+    "artist_country": "IE",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Saragosa Band",
     "date": "24.10.2025",
     "time": "20:15",
-    "listeners": 1507
+    "listeners": 1507,
+    "lyricists": null,
+    "album": "Best of the Saragossa Band",
+    "release_year": 1991,
+    "duration_ms": 237413,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Peter Nagy",
     "date": "24.10.2025",
     "time": "20:11",
-    "listeners": 1570
+    "listeners": 1570,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2002,
+    "duration_ms": 224307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,21 @@
     "artist": "Shanice",
     "date": "24.10.2025",
     "time": "20:07",
-    "listeners": 1591
+    "listeners": 1591,
+    "lyricists": [
+      "Jarvis Baker",
+      "Narada Michael Walden",
+      "Shanice",
+      "Sylvester Jackson"
+    ],
+    "album": "Ultimate Collection: Shanice",
+    "release_year": 2015,
+    "duration_ms": 259627,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +125,18 @@
     "artist": "Gazebo",
     "date": "24.10.2025",
     "time": "20:03",
-    "listeners": 1561
+    "listeners": 1561,
+    "lyricists": [
+      "Gazebo",
+      "Pierluigi Giombini"
+    ],
+    "album": "The Collection",
+    "release_year": 2000,
+    "duration_ms": 248440,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

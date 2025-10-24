@@ -5,7 +5,15 @@
     "artist": "Hex",
     "date": "25.10.2025",
     "time": "00:57",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 1997,
+    "duration_ms": 262867,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "I Santo California",
     "date": "25.10.2025",
     "time": "00:53",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Tornerò/Volveré - Single",
+    "release_year": 2001,
+    "duration_ms": 226355,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,19 @@
     "artist": "Ben E. King",
     "date": "24.10.2025",
     "time": "17:43",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": [
+      "Ben E. King",
+      "Jerry Leiber",
+      "Mike Stoller"
+    ],
+    "album": "The Very Best of Ben E. King",
+    "release_year": 2024,
+    "duration_ms": 174800,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Vanessa Amorosi",
     "date": "24.10.2025",
     "time": "17:39",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "The Power (15 Year Anniversary Edition)",
+    "release_year": 2001,
+    "duration_ms": 224600,
+    "artist_country": "AU",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

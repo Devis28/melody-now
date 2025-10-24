@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "24.10.2025",
     "time": "16:33",
-    "listeners": 2577
+    "listeners": 2577,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 215027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Inner Circle",
     "date": "24.10.2025",
     "time": "16:27",
-    "listeners": 2570
+    "listeners": 2570,
+    "lyricists": null,
+    "album": "Sweat (A La La La La Long) - Single",
+    "release_year": 1993,
+    "duration_ms": 227067,
+    "artist_country": "JM",
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Baccara",
     "date": "24.10.2025",
     "time": "16:24",
-    "listeners": 2290
+    "listeners": 2290,
+    "lyricists": null,
+    "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire",
+    "release_year": 2004,
+    "duration_ms": 219067,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,17 @@
     "artist": "Vangelis",
     "date": "24.10.2025",
     "time": "16:19",
-    "listeners": 2567
+    "listeners": 2567,
+    "lyricists": [
+      "Vangelis"
+    ],
+    "album": "1492 - Conquest of Paradise",
+    "release_year": 2001,
+    "duration_ms": 278200,
+    "artist_country": "GR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Petra Janů",
     "date": "24.10.2025",
     "time": "16:13",
-    "listeners": 2190
+    "listeners": 2190,
+    "lyricists": null,
+    "album": "Už Nejsem Volná (Bonus Track Version)",
+    "release_year": 2000,
+    "duration_ms": 263733,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Abba",
     "date": "24.10.2025",
     "time": "16:09",
-    "listeners": 2123
+    "listeners": 2123,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1989,
+    "duration_ms": 251298,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "David Michal",
     "date": "24.10.2025",
     "time": "16:06",
-    "listeners": 2025
+    "listeners": 2025,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 234840,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "Kamen, Nick",
     "date": "24.10.2025",
     "time": "16:02",
-    "listeners": 1918
+    "listeners": 1918,
+    "lyricists": null,
+    "album": "Move Until We Fly",
+    "release_year": 1990,
+    "duration_ms": 240773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

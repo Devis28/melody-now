@@ -1,6 +1,174 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hej, Sokoly!",
+    "artist": "I.M.T. Smile & Ondrej Kandráč",
+    "date": "24.10.2025",
+    "time": "04:39",
+    "listeners": 224
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jump",
+    "artist": "Van Halen",
+    "date": "24.10.2025",
+    "time": "04:35",
+    "listeners": 228
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Can't Fight The Moonlight",
+    "artist": "Rimes Leann",
+    "date": "24.10.2025",
+    "time": "04:32",
+    "listeners": 221
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dovtedy",
+    "artist": "Adam Ďurica",
+    "date": "24.10.2025",
+    "time": "04:29",
+    "listeners": 214
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sunshine Reggae",
+    "artist": "Laid Back",
+    "date": "24.10.2025",
+    "time": "04:25",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zhorí Všetko Čo Mám",
+    "artist": "Desmod",
+    "date": "24.10.2025",
+    "time": "04:20",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When I Need You",
+    "artist": "Leo Sayer",
+    "date": "24.10.2025",
+    "time": "04:16",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Moonlight Shadow",
+    "artist": "Oldfield Mike & Reilly Maggie",
+    "date": "24.10.2025",
+    "time": "04:13",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čím To Je",
+    "artist": "No Name",
+    "date": "24.10.2025",
+    "time": "04:10",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "María",
+    "artist": "Ricky Martin",
+    "date": "24.10.2025",
+    "time": "04:04",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnečný Kalendár",
+    "artist": "Marika Gombitová",
+    "date": "24.10.2025",
+    "time": "04:02",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Show Me Heaven",
+    "artist": "Mckee Maria",
+    "date": "24.10.2025",
+    "time": "03:58",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Imagine",
+    "artist": "John Lennon, The Plastic Ono Band",
+    "date": "24.10.2025",
+    "time": "03:55",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nelietajú",
+    "artist": "Nagy Peter Muk Petr",
+    "date": "24.10.2025",
+    "time": "03:52",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angels",
+    "artist": "Robbie Williams",
+    "date": "24.10.2025",
+    "time": "03:47",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Školská Láska",
+    "artist": "Rolincová Darina",
+    "date": "24.10.2025",
+    "time": "03:44",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "24.10.2025",
+    "time": "03:40",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pretty Young Girl",
+    "artist": "Bad Boys Blue",
+    "date": "24.10.2025",
+    "time": "03:36",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám 300 Mesiacov",
+    "artist": "Grigorov Robo",
+    "date": "24.10.2025",
+    "time": "03:33",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Big L.",
+    "artist": "Roxette",
+    "date": "24.10.2025",
+    "time": "03:29",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kto Z Nás Dvoch Sa Lásky Opýta?",
+    "artist": "Team",
+    "date": "24.10.2025",
+    "time": "03:25",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Infinity",
     "artist": "Guru Josh",
     "date": "24.10.2025",

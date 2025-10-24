@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Crazy",
+    "artist": "Aerosmith",
+    "date": "24.10.2025",
+    "time": "09:36",
+    "listeners": 1312
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ulica",
+    "artist": "Elán",
+    "date": "24.10.2025",
+    "time": "09:33",
+    "listeners": 1273
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "24.10.2025",
+    "time": "09:30",
+    "listeners": 1532
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "S Nohami Na Stole",
+    "artist": "Nagy Peter",
+    "date": "24.10.2025",
+    "time": "09:25",
+    "listeners": 1577
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Another Brick In The Wall Part 2",
+    "artist": "Pink Floyd",
+    "date": "24.10.2025",
+    "time": "09:21",
+    "listeners": 1702
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Balada O Polných Vtákoch",
+    "artist": "Žbirka Miro",
+    "date": "24.10.2025",
+    "time": "09:18",
+    "listeners": 1705
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crying In Rain",
+    "artist": "A-Ha",
+    "date": "24.10.2025",
+    "time": "09:14",
+    "listeners": 1695
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "To Musím Zvládnout Sám",
+    "artist": "Gott Karel",
+    "date": "24.10.2025",
+    "time": "09:10",
+    "listeners": 1832
+  },
+  {
+    "station": "Rádio Melody",
     "title": "You're The One That I Want",
     "artist": "Travolta John & Newton-John Olivia",
     "date": "24.10.2025",

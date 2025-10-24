@@ -5,7 +5,15 @@
     "artist": "Boney M",
     "date": "24.10.2025",
     "time": "05:21",
-    "listeners": 410
+    "listeners": 410,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 241373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gott Karel & Holanová Marcela",
     "date": "24.10.2025",
     "time": "05:18",
-    "listeners": 403
+    "listeners": 403,
+    "lyricists": null,
+    "album": "Umbrella EP",
+    "release_year": 2022,
+    "duration_ms": 234456,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Elán",
     "date": "24.10.2025",
     "time": "05:13",
-    "listeners": 373
+    "listeners": 373,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2007,
+    "duration_ms": 304554,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Pavol Hammel",
     "date": "24.10.2025",
     "time": "05:10",
-    "listeners": 334
+    "listeners": 334,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "Hráč",
+    "release_year": 1998,
+    "duration_ms": 155240,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Alexandra Burke",
     "date": "24.10.2025",
     "time": "05:06",
-    "listeners": 298
+    "listeners": 298,
+    "lyricists": null,
+    "album": "Overcome (Deluxe Edition)",
+    "release_year": 2018,
+    "duration_ms": 217827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Astley Rick",
     "date": "24.10.2025",
     "time": "05:03",
-    "listeners": 305
+    "listeners": 305,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 205573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Dubasová Beáta",
     "date": "24.10.2025",
     "time": "04:59",
-    "listeners": 262
+    "listeners": 262,
+    "lyricists": null,
+    "album": "Beáta",
+    "release_year": 1987,
+    "duration_ms": 214413,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Muller Richard A Tereza Kerndlová",
     "date": "24.10.2025",
     "time": "04:55",
-    "listeners": 252
+    "listeners": 252,
+    "lyricists": null,
+    "album": "Výberovka",
+    "release_year": 2011,
+    "duration_ms": 273813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +134,16 @@
     "artist": "Joy",
     "date": "24.10.2025",
     "time": "04:51",
-    "listeners": 265
+    "listeners": 265,
+    "lyricists": null,
+    "album": "The Original Maxi-Singles Collection & B-Sides",
+    "release_year": 2006,
+    "duration_ms": 325147,
+    "artist_country": "AT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +151,15 @@
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "24.10.2025",
     "time": "04:46",
-    "listeners": 244
+    "listeners": 244,
+    "lyricists": null,
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "release_year": 1997,
+    "duration_ms": 301520,
+    "artist_country": null,
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +167,15 @@
     "artist": "Abba",
     "date": "24.10.2025",
     "time": "04:42",
-    "listeners": 232
+    "listeners": 232,
+    "lyricists": null,
+    "album": "The Visitors (Bonus Track Version)",
+    "release_year": 2005,
+    "duration_ms": 236770,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

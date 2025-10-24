@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hi Hi Hi",
+    "artist": "Sandra",
+    "date": "24.10.2025",
+    "time": "20:46",
+    "listeners": 1257
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Do Čista",
+    "artist": "Müller Richard",
+    "date": "24.10.2025",
+    "time": "20:42",
+    "listeners": 1279
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "S Úsmevom",
+    "artist": "Karol Duchoň",
+    "date": "24.10.2025",
+    "time": "20:38",
+    "listeners": 1456
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Try Me Out",
+    "artist": "Corona",
+    "date": "24.10.2025",
+    "time": "20:35",
+    "listeners": 1358
+  },
+  {
+    "station": "Rádio Melody",
     "title": "A Kind Of Magic",
     "artist": "Queen",
     "date": "24.10.2025",

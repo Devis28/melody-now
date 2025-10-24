@@ -5,7 +5,19 @@
     "artist": "Gala",
     "date": "24.10.2025",
     "time": "23:07",
-    "listeners": 546
+    "listeners": 546,
+    "lyricists": [
+      "Filippo Carmeni",
+      "Gala",
+      "Molella"
+    ],
+    "album": "Come Into My Life (The Album)",
+    "release_year": 1996,
+    "duration_ms": 213394,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "24.10.2025",
     "time": "23:04",
-    "listeners": 508
+    "listeners": 508,
+    "lyricists": null,
+    "album": "Holky Z Naší Školky",
+    "release_year": 2010,
+    "duration_ms": 232493,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Madonna",
     "date": "24.10.2025",
     "time": "22:59",
-    "listeners": 558
+    "listeners": 558,
+    "lyricists": null,
+    "album": "Like a Virgin",
+    "release_year": 1990,
+    "duration_ms": 240669,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Village People",
     "date": "24.10.2025",
     "time": "22:56",
-    "listeners": 594
+    "listeners": 594,
+    "lyricists": null,
+    "album": "YMCA",
+    "release_year": 1993,
+    "duration_ms": 286800,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

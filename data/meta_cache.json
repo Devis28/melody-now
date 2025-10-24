@@ -11572,5 +11572,28 @@
     "genres": [
       "Pop"
     ]
+  },
+  "gala|freed from desire": {
+    "artist_country": "IT",
+    "album": "Come Into My Life (The Album)",
+    "release_year": 1996,
+    "duration_ms": 213394,
+    "lyricists": [
+      "Filippo Carmeni",
+      "Gala",
+      "Molella"
+    ],
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "madonna|material girl": {
+    "release_year": 1990,
+    "artist_country": "US",
+    "album": "Like a Virgin",
+    "duration_ms": 240669,
+    "genres": [
+      "Pop"
+    ]
   }
 }

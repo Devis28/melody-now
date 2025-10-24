@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bludička Julie",
+    "artist": "Zagorová Hana",
+    "date": "24.10.2025",
+    "time": "18:18",
+    "listeners": 3021
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nočná Optika",
+    "artist": "Müller Richard",
+    "date": "24.10.2025",
+    "time": "18:14",
+    "listeners": 2894
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Úsmev A Čaj",
+    "artist": "I.M.T Smile & Smatanova Zuzana",
+    "date": "24.10.2025",
+    "time": "18:06",
+    "listeners": 2955
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Psi Sa Bránia Útokom",
+    "artist": "Nagy, Peter A Raz, Jozef",
+    "date": "24.10.2025",
+    "time": "18:03",
+    "listeners": 3021
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Like A Prayer",
     "artist": "Madonna",
     "date": "24.10.2025",

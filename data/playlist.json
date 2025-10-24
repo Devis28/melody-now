@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Spoločne",
+    "artist": "Rolincová Darina",
+    "date": "24.10.2025",
+    "time": "06:45",
+    "listeners": 1809
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "date": "24.10.2025",
+    "time": "06:42",
+    "listeners": 1772
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hráli Jsme Kličkovanou",
+    "artist": "Janda Dalibor",
+    "date": "24.10.2025",
+    "time": "06:39",
+    "listeners": 1611
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sará Perché Ti Amo",
     "artist": "Ricchi E Poveri",
     "date": "24.10.2025",

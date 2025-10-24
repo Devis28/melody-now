@@ -11525,5 +11525,27 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "mr. president|jojo action": {
+    "release_year": 1997,
+    "artist_country": "DE",
+    "album": "Night Club",
+    "duration_ms": 233227,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "michael jackson|billie jean": {
+    "release_year": 2008,
+    "artist_country": "US",
+    "album": "Number Ones",
+    "duration_ms": 294601,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

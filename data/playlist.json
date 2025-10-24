@@ -5,7 +5,15 @@
     "artist": "Mr. President",
     "date": "24.10.2025",
     "time": "22:33",
-    "listeners": 696
+    "listeners": 696,
+    "lyricists": null,
+    "album": "Night Club",
+    "release_year": 1997,
+    "duration_ms": 233227,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dubasová Beáta",
     "date": "24.10.2025",
     "time": "22:29",
-    "listeners": 700
+    "listeners": 700,
+    "lyricists": null,
+    "album": "Beáta",
+    "release_year": 1987,
+    "duration_ms": 255360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Unique Ii",
     "date": "24.10.2025",
     "time": "22:25",
-    "listeners": 777
+    "listeners": 777,
+    "lyricists": null,
+    "album": "LEVEL II",
+    "release_year": 2004,
+    "duration_ms": 198200,
+    "artist_country": "AT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,18 @@
     "artist": "Michael Jackson",
     "date": "24.10.2025",
     "time": "22:21",
-    "listeners": 767
+    "listeners": 767,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "Number Ones",
+    "release_year": 2008,
+    "duration_ms": 294601,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "La Bouche",
     "date": "24.10.2025",
     "time": "22:16",
-    "listeners": 759
+    "listeners": 759,
+    "lyricists": null,
+    "album": "La Bouche: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 240867,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

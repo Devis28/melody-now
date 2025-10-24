@@ -5,7 +5,15 @@
     "artist": "Karel Zich",
     "date": "24.10.2025",
     "time": "12:37",
-    "listeners": 1640
+    "listeners": 1640,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 2004,
+    "duration_ms": 198040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,19 @@
     "artist": "Madonna",
     "date": "24.10.2025",
     "time": "12:33",
-    "listeners": 1588
+    "listeners": 1588,
+    "lyricists": [
+      "Bruce Gaitsch",
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Celebration (Deluxe Version)",
+    "release_year": 1989,
+    "duration_ms": 242947,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Hex",
     "date": "24.10.2025",
     "time": "12:30",
-    "listeners": 1596
+    "listeners": 1596,
+    "lyricists": null,
+    "album": "Vikend",
+    "release_year": 2002,
+    "duration_ms": 219027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,16 @@
     "artist": "Boney M",
     "date": "24.10.2025",
     "time": "12:26",
-    "listeners": 1659
+    "listeners": 1659,
+    "lyricists": null,
+    "album": "Daddy Cool",
+    "release_year": 2016,
+    "duration_ms": 206086,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "Janda Dalibor",
     "date": "24.10.2025",
     "time": "12:22",
-    "listeners": 1695
+    "listeners": 1695,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 262147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,15 @@
     "artist": "Kryštof",
     "date": "24.10.2025",
     "time": "12:19",
-    "listeners": 1653
+    "listeners": 1653,
+    "lyricists": null,
+    "album": "Polocas",
+    "release_year": 2007,
+    "duration_ms": 206667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,15 @@
     "artist": "Queen",
     "date": "24.10.2025",
     "time": "12:16",
-    "listeners": 1547
+    "listeners": 1547,
+    "lyricists": null,
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1977,
+    "duration_ms": 179191,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

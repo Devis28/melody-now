@@ -5,7 +5,15 @@
     "artist": "Petra Janů",
     "date": "24.10.2025",
     "time": "19:58",
-    "listeners": 1741
+    "listeners": 1741,
+    "lyricists": null,
+    "album": "Petra '88 (Live)",
+    "release_year": 2004,
+    "duration_ms": 193760,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Zagorová Hana Hložek Stanislav Kotvald Petr",
     "date": "24.10.2025",
     "time": "19:54",
-    "listeners": 1659
+    "listeners": 1659,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 1995,
+    "duration_ms": 249813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Aya",
     "date": "24.10.2025",
     "time": "19:49",
-    "listeners": 1719
+    "listeners": 1719,
+    "lyricists": null,
+    "album": "AYA 30 ROKOV & ŠTÁTNY KOMORNÝ ORCHESTER ŽILINA (Live Concert Version)",
+    "release_year": 2011,
+    "duration_ms": 445000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

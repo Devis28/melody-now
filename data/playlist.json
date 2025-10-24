@@ -5,7 +5,15 @@
     "artist": "Michael George",
     "date": "24.10.2025",
     "time": "13:47",
-    "listeners": 1154
+    "listeners": 1154,
+    "lyricists": null,
+    "album": "Faith (Deluxe Edition)",
+    "release_year": 1987,
+    "duration_ms": 193200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Olympic",
     "date": "24.10.2025",
     "time": "13:44",
-    "listeners": 1127
+    "listeners": 1127,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 183200,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -11595,5 +11595,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "level 42|lessons in love": {
+    "release_year": 1995,
+    "artist_country": "GB",
+    "album": "The Very Best of Level 42",
+    "duration_ms": 241600,
+    "genres": [
+      "Pop"
+    ]
   }
 }

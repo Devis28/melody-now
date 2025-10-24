@@ -5,7 +5,15 @@
     "artist": "Williams, Robbie",
     "date": "24.10.2025",
     "time": "23:25",
-    "listeners": 426
+    "listeners": 426,
+    "lyricists": null,
+    "album": "Sing When You're Winning",
+    "release_year": 2000,
+    "duration_ms": 237401,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Level 42",
     "date": "24.10.2025",
     "time": "23:21",
-    "listeners": 458
+    "listeners": 458,
+    "lyricists": null,
+    "album": "The Very Best of Level 42",
+    "release_year": 1995,
+    "duration_ms": 241600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "No Name",
     "date": "24.10.2025",
     "time": "23:18",
-    "listeners": 468
+    "listeners": 468,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 202093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "The Jacksons",
     "date": "24.10.2025",
     "time": "23:14",
-    "listeners": 463
+    "listeners": 463,
+    "lyricists": null,
+    "album": "Destiny",
+    "release_year": 1998,
+    "duration_ms": 215319,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Elán",
     "date": "24.10.2025",
     "time": "23:11",
-    "listeners": 516
+    "listeners": 516,
+    "lyricists": null,
+    "album": "Hodina slovenčiny",
+    "release_year": 1998,
+    "duration_ms": 195707,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

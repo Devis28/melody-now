@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tisíckrát Krásnější",
+    "artist": "Dalibor Janda",
+    "date": "24.10.2025",
+    "time": "09:43",
+    "listeners": 1180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šaty",
+    "artist": "Gombitová Marika",
+    "date": "24.10.2025",
+    "time": "09:40",
+    "listeners": 1260
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Crazy",
     "artist": "Aerosmith",
     "date": "24.10.2025",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Africa",
+    "artist": "Toto",
+    "date": "24.10.2025",
+    "time": "16:54",
+    "listeners": 2896
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Que Sera Mi Vida",
+    "artist": "The Gibson Brothers",
+    "date": "24.10.2025",
+    "time": "16:51",
+    "listeners": 3035
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Územie Zázrakov",
     "artist": "Gombitová Marika",
     "date": "24.10.2025",

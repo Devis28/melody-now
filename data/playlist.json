@@ -5,7 +5,15 @@
     "artist": "Rubettes, The",
     "date": "24.10.2025",
     "time": "23:52",
-    "listeners": 348
+    "listeners": 348,
+    "lyricists": null,
+    "album": "The Best of the Rubettes",
+    "release_year": 1974,
+    "duration_ms": 209893,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Communards Feat. Sarah Jane Morris",
     "date": "24.10.2025",
     "time": "23:48",
-    "listeners": 323
+    "listeners": 323,
+    "lyricists": null,
+    "album": "Communards",
+    "release_year": 2008,
+    "duration_ms": 271067,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

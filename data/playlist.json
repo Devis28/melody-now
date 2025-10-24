@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "A Kind Of Magic",
+    "artist": "Queen",
+    "date": "24.10.2025",
+    "time": "20:31",
+    "listeners": 1487
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angel",
+    "artist": "Shaggy",
+    "date": "24.10.2025",
+    "time": "20:27",
+    "listeners": 1391
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't You Want Me",
+    "artist": "Human League, The",
+    "date": "24.10.2025",
+    "time": "20:23",
+    "listeners": 1407
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "24.10.2025",
+    "time": "20:19",
+    "listeners": 1469
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zabadak",
+    "artist": "Saragosa Band",
+    "date": "24.10.2025",
+    "time": "20:15",
+    "listeners": 1507
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Poďme Sa Zachrániť",
+    "artist": "Peter Nagy",
+    "date": "24.10.2025",
+    "time": "20:11",
+    "listeners": 1570
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Love Your Smile",
+    "artist": "Shanice",
+    "date": "24.10.2025",
+    "time": "20:07",
+    "listeners": 1591
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Like Chopin",
+    "artist": "Gazebo",
+    "date": "24.10.2025",
+    "time": "20:03",
+    "listeners": 1561
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Moje Malá Premiera",
     "artist": "Petra Janů",
     "date": "24.10.2025",

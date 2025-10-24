@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Cherish",
+    "artist": "Kool & The Gang",
+    "date": "24.10.2025",
+    "time": "15:15",
+    "listeners": 1144
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hrám",
+    "artist": "Karol Duchoň",
+    "date": "24.10.2025",
+    "time": "15:11",
+    "listeners": 1109
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Frozen",
+    "artist": "Madonna",
+    "date": "24.10.2025",
+    "time": "15:06",
+    "listeners": 1081
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ci Sarà",
+    "artist": "Bano Al & Power Romina",
+    "date": "24.10.2025",
+    "time": "15:03",
+    "listeners": 976
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Feel",
+    "artist": "Robbie Williams",
+    "date": "24.10.2025",
+    "time": "14:56",
+    "listeners": 989
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá",
+    "artist": "Miro Žbirka",
+    "date": "24.10.2025",
+    "time": "14:51",
+    "listeners": 878
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Knowing Me, Knowing You",
     "artist": "Abba",
     "date": "24.10.2025",

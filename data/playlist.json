@@ -5,7 +5,13 @@
     "artist": "Travolta John & Newton-John Olivia",
     "date": "24.10.2025",
     "time": "09:07",
-    "listeners": 1999
+    "listeners": 1999,
+    "lyricists": null,
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "release_year": 1978,
+    "duration_ms": 168907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,15 @@
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "24.10.2025",
     "time": "09:03",
-    "listeners": 2087
+    "listeners": 2087,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 1994,
+    "duration_ms": 238467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Soul Asylum",
     "date": "24.10.2025",
     "time": "08:54",
-    "listeners": 2221
+    "listeners": 2221,
+    "lyricists": null,
+    "album": "Black Gold: The Best of Soul Asylum",
+    "release_year": 2007,
+    "duration_ms": 266067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

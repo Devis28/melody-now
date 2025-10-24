@@ -5,7 +5,15 @@
     "artist": "Imbruglia Natalie",
     "date": "24.10.2025",
     "time": "10:18",
-    "listeners": 861
+    "listeners": 861,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Pavol Hammel",
     "date": "24.10.2025",
     "time": "10:15",
-    "listeners": 881
+    "listeners": 881,
+    "lyricists": null,
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1981,
+    "duration_ms": 152573,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Bad Boys Blue",
     "date": "24.10.2025",
     "time": "10:09",
-    "listeners": 1012
+    "listeners": 1012,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 2009,
+    "duration_ms": 321840,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "P. M. Sampson & Double Key",
     "date": "24.10.2025",
     "time": "10:05",
-    "listeners": 994
+    "listeners": 994,
+    "lyricists": null,
+    "album": "Listen to My Heartbeat",
+    "release_year": 1993,
+    "duration_ms": 262947,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Zich Karel & Filipová Lenka",
     "date": "24.10.2025",
     "time": "10:02",
-    "listeners": 1024
+    "listeners": 1024,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 1981,
+    "duration_ms": 218240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,16 @@
     "artist": "Sandra",
     "date": "24.10.2025",
     "time": "09:55",
-    "listeners": 1158
+    "listeners": 1158,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 2000,
+    "duration_ms": 257160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

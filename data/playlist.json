@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čo S Tým",
+    "artist": "Team",
+    "date": "24.10.2025",
+    "time": "07:38",
+    "listeners": 2978
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Seasons In The Sun",
+    "artist": "Terry Jacks",
+    "date": "24.10.2025",
+    "time": "07:35",
+    "listeners": 2719
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Klasika",
     "artist": "Elán",
     "date": "24.10.2025",

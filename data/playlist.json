@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Time Of My Life",
+    "artist": "Jennifer Warnes/Bill Medley",
+    "date": "24.10.2025",
+    "time": "12:09",
+    "listeners": 1654
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Over My Shoulder",
+    "artist": "Mike & The Mechanics",
+    "date": "24.10.2025",
+    "time": "12:06",
+    "listeners": 1569
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jasná Zpráva",
+    "artist": "Olympic",
+    "date": "24.10.2025",
+    "time": "12:01",
+    "listeners": 1534
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Another Day In Paradise",
+    "artist": "Collins Phil",
+    "date": "24.10.2025",
+    "time": "11:54",
+    "listeners": 1496
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "24.10.2025",
+    "time": "11:50",
+    "listeners": 1598
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska, Necestuj Tým Vlakom",
+    "artist": "Pavol Habera",
+    "date": "24.10.2025",
+    "time": "11:46",
+    "listeners": 1400
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Forever Young",
     "artist": "Alphaville",
     "date": "24.10.2025",

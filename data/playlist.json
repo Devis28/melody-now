@@ -5,7 +5,17 @@
     "artist": "Harpo",
     "date": "24.10.2025",
     "time": "20:56",
-    "listeners": 1269
+    "listeners": 1269,
+    "lyricists": [
+      "Harpo"
+    ],
+    "album": "Moviestar",
+    "release_year": 2002,
+    "duration_ms": 202280,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,18 @@
     "artist": "Kim Appleby",
     "date": "24.10.2025",
     "time": "20:52",
-    "listeners": 1357
+    "listeners": 1357,
+    "lyricists": [
+      "Craig Logan",
+      "Kim Appleby"
+    ],
+    "album": "Don't Worry - Single",
+    "release_year": 1995,
+    "duration_ms": 210933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +42,15 @@
     "artist": "Elán",
     "date": "24.10.2025",
     "time": "20:50",
-    "listeners": 1270
+    "listeners": 1270,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2004,
+    "duration_ms": 138120,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

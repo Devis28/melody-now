@@ -11428,5 +11428,18 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "kim appleby|don't worry": {
+    "release_year": 1995,
+    "artist_country": "GB",
+    "album": "Don't Worry - Single",
+    "duration_ms": 210933,
+    "lyricists": [
+      "Craig Logan",
+      "Kim Appleby"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

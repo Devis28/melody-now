@@ -5,7 +5,15 @@
     "artist": "Darina Rolincová",
     "date": "24.10.2025",
     "time": "11:32",
-    "listeners": 1325
+    "listeners": 1325,
+    "lyricists": null,
+    "album": "Téměř Růžový Příběh",
+    "release_year": 1998,
+    "duration_ms": 218600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karel Gott",
     "date": "24.10.2025",
     "time": "11:29",
-    "listeners": 1369
+    "listeners": 1369,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 2006,
+    "duration_ms": 170067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Erasure",
     "date": "24.10.2025",
     "time": "11:24",
-    "listeners": 1240
+    "listeners": 1240,
+    "lyricists": null,
+    "album": "Hits! The Very Best of Erasure",
+    "release_year": 1993,
+    "duration_ms": 237613,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Heart",
     "date": "24.10.2025",
     "time": "11:21",
-    "listeners": 1163
+    "listeners": 1163,
+    "lyricists": null,
+    "album": "Greatest Hits 1985-1995",
+    "release_year": 2022,
+    "duration_ms": 219293,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

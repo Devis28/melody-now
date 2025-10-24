@@ -5,7 +5,15 @@
     "artist": "Pink Floyd",
     "date": "25.10.2025",
     "time": "01:28",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "The Wall",
+    "release_year": 1994,
+    "duration_ms": 238947,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Team",
     "date": "25.10.2025",
     "time": "01:24",
-    "listeners": 199
+    "listeners": 199,
+    "lyricists": null,
+    "album": "Team Hity",
+    "release_year": 1991,
+    "duration_ms": 267693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

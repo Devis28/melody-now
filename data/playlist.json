@@ -5,7 +5,15 @@
     "artist": "Bad Boys Blue",
     "date": "24.10.2025",
     "time": "12:54",
-    "listeners": 1522
+    "listeners": 1522,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 2001,
+    "duration_ms": 247027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Dr. Alban",
     "date": "24.10.2025",
     "time": "12:50",
-    "listeners": 1593
+    "listeners": 1593,
+    "lyricists": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ],
+    "album": "One Love",
+    "release_year": 1994,
+    "duration_ms": 243133,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

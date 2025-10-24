@@ -11410,5 +11410,23 @@
       "Pop",
       "R&B"
     ]
+  },
+  "sandra|hi hi hi": {
+    "artist_country": "DE",
+    "release_year": 1994,
+    "album": "Ten On One - The Singles",
+    "duration_ms": 252000,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "corona|try me out": {
+    "release_year": 1996,
+    "artist_country": "IT",
+    "album": "Try Me Out",
+    "duration_ms": 206880,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

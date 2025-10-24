@@ -5,7 +5,20 @@
     "artist": "Stevie B.",
     "date": "24.10.2025",
     "time": "13:39",
-    "listeners": 1194
+    "listeners": 1194,
+    "lyricists": [
+      "Stevie B",
+      "Warren Allen Brooks"
+    ],
+    "album": "Love and Emotion",
+    "release_year": 1991,
+    "duration_ms": 303333,
+    "artist_country": "US",
+    "genres": [
+      "Electronic",
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +26,15 @@
     "artist": "Camouflage",
     "date": "24.10.2025",
     "time": "13:36",
-    "listeners": 1213
+    "listeners": 1213,
+    "lyricists": null,
+    "album": "Love Is A Shield - Single",
+    "release_year": 1989,
+    "duration_ms": 241013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +42,15 @@
     "artist": "Karol Duchoň",
     "date": "24.10.2025",
     "time": "13:33",
-    "listeners": 1193
+    "listeners": 1193,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 1976,
+    "duration_ms": 191960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

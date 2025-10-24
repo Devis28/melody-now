@@ -5,7 +5,15 @@
     "artist": "The Bee Gees",
     "date": "24.10.2025",
     "time": "21:14",
-    "listeners": 1159
+    "listeners": 1159,
+    "lyricists": null,
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "release_year": 1977,
+    "duration_ms": 213706,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Rolincova Darinka",
     "date": "24.10.2025",
     "time": "21:11",
-    "listeners": 1213
+    "listeners": 1213,
+    "lyricists": null,
+    "album": "Čo O Mne Vieš",
+    "release_year": 1987,
+    "duration_ms": 161133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,20 @@
     "artist": "Bobby Brown",
     "date": "24.10.2025",
     "time": "21:07",
-    "listeners": 1333
+    "listeners": 1333,
+    "lyricists": [
+      "Bernard Belle",
+      "Bobby Brown",
+      "David \"Redhead\" Guppy",
+      "Teddy Riley"
+    ],
+    "album": "Two Can Play That Game",
+    "release_year": 1992,
+    "duration_ms": 211800,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +58,15 @@
     "artist": "Gombitová Marika",
     "date": "24.10.2025",
     "time": "21:02",
-    "listeners": 1284
+    "listeners": 1284,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1987,
+    "duration_ms": 237587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "The Twins",
     "date": "24.10.2025",
     "time": "20:59",
-    "listeners": 1341
+    "listeners": 1341,
+    "lyricists": null,
+    "album": "12 Inch Classics and Rare Tracks",
+    "release_year": 2003,
+    "duration_ms": 293333,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -11441,5 +11441,29 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bobby brown|two can play that game": {
+    "release_year": 1992,
+    "artist_country": "US",
+    "album": "Two Can Play That Game",
+    "duration_ms": 211800,
+    "lyricists": [
+      "Bernard Belle",
+      "Bobby Brown",
+      "David \"Redhead\" Guppy",
+      "Teddy Riley"
+    ],
+    "genres": [
+      "R&B"
+    ]
+  },
+  "the twins|ballet dancer": {
+    "release_year": 2003,
+    "artist_country": "DE",
+    "album": "12 Inch Classics and Rare Tracks",
+    "duration_ms": 293333,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "24.10.2025",
     "time": "21:50",
-    "listeners": 1018
+    "listeners": 1018,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1994,
+    "duration_ms": 306787,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

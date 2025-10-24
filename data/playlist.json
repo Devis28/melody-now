@@ -5,7 +5,15 @@
     "artist": "Roxette",
     "date": "25.10.2025",
     "time": "00:49",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2006,
+    "duration_ms": 275667,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Polemic",
     "date": "25.10.2025",
     "time": "00:46",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Nelam Si Tym Hlavu",
+    "release_year": 2002,
+    "duration_ms": 160760,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Rolincová Darina",
     "date": "25.10.2025",
     "time": "00:43",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Darinka",
+    "release_year": 1985,
+    "duration_ms": 180257,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

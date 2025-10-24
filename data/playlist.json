@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Night Fever",
+    "artist": "The Bee Gees",
+    "date": "24.10.2025",
+    "time": "21:14",
+    "listeners": 1159
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čo O Mne Vieš",
+    "artist": "Rolincova Darinka",
+    "date": "24.10.2025",
+    "time": "21:11",
+    "listeners": 1213
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Two Can Play That Game",
+    "artist": "Bobby Brown",
+    "date": "24.10.2025",
+    "time": "21:07",
+    "listeners": 1333
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Období Dažďa",
+    "artist": "Gombitová Marika",
+    "date": "24.10.2025",
+    "time": "21:02",
+    "listeners": 1284
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ballet Dancer",
+    "artist": "The Twins",
+    "date": "24.10.2025",
+    "time": "20:59",
+    "listeners": 1341
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Moviestar",
     "artist": "Harpo",
     "date": "24.10.2025",

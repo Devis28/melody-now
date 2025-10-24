@@ -5,7 +5,15 @@
     "artist": "Ricchi E Poveri",
     "date": "24.10.2025",
     "time": "06:36",
-    "listeners": 1657
+    "listeners": 1657,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1987,
+    "duration_ms": 190693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Kotvald Petr",
     "date": "24.10.2025",
     "time": "06:32",
-    "listeners": 1412
+    "listeners": 1412,
+    "lyricists": null,
+    "album": "Exxxclusive (Best Of - Zlatá Kolekce)",
+    "release_year": 2016,
+    "duration_ms": 197000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "I Santo California",
     "date": "24.10.2025",
     "time": "06:29",
-    "listeners": 1531
+    "listeners": 1531,
+    "lyricists": null,
+    "album": "Tornerò/Volveré - Single",
+    "release_year": 2001,
+    "duration_ms": 226355,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Kylie Minogue",
     "date": "24.10.2025",
     "time": "06:22",
-    "listeners": 1230
+    "listeners": 1230,
+    "lyricists": null,
+    "album": "Showgirl - Homecoming (Live)",
+    "release_year": 2012,
+    "duration_ms": 283333,
+    "artist_country": "AU",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Hex",
     "date": "24.10.2025",
     "time": "06:18",
-    "listeners": 1238
+    "listeners": 1238,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 1997,
+    "duration_ms": 262867,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

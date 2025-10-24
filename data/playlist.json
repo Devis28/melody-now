@@ -5,7 +5,16 @@
     "artist": "Guru Josh",
     "date": "24.10.2025",
     "time": "03:22",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Imt Smile",
     "date": "24.10.2025",
     "time": "03:18",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2020,
+    "duration_ms": 241160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "All-4-One",
     "date": "24.10.2025",
     "time": "03:13",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "All-4-One",
+    "release_year": 2012,
+    "duration_ms": 259853,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Hana Zagorová",
     "date": "24.10.2025",
     "time": "03:08",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 1982,
+    "duration_ms": 277067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Helena Vondráčková",
     "date": "24.10.2025",
     "time": "03:04",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Best of the Best",
+    "release_year": 2009,
+    "duration_ms": 233507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Modus",
     "date": "24.10.2025",
     "time": "03:01",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 208227,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Fun Factory",
     "date": "24.10.2025",
     "time": "02:57",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 207000,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Elán",
     "date": "24.10.2025",
     "time": "02:53",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Rabaka",
+    "release_year": 2008,
+    "duration_ms": 254333,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +134,13 @@
     "artist": "Israel",
     "date": "24.10.2025",
     "time": "02:48",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "Unforgettable",
+    "release_year": 2006,
+    "duration_ms": 244013,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +148,15 @@
     "artist": "Jiří Schelinger",
     "date": "24.10.2025",
     "time": "02:44",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2004,
+    "duration_ms": 240880,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +164,16 @@
     "artist": "Balogh Berco",
     "date": "24.10.2025",
     "time": "02:41",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Siedmy pád",
+    "release_year": 2007,
+    "duration_ms": 202507,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +181,15 @@
     "artist": "Samantha Fox",
     "date": "24.10.2025",
     "time": "02:37",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Samantha Fox",
+    "release_year": 1999,
+    "duration_ms": 225147,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +197,15 @@
     "artist": "Lucie",
     "date": "24.10.2025",
     "time": "02:33",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Hity Tommü",
+    "release_year": 1999,
+    "duration_ms": 249667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +213,15 @@
     "artist": "Zuzana Smatanová",
     "date": "24.10.2025",
     "time": "02:29",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Jediný A Jediná - Single",
+    "release_year": 2018,
+    "duration_ms": 258669,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +229,15 @@
     "artist": "Erasure",
     "date": "24.10.2025",
     "time": "02:24",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Hits! The Very Best of Erasure",
+    "release_year": 2003,
+    "duration_ms": 260227,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +245,16 @@
     "artist": "Desmod",
     "date": "24.10.2025",
     "time": "02:21",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "Molekuly Zvuku",
+    "release_year": 2017,
+    "duration_ms": 207978,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +262,15 @@
     "artist": "John Paul Young",
     "date": "24.10.2025",
     "time": "02:18",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Vanda and Young: The Official Songbook",
+    "release_year": 1996,
+    "duration_ms": 208413,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +278,13 @@
     "artist": "Carmen, Eric",
     "date": "24.10.2025",
     "time": "02:14",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 1987,
+    "duration_ms": 248427,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +292,15 @@
     "artist": "Miro Žbirka",
     "date": "24.10.2025",
     "time": "02:11",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Chlapec z ulice",
+    "release_year": 2007,
+    "duration_ms": 202107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +308,16 @@
     "artist": "Lighthouse Family",
     "date": "24.10.2025",
     "time": "02:07",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Whatever Gets You Through the Day",
+    "release_year": 2001,
+    "duration_ms": 316360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +325,15 @@
     "artist": "Lenka Filipová",
     "date": "24.10.2025",
     "time": "02:03",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 2007,
+    "duration_ms": 213253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +341,15 @@
     "artist": "Yps",
     "date": "24.10.2025",
     "time": "02:00",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 155440,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +357,15 @@
     "artist": "Cher",
     "date": "24.10.2025",
     "time": "01:57",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 2003,
+    "duration_ms": 224000,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Gloria",
+    "artist": "Tozzi, Umberto",
+    "date": "25.10.2025",
+    "time": "01:20",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Klasika",
+    "artist": "Elán",
+    "date": "25.10.2025",
+    "time": "01:17",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Elena",
+    "artist": "Karol Duchoň",
+    "date": "25.10.2025",
+    "time": "01:14",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Because You Loved Me",
+    "artist": "Céline Dion",
+    "date": "25.10.2025",
+    "time": "01:09",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Loď do neznáma",
+    "artist": "Uherčík, Ďurinda, Griglák, Horváth",
+    "date": "25.10.2025",
+    "time": "01:05",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Školská Lavica",
+    "artist": "Gombitová Marika",
+    "date": "25.10.2025",
+    "time": "01:01",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Som On (Snežný Pluh)",
     "artist": "Hex",
     "date": "25.10.2025",

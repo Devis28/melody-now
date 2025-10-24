@@ -5,7 +5,15 @@
     "artist": "The Brotherhood Of Man",
     "date": "24.10.2025",
     "time": "22:13",
-    "listeners": 813
+    "listeners": 813,
+    "lyricists": null,
+    "album": "Best of Brotherhood of Man",
+    "release_year": 1993,
+    "duration_ms": 182139,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Minogue Kylie",
     "date": "24.10.2025",
     "time": "22:10",
-    "listeners": 875
+    "listeners": 875,
+    "lyricists": null,
+    "album": "Kylie",
+    "release_year": 1987,
+    "duration_ms": 204128,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Ace Of Base",
     "date": "24.10.2025",
     "time": "22:06",
-    "listeners": 933
+    "listeners": 933,
+    "lyricists": null,
+    "album": "Flowers (Remastered)",
+    "release_year": 1998,
+    "duration_ms": 215360,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "David Michal",
     "date": "24.10.2025",
     "time": "22:03",
-    "listeners": 856
+    "listeners": 856,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 211960,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "A-Ha",
     "date": "24.10.2025",
     "time": "21:59",
-    "listeners": 889
+    "listeners": 889,
+    "lyricists": null,
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "release_year": 2003,
+    "duration_ms": 228520,
+    "artist_country": "NO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "C&C Music Factory",
     "date": "24.10.2025",
     "time": "21:55",
-    "listeners": 967
+    "listeners": 967,
+    "lyricists": null,
+    "album": "Gonna Make You Sweat",
+    "release_year": 1990,
+    "duration_ms": 243693,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

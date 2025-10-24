@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Always",
+    "artist": "Erasure",
+    "date": "25.10.2025",
+    "time": "01:47",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Asi Nie Si",
+    "artist": "Richard Müller",
+    "date": "25.10.2025",
+    "time": "01:44",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Orinoco Flow",
     "artist": "Enya",
     "date": "25.10.2025",

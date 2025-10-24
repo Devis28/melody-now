@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dievča Amerika",
+    "artist": "Habera Pavol",
+    "date": "24.10.2025",
+    "time": "18:40",
+    "listeners": 2303
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Tebou",
+    "artist": "Peha",
+    "date": "24.10.2025",
+    "time": "18:36",
+    "listeners": 2682
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Knoflíky Lásky",
+    "artist": "Iveta Bartošová & Petr Sepéši",
+    "date": "24.10.2025",
+    "time": "18:32",
+    "listeners": 2572
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Letím Tmou (Za Tebou)",
+    "artist": "Miro Žbirka",
+    "date": "24.10.2025",
+    "time": "18:29",
+    "listeners": 2589
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mladosť",
+    "artist": "Pavol Hammel",
+    "date": "24.10.2025",
+    "time": "18:26",
+    "listeners": 2843
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska, Drž Ma Nad Hladinou",
+    "artist": "Tublatanka",
+    "date": "24.10.2025",
+    "time": "18:22",
+    "listeners": 2804
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Bludička Julie",
     "artist": "Zagorová Hana",
     "date": "24.10.2025",

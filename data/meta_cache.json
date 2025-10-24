@@ -11557,5 +11557,20 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "dr. alban|look who's talking": {
+    "release_year": 1996,
+    "artist_country": "SE",
+    "album": "The Ultimate Collection 1990-2014",
+    "duration_ms": 322624,
+    "lyricists": [
+      "Denniz PoP",
+      "Dr. Alban",
+      "Ebenezer Thompson",
+      "Kofi Bentsi-Enchill"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

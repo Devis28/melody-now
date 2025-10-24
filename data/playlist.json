@@ -5,7 +5,20 @@
     "artist": "Dr. Alban",
     "date": "24.10.2025",
     "time": "22:52",
-    "listeners": 623
+    "listeners": 623,
+    "lyricists": [
+      "Denniz PoP",
+      "Dr. Alban",
+      "Ebenezer Thompson",
+      "Kofi Bentsi-Enchill"
+    ],
+    "album": "The Ultimate Collection 1990-2014",
+    "release_year": 1996,
+    "duration_ms": 322624,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +26,15 @@
     "artist": "Belinda Carlisle",
     "date": "24.10.2025",
     "time": "22:48",
-    "listeners": 582
+    "listeners": 582,
+    "lyricists": null,
+    "album": "Heaven on Earth",
+    "release_year": 2005,
+    "duration_ms": 247093,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

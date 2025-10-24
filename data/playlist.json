@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "24.10.2025",
+    "time": "13:28",
+    "listeners": 1357
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When The Rain Begins To Fall",
+    "artist": "Jermaine Jackson & Pia Zadora",
+    "date": "24.10.2025",
+    "time": "13:24",
+    "listeners": 1352
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jednoho Dne Se Vrátíš",
+    "artist": "Věra Špinarová",
+    "date": "24.10.2025",
+    "time": "13:20",
+    "listeners": 1452
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Truly Madly Deeply",
     "artist": "Savage Garden",
     "date": "24.10.2025",

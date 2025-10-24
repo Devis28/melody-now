@@ -5,7 +5,15 @@
     "artist": "Marika Gombitová",
     "date": "24.10.2025",
     "time": "18:53",
-    "listeners": 2470
+    "listeners": 2470,
+    "lyricists": null,
+    "album": "Single (1977 - 1989)",
+    "release_year": 2000,
+    "duration_ms": 202960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "G8",
     "date": "24.10.2025",
     "time": "18:47",
-    "listeners": 2394
+    "listeners": 2394,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Hana Hegerová",
     "date": "24.10.2025",
     "time": "18:44",
-    "listeners": 2522
+    "listeners": 2522,
+    "lyricists": null,
+    "album": "Paběrky",
+    "release_year": 2015,
+    "duration_ms": 183600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "David Michal",
     "date": "24.10.2025",
     "time": "08:51",
-    "listeners": 2359
+    "listeners": 2359,
+    "lyricists": null,
+    "album": "Discopříběh",
+    "release_year": 1987,
+    "duration_ms": 191443,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Mc Erik And Barbara",
     "date": "24.10.2025",
     "time": "08:45",
-    "listeners": 2474
+    "listeners": 2474,
+    "lyricists": null,
+    "album": "Second",
+    "release_year": 1996,
+    "duration_ms": 218427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "The Beatles",
     "date": "24.10.2025",
     "time": "08:41",
-    "listeners": 2628
+    "listeners": 2628,
+    "lyricists": null,
+    "album": "Let It Be",
+    "release_year": 1994,
+    "duration_ms": 243027,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,17 @@
     "artist": "Shakira",
     "date": "24.10.2025",
     "time": "08:38",
-    "listeners": 2708
+    "listeners": 2708,
+    "lyricists": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ],
+    "album": "Laundry Service",
+    "release_year": 2001,
+    "duration_ms": 196160,
+    "artist_country": "CO",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

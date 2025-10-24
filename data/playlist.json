@@ -1,6 +1,190 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Infinity",
+    "artist": "Guru Josh",
+    "date": "24.10.2025",
+    "time": "03:22",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nič Nie Je Isté",
+    "artist": "Imt Smile",
+    "date": "24.10.2025",
+    "time": "03:18",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "date": "24.10.2025",
+    "time": "03:13",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Biograf Láska",
+    "artist": "Hana Zagorová",
+    "date": "24.10.2025",
+    "time": "03:08",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vzhůru K Výškám",
+    "artist": "Helena Vondráčková",
+    "date": "24.10.2025",
+    "time": "03:04",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kapely Starnú",
+    "artist": "Modus",
+    "date": "24.10.2025",
+    "time": "03:01",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Celebration",
+    "artist": "Fun Factory",
+    "date": "24.10.2025",
+    "time": "02:57",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Od Tatier K Dunaju",
+    "artist": "Elán",
+    "date": "24.10.2025",
+    "time": "02:53",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Over The Rainbow/What A Wonderful World",
+    "artist": "Israel",
+    "date": "24.10.2025",
+    "time": "02:48",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Holubí Dúm",
+    "artist": "Jiří Schelinger",
+    "date": "24.10.2025",
+    "time": "02:44",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Farbami Dýcha Noc",
+    "artist": "Balogh Berco",
+    "date": "24.10.2025",
+    "time": "02:41",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nothing's Gonna Stop Me Now",
+    "artist": "Samantha Fox",
+    "date": "24.10.2025",
+    "time": "02:37",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šrouby Do Hlavy",
+    "artist": "Lucie",
+    "date": "24.10.2025",
+    "time": "02:33",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jediný A Jediná",
+    "artist": "Zuzana Smatanová",
+    "date": "24.10.2025",
+    "time": "02:29",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blue Savannah",
+    "artist": "Erasure",
+    "date": "24.10.2025",
+    "time": "02:24",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nevrav Mi Aký Som",
+    "artist": "Desmod",
+    "date": "24.10.2025",
+    "time": "02:21",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Is In The Air",
+    "artist": "John Paul Young",
+    "date": "24.10.2025",
+    "time": "02:18",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hungry Eyes",
+    "artist": "Carmen, Eric",
+    "date": "24.10.2025",
+    "time": "02:14",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Katka",
+    "artist": "Miro Žbirka",
+    "date": "24.10.2025",
+    "time": "02:11",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Free",
+    "artist": "Lighthouse Family",
+    "date": "24.10.2025",
+    "time": "02:07",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prý Se Tomu Říká Láska",
+    "artist": "Lenka Filipová",
+    "date": "24.10.2025",
+    "time": "02:03",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Kúp Mi Rontgen",
+    "artist": "Yps",
+    "date": "24.10.2025",
+    "time": "02:00",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Strong Enough",
+    "artist": "Cher",
+    "date": "24.10.2025",
+    "time": "01:57",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Dej Mi Víc Své Lásky",
     "artist": "Olympic",
     "date": "24.10.2025",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Like A Prayer",
+    "artist": "Madonna",
+    "date": "24.10.2025",
+    "time": "17:55",
+    "listeners": 3079
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "24.10.2025",
+    "time": "17:52",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "24.10.2025",
+    "time": "17:48",
+    "listeners": 3173
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Stand By Me",
     "artist": "Ben E. King",
     "date": "24.10.2025",

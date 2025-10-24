@@ -5,7 +5,18 @@
     "artist": "Savage Garden",
     "date": "24.10.2025",
     "time": "13:15",
-    "listeners": 1420
+    "listeners": 1420,
+    "lyricists": [
+      "Daniel Jones",
+      "Darren Hayes"
+    ],
+    "album": "Savage Garden",
+    "release_year": 2014,
+    "duration_ms": 277194,
+    "artist_country": "AU",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Toto Cutugno",
     "date": "24.10.2025",
     "time": "13:09",
-    "listeners": 1389
+    "listeners": 1389,
+    "lyricists": null,
+    "album": "The Great Italian Songbook",
+    "release_year": 2000,
+    "duration_ms": 254987,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Novák Petr",
     "date": "24.10.2025",
     "time": "13:06",
-    "listeners": 1444
+    "listeners": 1444,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 141027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,16 @@
     "artist": "Tobias Szidi",
     "date": "24.10.2025",
     "time": "13:01",
-    "listeners": 1535
+    "listeners": 1535,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2008,
+    "duration_ms": 307000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

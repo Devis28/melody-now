@@ -1,6 +1,102 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Knowing Me, Knowing You",
+    "artist": "Abba",
+    "date": "24.10.2025",
+    "time": "14:48",
+    "listeners": 874
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Youre My Heart Youre My Soul",
+    "artist": "Modern Talking",
+    "date": "24.10.2025",
+    "time": "14:41",
+    "listeners": 896
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Palonder Marcel",
+    "date": "24.10.2025",
+    "time": "14:37",
+    "listeners": 887
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chytila Jsem Na Pasece Motýlka",
+    "artist": "Vondráčková Helena",
+    "date": "24.10.2025",
+    "time": "14:35",
+    "listeners": 864
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One More Night",
+    "artist": "Phil Collins",
+    "date": "24.10.2025",
+    "time": "14:30",
+    "listeners": 840
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nebude To Ľahké",
+    "artist": "Müller Richard",
+    "date": "24.10.2025",
+    "time": "14:24",
+    "listeners": 851
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zrpš",
+    "artist": "Hammel, Pavol",
+    "date": "24.10.2025",
+    "time": "14:21",
+    "listeners": 946
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hard To Say I'm Sorry",
+    "artist": "Chicago",
+    "date": "24.10.2025",
+    "time": "14:18",
+    "listeners": 1010
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "24.10.2025",
+    "time": "14:11",
+    "listeners": 1030
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Boat On The River",
+    "artist": "Styx",
+    "date": "24.10.2025",
+    "time": "14:08",
+    "listeners": 924
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pieseň O Kamarátstve",
+    "artist": "Darina Rolincová",
+    "date": "24.10.2025",
+    "time": "14:05",
+    "listeners": 1033
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fading Like A Flower",
+    "artist": "Roxette",
+    "date": "24.10.2025",
+    "time": "14:02",
+    "listeners": 1028
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ma Baker",
     "artist": "Boney M.",
     "date": "24.10.2025",

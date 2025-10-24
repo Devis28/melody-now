@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Chiquitita",
+    "artist": "Abba",
+    "date": "24.10.2025",
+    "time": "07:51",
+    "listeners": 3010
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Always",
+    "artist": "Erasure",
+    "date": "24.10.2025",
+    "time": "07:48",
+    "listeners": 2870
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maria Magdalena",
+    "artist": "Sandra",
+    "date": "24.10.2025",
+    "time": "07:43",
+    "listeners": 2676
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čo S Tým",
     "artist": "Team",
     "date": "24.10.2025",

@@ -11484,5 +11484,28 @@
     "genres": [
       "Pop"
     ]
+  },
+  "spagna|call me": {
+    "release_year": 2004,
+    "artist_country": "IT",
+    "album": "80s 100 Hits",
+    "duration_ms": 238391,
+    "lyricists": [
+      "Giorgio Spagna",
+      "Ivana Spagna",
+      "Larry Pignagnoli"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "pet shop boys|suburbia": {
+    "release_year": 1993,
+    "artist_country": "GB",
+    "album": "Discography: The Complete Singles Collection",
+    "duration_ms": 244307,
+    "genres": [
+      "Pop"
+    ]
   }
 }

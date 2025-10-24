@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "24.10.2025",
+    "time": "15:44",
+    "listeners": 1753
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zlodej Slnečníc",
+    "artist": "Elán",
+    "date": "24.10.2025",
+    "time": "15:40",
+    "listeners": 1583
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sacrifice",
+    "artist": "Elton John",
+    "date": "24.10.2025",
+    "time": "15:35",
+    "listeners": 1560
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "24.10.2025",
+    "time": "15:30",
+    "listeners": 1358
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Words",
+    "artist": "David, F.R.",
+    "date": "24.10.2025",
+    "time": "15:27",
+    "listeners": 1225
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "24.10.2025",
+    "time": "15:24",
+    "listeners": 1292
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cherish",
     "artist": "Kool & The Gang",
     "date": "24.10.2025",

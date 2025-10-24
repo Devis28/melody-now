@@ -5,7 +5,16 @@
     "artist": "Aerosmith",
     "date": "24.10.2025",
     "time": "09:36",
-    "listeners": 1312
+    "listeners": 1312,
+    "lyricists": null,
+    "album": "Get A Grip",
+    "release_year": 2016,
+    "duration_ms": 316966,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Elán",
     "date": "24.10.2025",
     "time": "09:33",
-    "listeners": 1273
+    "listeners": 1273,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2001,
+    "duration_ms": 184880,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Bonnie Tyler",
     "date": "24.10.2025",
     "time": "09:30",
-    "listeners": 1532
+    "listeners": 1532,
+    "lyricists": null,
+    "album": "It's a Heartache",
+    "release_year": 1991,
+    "duration_ms": 209760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Nagy Peter",
     "date": "24.10.2025",
     "time": "09:25",
-    "listeners": 1577
+    "listeners": 1577,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2009,
+    "duration_ms": 264040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Pink Floyd",
     "date": "24.10.2025",
     "time": "09:21",
-    "listeners": 1702
+    "listeners": 1702,
+    "lyricists": null,
+    "album": "The Wall",
+    "release_year": 1994,
+    "duration_ms": 238947,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Žbirka Miro",
     "date": "24.10.2025",
     "time": "09:18",
-    "listeners": 1705
+    "listeners": 1705,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 190587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "A-Ha",
     "date": "24.10.2025",
     "time": "09:14",
-    "listeners": 1695
+    "listeners": 1695,
+    "lyricists": null,
+    "album": "Hunting High & Low (Remastered)",
+    "release_year": 1985,
+    "duration_ms": 228480,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Gott Karel",
     "date": "24.10.2025",
     "time": "09:10",
-    "listeners": 1832
+    "listeners": 1832,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 233107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

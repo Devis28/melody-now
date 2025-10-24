@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "25.10.2025",
+    "time": "00:49",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Škandál",
+    "artist": "Polemic",
+    "date": "25.10.2025",
+    "time": "00:46",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spoločne",
+    "artist": "Rolincová Darina",
+    "date": "25.10.2025",
+    "time": "00:43",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hráli Jsme Kličkovanou",
     "artist": "Janda Dalibor",
     "date": "25.10.2025",

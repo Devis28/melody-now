@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Maria Magdalena",
+    "artist": "Sandra",
+    "date": "25.10.2025",
+    "time": "00:29",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milovanie V Daždi",
+    "artist": "Richard Müller",
+    "date": "25.10.2025",
+    "time": "00:25",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mumuland",
+    "artist": "Kotvald Petr",
+    "date": "25.10.2025",
+    "time": "00:21",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nič Nezmení Môj Svet",
+    "artist": "Nagy Peter",
+    "date": "25.10.2025",
+    "time": "00:17",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Un-Break My Heart",
+    "artist": "Braxton Toni",
+    "date": "25.10.2025",
+    "time": "00:12",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Reklama Na Ticho",
     "artist": "Team",
     "date": "25.10.2025",

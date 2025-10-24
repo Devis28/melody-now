@@ -5,7 +5,19 @@
     "artist": "ABBA",
     "date": "24.10.2025",
     "time": "12:46",
-    "listeners": 1558
+    "listeners": 1558,
+    "lyricists": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ],
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 201959,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Žbirka Miro",
     "date": "24.10.2025",
     "time": "12:44",
-    "listeners": 1710
+    "listeners": 1710,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 1988,
+    "duration_ms": 164347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Kelly Family, The",
     "date": "24.10.2025",
     "time": "12:40",
-    "listeners": 1578
+    "listeners": 1578,
+    "lyricists": null,
+    "album": "Over the Hump",
+    "release_year": 1994,
+    "duration_ms": 224507,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

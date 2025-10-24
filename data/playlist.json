@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "24.10.2025",
     "time": "19:28",
-    "listeners": 1866
+    "listeners": 1866,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Helena Vondráčková",
     "date": "24.10.2025",
     "time": "19:25",
-    "listeners": 1889
+    "listeners": 1889,
+    "lyricists": null,
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "release_year": 1983,
+    "duration_ms": 173107,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Darina Rolincová",
     "date": "24.10.2025",
     "time": "19:21",
-    "listeners": 1925
+    "listeners": 1925,
+    "lyricists": null,
+    "album": "Skús Ma Najsť, Bez Veľkej Slávy - Single",
+    "release_year": 1998,
+    "duration_ms": 269827,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,13 @@
     "artist": "Ruzni Interpreti",
     "date": "24.10.2025",
     "time": "19:16",
-    "listeners": 1887
+    "listeners": 1887,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,16 @@
     "artist": "Imt Smile",
     "date": "24.10.2025",
     "time": "19:12",
-    "listeners": 2040
+    "listeners": 2040,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 231800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

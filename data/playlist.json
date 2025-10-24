@@ -5,7 +5,18 @@
     "artist": "Madonna",
     "date": "24.10.2025",
     "time": "17:55",
-    "listeners": 3079
+    "listeners": 3079,
+    "lyricists": [
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Like a Prayer",
+    "release_year": 1989,
+    "duration_ms": 340867,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Manilow Barry",
     "date": "24.10.2025",
     "time": "17:52",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Barry Manilow II",
+    "release_year": 1974,
+    "duration_ms": 213333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Kotvald Petr",
     "date": "24.10.2025",
     "time": "17:48",
-    "listeners": 3173
+    "listeners": 3173,
+    "lyricists": null,
+    "album": "Gejzír",
+    "release_year": 1990,
+    "duration_ms": 227267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

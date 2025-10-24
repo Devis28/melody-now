@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "24.10.2025",
     "time": "11:16",
-    "listeners": 1125
+    "listeners": 1125,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1981,
+    "duration_ms": 274867,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "R. Kelly",
     "date": "24.10.2025",
     "time": "11:12",
-    "listeners": 1093
+    "listeners": 1093,
+    "lyricists": [
+      "R. Kelly"
+    ],
+    "album": "The World's Greatest",
+    "release_year": 1998,
+    "duration_ms": 320707,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Patejdl Vašo",
     "date": "24.10.2025",
     "time": "11:08",
-    "listeners": 1075
+    "listeners": 1075,
+    "lyricists": null,
+    "album": "Lov na city",
+    "release_year": 1987,
+    "duration_ms": 205813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "The Beatles",
     "date": "24.10.2025",
     "time": "11:06",
-    "listeners": 1014
+    "listeners": 1014,
+    "lyricists": null,
+    "album": "Help!",
+    "release_year": 1965,
+    "duration_ms": 125667,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,16 @@
     "artist": "No Mercy",
     "date": "24.10.2025",
     "time": "11:01",
-    "listeners": 1041
+    "listeners": 1041,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1997,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

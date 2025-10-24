@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Torn",
+    "artist": "Imbruglia Natalie",
+    "date": "24.10.2025",
+    "time": "10:18",
+    "listeners": 861
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cez Plece",
+    "artist": "Pavol Hammel",
+    "date": "24.10.2025",
+    "time": "10:15",
+    "listeners": 881
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're A Woman",
+    "artist": "Bad Boys Blue",
+    "date": "24.10.2025",
+    "time": "10:09",
+    "listeners": 1012
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Love To Love",
+    "artist": "P. M. Sampson & Double Key",
+    "date": "24.10.2025",
+    "time": "10:05",
+    "listeners": 994
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mosty",
+    "artist": "Zich Karel & Filipová Lenka",
+    "date": "24.10.2025",
+    "time": "10:02",
+    "listeners": 1024
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Innocent Love",
+    "artist": "Sandra",
+    "date": "24.10.2025",
+    "time": "09:55",
+    "listeners": 1158
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Na Kameni Kámen",
     "artist": "Brontosauři",
     "date": "24.10.2025",

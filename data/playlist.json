@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "24.10.2025",
     "time": "21:36",
-    "listeners": 1058
+    "listeners": 1058,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 144240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Los Del Río",
     "date": "24.10.2025",
     "time": "21:32",
-    "listeners": 1080
+    "listeners": 1080,
+    "lyricists": null,
+    "album": "Alegría y Cosabuena",
+    "release_year": 2015,
+    "duration_ms": 253107,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Wilde Kim",
     "date": "24.10.2025",
     "time": "21:29",
-    "listeners": 1020
+    "listeners": 1020,
+    "lyricists": null,
+    "album": "Close (Remastered Expanded Edition)",
+    "release_year": 1988,
+    "duration_ms": 209133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

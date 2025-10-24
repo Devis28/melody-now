@@ -11475,5 +11475,14 @@
       "Pop",
       "Rock"
     ]
+  },
+  "los del río|macarena": {
+    "release_year": 2015,
+    "artist_country": "ES",
+    "album": "Alegría y Cosabuena",
+    "duration_ms": 253107,
+    "genres": [
+      "Pop"
+    ]
   }
 }

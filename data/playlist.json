@@ -1,6 +1,94 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sunny",
+    "artist": "Boney M",
+    "date": "24.10.2025",
+    "time": "05:21",
+    "listeners": 410
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čau, Lásko",
+    "artist": "Gott Karel & Holanová Marcela",
+    "date": "24.10.2025",
+    "time": "05:18",
+    "listeners": 403
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska Moja",
+    "artist": "Elán",
+    "date": "24.10.2025",
+    "time": "05:13",
+    "listeners": 373
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Učiteľka Tanca",
+    "artist": "Pavol Hammel",
+    "date": "24.10.2025",
+    "time": "05:10",
+    "listeners": 334
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "24.10.2025",
+    "time": "05:06",
+    "listeners": 298
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Together Forever",
+    "artist": "Astley Rick",
+    "date": "24.10.2025",
+    "time": "05:03",
+    "listeners": 305
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievča Z Reklamy",
+    "artist": "Dubasová Beáta",
+    "date": "24.10.2025",
+    "time": "04:59",
+    "listeners": 262
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Klid, Mír A Pokora",
+    "artist": "Muller Richard A Tereza Kerndlová",
+    "date": "24.10.2025",
+    "time": "04:55",
+    "listeners": 252
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch By Touch",
+    "artist": "Joy",
+    "date": "24.10.2025",
+    "time": "04:51",
+    "listeners": 265
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'll Be Missing You",
+    "artist": "Daddy, Puff & Evans, Faith",
+    "date": "24.10.2025",
+    "time": "04:46",
+    "listeners": 244
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Of Us",
+    "artist": "Abba",
+    "date": "24.10.2025",
+    "time": "04:42",
+    "listeners": 232
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hej, Sokoly!",
     "artist": "I.M.T. Smile & Ondrej Kandráč",
     "date": "24.10.2025",

@@ -5,7 +5,16 @@
     "artist": "Adams Bryan",
     "date": "24.10.2025",
     "time": "10:39",
-    "listeners": 969
+    "listeners": 969,
+    "lyricists": null,
+    "album": "Waking Up the Neighbours",
+    "release_year": 1991,
+    "duration_ms": 393640,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Marie Rottrová",
     "date": "24.10.2025",
     "time": "10:36",
-    "listeners": 917
+    "listeners": 917,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2003,
+    "duration_ms": 200307,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Team",
     "date": "24.10.2025",
     "time": "10:34",
-    "listeners": 943
+    "listeners": 943,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2005,
+    "duration_ms": 130373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Metallica",
     "date": "24.10.2025",
     "time": "10:28",
-    "listeners": 893
+    "listeners": 893,
+    "lyricists": null,
+    "album": "Metallica (Deluxe Box Set)",
+    "release_year": 1991,
+    "duration_ms": 388733,
+    "artist_country": "US",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,18 @@
     "artist": "Jaroslav Uhlíř",
     "date": "24.10.2025",
     "time": "10:25",
-    "listeners": 843
+    "listeners": 843,
+    "lyricists": [
+      "Jaroslav Uhlíř",
+      "Zdeněk Svěrák"
+    ],
+    "album": "Country Gold 80. léta",
+    "release_year": 1998,
+    "duration_ms": 189787,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,18 @@
     "artist": "Enya",
     "date": "24.10.2025",
     "time": "10:21",
-    "listeners": 917
+    "listeners": 917,
+    "lyricists": [
+      "Enya",
+      "Roma Ryan"
+    ],
+    "album": "Watermark (Remastered Bonus Track Version)",
+    "release_year": 1994,
+    "duration_ms": 266200,
+    "artist_country": "IE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

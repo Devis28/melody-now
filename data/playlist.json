@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Klasika",
+    "artist": "Elán",
+    "date": "24.10.2025",
+    "time": "07:31",
+    "listeners": 2807
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nie Alebo Áno",
+    "artist": "No Name",
+    "date": "24.10.2025",
+    "time": "07:23",
+    "listeners": 2496
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "All By Myself",
+    "artist": "Eric Carmen",
+    "date": "24.10.2025",
+    "time": "07:18",
+    "listeners": 2618
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Loď do neznáma",
+    "artist": "Uherčík, Ďurinda, Griglák, Horváth",
+    "date": "24.10.2025",
+    "time": "07:14",
+    "listeners": 2469
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Because You Loved Me",
     "artist": "Céline Dion",
     "date": "24.10.2025",

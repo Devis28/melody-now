@@ -5,7 +5,15 @@
     "artist": "Janda Dalibor",
     "date": "25.10.2025",
     "time": "00:40",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 180120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Kylie Minogue",
     "date": "25.10.2025",
     "time": "00:37",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Showgirl - Homecoming (Live)",
+    "release_year": 2012,
+    "duration_ms": 283333,
+    "artist_country": "AU",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Zuzana Smatanová & Richard Autner",
     "date": "25.10.2025",
     "time": "00:33",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Prútikár (feat. Richard Autner) - Single",
+    "release_year": 2024,
+    "duration_ms": 244947,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

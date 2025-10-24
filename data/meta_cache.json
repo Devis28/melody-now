@@ -11547,5 +11547,15 @@
       "Pop",
       "Rock"
     ]
+  },
+  "trans-x|living on video": {
+    "release_year": 1998,
+    "artist_country": "CA",
+    "album": "Living On Video",
+    "duration_ms": 356333,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

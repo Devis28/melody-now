@@ -5,7 +5,15 @@
     "artist": "No Doubt",
     "date": "24.10.2025",
     "time": "15:44",
-    "listeners": 1753
+    "listeners": 1753,
+    "lyricists": null,
+    "album": "Tragic Kingdom",
+    "release_year": 1997,
+    "duration_ms": 263533,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "24.10.2025",
     "time": "15:40",
-    "listeners": 1583
+    "listeners": 1583,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2003,
+    "duration_ms": 201333,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,18 @@
     "artist": "Elton John",
     "date": "24.10.2025",
     "time": "15:35",
-    "listeners": 1560
+    "listeners": 1560,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Sleeping With the Past (Remastered)",
+    "release_year": 1989,
+    "duration_ms": 304133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Modus",
     "date": "24.10.2025",
     "time": "15:30",
-    "listeners": 1358
+    "listeners": 1358,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 1998,
+    "duration_ms": 208853,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "David, F.R.",
     "date": "24.10.2025",
     "time": "15:27",
-    "listeners": 1225
+    "listeners": 1225,
+    "lyricists": null,
+    "album": "Words",
+    "release_year": 1982,
+    "duration_ms": 208000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Team",
     "date": "24.10.2025",
     "time": "15:24",
-    "listeners": 1292
+    "listeners": 1292,
+    "lyricists": null,
+    "album": "7edem",
+    "release_year": 2001,
+    "duration_ms": 172547,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

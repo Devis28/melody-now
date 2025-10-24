@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Road To Mandalay",
+    "artist": "Williams, Robbie",
+    "date": "24.10.2025",
+    "time": "23:25",
+    "listeners": 426
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lessons In Love",
+    "artist": "Level 42",
+    "date": "24.10.2025",
+    "time": "23:21",
+    "listeners": 458
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Žily",
+    "artist": "No Name",
+    "date": "24.10.2025",
+    "time": "23:18",
+    "listeners": 468
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blame It On The Boogie",
+    "artist": "The Jacksons",
+    "date": "24.10.2025",
+    "time": "23:14",
+    "listeners": 463
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zaľúbil Sa Chlapec",
+    "artist": "Elán",
+    "date": "24.10.2025",
+    "time": "23:11",
+    "listeners": 516
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Freed From Desire",
     "artist": "Gala",
     "date": "24.10.2025",

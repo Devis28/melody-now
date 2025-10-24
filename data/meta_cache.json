@@ -11604,5 +11604,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "backstreet boys|everybody (backstreet's back)": {
+    "release_year": 2004,
+    "artist_country": "US",
+    "album": "Backstreet's Back",
+    "duration_ms": 225360,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -5,7 +5,15 @@
     "artist": "Backstreet Boys",
     "date": "24.10.2025",
     "time": "23:33",
-    "listeners": 382
+    "listeners": 382,
+    "lyricists": null,
+    "album": "Backstreet's Back",
+    "release_year": 2004,
+    "duration_ms": 225360,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gombitová Marika",
     "date": "24.10.2025",
     "time": "23:29",
-    "listeners": 409
+    "listeners": 409,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 221440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

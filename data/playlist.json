@@ -5,7 +5,19 @@
     "artist": "Mc Erik And Barbara",
     "date": "24.10.2025",
     "time": "13:28",
-    "listeners": 1357
+    "listeners": 1357,
+    "lyricists": [
+      "Barbara Haščáková",
+      "MC Erik"
+    ],
+    "album": "U Can't Stop (96 Version)",
+    "release_year": 2023,
+    "duration_ms": 248867,
+    "artist_country": "SK",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,16 @@
     "artist": "Jermaine Jackson & Pia Zadora",
     "date": "24.10.2025",
     "time": "13:24",
-    "listeners": 1352
+    "listeners": 1352,
+    "lyricists": null,
+    "album": "Jermaine Jackson: Greatest Hits",
+    "release_year": 2018,
+    "duration_ms": 243790,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +42,15 @@
     "artist": "Věra Špinarová",
     "date": "24.10.2025",
     "time": "13:20",
-    "listeners": 1452
+    "listeners": 1452,
+    "lyricists": null,
+    "album": "Jednoho Dne Se Vrátíš (Bonus Track Version)",
+    "release_year": 2011,
+    "duration_ms": 277200,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

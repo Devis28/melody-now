@@ -5,7 +5,13 @@
     "artist": "Jennifer Warnes/Bill Medley",
     "date": "24.10.2025",
     "time": "12:09",
-    "listeners": 1654
+    "listeners": 1654,
+    "lyricists": null,
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 1987,
+    "duration_ms": 290333,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,18 @@
     "artist": "Mike & The Mechanics",
     "date": "24.10.2025",
     "time": "12:06",
-    "listeners": 1569
+    "listeners": 1569,
+    "lyricists": [
+      "Mike Rutherford",
+      "Paul Carrack"
+    ],
+    "album": "Beggar On A Beach Of Gold",
+    "release_year": 2006,
+    "duration_ms": 217200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Olympic",
     "date": "24.10.2025",
     "time": "12:01",
-    "listeners": 1534
+    "listeners": 1534,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1993,
+    "duration_ms": 259973,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,16 @@
     "artist": "Collins Phil",
     "date": "24.10.2025",
     "time": "11:54",
-    "listeners": 1496
+    "listeners": 1496,
+    "lyricists": null,
+    "album": "The Singles (Deluxe Edition)",
+    "release_year": 1989,
+    "duration_ms": 322133,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Suzi Quatro",
     "date": "24.10.2025",
     "time": "11:50",
-    "listeners": 1598
+    "listeners": 1598,
+    "lyricists": null,
+    "album": "If You Knew Suzi… (2017 Remaster)",
+    "release_year": 1988,
+    "duration_ms": 232994,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,16 @@
     "artist": "Pavol Habera",
     "date": "24.10.2025",
     "time": "11:46",
-    "listeners": 1400
+    "listeners": 1400,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 2021,
+    "duration_ms": 280600,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

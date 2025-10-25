@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sen",
+    "artist": "Lucie",
+    "date": "25.10.2025",
+    "time": "10:08",
+    "listeners": 1111
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chvíľu áno, chvíľu nie",
+    "artist": "Hex",
+    "date": "25.10.2025",
+    "time": "10:04",
+    "listeners": 1047
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Korálky Od Natálky",
+    "artist": "Peter Nagy",
+    "date": "25.10.2025",
+    "time": "10:00",
+    "listeners": 1031
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska Moja",
+    "artist": "Elán",
+    "date": "25.10.2025",
+    "time": "09:53",
+    "listeners": 984
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Horehronie",
     "artist": "Kristína",
     "date": "25.10.2025",

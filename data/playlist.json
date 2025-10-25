@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "date": "26.10.2025",
+    "time": "00:49",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Total Eclipse Of The Heart",
+    "artist": "Westlife",
+    "date": "26.10.2025",
+    "time": "00:44",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malý Veľký Vlak",
+    "artist": "Modus",
+    "date": "26.10.2025",
+    "time": "00:41",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "One Moment In Time",
     "artist": "Houston Whitney",
     "date": "26.10.2025",

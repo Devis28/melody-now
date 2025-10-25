@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bosorka",
+    "artist": "Elán",
+    "date": "25.10.2025",
+    "time": "23:26",
+    "listeners": 305
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Get Down On It",
+    "artist": "Kool & The Gang",
+    "date": "25.10.2025",
+    "time": "23:23",
+    "listeners": 311
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sha La La",
+    "artist": "Vengaboys",
+    "date": "25.10.2025",
+    "time": "23:19",
+    "listeners": 324
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tragedy",
     "artist": "The Bee Gees",
     "date": "25.10.2025",

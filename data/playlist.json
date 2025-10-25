@@ -1,6 +1,78 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Vidiečan",
+    "artist": "Vidiek",
+    "date": "25.10.2025",
+    "time": "08:30",
+    "listeners": 608
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pár Přátel",
+    "artist": "Michal David",
+    "date": "25.10.2025",
+    "time": "08:26",
+    "listeners": 656
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "25.10.2025",
+    "time": "08:24",
+    "listeners": 652
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Což Takhle Dát Si Špenát",
+    "artist": "Jiří Schelinger",
+    "date": "25.10.2025",
+    "time": "08:22",
+    "listeners": 624
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ži a nechaj žiť",
+    "artist": "Marika Gombitová",
+    "date": "25.10.2025",
+    "time": "08:16",
+    "listeners": 546
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Je Ráno, Anno",
+    "artist": "Neckář Václav",
+    "date": "25.10.2025",
+    "time": "08:11",
+    "listeners": 578
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rieka",
+    "artist": "Richard Müller",
+    "date": "25.10.2025",
+    "time": "08:05",
+    "listeners": 542
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ty A Tvoja Sestra",
+    "artist": "No Name",
+    "date": "25.10.2025",
+    "time": "08:02",
+    "listeners": 523
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Všechno Může Čas",
+    "artist": "Filipová Lenka",
+    "date": "25.10.2025",
+    "time": "07:59",
+    "listeners": 565
+  },
+  {
+    "station": "Rádio Melody",
     "title": "A Ty Se Ptáš Co Já",
     "artist": "Helena Vondracková",
     "date": "25.10.2025",

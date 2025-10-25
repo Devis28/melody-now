@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "František",
+    "artist": "Buty",
+    "date": "25.10.2025",
+    "time": "18:38",
+    "listeners": 1312
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Stínu Kapradiny",
+    "artist": "Kratochvílová Jana",
+    "date": "25.10.2025",
+    "time": "18:34",
+    "listeners": 1231
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maturitné Tablo",
+    "artist": "Hečková Júlia",
+    "date": "25.10.2025",
+    "time": "18:30",
+    "listeners": 1311
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spomaľ",
+    "artist": "Peha",
+    "date": "25.10.2025",
+    "time": "18:25",
+    "listeners": 1165
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "25.10.2025",
+    "time": "18:22",
+    "listeners": 1252
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Skúšky Z Lásky",
     "artist": "Gravis",
     "date": "25.10.2025",

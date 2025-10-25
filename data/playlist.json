@@ -5,7 +5,17 @@
     "artist": "Madonna",
     "date": "25.10.2025",
     "time": "21:23",
-    "listeners": 757
+    "listeners": 757,
+    "lyricists": [
+      "Madonna"
+    ],
+    "album": "Madonna",
+    "release_year": 2016,
+    "duration_ms": 231560,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,16 @@
     "artist": "Ramazzotti Eros",
     "date": "25.10.2025",
     "time": "21:19",
-    "listeners": 914
+    "listeners": 914,
+    "lyricists": null,
+    "album": "Eros 30 (Deluxe Version)",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -11698,5 +11698,17 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "madonna|holiday": {
+    "release_year": 2016,
+    "artist_country": "US",
+    "album": "Madonna",
+    "duration_ms": 231560,
+    "lyricists": [
+      "Madonna"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

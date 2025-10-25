@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Medulienka",
+    "artist": "Hammel Pavol",
+    "date": "25.10.2025",
+    "time": "11:44",
+    "listeners": 1520
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zřejmě Letos Nikde Nejsou Kytky",
+    "artist": "Marie Rottrová",
+    "date": "25.10.2025",
+    "time": "11:40",
+    "listeners": 1378
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bosý A Sám",
+    "artist": "Robo Grigorov",
+    "date": "25.10.2025",
+    "time": "11:36",
+    "listeners": 1424
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tam Kde Sa Neumiera",
+    "artist": "Smatanová Zuzana",
+    "date": "25.10.2025",
+    "time": "11:32",
+    "listeners": 1405
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Človečina",
     "artist": "Elán",
     "date": "25.10.2025",

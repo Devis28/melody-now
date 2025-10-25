@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "25.10.2025",
     "time": "15:17",
-    "listeners": 1898
+    "listeners": 1898,
+    "lyricists": null,
+    "album": "Chlapec z ulice",
+    "release_year": 2007,
+    "duration_ms": 245160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jiří Korn",
     "date": "25.10.2025",
     "time": "15:14",
-    "listeners": 1841
+    "listeners": 1841,
+    "lyricists": null,
+    "album": "Zlatá Kolekce",
+    "release_year": 2010,
+    "duration_ms": 208733,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Tublatanka",
     "date": "25.10.2025",
     "time": "15:10",
-    "listeners": 1719
+    "listeners": 1719,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 2006,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Superstar Top 11",
     "date": "25.10.2025",
     "time": "15:06",
-    "listeners": 1732
+    "listeners": 1732,
+    "lyricists": null,
+    "album": "Slovensko Hlada SuperStar",
+    "release_year": 2005,
+    "duration_ms": 254773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Elán",
     "date": "25.10.2025",
     "time": "15:02",
-    "listeners": 1654
+    "listeners": 1654,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 2003,
+    "duration_ms": 215067,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Ilona Csáková",
     "date": "25.10.2025",
     "time": "14:59",
-    "listeners": 1873
+    "listeners": 1873,
+    "lyricists": null,
+    "album": "22x Ilona - Best Of",
+    "release_year": 1999,
+    "duration_ms": 205147,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

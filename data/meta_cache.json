@@ -11802,5 +11802,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "charles|would i lie to you": {
+    "release_year": 1997,
+    "artist_country": "US",
+    "album": "Duophonic",
+    "duration_ms": 279600,
+    "genres": [
+      "Pop"
+    ]
   }
 }

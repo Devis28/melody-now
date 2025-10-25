@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Smútok Krásnych Dievčat",
+    "artist": "Duchoň Karol",
+    "date": "25.10.2025",
+    "time": "17:53",
+    "listeners": 1147
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "25.10.2025",
+    "time": "17:49",
+    "listeners": 1193
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pomaranče z Kuby",
     "artist": "Hex",
     "date": "25.10.2025",

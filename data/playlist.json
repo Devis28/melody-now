@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Cause You Are Young",
+    "artist": "C.C. Catch",
+    "date": "25.10.2025",
+    "time": "22:29",
+    "listeners": 504
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hero (Metro Mix)",
+    "artist": "Iglesias, Enrique",
+    "date": "25.10.2025",
+    "time": "22:25",
+    "listeners": 567
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My Bonnie",
+    "artist": "Goombay Dance Band",
+    "date": "25.10.2025",
+    "time": "22:21",
+    "listeners": 541
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Go West",
+    "artist": "Pet Shop Boys",
+    "date": "25.10.2025",
+    "time": "22:17",
+    "listeners": 597
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oh Carol",
+    "artist": "Smokie",
+    "date": "25.10.2025",
+    "time": "22:13",
+    "listeners": 586
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kaskadér Bez Penazí",
     "artist": "Elán",
     "date": "25.10.2025",

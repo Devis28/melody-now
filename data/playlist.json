@@ -5,7 +5,15 @@
     "artist": "Matuška Waldemar",
     "date": "25.10.2025",
     "time": "09:13",
-    "listeners": 883
+    "listeners": 883,
+    "lyricists": null,
+    "album": "Zpívá Waldemar Matuška",
+    "release_year": 1963,
+    "duration_ms": 239947,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Maduar",
     "date": "25.10.2025",
     "time": "09:06",
-    "listeners": 841
+    "listeners": 841,
+    "lyricists": null,
+    "album": "Hafanana the Best of, Vol. 2",
+    "release_year": 1994,
+    "duration_ms": 336773,
+    "artist_country": "SK",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Peter Bič Project",
     "date": "25.10.2025",
     "time": "09:03",
-    "listeners": 869
+    "listeners": 869,
+    "lyricists": null,
+    "album": "Len sa smej - Single",
+    "release_year": 2025,
+    "duration_ms": 164897,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Miro Žbirka",
     "date": "25.10.2025",
     "time": "09:00",
-    "listeners": 761
+    "listeners": 761,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 176040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

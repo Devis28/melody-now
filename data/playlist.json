@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hej Pane Diskžokej",
+    "artist": "Balet",
+    "date": "25.10.2025",
+    "time": "13:35",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Meli Jsme Se Potkat Drív",
+    "artist": "Rottrová Marie",
+    "date": "25.10.2025",
+    "time": "13:32",
+    "listeners": 1900
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Miestna Jednička",
+    "artist": "Patejdl Vašo",
+    "date": "25.10.2025",
+    "time": "13:29",
+    "listeners": 1862
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Stoj",
     "artist": "Peter Bič Project",
     "date": "25.10.2025",

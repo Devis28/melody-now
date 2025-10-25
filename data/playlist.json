@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Báječná Ženská",
+    "artist": "Tučný Michal",
+    "date": "25.10.2025",
+    "time": "15:47",
+    "listeners": 1677
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Náhlenie",
+    "artist": "Heckovci Julia A Peter",
+    "date": "25.10.2025",
+    "time": "15:43",
+    "listeners": 1485
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Chráň Svoje Bláznovstvá",
     "artist": "Peter Nagy",
     "date": "25.10.2025",

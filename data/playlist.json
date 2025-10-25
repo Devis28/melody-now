@@ -5,7 +5,15 @@
     "artist": "Marika Gombitová & Karel Gott",
     "date": "25.10.2025",
     "time": "13:43",
-    "listeners": 1964
+    "listeners": 1964,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1998,
+    "duration_ms": 262373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "25.10.2025",
     "time": "13:39",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Hodina slovenčiny",
+    "release_year": 2008,
+    "duration_ms": 275987,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

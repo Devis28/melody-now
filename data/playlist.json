@@ -5,7 +5,15 @@
     "artist": "Shalom",
     "date": "25.10.2025",
     "time": "12:50",
-    "listeners": 1685
+    "listeners": 1685,
+    "lyricists": null,
+    "album": "Bon soir, mademoiselle Paris",
+    "release_year": 1999,
+    "duration_ms": 288980,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vondráčková Helena",
     "date": "25.10.2025",
     "time": "12:45",
-    "listeners": 1736
+    "listeners": 1736,
+    "lyricists": null,
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "release_year": 1992,
+    "duration_ms": 290640,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

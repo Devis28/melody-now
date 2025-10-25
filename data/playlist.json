@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Cesty II. Triedy",
+    "artist": "Ivan Tásler & I.M.T. Smile",
+    "date": "26.10.2025",
+    "time": "01:28",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dolce Vita",
+    "artist": "Paris Ryan",
+    "date": "26.10.2025",
+    "time": "01:25",
+    "listeners": 196
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Musím Už Ísť",
+    "artist": "Kelecsényi Martin",
+    "date": "26.10.2025",
+    "time": "01:22",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Bed Of Roses",
     "artist": "Bon Jovi",
     "date": "26.10.2025",

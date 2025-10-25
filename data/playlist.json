@@ -5,7 +5,16 @@
     "artist": "No Mercy",
     "date": "25.10.2025",
     "time": "05:48",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1997,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Novák Petr",
     "date": "25.10.2025",
     "time": "05:46",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 125867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Hex",
     "date": "25.10.2025",
     "time": "05:42",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2002,
+    "duration_ms": 218120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,18 @@
     "artist": "Phil Collins",
     "date": "25.10.2025",
     "time": "05:37",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": [
+      "Phil Collins"
+    ],
+    "album": "No Jacket Required (Deluxe Edition) [Remastered]",
+    "release_year": 1985,
+    "duration_ms": 291253,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Miro Žbirka",
     "date": "25.10.2025",
     "time": "05:34",
-    "listeners": 209
+    "listeners": 209,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 181307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,16 @@
     "artist": "Desmod",
     "date": "25.10.2025",
     "time": "05:31",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Molekuly Zvuku",
+    "release_year": 2017,
+    "duration_ms": 207168,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,15 @@
     "artist": "Bad Boys Blue",
     "date": "25.10.2025",
     "time": "05:26",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 2001,
+    "duration_ms": 247027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

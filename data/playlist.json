@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ôsmy Svetadiel",
+    "artist": "Elán",
+    "date": "25.10.2025",
+    "time": "08:53",
+    "listeners": 744
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnečná Balada",
+    "artist": "Peha",
+    "date": "25.10.2025",
+    "time": "08:49",
+    "listeners": 751
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Už Mi, Lásko, Není Dvacet Let",
     "artist": "Jiří Zmožek",
     "date": "25.10.2025",

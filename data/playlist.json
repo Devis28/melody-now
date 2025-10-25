@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The River Of Dreams",
+    "artist": "Joel Billy",
+    "date": "26.10.2025",
+    "time": "01:56",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Memory",
+    "artist": "Barbra Streisand",
+    "date": "26.10.2025",
+    "time": "01:52",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Máš V Rukáve Máj",
+    "artist": "Marika Gombitová",
+    "date": "26.10.2025",
+    "time": "01:49",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Over The Rainbow/What A Wonderful World",
     "artist": "Israel",
     "date": "26.10.2025",

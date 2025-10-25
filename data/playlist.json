@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čardáš Dvoch Sŕdc",
+    "artist": "Karol Duchoň",
+    "date": "25.10.2025",
+    "time": "13:52",
+    "listeners": 1933
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ten Príbeh Je Preč",
+    "artist": "Beata Dubasová",
+    "date": "25.10.2025",
+    "time": "13:48",
+    "listeners": 1965
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Neznámy Pár",
     "artist": "Marika Gombitová & Karel Gott",
     "date": "25.10.2025",

@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Skúšky Z Lásky",
+    "artist": "Gravis",
+    "date": "25.10.2025",
+    "time": "18:18",
+    "listeners": 1210
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Já Se Vznáším",
+    "artist": "Hana Zagorová",
+    "date": "25.10.2025",
+    "time": "18:15",
+    "listeners": 1190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnko Nevychádzaj",
+    "artist": "Metalinda",
+    "date": "25.10.2025",
+    "time": "18:10",
+    "listeners": 1163
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zatancuj Si So Mnou",
+    "artist": "Adam Ďurica",
+    "date": "25.10.2025",
+    "time": "18:06",
+    "listeners": 1110
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Oheň, Voda, Vítr",
+    "artist": "Janda Dalibor",
+    "date": "25.10.2025",
+    "time": "18:03",
+    "listeners": 1167
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cigaretka Na Dva Ťahy",
+    "artist": "Richard Müller",
+    "date": "25.10.2025",
+    "time": "18:00",
+    "listeners": 1131
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Červenám",
+    "artist": "Bartošová Iveta Sepéši Petr",
+    "date": "25.10.2025",
+    "time": "17:56",
+    "listeners": 1245
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Smútok Krásnych Dievčat",
     "artist": "Duchoň Karol",
     "date": "25.10.2025",

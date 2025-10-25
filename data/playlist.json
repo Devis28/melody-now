@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Růže Z Texasu",
+    "artist": "Matuška Waldemar",
+    "date": "25.10.2025",
+    "time": "09:13",
+    "listeners": 883
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Maduar",
+    "date": "25.10.2025",
+    "time": "09:06",
+    "listeners": 841
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Len Sa Smej",
+    "artist": "Peter Bič Project",
+    "date": "25.10.2025",
+    "time": "09:03",
+    "listeners": 869
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Denisa",
+    "artist": "Miro Žbirka",
+    "date": "25.10.2025",
+    "time": "09:00",
+    "listeners": 761
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ôsmy Svetadiel",
     "artist": "Elán",
     "date": "25.10.2025",

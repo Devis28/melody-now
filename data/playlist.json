@@ -5,7 +5,16 @@
     "artist": "Zoo & Jan Kalousek",
     "date": "25.10.2025",
     "time": "15:59",
-    "listeners": 1376
+    "listeners": 1376,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2005,
+    "duration_ms": 232973,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Buty",
     "date": "25.10.2025",
     "time": "15:55",
-    "listeners": 1386
+    "listeners": 1386,
+    "lyricists": null,
+    "album": "Butykvariát",
+    "release_year": 1994,
+    "duration_ms": 271107,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Pavol Habera",
     "date": "25.10.2025",
     "time": "15:51",
-    "listeners": 1679
+    "listeners": 1679,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

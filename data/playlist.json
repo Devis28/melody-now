@@ -5,7 +5,15 @@
     "artist": "Banket",
     "date": "25.10.2025",
     "time": "09:27",
-    "listeners": 860
+    "listeners": 860,
+    "lyricists": null,
+    "album": "Bioelektrovízia",
+    "release_year": 2017,
+    "duration_ms": 282613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Michal Tučný",
     "date": "25.10.2025",
     "time": "09:23",
-    "listeners": 920
+    "listeners": 920,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Vašo Patejdl a Oľga Záblacká",
     "date": "25.10.2025",
     "time": "09:20",
-    "listeners": 860
+    "listeners": 860,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 2015,
+    "duration_ms": 141000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "I.M.T. Smile",
     "date": "25.10.2025",
     "time": "09:17",
-    "listeners": 901
+    "listeners": 901,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 178840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

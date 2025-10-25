@@ -5,7 +5,15 @@
     "artist": "Peter Bič Project",
     "date": "25.10.2025",
     "time": "13:24",
-    "listeners": 1955
+    "listeners": 1955,
+    "lyricists": null,
+    "album": "Labyrint",
+    "release_year": 2019,
+    "duration_ms": 309780,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Olympic",
     "date": "25.10.2025",
     "time": "13:21",
-    "listeners": 1956
+    "listeners": 1956,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 173307,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Stanislav Hlozek & Petr Kotvald",
     "date": "25.10.2025",
     "time": "13:17",
-    "listeners": 1985
+    "listeners": 1985,
+    "lyricists": null,
+    "album": "Holky Z Naší Školky",
+    "release_year": 2004,
+    "duration_ms": 217400,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

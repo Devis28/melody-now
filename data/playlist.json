@@ -5,7 +5,15 @@
     "artist": "Hex",
     "date": "25.10.2025",
     "time": "17:44",
-    "listeners": 1256
+    "listeners": 1256,
+    "lyricists": null,
+    "album": "Kde je tu láska?",
+    "release_year": 2023,
+    "duration_ms": 260316,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "25.10.2025",
     "time": "17:40",
-    "listeners": 1193
+    "listeners": 1193,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 1992,
+    "duration_ms": 250547,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

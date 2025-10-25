@@ -5,7 +5,19 @@
     "artist": "Falco",
     "date": "25.10.2025",
     "time": "22:55",
-    "listeners": 420
+    "listeners": 420,
+    "lyricists": [
+      "Falco",
+      "Ferdi Bolland",
+      "Rob Bolland"
+    ],
+    "album": "Falco 3 (Deluxe Version)",
+    "release_year": 2008,
+    "duration_ms": 502063,
+    "artist_country": "AT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Abba",
     "date": "25.10.2025",
     "time": "22:53",
-    "listeners": 382
+    "listeners": 382,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1974,
+    "duration_ms": 165800,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

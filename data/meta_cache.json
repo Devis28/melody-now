@@ -11788,5 +11788,19 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "falco|rock me amadeus": {
+    "release_year": 2008,
+    "artist_country": "AT",
+    "album": "Falco 3 (Deluxe Version)",
+    "duration_ms": 502063,
+    "lyricists": [
+      "Falco",
+      "Ferdi Bolland",
+      "Rob Bolland"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

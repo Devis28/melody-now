@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "26.10.2025",
+    "time": "01:36",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "date": "26.10.2025",
+    "time": "01:32",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cesty II. Triedy",
     "artist": "Ivan Tásler & I.M.T. Smile",
     "date": "26.10.2025",

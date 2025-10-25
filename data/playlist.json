@@ -5,7 +5,15 @@
     "artist": "Katapult",
     "date": "25.10.2025",
     "time": "19:16",
-    "listeners": 1252
+    "listeners": 1252,
+    "lyricists": null,
+    "album": "Grand Greatest Hits (Výběr)",
+    "release_year": 1993,
+    "duration_ms": 180333,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Grigorov Robo",
     "date": "25.10.2025",
     "time": "19:11",
-    "listeners": 1218
+    "listeners": 1218,
+    "lyricists": null,
+    "album": "Balady",
+    "release_year": 2006,
+    "duration_ms": 261107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Sima Martausová & For You",
     "date": "25.10.2025",
     "time": "19:08",
-    "listeners": 1265
+    "listeners": 1265,
+    "lyricists": null,
+    "album": "Len Tak Sa Stíšim",
+    "release_year": 2019,
+    "duration_ms": 252405,
+    "artist_country": "SK",
+    "genres": [
+      "Folk"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Gombitová Marika",
     "date": "25.10.2025",
     "time": "19:04",
-    "listeners": 1180
+    "listeners": 1180,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 210267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Gott Karel",
     "date": "25.10.2025",
     "time": "19:00",
-    "listeners": 1306
+    "listeners": 1306,
+    "lyricists": null,
+    "album": "Jágr vs Gott - Single",
+    "release_year": 2018,
+    "duration_ms": 190549,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

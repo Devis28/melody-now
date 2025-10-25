@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "25.10.2025",
+    "time": "11:52",
+    "listeners": 1428
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Colu, Pijeme Colu",
+    "artist": "Michal David",
+    "date": "25.10.2025",
+    "time": "11:48",
+    "listeners": 1628
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Medulienka",
     "artist": "Hammel Pavol",
     "date": "25.10.2025",

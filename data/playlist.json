@@ -5,7 +5,15 @@
     "artist": "Patejdl Vašo",
     "date": "26.10.2025",
     "time": "00:27",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1986,
+    "duration_ms": 287667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Baltimora",
     "date": "26.10.2025",
     "time": "00:23",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Living In the Background",
+    "release_year": 1997,
+    "duration_ms": 378947,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Tublatanka",
     "date": "26.10.2025",
     "time": "00:20",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "Zeravé znamenie osudu",
+    "release_year": 2012,
+    "duration_ms": 197013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Simon Paul & Garfunkel Art",
     "date": "26.10.2025",
     "time": "00:17",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Bridge Over Troubled Water",
+    "release_year": 1970,
+    "duration_ms": 188595,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

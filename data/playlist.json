@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "25.10.2025",
     "time": "18:44",
-    "listeners": 1107
+    "listeners": 1107,
+    "lyricists": null,
+    "album": "Ôsmy svetadiel (Remastered)",
+    "release_year": 2001,
+    "duration_ms": 290267,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vašo Patejdl",
     "date": "25.10.2025",
     "time": "18:41",
-    "listeners": 1201
+    "listeners": 1201,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2015,
+    "duration_ms": 192507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

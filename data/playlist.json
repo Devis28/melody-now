@@ -5,7 +5,15 @@
     "artist": "Vondráčková Helena",
     "date": "25.10.2025",
     "time": "06:37",
-    "listeners": 258
+    "listeners": 258,
+    "lyricists": null,
+    "album": "Vodopad",
+    "release_year": 1964,
+    "duration_ms": 217827,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Josef Laufer",
     "date": "25.10.2025",
     "time": "06:34",
-    "listeners": 269
+    "listeners": 269,
+    "lyricists": null,
+    "album": "Důvěrně Známý",
+    "release_year": 2007,
+    "duration_ms": 212240,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Rottrová Marie",
     "date": "25.10.2025",
     "time": "06:30",
-    "listeners": 259
+    "listeners": 259,
+    "lyricists": null,
+    "album": "To Mám Tak Ráda",
+    "release_year": 1975,
+    "duration_ms": 222067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Zuzana Smatanová",
     "date": "25.10.2025",
     "time": "06:27",
-    "listeners": 233
+    "listeners": 233,
+    "lyricists": null,
+    "album": "V Dobrom Aj V Zlom - Single",
+    "release_year": 2015,
+    "duration_ms": 176415,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Václav Neckář",
     "date": "25.10.2025",
     "time": "06:23",
-    "listeners": 234
+    "listeners": 234,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 2003,
+    "duration_ms": 268907,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,19 @@
     "artist": "Eros Ramazzotti",
     "date": "26.10.2025",
     "time": "01:36",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ],
+    "album": "Eros Best Love Songs (Special Edition)",
+    "release_year": 1996,
+    "duration_ms": 267680,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,16 @@
     "artist": "Opus",
     "date": "26.10.2025",
     "time": "01:32",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Live Is Life - Single",
+    "release_year": 1991,
+    "duration_ms": 249500,
+    "artist_country": "AT",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

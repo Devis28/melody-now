@@ -11760,5 +11760,24 @@
     "genres": [
       "Pop"
     ]
+  },
+  "righeira|no tengo dinero": {
+    "release_year": 1984,
+    "artist_country": "IT",
+    "album": "No Tengo Dinero - Single",
+    "duration_ms": 205163,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "gina g|ooh aah ... just a little bit": {
+    "release_year": 1996,
+    "artist_country": "AU",
+    "album": "100 Greatest Guilty Pleasures: Cheesy Pop Hits",
+    "duration_ms": 204253,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   }
 }

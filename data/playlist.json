@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bozk",
+    "artist": "I.M.T. Smile",
+    "date": "25.10.2025",
+    "time": "19:27",
+    "listeners": 1233
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Posledné Dobré Dievča",
+    "artist": "Pavol Habera",
+    "date": "25.10.2025",
+    "time": "19:24",
+    "listeners": 1210
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Já Budu Chodit Po Špičkách",
+    "artist": "Novák Petr",
+    "date": "25.10.2025",
+    "time": "19:22",
+    "listeners": 1165
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Můj Čas",
+    "artist": "Zagorová Hana Kotvald Petr Hložek Stanislav",
+    "date": "25.10.2025",
+    "time": "19:19",
+    "listeners": 1263
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Až...",
     "artist": "Katapult",
     "date": "25.10.2025",

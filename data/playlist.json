@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "date": "25.10.2025",
+    "time": "12:09",
+    "listeners": 1644
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sputana Laskou",
+    "artist": "Peter & Julia Heckovci",
+    "date": "25.10.2025",
+    "time": "12:04",
+    "listeners": 1627
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Ťa Rád",
+    "artist": "Duchon  Karol",
+    "date": "25.10.2025",
+    "time": "12:00",
+    "listeners": 1570
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Pri Mne Spíš",
+    "artist": "Habera Pavol",
+    "date": "25.10.2025",
+    "time": "11:55",
+    "listeners": 1597
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Stín Katedrál",
     "artist": "Shalom",
     "date": "25.10.2025",

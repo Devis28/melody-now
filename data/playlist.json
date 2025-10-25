@@ -5,7 +5,15 @@
     "artist": "Ledecký Janek",
     "date": "25.10.2025",
     "time": "12:57",
-    "listeners": 1787
+    "listeners": 1787,
+    "lyricists": null,
+    "album": "Právě teď",
+    "release_year": 1993,
+    "duration_ms": 269120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Zdenka Predná",
     "date": "25.10.2025",
     "time": "12:53",
-    "listeners": 1930
+    "listeners": 1930,
+    "lyricists": null,
+    "album": "Zdenka Predná",
+    "release_year": 2007,
+    "duration_ms": 192608,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

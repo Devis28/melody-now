@@ -11715,5 +11715,14 @@
     "album": "The Bodyguard (Original Soundtrack Album)",
     "release_year": 1992,
     "duration_ms": 285107
+  },
+  "miami sound machine|bad boy": {
+    "release_year": 2004,
+    "artist_country": "US",
+    "album": "Primitive Love",
+    "duration_ms": 235507,
+    "genres": [
+      "Pop"
+    ]
   }
 }

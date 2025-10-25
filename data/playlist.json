@@ -5,7 +5,15 @@
     "artist": "Karol Duchoň",
     "date": "25.10.2025",
     "time": "13:52",
-    "listeners": 1933
+    "listeners": 1933,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 2006,
+    "duration_ms": 210347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Beata Dubasová",
     "date": "25.10.2025",
     "time": "13:48",
-    "listeners": 1965
+    "listeners": 1965,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 2001,
+    "duration_ms": 269000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

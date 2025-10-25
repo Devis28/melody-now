@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dnes Je Skvelý Den",
+    "artist": "Gladiátor",
+    "date": "25.10.2025",
+    "time": "07:28",
+    "listeners": 405
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "A Tak Dál Nosíš Po Kapsách Sny Mládí",
+    "artist": "Matuška Waldemar",
+    "date": "25.10.2025",
+    "time": "07:24",
+    "listeners": 394
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čaba Neblázni",
+    "artist": "Elán",
+    "date": "25.10.2025",
+    "time": "07:19",
+    "listeners": 361
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Otázky",
+    "artist": "Olympic",
+    "date": "25.10.2025",
+    "time": "07:15",
+    "listeners": 390
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pokoj V Duši",
     "artist": "Jana Kirschner",
     "date": "25.10.2025",

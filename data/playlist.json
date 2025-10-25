@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Zvonky Štestí",
+    "artist": "Karel Gott & Darinka Rolincová",
+    "date": "25.10.2025",
+    "time": "11:08",
+    "listeners": 1361
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Myslis Na To Na Co Myslim Ja?",
+    "artist": "Peter Nagy",
+    "date": "25.10.2025",
+    "time": "11:05",
+    "listeners": 1393
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Správne Dievčatá",
+    "artist": "Gombitová Marika",
+    "date": "25.10.2025",
+    "time": "11:01",
+    "listeners": 1313
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Preco Nie Som Pekna",
+    "artist": "Madam",
+    "date": "25.10.2025",
+    "time": "10:55",
+    "listeners": 1311
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kým Stúpa Dym",
     "artist": "I.M.T. Smile",
     "date": "25.10.2025",

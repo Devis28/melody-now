@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Believe",
+    "artist": "Cher",
+    "date": "25.10.2025",
+    "time": "20:19",
+    "listeners": 1153
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stayin' Alive",
+    "artist": "The Bee Gees",
+    "date": "25.10.2025",
+    "time": "20:14",
+    "listeners": 1159
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch Me (I Want Your Body)",
+    "artist": "Fox Samantha",
+    "date": "25.10.2025",
+    "time": "20:11",
+    "listeners": 1112
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Freedom' 90",
+    "artist": "George Michael",
+    "date": "25.10.2025",
+    "time": "20:05",
+    "listeners": 1182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voyage Voyage",
+    "artist": "Desirelles",
+    "date": "25.10.2025",
+    "time": "20:01",
+    "listeners": 1140
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nech Sa Deje Čo Sa Má",
+    "artist": "Zuzana Smatanová",
+    "date": "25.10.2025",
+    "time": "19:58",
+    "listeners": 1201
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Amnestia Na Neveru",
     "artist": "Elán",
     "date": "25.10.2025",

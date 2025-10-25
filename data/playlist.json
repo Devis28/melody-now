@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dvojčatá",
+    "artist": "Patejdl Vašo",
+    "date": "26.10.2025",
+    "time": "00:27",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tarzan Boy",
+    "artist": "Baltimora",
+    "date": "26.10.2025",
+    "time": "00:23",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Môj Starý Dobrý Kabát",
+    "artist": "Tublatanka",
+    "date": "26.10.2025",
+    "time": "00:20",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "El Condor Pasa",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "26.10.2025",
+    "time": "00:17",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Right Here Waiting",
     "artist": "Marx Richard",
     "date": "26.10.2025",

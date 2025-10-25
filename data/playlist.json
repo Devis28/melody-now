@@ -5,7 +5,15 @@
     "artist": "Buty",
     "date": "25.10.2025",
     "time": "18:38",
-    "listeners": 1312
+    "listeners": 1312,
+    "lyricists": null,
+    "album": "Drevo",
+    "release_year": 2005,
+    "duration_ms": 242160,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Kratochvílová Jana",
     "date": "25.10.2025",
     "time": "18:34",
-    "listeners": 1231
+    "listeners": 1231,
+    "lyricists": null,
+    "album": "Jana Kratochvílová",
+    "release_year": 1976,
+    "duration_ms": 273560,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Hečková Júlia",
     "date": "25.10.2025",
     "time": "18:30",
-    "listeners": 1311
+    "listeners": 1311,
+    "lyricists": null,
+    "album": "Maturitné tablo",
+    "release_year": 1987,
+    "duration_ms": 244316,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Peha",
     "date": "25.10.2025",
     "time": "18:25",
-    "listeners": 1165
+    "listeners": 1165,
+    "lyricists": null,
+    "album": "Největší slovenské hity všech dob",
+    "release_year": 2005,
+    "duration_ms": 250027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Modus",
     "date": "25.10.2025",
     "time": "18:22",
-    "listeners": 1252
+    "listeners": 1252,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 1998,
+    "duration_ms": 208853,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

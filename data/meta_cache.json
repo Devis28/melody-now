@@ -11834,5 +11834,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "the bangles|walk like an egyptian": {
+    "release_year": 2006,
+    "artist_country": "US",
+    "album": "80s 100 Hits",
+    "duration_ms": 192813,
+    "genres": [
+      "Pop"
+    ]
   }
 }

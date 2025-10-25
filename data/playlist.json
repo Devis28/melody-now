@@ -5,7 +5,15 @@
     "artist": "Duchoň Karol",
     "date": "25.10.2025",
     "time": "17:53",
-    "listeners": 1147
+    "listeners": 1147,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 209863,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Penk Michal",
     "date": "25.10.2025",
     "time": "17:49",
-    "listeners": 1193
+    "listeners": 1193,
+    "lyricists": null,
+    "album": "Hit Album",
+    "release_year": 1992,
+    "duration_ms": 278000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

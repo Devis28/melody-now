@@ -5,7 +5,15 @@
     "artist": "Hegerová Hana & Hapka Petr",
     "date": "25.10.2025",
     "time": "16:18",
-    "listeners": 1273
+    "listeners": 1273,
+    "lyricists": null,
+    "album": "Všechno Nejlepší",
+    "release_year": 1964,
+    "duration_ms": 233267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Hana Zagorová, Stanislav Hložek & Petr Kotvald",
     "date": "25.10.2025",
     "time": "16:15",
-    "listeners": 1340
+    "listeners": 1340,
+    "lyricists": null,
+    "album": "Můj čas",
+    "release_year": null,
+    "duration_ms": 193000,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Beata Dubasová",
     "date": "25.10.2025",
     "time": "16:10",
-    "listeners": 1410
+    "listeners": 1410,
+    "lyricists": null,
+    "album": "Za dverami mojej izby",
+    "release_year": 1990,
+    "duration_ms": 303903,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Elán",
     "date": "25.10.2025",
     "time": "16:06",
-    "listeners": 1560
+    "listeners": 1560,
+    "lyricists": null,
+    "album": "Legenda 1",
+    "release_year": 2003,
+    "duration_ms": 240000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "David Michal Kroky Františka Janečka",
     "date": "25.10.2025",
     "time": "16:03",
-    "listeners": 1500
+    "listeners": 1500,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 193239,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "John Paul Young",
     "date": "25.10.2025",
     "time": "20:58",
-    "listeners": 958
+    "listeners": 958,
+    "lyricists": null,
+    "album": "Vanda and Young: The Official Songbook",
+    "release_year": 1996,
+    "duration_ms": 208413,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Los Lobos",
     "date": "25.10.2025",
     "time": "20:56",
-    "listeners": 1034
+    "listeners": 1034,
+    "lyricists": null,
+    "album": "La Bamba (Original Motion Picture Soundtrack)",
+    "release_year": 2024,
+    "duration_ms": 175760,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "New Kids On The Block",
     "date": "25.10.2025",
     "time": "20:52",
-    "listeners": 1045
+    "listeners": 1045,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 1990,
+    "duration_ms": 207467,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

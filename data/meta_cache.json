@@ -11631,5 +11631,17 @@
     "genres": [
       "Pop"
     ]
+  },
+  "george michael|freedom' 90": {
+    "release_year": 2008,
+    "artist_country": "GB",
+    "album": "Listen Without Prejudice / MTV Unplugged (Deluxe Edition)",
+    "duration_ms": 321803,
+    "lyricists": [
+      "George Michael"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

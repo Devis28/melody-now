@@ -5,7 +5,15 @@
     "artist": "Cher",
     "date": "25.10.2025",
     "time": "20:19",
-    "listeners": 1153
+    "listeners": 1153,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 1999,
+    "duration_ms": 239027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Bee Gees",
     "date": "25.10.2025",
     "time": "20:14",
-    "listeners": 1159
+    "listeners": 1159,
+    "lyricists": null,
+    "album": "The Ultimate Bee Gees",
+    "release_year": 1991,
+    "duration_ms": 283147,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Fox Samantha",
     "date": "25.10.2025",
     "time": "20:11",
-    "listeners": 1112
+    "listeners": 1112,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1986,
+    "duration_ms": 213684,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,17 @@
     "artist": "George Michael",
     "date": "25.10.2025",
     "time": "20:05",
-    "listeners": 1182
+    "listeners": 1182,
+    "lyricists": [
+      "George Michael"
+    ],
+    "album": "Listen Without Prejudice / MTV Unplugged (Deluxe Edition)",
+    "release_year": 2008,
+    "duration_ms": 321803,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Desirelles",
     "date": "25.10.2025",
     "time": "20:01",
-    "listeners": 1140
+    "listeners": 1140,
+    "lyricists": null,
+    "album": "François",
+    "release_year": 1980,
+    "duration_ms": 264585,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Zuzana Smatanová",
     "date": "25.10.2025",
     "time": "19:58",
-    "listeners": 1201
+    "listeners": 1201,
+    "lyricists": null,
+    "album": "Svet Mi Stupil Na Nohu",
+    "release_year": 2013,
+    "duration_ms": 165093,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

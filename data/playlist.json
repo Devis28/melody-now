@@ -5,7 +5,15 @@
     "artist": "Marika Gombitová",
     "date": "25.10.2025",
     "time": "04:42",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 2009,
+    "duration_ms": 286013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Michael George",
     "date": "25.10.2025",
     "time": "04:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Faith (Deluxe Edition)",
+    "release_year": 1987,
+    "duration_ms": 193200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Imbruglia Natalie",
     "date": "25.10.2025",
     "time": "04:35",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Team",
     "date": "25.10.2025",
     "time": "04:33",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2005,
+    "duration_ms": 130373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Vidiek",
     "date": "25.10.2025",
     "time": "04:30",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Nechajte si ju!",
+    "release_year": 2000,
+    "duration_ms": 171013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,16 @@
     "artist": "Jermaine Jackson & Pia Zadora",
     "date": "25.10.2025",
     "time": "04:26",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Jermaine Jackson: Greatest Hits",
+    "release_year": 2018,
+    "duration_ms": 243790,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,20 @@
     "artist": "Kristína",
     "date": "25.10.2025",
     "time": "04:22",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "album": "V Sieti Ta Mam",
+    "release_year": 2014,
+    "duration_ms": 221000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +123,15 @@
     "artist": "Brontosauři",
     "date": "25.10.2025",
     "time": "04:19",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Na Kameni Kamen",
+    "release_year": 2007,
+    "duration_ms": 159227,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +139,15 @@
     "artist": "Kirschner Jana",
     "date": "25.10.2025",
     "time": "04:15",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "V Cudzom Meste",
+    "release_year": 2000,
+    "duration_ms": 250907,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +155,15 @@
     "artist": "P. M. Sampson & Double Key",
     "date": "25.10.2025",
     "time": "04:12",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Listen to My Heartbeat",
+    "release_year": 1993,
+    "duration_ms": 262947,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +171,15 @@
     "artist": "Bad Boys Blue",
     "date": "25.10.2025",
     "time": "04:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 2009,
+    "duration_ms": 321840,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +187,15 @@
     "artist": "Abba",
     "date": "25.10.2025",
     "time": "04:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 325907,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +203,15 @@
     "artist": "Nagy Peter",
     "date": "25.10.2025",
     "time": "03:57",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2009,
+    "duration_ms": 264040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +219,15 @@
     "artist": "Dalibor Janda",
     "date": "25.10.2025",
     "time": "03:53",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1993,
+    "duration_ms": 293667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +235,16 @@
     "artist": "Aerosmith",
     "date": "25.10.2025",
     "time": "03:48",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Get A Grip",
+    "release_year": 2016,
+    "duration_ms": 316966,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +252,15 @@
     "artist": "Terry Jacks",
     "date": "25.10.2025",
     "time": "03:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Seasons In The Sun (Expanded Edition)",
+    "release_year": 2010,
+    "duration_ms": 208853,
+    "artist_country": "CA",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +268,15 @@
     "artist": "No Name",
     "date": "25.10.2025",
     "time": "03:41",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2006,
+    "duration_ms": 202107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +284,16 @@
     "artist": "Collins Phil",
     "date": "25.10.2025",
     "time": "03:37",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "The Singles (Deluxe Edition)",
+    "release_year": 1989,
+    "duration_ms": 322133,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +301,15 @@
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "25.10.2025",
     "time": "03:33",
-    "listeners": 198
+    "listeners": 198,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 1994,
+    "duration_ms": 238467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +317,15 @@
     "artist": "Miro Žbirka",
     "date": "25.10.2025",
     "time": "03:29",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Chlapec z ulice",
+    "release_year": 2007,
+    "duration_ms": 223427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +333,15 @@
     "artist": "Heart",
     "date": "25.10.2025",
     "time": "03:25",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Greatest Hits 1985-1995",
+    "release_year": 2022,
+    "duration_ms": 219293,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,13 @@
     "artist": "Houston Whitney",
     "date": "25.10.2025",
     "time": "21:33",
-    "listeners": 801
+    "listeners": 801,
+    "lyricists": null,
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "release_year": 1992,
+    "duration_ms": 285107,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,13 @@
     "artist": "Gipsy Kings",
     "date": "25.10.2025",
     "time": "21:30",
-    "listeners": 779
+    "listeners": 779,
+    "lyricists": null,
+    "album": "Gipsy Kings",
+    "release_year": 2013,
+    "duration_ms": 203333,
+    "artist_country": "FR",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +33,15 @@
     "artist": "Miro Žbirka",
     "date": "25.10.2025",
     "time": "21:27",
-    "listeners": 829
+    "listeners": 829,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 187773,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

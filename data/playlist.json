@@ -5,7 +5,15 @@
     "artist": "Jiří Zmožek",
     "date": "25.10.2025",
     "time": "08:45",
-    "listeners": 694
+    "listeners": 694,
+    "lyricists": null,
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "release_year": 2001,
+    "duration_ms": 246093,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "25.10.2025",
     "time": "08:40",
-    "listeners": 710
+    "listeners": 710,
+    "lyricists": null,
+    "album": "V Pohodě (Bonus Track Version)",
+    "release_year": 2010,
+    "duration_ms": 205333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Karel Gott & Charlotte Ella Gottová",
     "date": "25.10.2025",
     "time": "08:36",
-    "listeners": 670
+    "listeners": 670,
+    "lyricists": null,
+    "album": "Srdce nehasnou - Single",
+    "release_year": 2019,
+    "duration_ms": 228667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Grigorov Robo",
     "date": "25.10.2025",
     "time": "08:33",
-    "listeners": 646
+    "listeners": 646,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 191373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ja Viem",
+    "artist": "Grigorov Robo",
+    "date": "25.10.2025",
+    "time": "06:52",
+    "listeners": 296
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pieseň Pre Nesmelých",
+    "artist": "Team",
+    "date": "25.10.2025",
+    "time": "06:48",
+    "listeners": 295
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Keď Sa Raz Oči Dohodnú",
     "artist": "Modus",
     "date": "25.10.2025",

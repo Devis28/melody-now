@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "25.10.2025",
     "time": "22:10",
-    "listeners": 585
+    "listeners": 585,
+    "lyricists": null,
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "release_year": 1985,
+    "duration_ms": 223027,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Britney Spears",
     "date": "25.10.2025",
     "time": "22:06",
-    "listeners": 657
+    "listeners": 657,
+    "lyricists": null,
+    "album": "...Baby One More Time (Deluxe Version)",
+    "release_year": 2014,
+    "duration_ms": 211067,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Modern Talking",
     "date": "25.10.2025",
     "time": "22:02",
-    "listeners": 631
+    "listeners": 631,
+    "lyricists": null,
+    "album": "Let's Talk About Love",
+    "release_year": 1985,
+    "duration_ms": 226333,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Orchestral Manouvres In The Dark",
     "date": "25.10.2025",
     "time": "21:59",
-    "listeners": 616
+    "listeners": 616,
+    "lyricists": null,
+    "album": "Organisation",
+    "release_year": 1980,
+    "duration_ms": 213693,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,17 @@
     "artist": "Queen",
     "date": "25.10.2025",
     "time": "21:57",
-    "listeners": 683
+    "listeners": 683,
+    "lyricists": [
+      "Queen"
+    ],
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1994,
+    "duration_ms": 121235,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

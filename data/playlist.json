@@ -5,7 +5,18 @@
     "artist": "Bon Jovi",
     "date": "26.10.2025",
     "time": "01:15",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": [
+      "Jon Bon Jovi"
+    ],
+    "album": "Keep the Faith",
+    "release_year": 2016,
+    "duration_ms": 394528,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Peter Bič Project",
     "date": "26.10.2025",
     "time": "01:12",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Skúšame sa nájsť - Single",
+    "release_year": 2024,
+    "duration_ms": 187187,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Osborne Joan",
     "date": "26.10.2025",
     "time": "01:08",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Relish",
+    "release_year": 1995,
+    "duration_ms": 320467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,16 @@
     "artist": "Sandra",
     "date": "26.10.2025",
     "time": "01:04",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 2018,
+    "duration_ms": 221107,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,16 @@
     "artist": "Mckenzie Scott",
     "date": "26.10.2025",
     "time": "01:01",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

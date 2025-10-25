@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sbohem Lásko",
+    "artist": "Waldemar Matuška",
+    "date": "25.10.2025",
+    "time": "13:14",
+    "listeners": 1906
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "25.10.2025",
+    "time": "13:10",
+    "listeners": 1841
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cesta do rozprávky",
+    "artist": "Darina Rolincová",
+    "date": "25.10.2025",
+    "time": "13:06",
+    "listeners": 1874
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nároční",
+    "artist": "Team",
+    "date": "25.10.2025",
+    "time": "13:01",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pěkná Pěkná Pěkná",
     "artist": "Ledecký Janek",
     "date": "25.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "25.10.2025",
     "time": "10:43",
-    "listeners": 1174
+    "listeners": 1174,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 2007,
+    "duration_ms": 197960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Petr Spálený",
     "date": "25.10.2025",
     "time": "10:40",
-    "listeners": 1275
+    "listeners": 1275,
+    "lyricists": null,
+    "album": "Největší hity (Díky)",
+    "release_year": 2004,
+    "duration_ms": 179453,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Bílá Lucie",
     "date": "25.10.2025",
     "time": "10:37",
-    "listeners": 1198
+    "listeners": 1198,
+    "lyricists": null,
+    "album": "Platinum Collection",
+    "release_year": 2004,
+    "duration_ms": 163853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Adam Ďurica",
     "date": "25.10.2025",
     "time": "10:34",
-    "listeners": 1131
+    "listeners": 1131,
+    "lyricists": null,
+    "album": "Akustické koncerty (Acoustic / Live)",
+    "release_year": 2015,
+    "duration_ms": 251033,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

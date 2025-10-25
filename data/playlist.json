@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "25.10.2025",
     "time": "19:54",
-    "listeners": 1142
+    "listeners": 1142,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 224000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vondráčková Helena",
     "date": "25.10.2025",
     "time": "19:51",
-    "listeners": 1237
+    "listeners": 1237,
+    "lyricists": null,
+    "album": "Kam Zmizel Ten Starý Song",
+    "release_year": 1964,
+    "duration_ms": 187307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

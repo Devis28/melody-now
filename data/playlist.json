@@ -5,7 +5,15 @@
     "artist": "Lucie",
     "date": "25.10.2025",
     "time": "14:54",
-    "listeners": 1863
+    "listeners": 1863,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 2009,
+    "duration_ms": 331907,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Exil",
     "date": "25.10.2025",
     "time": "14:50",
-    "listeners": 1866
+    "listeners": 1866,
+    "lyricists": null,
+    "album": "Kamarát - EP",
+    "release_year": 1996,
+    "duration_ms": 215615,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Muller Richard & Anna K. Ivan Tasler",
     "date": "25.10.2025",
     "time": "14:45",
-    "listeners": 1752
+    "listeners": 1752,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2000,
+    "duration_ms": 376360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Vondráčková Helena",
     "date": "25.10.2025",
     "time": "14:42",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Kam Zmizel Ten Starý Song",
+    "release_year": 1992,
+    "duration_ms": 136800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Bartošová Iveta",
     "date": "25.10.2025",
     "time": "14:38",
-    "listeners": 1810
+    "listeners": 1810,
+    "lyricists": null,
+    "album": "Nekonecna/Best Of",
+    "release_year": 1998,
+    "duration_ms": 224920,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,18 @@
     "artist": "Jana Kirschner",
     "date": "25.10.2025",
     "time": "14:35",
-    "listeners": 1977
+    "listeners": 1977,
+    "lyricists": [
+      "Ivan Tásler",
+      "Jana Kirschner"
+    ],
+    "album": "V Cudzom Meste",
+    "release_year": 2000,
+    "duration_ms": 199347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +104,15 @@
     "artist": "Kotvald Petr",
     "date": "25.10.2025",
     "time": "14:30",
-    "listeners": 1889
+    "listeners": 1889,
+    "lyricists": null,
+    "album": "Exxxclusive (Best Of - Zlatá Kolekce)",
+    "release_year": 1992,
+    "duration_ms": 257000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +120,15 @@
     "artist": "Júlia a Peter Hečkovci",
     "date": "25.10.2025",
     "time": "14:28",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 164771,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +136,15 @@
     "artist": "Desmod",
     "date": "25.10.2025",
     "time": "14:23",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Symphomusiq Tour",
+    "release_year": 2009,
+    "duration_ms": 625053,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +152,15 @@
     "artist": "Petra Černocká",
     "date": "25.10.2025",
     "time": "14:20",
-    "listeners": 1969
+    "listeners": 1969,
+    "lyricists": null,
+    "album": "Se Mnou Si Píseň Broukej",
+    "release_year": 1996,
+    "duration_ms": 168493,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

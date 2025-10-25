@@ -5,7 +5,15 @@
     "artist": "Peter Nagy",
     "date": "25.10.2025",
     "time": "15:40",
-    "listeners": 1614
+    "listeners": 1614,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2011,
+    "duration_ms": 171240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Grigorov Robo",
     "date": "25.10.2025",
     "time": "15:37",
-    "listeners": 1693
+    "listeners": 1693,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2006,
+    "duration_ms": 294013,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Wanastowi Vjecy",
     "date": "25.10.2025",
     "time": "15:31",
-    "listeners": 1829
+    "listeners": 1829,
+    "lyricists": null,
+    "album": "Divnoalbum",
+    "release_year": 2007,
+    "duration_ms": 318413,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Gravis",
     "date": "25.10.2025",
     "time": "15:28",
-    "listeners": 1632
+    "listeners": 1632,
+    "lyricists": null,
+    "album": "Kolotoč masiek",
+    "release_year": 1989,
+    "duration_ms": 194235,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Cmorík Peter",
     "date": "25.10.2025",
     "time": "15:24",
-    "listeners": 1704
+    "listeners": 1704,
+    "lyricists": null,
+    "album": "Nadherny Den",
+    "release_year": 2006,
+    "duration_ms": 267587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Pavol Hammel",
     "date": "25.10.2025",
     "time": "15:21",
-    "listeners": 1768
+    "listeners": 1768,
+    "lyricists": null,
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1981,
+    "duration_ms": 152573,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

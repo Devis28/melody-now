@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "25.10.2025",
     "time": "11:27",
-    "listeners": 1488
+    "listeners": 1488,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 2003,
+    "duration_ms": 277787,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Matuška Waldemar",
     "date": "25.10.2025",
     "time": "11:25",
-    "listeners": 1378
+    "listeners": 1378,
+    "lyricists": null,
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "release_year": 1964,
+    "duration_ms": 145680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Lucie",
     "date": "25.10.2025",
     "time": "11:21",
-    "listeners": 1299
+    "listeners": 1299,
+    "lyricists": null,
+    "album": "Hity Tommü",
+    "release_year": 1999,
+    "duration_ms": 249667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Banket",
     "date": "25.10.2025",
     "time": "11:16",
-    "listeners": 1485
+    "listeners": 1485,
+    "lyricists": null,
+    "album": "Bioelektrovízia",
+    "release_year": 1989,
+    "duration_ms": 189000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Olympic",
     "date": "25.10.2025",
     "time": "11:12",
-    "listeners": 1440
+    "listeners": 1440,
+    "lyricists": null,
+    "album": "Kanagom",
+    "release_year": 1985,
+    "duration_ms": 241667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Waldemar Matuška",
     "date": "25.10.2025",
     "time": "13:14",
-    "listeners": 1906
+    "listeners": 1906,
+    "lyricists": null,
+    "album": "Píseň Pro Kristýnku A Další Hity",
+    "release_year": 1993,
+    "duration_ms": 193333,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gladiator",
     "date": "25.10.2025",
     "time": "13:10",
-    "listeners": 1841
+    "listeners": 1841,
+    "lyricists": null,
+    "album": "Zlate Hity",
+    "release_year": 2011,
+    "duration_ms": 215627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Darina Rolincová",
     "date": "25.10.2025",
     "time": "13:06",
-    "listeners": 1874
+    "listeners": 1874,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1998,
+    "duration_ms": 238640,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Team",
     "date": "25.10.2025",
     "time": "13:01",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Team Hity",
+    "release_year": 2011,
+    "duration_ms": 307467,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

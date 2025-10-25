@@ -11662,5 +11662,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bananarama|love in the first degree": {
+    "release_year": 1988,
+    "artist_country": "GB",
+    "album": "The Greatest Hits Collection (Collector Edition)",
+    "duration_ms": 211410,
+    "genres": [
+      "Pop"
+    ]
   }
 }

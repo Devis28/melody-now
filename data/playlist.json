@@ -5,7 +5,15 @@
     "artist": "Bano Al & Power Romina",
     "date": "25.10.2025",
     "time": "20:49",
-    "listeners": 1039
+    "listeners": 1039,
+    "lyricists": null,
+    "album": "Al Bano e Romina Power",
+    "release_year": 1982,
+    "duration_ms": 192853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Alizee",
     "date": "25.10.2025",
     "time": "20:45",
-    "listeners": 918
+    "listeners": 918,
+    "lyricists": null,
+    "album": "Gourmandises",
+    "release_year": 2001,
+    "duration_ms": 264283,
+    "artist_country": "FR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Bananarama",
     "date": "25.10.2025",
     "time": "20:41",
-    "listeners": 1077
+    "listeners": 1077,
+    "lyricists": null,
+    "album": "The Greatest Hits Collection (Collector Edition)",
+    "release_year": 1988,
+    "duration_ms": 211410,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

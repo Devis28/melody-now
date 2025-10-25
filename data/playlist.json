@@ -5,7 +5,15 @@
     "artist": "Alice Deejay",
     "date": "25.10.2025",
     "time": "22:49",
-    "listeners": 445
+    "listeners": 445,
+    "lyricists": null,
+    "album": "Who Needs Guitars Anyway?",
+    "release_year": 2000,
+    "duration_ms": 214883,
+    "artist_country": "NL",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,19 @@
     "artist": "Fancy",
     "date": "25.10.2025",
     "time": "22:45",
-    "listeners": 428
+    "listeners": 428,
+    "lyricists": [
+      "Alfons Weindorf",
+      "Fancy",
+      "Sabrina Lorenz"
+    ],
+    "album": "Hit Collection",
+    "release_year": 1998,
+    "duration_ms": 217880,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,16 @@
     "artist": "Army Of Lovers",
     "date": "25.10.2025",
     "time": "22:42",
-    "listeners": 485
+    "listeners": 485,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

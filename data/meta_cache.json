@@ -11779,5 +11779,14 @@
       "Electronic",
       "Pop"
     ]
+  },
+  "alice deejay|better off alone": {
+    "release_year": 2000,
+    "artist_country": "NL",
+    "album": "Who Needs Guitars Anyway?",
+    "duration_ms": 214883,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

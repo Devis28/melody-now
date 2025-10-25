@@ -5,7 +5,15 @@
     "artist": "C.C. Catch",
     "date": "25.10.2025",
     "time": "22:29",
-    "listeners": 504
+    "listeners": 504,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1994,
+    "duration_ms": 209533,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Iglesias, Enrique",
     "date": "25.10.2025",
     "time": "22:25",
-    "listeners": 567
+    "listeners": 567,
+    "lyricists": null,
+    "album": "Escape (Bonus Track Version)",
+    "release_year": 2001,
+    "duration_ms": 264240,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Goombay Dance Band",
     "date": "25.10.2025",
     "time": "22:21",
-    "listeners": 541
+    "listeners": 541,
+    "lyricists": null,
+    "album": "Singles, B-Sides & Rarities",
+    "release_year": 1992,
+    "duration_ms": 339000,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Pet Shop Boys",
     "date": "25.10.2025",
     "time": "22:17",
-    "listeners": 597
+    "listeners": 597,
+    "lyricists": null,
+    "album": "Ultimate",
+    "release_year": 2000,
+    "duration_ms": 302360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,15 @@
     "artist": "Smokie",
     "date": "25.10.2025",
     "time": "22:13",
-    "listeners": 586
+    "listeners": 586,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2009,
+    "duration_ms": 219267,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

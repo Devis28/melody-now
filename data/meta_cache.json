@@ -11724,5 +11724,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "take that|relight my fire": {
+    "release_year": 1993,
+    "artist_country": "GB",
+    "album": "Never Forget: The Ultimate Collection",
+    "duration_ms": 228000,
+    "genres": [
+      "Pop"
+    ]
   }
 }

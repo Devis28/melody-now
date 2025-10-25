@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "25.10.2025",
     "time": "06:44",
-    "listeners": 281
+    "listeners": 281,
+    "lyricists": null,
+    "album": "Keď sa raz oči dohodnú",
+    "release_year": 1998,
+    "duration_ms": 276653,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hammel Pavol",
     "date": "25.10.2025",
     "time": "06:41",
-    "listeners": 282
+    "listeners": 282,
+    "lyricists": null,
+    "album": "Pavol Hammel & Prúdy 1966 – 1975",
+    "release_year": 1969,
+    "duration_ms": 154490,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

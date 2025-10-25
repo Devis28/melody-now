@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bum, Bum, Bum",
+    "artist": "Gott Karel",
+    "date": "25.10.2025",
+    "time": "12:29",
+    "listeners": 1835
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nie Sme Zlí",
+    "artist": "Elán",
+    "date": "25.10.2025",
+    "time": "12:25",
+    "listeners": 1793
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Karmen Pál-Baláž",
+    "date": "25.10.2025",
+    "time": "12:21",
+    "listeners": 1757
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "25.10.2025",
+    "time": "12:19",
+    "listeners": 1688
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Poraď Si Sám",
+    "artist": "Žbirka Miro",
+    "date": "25.10.2025",
+    "time": "12:16",
+    "listeners": 1580
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Krásnejší Než Rúže",
+    "artist": "Pavel Roth",
+    "date": "25.10.2025",
+    "time": "12:12",
+    "listeners": 1585
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Vráť Mi Tie Hviezdy",
     "artist": "Dubasová Beáta",
     "date": "25.10.2025",

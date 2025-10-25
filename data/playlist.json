@@ -5,7 +5,15 @@
     "artist": "Rolincová Darina",
     "date": "25.10.2025",
     "time": "16:29",
-    "listeners": 1239
+    "listeners": 1239,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 241867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Miro Žbirka",
     "date": "25.10.2025",
     "time": "16:26",
-    "listeners": 1411
+    "listeners": 1411,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2020,
+    "duration_ms": 193373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Marie Rottrová",
     "date": "25.10.2025",
     "time": "16:22",
-    "listeners": 1282
+    "listeners": 1282,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2003,
+    "duration_ms": 200307,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

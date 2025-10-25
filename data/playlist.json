@@ -5,7 +5,15 @@
     "artist": "Grigorov Robo",
     "date": "25.10.2025",
     "time": "12:41",
-    "listeners": 1729
+    "listeners": 1729,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 261016,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Marika Gombitová",
     "date": "25.10.2025",
     "time": "12:36",
-    "listeners": 1711
+    "listeners": 1711,
+    "lyricists": null,
+    "album": "Dievča do dažďa",
+    "release_year": 1998,
+    "duration_ms": 285907,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "No Name",
     "date": "25.10.2025",
     "time": "12:33",
-    "listeners": 1678
+    "listeners": 1678,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2014,
+    "duration_ms": 197200,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

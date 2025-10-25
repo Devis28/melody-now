@@ -5,7 +5,15 @@
     "artist": "David Michal & Kroky Frantiska Janecka",
     "date": "25.10.2025",
     "time": "17:19",
-    "listeners": 1231
+    "listeners": 1231,
+    "lyricists": null,
+    "album": "Mejdan Roku (Live)",
+    "release_year": 2010,
+    "duration_ms": 181560,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Petr Kotvald",
     "date": "25.10.2025",
     "time": "17:16",
-    "listeners": 1261
+    "listeners": 1261,
+    "lyricists": null,
+    "album": "Gejzír",
+    "release_year": 2016,
+    "duration_ms": 228560,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Habera Pavol",
     "date": "25.10.2025",
     "time": "17:12",
-    "listeners": 1204
+    "listeners": 1204,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2001,
+    "duration_ms": 241000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Kristína",
     "date": "25.10.2025",
     "time": "17:07",
-    "listeners": 1233
+    "listeners": 1233,
+    "lyricists": null,
+    "album": "Kristína: TIE NAJ (Album verzia)",
+    "release_year": 2020,
+    "duration_ms": 232452,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Gott Karel",
     "date": "25.10.2025",
     "time": "17:03",
-    "listeners": 1177
+    "listeners": 1177,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 239600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Bilá Lucie",
     "date": "25.10.2025",
     "time": "16:59",
-    "listeners": 1246
+    "listeners": 1246,
+    "lyricists": null,
+    "album": "Platinum Collection",
+    "release_year": 1998,
+    "duration_ms": 211897,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Jiří Korn",
     "date": "25.10.2025",
     "time": "16:56",
-    "listeners": 1229
+    "listeners": 1229,
+    "lyricists": null,
+    "album": "Zlatá Kolekce",
+    "release_year": 2009,
+    "duration_ms": 172800,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Dočolomanský Michal",
     "date": "25.10.2025",
     "time": "16:53",
-    "listeners": 1121
+    "listeners": 1121,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 2008,
+    "duration_ms": 187943,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

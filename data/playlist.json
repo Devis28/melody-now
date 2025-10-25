@@ -5,7 +5,16 @@
     "artist": "Wonder Stevie",
     "date": "26.10.2025",
     "time": "00:57",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Definitive Collection",
+    "release_year": 2002,
+    "duration_ms": 262598,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "N'dour Youssou & Cherry Neneh",
     "date": "26.10.2025",
     "time": "00:53",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "The Guide (Wommat)",
+    "release_year": 1994,
+    "duration_ms": 306227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

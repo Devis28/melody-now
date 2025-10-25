@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "25.10.2025",
     "time": "20:36",
-    "listeners": 1007
+    "listeners": 1007,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1979,
+    "duration_ms": 289887,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Modjo",
     "date": "25.10.2025",
     "time": "20:33",
-    "listeners": 1104
+    "listeners": 1104,
+    "lyricists": null,
+    "album": "Modjo Remastered Deluxe Edition",
+    "release_year": 2006,
+    "duration_ms": 307154,
+    "artist_country": "FR",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Soulsister",
     "date": "25.10.2025",
     "time": "20:29",
-    "listeners": 1036
+    "listeners": 1036,
+    "lyricists": null,
+    "album": "Live Savings",
+    "release_year": 1990,
+    "duration_ms": 280776,
+    "artist_country": "BE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Guru Josh",
     "date": "25.10.2025",
     "time": "20:26",
-    "listeners": 1049
+    "listeners": 1049,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Big Fun",
     "date": "25.10.2025",
     "time": "20:23",
-    "listeners": 1104
+    "listeners": 1104,
+    "lyricists": null,
+    "album": "80s 100 Hits – Volume 2",
+    "release_year": 1998,
+    "duration_ms": 215907,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

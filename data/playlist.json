@@ -5,7 +5,15 @@
     "artist": "Vidiek",
     "date": "25.10.2025",
     "time": "08:30",
-    "listeners": 608
+    "listeners": 608,
+    "lyricists": null,
+    "album": "Nechajte si ju!",
+    "release_year": 2012,
+    "duration_ms": 221040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Michal David",
     "date": "25.10.2025",
     "time": "08:26",
-    "listeners": 656
+    "listeners": 656,
+    "lyricists": null,
+    "album": "Bláznivá Noc",
+    "release_year": 1983,
+    "duration_ms": 212253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Brontosauři",
     "date": "25.10.2025",
     "time": "08:24",
-    "listeners": 652
+    "listeners": 652,
+    "lyricists": null,
+    "album": "Vsechny Hity",
+    "release_year": 2001,
+    "duration_ms": 139747,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Jiří Schelinger",
     "date": "25.10.2025",
     "time": "08:22",
-    "listeners": 624
+    "listeners": 624,
+    "lyricists": null,
+    "album": "Jsem Prý Blázen Jen",
+    "release_year": 2007,
+    "duration_ms": 132800,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Marika Gombitová",
     "date": "25.10.2025",
     "time": "08:16",
-    "listeners": 546
+    "listeners": 546,
+    "lyricists": null,
+    "album": "Nevy(í)dané Rarity",
+    "release_year": 2005,
+    "duration_ms": 322533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Neckář Václav",
     "date": "25.10.2025",
     "time": "08:11",
-    "listeners": 578
+    "listeners": 578,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 1965,
+    "duration_ms": 255133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,18 @@
     "artist": "Richard Müller",
     "date": "25.10.2025",
     "time": "08:05",
-    "listeners": 542
+    "listeners": 542,
+    "lyricists": [
+      "Ivan Tásler",
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2017,
+    "duration_ms": 307080,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +120,15 @@
     "artist": "No Name",
     "date": "25.10.2025",
     "time": "08:02",
-    "listeners": 523
+    "listeners": 523,
+    "lyricists": null,
+    "album": "The Best Of",
+    "release_year": 2022,
+    "duration_ms": 203107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +136,15 @@
     "artist": "Filipová Lenka",
     "date": "25.10.2025",
     "time": "07:59",
-    "listeners": 565
+    "listeners": 565,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 1980,
+    "duration_ms": 243173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Neznámy Pár",
+    "artist": "Marika Gombitová & Karel Gott",
+    "date": "25.10.2025",
+    "time": "13:43",
+    "listeners": 1964
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dva A Dva",
+    "artist": "Elán",
+    "date": "25.10.2025",
+    "time": "13:39",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hej Pane Diskžokej",
     "artist": "Balet",
     "date": "25.10.2025",

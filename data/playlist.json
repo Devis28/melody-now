@@ -5,7 +5,15 @@
     "artist": "Turbo",
     "date": "25.10.2025",
     "time": "06:18",
-    "listeners": 229
+    "listeners": 229,
+    "lyricists": null,
+    "album": "To Byla, Pánové, Jízda",
+    "release_year": 2010,
+    "duration_ms": 270533,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karel Gott",
     "date": "25.10.2025",
     "time": "06:15",
-    "listeners": 232
+    "listeners": 232,
+    "lyricists": null,
+    "album": "Dnes, Country Album (Bonus Track Version)",
+    "release_year": 1991,
+    "duration_ms": 184400,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Jožo Ráž",
     "date": "25.10.2025",
     "time": "06:10",
-    "listeners": 226
+    "listeners": 226,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2007,
+    "duration_ms": 309392,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Gombitová Marika",
     "date": "25.10.2025",
     "time": "06:06",
-    "listeners": 223
+    "listeners": 223,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1987,
+    "duration_ms": 209800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Lenka Filipová",
     "date": "25.10.2025",
     "time": "06:03",
-    "listeners": 213
+    "listeners": 213,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 2007,
+    "duration_ms": 213253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,17 @@
     "artist": "Richard Müller",
     "date": "25.10.2025",
     "time": "05:59",
-    "listeners": 219
+    "listeners": 219,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2017,
+    "duration_ms": 297640,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nepriznaná",
+    "artist": "Vašo Patejdl",
+    "date": "25.10.2025",
+    "time": "16:40",
+    "listeners": 1297
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Myslím Že Môže Byť",
+    "artist": "Imt Smile / Marián Čekovský",
+    "date": "25.10.2025",
+    "time": "16:36",
+    "listeners": 1343
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mademoiselle Giselle",
+    "artist": "Václav Neckář",
+    "date": "25.10.2025",
+    "time": "16:33",
+    "listeners": 1283
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Školská Láska",
     "artist": "Rolincová Darina",
     "date": "25.10.2025",

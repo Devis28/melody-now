@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "26.10.2025",
+    "time": "01:15",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skúšame Sa Nájsť",
+    "artist": "Peter Bič Project",
+    "date": "26.10.2025",
+    "time": "01:12",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Of Us",
+    "artist": "Osborne Joan",
+    "date": "26.10.2025",
+    "time": "01:08",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everlasting Love",
+    "artist": "Sandra",
+    "date": "26.10.2025",
+    "time": "01:04",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "San Francisco",
+    "artist": "Mckenzie Scott",
+    "date": "26.10.2025",
+    "time": "01:01",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I Just Called To Say I Love You",
     "artist": "Wonder Stevie",
     "date": "26.10.2025",

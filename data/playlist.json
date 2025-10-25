@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kúp Mi Knihu",
+    "artist": "Miro Žbirka",
+    "date": "25.10.2025",
+    "time": "15:17",
+    "listeners": 1898
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zpívat Jako Déšť",
+    "artist": "Jiří Korn",
+    "date": "25.10.2025",
+    "time": "15:14",
+    "listeners": 1841
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Matka",
+    "artist": "Tublatanka",
+    "date": "25.10.2025",
+    "time": "15:10",
+    "listeners": 1719
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Vieš Snívať",
+    "artist": "Superstar Top 11",
+    "date": "25.10.2025",
+    "time": "15:06",
+    "listeners": 1732
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slobodná",
+    "artist": "Elán",
+    "date": "25.10.2025",
+    "time": "15:02",
+    "listeners": 1654
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Proč Mě Nikdo Nemá Rád",
+    "artist": "Ilona Csáková",
+    "date": "25.10.2025",
+    "time": "14:59",
+    "listeners": 1873
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Amerika",
     "artist": "Lucie",
     "date": "25.10.2025",

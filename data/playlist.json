@@ -5,7 +5,15 @@
     "artist": "Joel Billy",
     "date": "26.10.2025",
     "time": "01:56",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "River of Dreams",
+    "release_year": 1993,
+    "duration_ms": 245893,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Barbra Streisand",
     "date": "26.10.2025",
     "time": "01:52",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Barbra Streisand"
+    ],
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "release_year": 1982,
+    "duration_ms": 233280,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Marika Gombitová",
     "date": "26.10.2025",
     "time": "01:49",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 1998,
+    "duration_ms": 146013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

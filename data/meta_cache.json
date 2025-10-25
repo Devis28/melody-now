@@ -11825,5 +11825,14 @@
     "genres": [
       "R&B"
     ]
+  },
+  "bananarama|venus": {
+    "release_year": 2003,
+    "artist_country": "GB",
+    "album": "True Confessions (Collector's Edition)",
+    "duration_ms": 229165,
+    "genres": [
+      "Pop"
+    ]
   }
 }

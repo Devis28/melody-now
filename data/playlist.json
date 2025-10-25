@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Snídane V Tráve",
+    "artist": "Tucný Michal",
+    "date": "25.10.2025",
+    "time": "14:18",
+    "listeners": 1987
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Obyčejný Muž",
+    "artist": "Spálený Petr",
+    "date": "25.10.2025",
+    "time": "14:13",
+    "listeners": 1939
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Co Bolí To Přebolí",
+    "artist": "Zbirka Miro & Martha",
+    "date": "25.10.2025",
+    "time": "14:10",
+    "listeners": 1970
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neľutujem",
+    "artist": "Adam Ďurica",
+    "date": "25.10.2025",
+    "time": "14:05",
+    "listeners": 1791
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Líbezná",
+    "artist": "David Michal",
+    "date": "25.10.2025",
+    "time": "14:01",
+    "listeners": 1967
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľudia Nie Sú Zlí",
+    "artist": "I.M.T. Smile",
+    "date": "25.10.2025",
+    "time": "13:58",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rybičko Zlatá Přeju Si",
+    "artist": "Zagorová Hana",
+    "date": "25.10.2025",
+    "time": "13:55",
+    "listeners": 1996
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čardáš Dvoch Sŕdc",
     "artist": "Karol Duchoň",
     "date": "25.10.2025",

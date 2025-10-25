@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nahý 2",
+    "artist": "Richard  Muller",
+    "date": "25.10.2025",
+    "time": "16:48",
+    "listeners": 1276
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milionár",
+    "artist": "Balogh Berco",
+    "date": "25.10.2025",
+    "time": "16:45",
+    "listeners": 1187
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nepriznaná",
     "artist": "Vašo Patejdl",
     "date": "25.10.2025",

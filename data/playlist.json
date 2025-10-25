@@ -5,7 +5,15 @@
     "artist": "Lucie",
     "date": "25.10.2025",
     "time": "10:08",
-    "listeners": 1111
+    "listeners": 1111,
+    "lyricists": null,
+    "album": "Cerny Kocky Mokry Zaby",
+    "release_year": 1994,
+    "duration_ms": 296600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hex",
     "date": "25.10.2025",
     "time": "10:04",
-    "listeners": 1047
+    "listeners": 1047,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2002,
+    "duration_ms": 226493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peter Nagy",
     "date": "25.10.2025",
     "time": "10:00",
-    "listeners": 1031
+    "listeners": 1031,
+    "lyricists": null,
+    "album": "Šachy robia človeka",
+    "release_year": 1996,
+    "duration_ms": 196627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Elán",
     "date": "25.10.2025",
     "time": "09:53",
-    "listeners": 984
+    "listeners": 984,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2007,
+    "duration_ms": 304554,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

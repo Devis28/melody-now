@@ -1,6 +1,86 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Amerika",
+    "artist": "Lucie",
+    "date": "25.10.2025",
+    "time": "14:54",
+    "listeners": 1863
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamarát",
+    "artist": "Exil",
+    "date": "25.10.2025",
+    "time": "14:50",
+    "listeners": 1866
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Baroko",
+    "artist": "Muller Richard & Anna K. Ivan Tasler",
+    "date": "25.10.2025",
+    "time": "14:45",
+    "listeners": 1752
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lásko Má, Já Stůňu",
+    "artist": "Vondráčková Helena",
+    "date": "25.10.2025",
+    "time": "14:42",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Léto",
+    "artist": "Bartošová Iveta",
+    "date": "25.10.2025",
+    "time": "14:38",
+    "listeners": 1810
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Cudzom Meste",
+    "artist": "Jana Kirschner",
+    "date": "25.10.2025",
+    "time": "14:35",
+    "listeners": 1977
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Po Nás Lásko Má Jdou",
+    "artist": "Kotvald Petr",
+    "date": "25.10.2025",
+    "time": "14:30",
+    "listeners": 1889
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Taliansky Muzikál",
+    "artist": "Júlia a Peter Hečkovci",
+    "date": "25.10.2025",
+    "time": "14:28",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Niekto Ti To Povie Skôr Než Ja",
+    "artist": "Desmod",
+    "date": "25.10.2025",
+    "time": "14:23",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Saxana",
+    "artist": "Petra Černocká",
+    "date": "25.10.2025",
+    "time": "14:20",
+    "listeners": 1969
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Snídane V Tráve",
     "artist": "Tucný Michal",
     "date": "25.10.2025",

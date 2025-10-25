@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Chtěl Jsem Mít",
+    "artist": "Turbo",
+    "date": "25.10.2025",
+    "time": "06:18",
+    "listeners": 229
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nestarej Se Kamarade",
+    "artist": "Karel Gott",
+    "date": "25.10.2025",
+    "time": "06:15",
+    "listeners": 232
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voda Čo Ma Drží Nad Vodou",
+    "artist": "Jožo Ráž",
+    "date": "25.10.2025",
+    "time": "06:10",
+    "listeners": 226
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tak Si So Mnou Opakuj",
+    "artist": "Gombitová Marika",
+    "date": "25.10.2025",
+    "time": "06:06",
+    "listeners": 223
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prý Se Tomu Říká Láska",
+    "artist": "Lenka Filipová",
+    "date": "25.10.2025",
+    "time": "06:03",
+    "listeners": 213
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Odchádzajú Lásky",
+    "artist": "Richard Müller",
+    "date": "25.10.2025",
+    "time": "05:59",
+    "listeners": 219
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Shoop Shoop Song",
     "artist": "Cher",
     "date": "25.10.2025",

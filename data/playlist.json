@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "25.10.2025",
     "time": "23:26",
-    "listeners": 305
+    "listeners": 305,
+    "lyricists": null,
+    "album": "Legenda 3",
+    "release_year": 1997,
+    "duration_ms": 235000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,19 @@
     "artist": "Kool & The Gang",
     "date": "25.10.2025",
     "time": "23:23",
-    "listeners": 311
+    "listeners": 311,
+    "lyricists": [
+      "James “J.T.” Taylor",
+      "Kool & the Gang",
+      "Ronald Bell"
+    ],
+    "album": "Something Special",
+    "release_year": 1997,
+    "duration_ms": 293667,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Vengaboys",
     "date": "25.10.2025",
     "time": "23:19",
-    "listeners": 324
+    "listeners": 324,
+    "lyricists": null,
+    "album": "Boom, Boom, Boom, Boom!! - Single",
+    "release_year": 1998,
+    "duration_ms": 202583,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

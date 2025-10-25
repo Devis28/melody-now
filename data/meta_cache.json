@@ -11811,5 +11811,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "kool|get down on it": {
+    "release_year": 1997,
+    "artist_country": "US",
+    "album": "Something Special",
+    "duration_ms": 293667,
+    "lyricists": [
+      "James “J.T.” Taylor",
+      "Kool & the Gang",
+      "Ronald Bell"
+    ],
+    "genres": [
+      "R&B"
+    ]
   }
 }

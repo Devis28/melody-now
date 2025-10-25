@@ -5,7 +5,15 @@
     "artist": "Heckovci Julia A Peter",
     "date": "25.10.2025",
     "time": "07:47",
-    "listeners": 489
+    "listeners": 489,
+    "lyricists": null,
+    "album": "Maturitné tablo",
+    "release_year": 1987,
+    "duration_ms": 243329,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Tublatanka",
     "date": "25.10.2025",
     "time": "07:42",
-    "listeners": 406
+    "listeners": 406,
+    "lyricists": null,
+    "album": "Rockové Balady",
+    "release_year": 1992,
+    "duration_ms": 327893,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

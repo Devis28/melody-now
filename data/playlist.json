@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tragedy",
+    "artist": "The Bee Gees",
+    "date": "25.10.2025",
+    "time": "23:14",
+    "listeners": 355
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "date": "25.10.2025",
+    "time": "23:11",
+    "listeners": 368
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Would I Lie To You",
+    "artist": "Charles And Eddie",
+    "date": "25.10.2025",
+    "time": "23:07",
+    "listeners": 408
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "25.10.2025",
+    "time": "23:03",
+    "listeners": 402
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I've Been Thinking About You",
+    "artist": "Londonbeat",
+    "date": "25.10.2025",
+    "time": "22:59",
+    "listeners": 412
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Rock Me Amadeus",
     "artist": "Falco",
     "date": "25.10.2025",

@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Daj Ruku Do Mojej Ruky",
+    "artist": "Smatanová Zuzana",
+    "date": "26.10.2025",
+    "time": "14:24",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tereza",
+    "artist": "Matuška Waldemar",
+    "date": "26.10.2025",
+    "time": "14:21",
+    "listeners": 1782
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nemožná",
+    "artist": "Slivová Silvia",
+    "date": "26.10.2025",
+    "time": "14:18",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bon Soir Mademoiselle Paris",
+    "artist": "Olympic",
+    "date": "26.10.2025",
+    "time": "14:14",
+    "listeners": 1921
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "26.10.2025",
+    "time": "14:11",
+    "listeners": 1884
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horúca Láska",
+    "artist": "Lukáš Adamec",
+    "date": "26.10.2025",
+    "time": "14:06",
+    "listeners": 1939
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Arabela",
+    "artist": "Rolincova Darinka",
+    "date": "26.10.2025",
+    "time": "14:02",
+    "listeners": 1962
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kapela",
+    "artist": "Imt Smile",
+    "date": "26.10.2025",
+    "time": "13:58",
+    "listeners": 1972
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tentokrát Se Budu Smát Já",
     "artist": "Vondráčková Helena",
     "date": "26.10.2025",

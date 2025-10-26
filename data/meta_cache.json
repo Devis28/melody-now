@@ -11851,5 +11851,17 @@
     "genres": [
       "Country"
     ]
+  },
+  "barry manilow|copacabana at the copa": {
+    "release_year": 2024,
+    "artist_country": "US",
+    "album": "Éxitos de Verano",
+    "duration_ms": 240173,
+    "lyricists": [
+      "Barry Manilow"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

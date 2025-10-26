@@ -5,7 +5,15 @@
     "artist": "Müller Richard",
     "date": "26.10.2025",
     "time": "10:27",
-    "listeners": 1167
+    "listeners": 1167,
+    "lyricists": null,
+    "album": "Výberovka",
+    "release_year": 1988,
+    "duration_ms": 320040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Tobias Szidi",
     "date": "26.10.2025",
     "time": "10:23",
-    "listeners": 1182
+    "listeners": 1182,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2008,
+    "duration_ms": 307000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Nagy Peter",
     "date": "26.10.2025",
     "time": "10:19",
-    "listeners": 1147
+    "listeners": 1147,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 162000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Melen Josef",
     "date": "26.10.2025",
     "time": "10:16",
-    "listeners": 1118
+    "listeners": 1118,
+    "lyricists": null,
+    "album": "Veselé Dětské Písničky",
+    "release_year": 1981,
+    "duration_ms": 158000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,110 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "S Tebou",
+    "artist": "Žbirka Miro",
+    "date": "26.10.2025",
+    "time": "17:38",
+    "listeners": 1137
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spálená Láska",
+    "artist": "Tublatanka",
+    "date": "26.10.2025",
+    "time": "17:33",
+    "listeners": 1093
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pátá",
+    "artist": "Helena Vondráčková",
+    "date": "26.10.2025",
+    "time": "17:31",
+    "listeners": 1267
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Víš Lásko",
+    "artist": "Bartošová Iveta",
+    "date": "26.10.2025",
+    "time": "17:27",
+    "listeners": 1145
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nedá Sa Újsť",
+    "artist": "I.M.T. Smile",
+    "date": "26.10.2025",
+    "time": "17:23",
+    "listeners": 1206
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "26.10.2025",
+    "time": "17:21",
+    "listeners": 1188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hurikán",
+    "artist": "Janda Dalibor",
+    "date": "26.10.2025",
+    "time": "17:17",
+    "listeners": 1128
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Říkej Mi",
+    "artist": "Petra Janů",
+    "date": "26.10.2025",
+    "time": "17:14",
+    "listeners": 1147
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šrouby Do Hlavy",
+    "artist": "Lucie",
+    "date": "26.10.2025",
+    "time": "17:09",
+    "listeners": 1178
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Kúp Mi Rontgen",
+    "artist": "Yps",
+    "date": "26.10.2025",
+    "time": "17:06",
+    "listeners": 1182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamaráti",
+    "artist": "Elán",
+    "date": "26.10.2025",
+    "time": "17:04",
+    "listeners": 1193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ja Viem",
+    "artist": "Grigorov Robo",
+    "date": "26.10.2025",
+    "time": "17:00",
+    "listeners": 1229
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Není Všechno Paráda",
+    "artist": "Karel Zich",
+    "date": "26.10.2025",
+    "time": "16:58",
+    "listeners": 1220
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Naveky",
     "artist": "Katarína Knechtová",
     "date": "26.10.2025",

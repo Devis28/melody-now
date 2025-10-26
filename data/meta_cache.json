@@ -11843,5 +11843,13 @@
     "genres": [
       "Pop"
     ]
+  },
+  "shania twain|man ! i feel like a woman !": {
+    "album": "Women To The Front: Shania Twain - EP",
+    "release_year": 1997,
+    "duration_ms": 233000,
+    "genres": [
+      "Country"
+    ]
   }
 }

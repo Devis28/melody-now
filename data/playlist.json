@@ -5,7 +5,15 @@
     "artist": "The Gipsy Kings",
     "date": "26.10.2025",
     "time": "20:11",
-    "listeners": 1122
+    "listeners": 1122,
+    "lyricists": null,
+    "album": "The Essential Gipsy Kings",
+    "release_year": 1989,
+    "duration_ms": 219667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Shania Twain",
     "date": "26.10.2025",
     "time": "20:07",
-    "listeners": 1230
+    "listeners": 1230,
+    "lyricists": null,
+    "album": "Women To The Front: Shania Twain - EP",
+    "release_year": 1997,
+    "duration_ms": 233000,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Joy",
     "date": "26.10.2025",
     "time": "20:03",
-    "listeners": 1199
+    "listeners": 1199,
+    "lyricists": null,
+    "album": "The Original Maxi-Singles Collection & B-Sides",
+    "release_year": 2006,
+    "duration_ms": 325147,
+    "artist_country": "AT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "I.M.T. Smile",
     "date": "26.10.2025",
     "time": "20:00",
-    "listeners": 1254
+    "listeners": 1254,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2008,
+    "duration_ms": 180933,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Iveta Bartosova & Petr Sepesi",
     "date": "26.10.2025",
     "time": "19:57",
-    "listeners": 1188
+    "listeners": 1188,
+    "lyricists": null,
+    "album": "Knoflíky Lásky",
+    "release_year": 2010,
+    "duration_ms": 148773,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

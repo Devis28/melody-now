@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Okno Mé Lásky",
+    "artist": "Olympic",
+    "date": "26.10.2025",
+    "time": "15:47",
+    "listeners": 1600
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stonka",
+    "artist": "Kristína",
+    "date": "26.10.2025",
+    "time": "15:43",
+    "listeners": 1529
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Biograf Láska",
     "artist": "Hana Zagorová",
     "date": "26.10.2025",

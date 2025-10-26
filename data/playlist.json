@@ -1,6 +1,78 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tentokrát Se Budu Smát Já",
+    "artist": "Vondráčková Helena",
+    "date": "26.10.2025",
+    "time": "13:55",
+    "listeners": 1985
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "26.10.2025",
+    "time": "13:51",
+    "listeners": 1964
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kdo Vchází Do Tvých Snů Má Lásko",
+    "artist": "Neckář Václav",
+    "date": "26.10.2025",
+    "time": "13:45",
+    "listeners": 1961
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Farbami Dýcha Noc",
+    "artist": "Balogh Berco",
+    "date": "26.10.2025",
+    "time": "13:41",
+    "listeners": 1879
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Útoč Láskou",
+    "artist": "Bartosova, Iveta",
+    "date": "26.10.2025",
+    "time": "13:38",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Michaela",
+    "artist": "Hex",
+    "date": "26.10.2025",
+    "time": "13:34",
+    "listeners": 1978
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Smes Italskych Pisni",
+    "artist": "Ruzni Interpreti",
+    "date": "26.10.2025",
+    "time": "13:30",
+    "listeners": 1951
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Padá Hvězda",
+    "artist": "Janda Dalibor",
+    "date": "26.10.2025",
+    "time": "13:27",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jediný A Jediná",
+    "artist": "Zuzana Smatanová",
+    "date": "26.10.2025",
+    "time": "13:23",
+    "listeners": 1925
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Což Takhle Dát Si Špenát",
     "artist": "Jiří Schelinger",
     "date": "26.10.2025",

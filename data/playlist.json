@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Aj Keď Bez Peňazí",
+    "artist": "Elán",
+    "date": "26.10.2025",
+    "time": "14:37",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neznáma",
+    "artist": "Palonder Marcel",
+    "date": "26.10.2025",
+    "time": "14:33",
+    "listeners": 1956
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Alenka V Ríši Divú",
+    "artist": "Karel Zich",
+    "date": "26.10.2025",
+    "time": "14:30",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Až Sa Znova Narodím",
+    "artist": "Peter Nagy",
+    "date": "26.10.2025",
+    "time": "14:27",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Daj Ruku Do Mojej Ruky",
     "artist": "Smatanová Zuzana",
     "date": "26.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Gott Karel & Holanová Marcela",
     "date": "26.10.2025",
     "time": "09:18",
-    "listeners": 910
+    "listeners": 910,
+    "lyricists": null,
+    "album": "Umbrella EP",
+    "release_year": 2022,
+    "duration_ms": 234456,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ladislav Štaidl",
     "date": "26.10.2025",
     "time": "09:15",
-    "listeners": 941
+    "listeners": 941,
+    "lyricists": null,
+    "album": "Hitparáda 70. Let",
+    "release_year": 2004,
+    "duration_ms": 162680,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,13 @@
     "artist": "Gladiator Hammel Pavol",
     "date": "26.10.2025",
     "time": "09:10",
-    "listeners": 805
+    "listeners": 805,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "No Name",
     "date": "26.10.2025",
     "time": "09:07",
-    "listeners": 828
+    "listeners": 828,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2006,
+    "duration_ms": 197707,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,15 @@
     "artist": "Turbo",
     "date": "26.10.2025",
     "time": "09:02",
-    "listeners": 829
+    "listeners": 829,
+    "lyricists": null,
+    "album": "To Byla, Pánové, Jízda",
+    "release_year": 2023,
+    "duration_ms": 284733,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +83,18 @@
     "artist": "Robo Grigorov",
     "date": "26.10.2025",
     "time": "08:57",
-    "listeners": 762
+    "listeners": 762,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "album": "Chýbaš Mi...",
+    "release_year": 2006,
+    "duration_ms": 273293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

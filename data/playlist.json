@@ -5,7 +5,15 @@
     "artist": "Věra Špinarová",
     "date": "26.10.2025",
     "time": "16:46",
-    "listeners": 1256
+    "listeners": 1256,
+    "lyricists": null,
+    "album": "Jednoho Dne Se Vrátíš (Bonus Track Version)",
+    "release_year": 2011,
+    "duration_ms": 277200,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Spálený Petr",
     "date": "26.10.2025",
     "time": "16:43",
-    "listeners": 1274
+    "listeners": 1274,
+    "lyricists": null,
+    "album": "Největší hity (Díky)",
+    "release_year": 1998,
+    "duration_ms": 213893,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

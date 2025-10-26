@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "26.10.2025",
+    "time": "10:12",
+    "listeners": 1015
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vetroň",
+    "artist": "Hex",
+    "date": "26.10.2025",
+    "time": "10:07",
+    "listeners": 1135
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvaja",
+    "artist": "Grigorov Robo",
+    "date": "26.10.2025",
+    "time": "10:03",
+    "listeners": 1044
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zober Ma Domov",
+    "artist": "Desmod",
+    "date": "26.10.2025",
+    "time": "09:56",
+    "listeners": 1046
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mám Rád",
     "artist": "Miro Žbirka",
     "date": "26.10.2025",

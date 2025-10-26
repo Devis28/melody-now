@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Aj Tak Sme Frajeri",
+    "artist": "Nagy Peter",
+    "date": "26.10.2025",
+    "time": "16:39",
+    "listeners": 1355
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievča Amerika",
+    "artist": "Habera Pavol",
+    "date": "26.10.2025",
+    "time": "16:35",
+    "listeners": 1284
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tabáček",
+    "artist": "Chinaski",
+    "date": "26.10.2025",
+    "time": "16:31",
+    "listeners": 1298
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sme Také Aké Sme",
     "artist": "Dubasová Beáta",
     "date": "26.10.2025",

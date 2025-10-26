@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pieseň O Kamarátstve",
+    "artist": "Darina Rolincová",
+    "date": "26.10.2025",
+    "time": "16:18",
+    "listeners": 1270
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tisíc Mil",
+    "artist": "Matuska Waldemar & Vondrackova Helena",
+    "date": "26.10.2025",
+    "time": "16:15",
+    "listeners": 1362
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "G8",
+    "date": "26.10.2025",
+    "time": "16:11",
+    "listeners": 1449
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čoskoro",
+    "artist": "Peter Bič Project",
+    "date": "26.10.2025",
+    "time": "16:07",
+    "listeners": 1439
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Atlantída",
+    "artist": "Miro Žbirka",
+    "date": "26.10.2025",
+    "time": "16:03",
+    "listeners": 1355
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Voda Čo Ma Drží Nad Vodou",
     "artist": "Jožo Ráž",
     "date": "26.10.2025",

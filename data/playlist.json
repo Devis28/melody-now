@@ -5,7 +5,15 @@
     "artist": "Vondráčková Helena",
     "date": "26.10.2025",
     "time": "13:55",
-    "listeners": 1985
+    "listeners": 1985,
+    "lyricists": null,
+    "album": "Přejdi Jordán A Další Hity...",
+    "release_year": 1965,
+    "duration_ms": 206093,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Kotvald Petr",
     "date": "26.10.2025",
     "time": "13:51",
-    "listeners": 1964
+    "listeners": 1964,
+    "lyricists": null,
+    "album": "Gejzír",
+    "release_year": 1990,
+    "duration_ms": 227267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Neckář Václav",
     "date": "26.10.2025",
     "time": "13:45",
-    "listeners": 1961
+    "listeners": 1961,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 1965,
+    "duration_ms": 323453,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Balogh Berco",
     "date": "26.10.2025",
     "time": "13:41",
-    "listeners": 1879
+    "listeners": 1879,
+    "lyricists": null,
+    "album": "Siedmy pád",
+    "release_year": 2007,
+    "duration_ms": 202507,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Bartosova, Iveta",
     "date": "26.10.2025",
     "time": "13:38",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 208667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Hex",
     "date": "26.10.2025",
     "time": "13:34",
-    "listeners": 1978
+    "listeners": 1978,
+    "lyricists": null,
+    "album": "Vikend",
+    "release_year": 2002,
+    "duration_ms": 219027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,13 @@
     "artist": "Ruzni Interpreti",
     "date": "26.10.2025",
     "time": "13:30",
-    "listeners": 1951
+    "listeners": 1951,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +116,15 @@
     "artist": "Janda Dalibor",
     "date": "26.10.2025",
     "time": "13:27",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 190627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +132,15 @@
     "artist": "Zuzana Smatanová",
     "date": "26.10.2025",
     "time": "13:23",
-    "listeners": 1925
+    "listeners": 1925,
+    "lyricists": null,
+    "album": "Jediný A Jediná - Single",
+    "release_year": 2018,
+    "duration_ms": 258669,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

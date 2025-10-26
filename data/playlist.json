@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dvaja",
+    "artist": "Gombitová Marika",
+    "date": "26.10.2025",
+    "time": "10:54",
+    "listeners": 1322
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Všechno Bude Fajn",
+    "artist": "Žentour",
+    "date": "26.10.2025",
+    "time": "10:50",
+    "listeners": 1285
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Obchodník S Deštěm",
     "artist": "Kryštof",
     "date": "26.10.2025",

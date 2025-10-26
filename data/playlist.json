@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Diskohrátky",
+    "artist": "Hana Zagorová",
+    "date": "26.10.2025",
+    "time": "06:42",
+    "listeners": 247
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Severanka",
+    "artist": "Team",
+    "date": "26.10.2025",
+    "time": "06:37",
+    "listeners": 259
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Miss Moskva",
+    "artist": "Korn Jiří",
+    "date": "26.10.2025",
+    "time": "06:33",
+    "listeners": 260
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Umenie Žiť",
     "artist": "Patejdl Vašo",
     "date": "26.10.2025",

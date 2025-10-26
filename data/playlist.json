@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Já Už Jdu",
+    "artist": "František Ringo Čech",
+    "date": "26.10.2025",
+    "time": "11:15",
+    "listeners": 1356
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Som On (Snežný Pluh)",
+    "artist": "Hex",
+    "date": "26.10.2025",
+    "time": "11:10",
+    "listeners": 1421
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tri Štvrte Na Jeseň",
+    "artist": "Vašo Patejdl",
+    "date": "26.10.2025",
+    "time": "11:05",
+    "listeners": 1341
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ak Náhodou",
+    "artist": "Rolincová Darina",
+    "date": "26.10.2025",
+    "time": "11:03",
+    "listeners": 1386
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľúbim Ťa",
+    "artist": "Michal Dočolomanský",
+    "date": "26.10.2025",
+    "time": "10:57",
+    "listeners": 1252
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Dvaja",
     "artist": "Gombitová Marika",
     "date": "26.10.2025",

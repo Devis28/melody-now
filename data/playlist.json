@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Což Takhle Dát Si Špenát",
+    "artist": "Jiří Schelinger",
+    "date": "26.10.2025",
+    "time": "13:21",
+    "listeners": 2000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Poďme Sa Zachrániť",
+    "artist": "Peter Nagy",
+    "date": "26.10.2025",
+    "time": "13:17",
+    "listeners": 1871
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zdá Se",
+    "artist": "Hana Zagorová",
+    "date": "26.10.2025",
+    "time": "13:14",
+    "listeners": 1943
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Žily",
+    "artist": "No Name",
+    "date": "26.10.2025",
+    "time": "13:11",
+    "listeners": 1817
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Holubička",
+    "artist": "Adam Ďurica",
+    "date": "26.10.2025",
+    "time": "13:05",
+    "listeners": 1906
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lietam V Tom Tiež",
+    "artist": "Team",
+    "date": "26.10.2025",
+    "time": "13:01",
+    "listeners": 1826
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievča Z Reklamy",
+    "artist": "Dubasová Beáta",
+    "date": "26.10.2025",
+    "time": "12:58",
+    "listeners": 1784
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nočná Optika",
     "artist": "Müller Richard",
     "date": "26.10.2025",

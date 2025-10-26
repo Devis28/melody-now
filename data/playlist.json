@@ -5,7 +5,15 @@
     "artist": "Vondráčková Helena &Korn Jiří",
     "date": "26.10.2025",
     "time": "18:45",
-    "listeners": 1149
+    "listeners": 1149,
+    "lyricists": null,
+    "album": "Těch Pár Dnů",
+    "release_year": 2007,
+    "duration_ms": 282827,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "I.M.T. Smile",
     "date": "26.10.2025",
     "time": "18:42",
-    "listeners": 1186
+    "listeners": 1186,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 178840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

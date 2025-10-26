@@ -5,7 +5,15 @@
     "artist": "Grigorov Robo",
     "date": "26.10.2025",
     "time": "15:11",
-    "listeners": 1778
+    "listeners": 1778,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jitka Zelenkova",
     "date": "26.10.2025",
     "time": "15:07",
-    "listeners": 1826
+    "listeners": 1826,
+    "lyricists": null,
+    "album": "Bez Lásky Láska Není",
+    "release_year": 2016,
+    "duration_ms": 193200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Tublatanka",
     "date": "26.10.2025",
     "time": "15:03",
-    "listeners": 1853
+    "listeners": 1853,
+    "lyricists": null,
+    "album": "Skúsime to cez vesmír",
+    "release_year": 2002,
+    "duration_ms": 298893,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Müller Richard",
     "date": "26.10.2025",
     "time": "14:59",
-    "listeners": 1845
+    "listeners": 1845,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2012,
+    "duration_ms": 280013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "David Michal",
     "date": "26.10.2025",
     "time": "14:56",
-    "listeners": 1809
+    "listeners": 1809,
+    "lyricists": null,
+    "album": "Non Stop",
+    "release_year": 2001,
+    "duration_ms": 137707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Patejdl Vašo",
     "date": "26.10.2025",
     "time": "06:28",
-    "listeners": 249
+    "listeners": 249,
+    "lyricists": null,
+    "album": "Lov na city",
+    "release_year": 1987,
+    "duration_ms": 273933,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Heckovci Peter A Julia",
     "date": "26.10.2025",
     "time": "06:25",
-    "listeners": 254
+    "listeners": 254,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 219095,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,18 @@
     "artist": "Pavol Hammel",
     "date": "26.10.2025",
     "time": "06:22",
-    "listeners": 221
+    "listeners": 221,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1997,
+    "duration_ms": 168587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,16 @@
     "artist": "Michal David",
     "date": "26.10.2025",
     "time": "06:19",
-    "listeners": 256
+    "listeners": 256,
+    "lyricists": null,
+    "album": "Funky 2",
+    "release_year": 1997,
+    "duration_ms": 180000,
+    "artist_country": "CZ",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Vondrackova Lucie",
     "date": "26.10.2025",
     "time": "06:15",
-    "listeners": 223
+    "listeners": 223,
+    "lyricists": null,
+    "album": "Atlantida",
+    "release_year": 1995,
+    "duration_ms": 260027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

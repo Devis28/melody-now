@@ -5,7 +5,15 @@
     "artist": "Love Message",
     "date": "26.10.2025",
     "time": "04:52",
-    "listeners": 200
+    "listeners": 200,
+    "lyricists": null,
+    "album": "Love Message (The 90s Version) - Single",
+    "release_year": 1996,
+    "duration_ms": 229177,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Rod Stewart",
     "date": "26.10.2025",
     "time": "04:48",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Some Guys Have All the Luck",
+    "release_year": 1993,
+    "duration_ms": 278600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,19 @@
     "artist": "Dario G",
     "date": "26.10.2025",
     "time": "04:44",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Dario G",
+      "Gilbert Gabriel",
+      "Nick Laird-Clowes"
+    ],
+    "album": "Sunmachine",
+    "release_year": 2016,
+    "duration_ms": 379200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +58,15 @@
     "artist": "AC+",
     "date": "26.10.2025",
     "time": "04:41",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 1990,
+    "duration_ms": 213160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "The Bangles",
     "date": "26.10.2025",
     "time": "04:38",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Bangles Greatest Hits",
+    "release_year": 2022,
+    "duration_ms": 184863,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

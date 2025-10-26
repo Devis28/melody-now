@@ -5,7 +5,15 @@
     "artist": "Peter Nagy",
     "date": "26.10.2025",
     "time": "18:39",
-    "listeners": 1148
+    "listeners": 1148,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 177027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán & Lojzo",
     "date": "26.10.2025",
     "time": "18:35",
-    "listeners": 1180
+    "listeners": 1180,
+    "lyricists": null,
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "release_year": 2003,
+    "duration_ms": 235173,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Grigorov Robo",
     "date": "26.10.2025",
     "time": "18:32",
-    "listeners": 1281
+    "listeners": 1281,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 191373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

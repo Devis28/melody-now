@@ -5,7 +5,15 @@
     "artist": "Patejdl Vašo & Dubasová Beáta",
     "date": "26.10.2025",
     "time": "17:58",
-    "listeners": 1314
+    "listeners": 1314,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 1989,
+    "duration_ms": 223787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bílá Lucie Gott Karel",
     "date": "26.10.2025",
     "time": "17:53",
-    "listeners": 1223
+    "listeners": 1223,
+    "lyricists": null,
+    "album": "Duety+Bonus / 2009",
+    "release_year": 1997,
+    "duration_ms": 305093,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

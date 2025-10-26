@@ -5,7 +5,15 @@
     "artist": "Dubasová Beáta",
     "date": "26.10.2025",
     "time": "16:27",
-    "listeners": 1379
+    "listeners": 1379,
+    "lyricists": null,
+    "album": "Beáta",
+    "release_year": 1987,
+    "duration_ms": 255360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Vaso Patejdl A Heidi Janku",
     "date": "26.10.2025",
     "time": "16:24",
-    "listeners": 1496
+    "listeners": 1496,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Petra Černocká",
     "date": "26.10.2025",
     "time": "16:21",
-    "listeners": 1342
+    "listeners": 1342,
+    "lyricists": null,
+    "album": "Se Mnou Si Píseň Broukej",
+    "release_year": 1996,
+    "duration_ms": 168493,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

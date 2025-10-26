@@ -11913,5 +11913,14 @@
       "Pop",
       "Rock"
     ]
+  },
+  "fancy|slice me nice": {
+    "release_year": 2001,
+    "artist_country": "DE",
+    "album": "Hit Party",
+    "duration_ms": 246027,
+    "genres": [
+      "Pop"
+    ]
   }
 }

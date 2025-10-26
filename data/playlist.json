@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Umenie Žiť",
+    "artist": "Patejdl Vašo",
+    "date": "26.10.2025",
+    "time": "06:28",
+    "listeners": 249
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kralovna Pavlaci A Dvorov",
+    "artist": "Heckovci Peter A Julia",
+    "date": "26.10.2025",
+    "time": "06:25",
+    "listeners": 254
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mladosť",
+    "artist": "Pavol Hammel",
+    "date": "26.10.2025",
+    "time": "06:22",
+    "listeners": 221
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Soumen",
+    "artist": "Michal David",
+    "date": "26.10.2025",
+    "time": "06:19",
+    "listeners": 256
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kdo Te Ma Rad",
+    "artist": "Vondrackova Lucie",
+    "date": "26.10.2025",
+    "time": "06:15",
+    "listeners": 223
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nie Alebo Áno",
     "artist": "No Name",
     "date": "26.10.2025",

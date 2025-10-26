@@ -5,7 +5,15 @@
     "artist": "Waldemar Matuška",
     "date": "26.10.2025",
     "time": "18:29",
-    "listeners": 1224
+    "listeners": 1224,
+    "lyricists": null,
+    "album": "Píseň Pro Kristýnku A Další Hity",
+    "release_year": 2001,
+    "duration_ms": 221440,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jana Kirschner",
     "date": "26.10.2025",
     "time": "18:25",
-    "listeners": 1215
+    "listeners": 1215,
+    "lyricists": null,
+    "album": "Živá",
+    "release_year": 2017,
+    "duration_ms": 228594,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Nocadeň",
     "date": "26.10.2025",
     "time": "18:22",
-    "listeners": 1252
+    "listeners": 1252,
+    "lyricists": null,
+    "album": "Nocadeň v Prahe (Live 2024)",
+    "release_year": 2015,
+    "duration_ms": 258587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Olympic",
     "date": "26.10.2025",
     "time": "18:19",
-    "listeners": 1175
+    "listeners": 1175,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1992,
+    "duration_ms": 173307,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

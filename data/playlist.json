@@ -5,7 +5,15 @@
     "artist": "Captain Hollywood Project",
     "date": "26.10.2025",
     "time": "21:33",
-    "listeners": 760
+    "listeners": 760,
+    "lyricists": null,
+    "album": "Love Is Not Sex",
+    "release_year": 1994,
+    "duration_ms": 253573,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Camouflage",
     "date": "26.10.2025",
     "time": "21:30",
-    "listeners": 773
+    "listeners": 773,
+    "lyricists": null,
+    "album": "Best of Camouflage: We Stroke the Flames",
+    "release_year": 2009,
+    "duration_ms": 253267,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Iglesias Enrique",
     "date": "26.10.2025",
     "time": "21:27",
-    "listeners": 788
+    "listeners": 788,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 209200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Depeche Mode",
     "date": "26.10.2025",
     "time": "21:23",
-    "listeners": 872
+    "listeners": 872,
+    "lyricists": null,
+    "album": "Some Great Reward (Deluxe)",
+    "release_year": 1989,
+    "duration_ms": 231973,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

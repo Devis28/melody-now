@@ -11881,5 +11881,24 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "captain hollywood project|more and more": {
+    "release_year": 1994,
+    "artist_country": "DE",
+    "album": "Love Is Not Sex",
+    "duration_ms": 253573,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "depeche mode|people are people": {
+    "release_year": 1989,
+    "artist_country": "GB",
+    "album": "Some Great Reward (Deluxe)",
+    "duration_ms": 231973,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

@@ -5,7 +5,15 @@
     "artist": "Smatanová Zuzana",
     "date": "26.10.2025",
     "time": "14:24",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Gemini",
+    "release_year": 2009,
+    "duration_ms": 184930,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Matuška Waldemar",
     "date": "26.10.2025",
     "time": "14:21",
-    "listeners": 1782
+    "listeners": 1782,
+    "lyricists": null,
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "release_year": 1964,
+    "duration_ms": 145680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Slivová Silvia",
     "date": "26.10.2025",
     "time": "14:18",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 233373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Olympic",
     "date": "26.10.2025",
     "time": "14:14",
-    "listeners": 1921
+    "listeners": 1921,
+    "lyricists": null,
+    "album": "Django - Hudba k filmu",
+    "release_year": 1992,
+    "duration_ms": 228800,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Team",
     "date": "26.10.2025",
     "time": "14:11",
-    "listeners": 1884
+    "listeners": 1884,
+    "lyricists": null,
+    "album": "7edem",
+    "release_year": 2001,
+    "duration_ms": 172547,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Lukáš Adamec",
     "date": "26.10.2025",
     "time": "14:06",
-    "listeners": 1939
+    "listeners": 1939,
+    "lyricists": null,
+    "album": "Lukáš Adamec",
+    "release_year": 2017,
+    "duration_ms": 208147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,13 @@
     "artist": "Rolincova Darinka",
     "date": "26.10.2025",
     "time": "14:02",
-    "listeners": 1962
+    "listeners": 1962,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 238640,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +116,16 @@
     "artist": "Imt Smile",
     "date": "26.10.2025",
     "time": "13:58",
-    "listeners": 1972
+    "listeners": 1972,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 231800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

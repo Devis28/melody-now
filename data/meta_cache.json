@@ -11922,5 +11922,20 @@
     "genres": [
       "Pop"
     ]
+  },
+  "donna summer|this time i know it's for real": {
+    "artist_country": "US",
+    "release_year": 1999,
+    "album": "Another Place & Time (Deluxe)",
+    "duration_ms": 219137,
+    "lyricists": [
+      "Donna Summer",
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

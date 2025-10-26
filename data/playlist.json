@@ -5,7 +5,20 @@
     "artist": "Donna Summer",
     "date": "26.10.2025",
     "time": "22:41",
-    "listeners": 475
+    "listeners": 475,
+    "lyricists": [
+      "Donna Summer",
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ],
+    "album": "Another Place & Time (Deluxe)",
+    "release_year": 1999,
+    "duration_ms": 219137,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +26,16 @@
     "artist": "Ronettes, The",
     "date": "26.10.2025",
     "time": "22:39",
-    "listeners": 517
+    "listeners": 517,
+    "lyricists": null,
+    "album": "Be My Baby: The Very Best of The Ronettes",
+    "release_year": 1963,
+    "duration_ms": 160907,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

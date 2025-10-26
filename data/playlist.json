@@ -5,7 +5,19 @@
     "artist": "Mc Hammer",
     "date": "26.10.2025",
     "time": "23:08",
-    "listeners": 385
+    "listeners": 385,
+    "lyricists": [
+      "Alonzo Miller",
+      "MC Hammer",
+      "Rick James"
+    ],
+    "album": "Greatest Hits",
+    "release_year": 2003,
+    "duration_ms": 257000,
+    "artist_country": "US",
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Survivor",
     "date": "26.10.2025",
     "time": "23:04",
-    "listeners": 371
+    "listeners": 371,
+    "lyricists": null,
+    "album": "Eye of the Tiger",
+    "release_year": 2022,
+    "duration_ms": 243773,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Ice Mc",
     "date": "26.10.2025",
     "time": "23:00",
-    "listeners": 411
+    "listeners": 411,
+    "lyricists": null,
+    "album": "Ice 'n' Green",
+    "release_year": 2002,
+    "duration_ms": 260973,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Astley Rick",
     "date": "26.10.2025",
     "time": "22:56",
-    "listeners": 414
+    "listeners": 414,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 205573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,13 @@
     "artist": "Ottawan",
     "date": "26.10.2025",
     "time": "22:53",
-    "listeners": 411
+    "listeners": 411,
+    "lyricists": null,
+    "album": "Ottawan 2",
+    "release_year": 1997,
+    "duration_ms": 289027,
+    "artist_country": "FR",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

@@ -11937,5 +11937,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "mc hammer|u can't touch this": {
+    "release_year": 2003,
+    "artist_country": "US",
+    "album": "Greatest Hits",
+    "duration_ms": 257000,
+    "lyricists": [
+      "Alonzo Miller",
+      "MC Hammer",
+      "Rick James"
+    ],
+    "genres": [
+      "Hip-Hop"
+    ]
   }
 }

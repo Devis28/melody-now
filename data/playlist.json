@@ -5,7 +5,15 @@
     "artist": "Hana Zagorová",
     "date": "26.10.2025",
     "time": "15:39",
-    "listeners": 1693
+    "listeners": 1693,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 1982,
+    "duration_ms": 277067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Jaroslav Uhlíř",
     "date": "26.10.2025",
     "time": "15:35",
-    "listeners": 1615
+    "listeners": 1615,
+    "lyricists": [
+      "Jaroslav Uhlíř",
+      "Zdeněk Svěrák"
+    ],
+    "album": "Country Gold 80. léta",
+    "release_year": 1998,
+    "duration_ms": 189787,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,13 @@
     "artist": "Rolincova Darinka",
     "date": "26.10.2025",
     "time": "15:32",
-    "listeners": 1658
+    "listeners": 1658,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 189827,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",

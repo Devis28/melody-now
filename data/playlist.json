@@ -5,7 +5,15 @@
     "artist": "No Name",
     "date": "26.10.2025",
     "time": "06:11",
-    "listeners": 217
+    "listeners": 217,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 243480,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Smatanová Zuzana",
     "date": "26.10.2025",
     "time": "06:07",
-    "listeners": 234
+    "listeners": 234,
+    "lyricists": null,
+    "album": "Tabletky Odvahy",
+    "release_year": 2007,
+    "duration_ms": 185587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Bartošová Iveta",
     "date": "26.10.2025",
     "time": "06:04",
-    "listeners": 224
+    "listeners": 224,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 172600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Dj Bobo",
     "date": "26.10.2025",
     "time": "06:01",
-    "listeners": 215
+    "listeners": 215,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 229893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Nazareth",
     "date": "26.10.2025",
     "time": "05:57",
-    "listeners": 205
+    "listeners": 205,
+    "lyricists": null,
+    "album": "Hair of the Dog",
+    "release_year": 2002,
+    "duration_ms": 232120,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

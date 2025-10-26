@@ -5,7 +5,15 @@
     "artist": "Jiří Schelinger",
     "date": "26.10.2025",
     "time": "09:43",
-    "listeners": 1035
+    "listeners": 1035,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2004,
+    "duration_ms": 240880,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Bílá Lucie",
     "date": "26.10.2025",
     "time": "09:40",
-    "listeners": 1009
+    "listeners": 1009,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",

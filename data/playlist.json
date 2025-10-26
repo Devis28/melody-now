@@ -5,7 +5,15 @@
     "artist": "Pavol Habera & Team",
     "date": "26.10.2025",
     "time": "05:33",
-    "listeners": 215
+    "listeners": 215,
+    "lyricists": null,
+    "album": "The Best Of",
+    "release_year": 2021,
+    "duration_ms": 325507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ub 40 Hynde Chrissie",
     "date": "26.10.2025",
     "time": "05:30",
-    "listeners": 209
+    "listeners": 209,
+    "lyricists": null,
+    "album": "The Very Best Of",
+    "release_year": 1985,
+    "duration_ms": 189733,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peter Nagy",
     "date": "26.10.2025",
     "time": "05:26",
-    "listeners": 198
+    "listeners": 198,
+    "lyricists": null,
+    "album": "Labute A Havrany",
+    "release_year": 2018,
+    "duration_ms": 191960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Tina Turner/Eros Ramazzotti",
     "date": "26.10.2025",
     "time": "05:22",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 291133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,18 @@
     "artist": "Richard Müller",
     "date": "26.10.2025",
     "time": "05:17",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2011,
+    "duration_ms": 275653,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

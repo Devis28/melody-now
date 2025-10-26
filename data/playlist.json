@@ -5,7 +5,15 @@
     "artist": "I.M.T Smile",
     "date": "26.10.2025",
     "time": "09:37",
-    "listeners": 924
+    "listeners": 924,
+    "lyricists": null,
+    "album": "Nech Sa Paci",
+    "release_year": 2005,
+    "duration_ms": 163267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Smatanová Zuzana",
     "date": "26.10.2025",
     "time": "09:33",
-    "listeners": 1042
+    "listeners": 1042,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 2008,
+    "duration_ms": 259387,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,13 @@
     "artist": "Ráž Jožo",
     "date": "26.10.2025",
     "time": "09:29",
-    "listeners": 961
+    "listeners": 961,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,16 @@
     "artist": "Pavol Habera",
     "date": "26.10.2025",
     "time": "09:25",
-    "listeners": 905
+    "listeners": 905,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 2021,
+    "duration_ms": 280600,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +68,15 @@
     "artist": "Helena Vondráčková",
     "date": "26.10.2025",
     "time": "09:22",
-    "listeners": 941
+    "listeners": 941,
+    "lyricists": null,
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "release_year": 1983,
+    "duration_ms": 173107,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

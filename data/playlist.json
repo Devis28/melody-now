@@ -5,7 +5,15 @@
     "artist": "Nagy Peter",
     "date": "26.10.2025",
     "time": "07:48",
-    "listeners": 480
+    "listeners": 480,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2009,
+    "duration_ms": 264040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Peter Cmorík",
     "date": "26.10.2025",
     "time": "07:43",
-    "listeners": 473
+    "listeners": 473,
+    "lyricists": null,
+    "album": "Nadherny Den",
+    "release_year": 2008,
+    "duration_ms": 279720,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Michal David & Kroky Františka Janečka",
     "date": "26.10.2025",
     "time": "07:40",
-    "listeners": 425
+    "listeners": 425,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 191560,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Hex",
     "date": "26.10.2025",
     "time": "07:37",
-    "listeners": 415
+    "listeners": 415,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2015,
+    "duration_ms": 232840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

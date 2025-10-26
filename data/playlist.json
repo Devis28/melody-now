@@ -5,7 +5,15 @@
     "artist": "Boney M",
     "date": "26.10.2025",
     "time": "20:55",
-    "listeners": 935
+    "listeners": 935,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 241373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,19 @@
     "artist": "Bon Jovi",
     "date": "26.10.2025",
     "time": "20:51",
-    "listeners": 994
+    "listeners": 994,
+    "lyricists": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ],
+    "album": "Slippery When Wet",
+    "release_year": 2022,
+    "duration_ms": 249581,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

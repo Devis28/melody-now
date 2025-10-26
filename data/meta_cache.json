@@ -11951,5 +11951,14 @@
     "genres": [
       "Hip-Hop"
     ]
+  },
+  "bandolero|paris latino": {
+    "release_year": 2009,
+    "artist_country": "FR",
+    "album": "Au top des années 80, Vol. 1 (30 titres + 5 maxis)",
+    "duration_ms": 249103,
+    "genres": [
+      "Pop"
+    ]
   }
 }

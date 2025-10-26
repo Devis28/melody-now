@@ -5,7 +5,15 @@
     "artist": "Gott Karel",
     "date": "26.10.2025",
     "time": "08:16",
-    "listeners": 569
+    "listeners": 569,
+    "lyricists": null,
+    "album": "Blahopřejeme",
+    "release_year": 2016,
+    "duration_ms": 211000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Žbirka Miro",
     "date": "26.10.2025",
     "time": "08:10",
-    "listeners": 546
+    "listeners": 546,
+    "lyricists": null,
+    "album": "Modrý album (Deluxe Edition 2021)",
+    "release_year": 2001,
+    "duration_ms": 287373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Elán",
     "date": "26.10.2025",
     "time": "08:06",
-    "listeners": 566
+    "listeners": 566,
+    "lyricists": null,
+    "album": "Ôsmy svetadiel (Remastered)",
+    "release_year": 2015,
+    "duration_ms": 239107,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Brezovská Mirka",
     "date": "26.10.2025",
     "time": "08:03",
-    "listeners": 539
+    "listeners": 539,
+    "lyricists": null,
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "release_year": 2016,
+    "duration_ms": 197007,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Hana Zagorová",
     "date": "26.10.2025",
     "time": "07:59",
-    "listeners": 488
+    "listeners": 488,
+    "lyricists": null,
+    "album": "Hanka",
+    "release_year": 2011,
+    "duration_ms": 180373,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

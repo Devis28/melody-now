@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Volare (Nel Blu Di Pinto Di Blu)",
+    "artist": "The Gipsy Kings",
+    "date": "26.10.2025",
+    "time": "20:11",
+    "listeners": 1122
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Man ! I Feel Like A Woman !",
+    "artist": "Shania Twain",
+    "date": "26.10.2025",
+    "time": "20:07",
+    "listeners": 1230
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch By Touch",
+    "artist": "Joy",
+    "date": "26.10.2025",
+    "time": "20:03",
+    "listeners": 1199
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľudia Nie Sú Zlí",
+    "artist": "I.M.T. Smile",
+    "date": "26.10.2025",
+    "time": "20:00",
+    "listeners": 1254
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My To Zvladnem",
+    "artist": "Iveta Bartosova & Petr Sepesi",
+    "date": "26.10.2025",
+    "time": "19:57",
+    "listeners": 1188
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Primášovo Srdce",
     "artist": "Karol Duchoň",
     "date": "26.10.2025",

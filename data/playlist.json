@@ -5,7 +5,16 @@
     "artist": "Olympic",
     "date": "26.10.2025",
     "time": "15:47",
-    "listeners": 1600
+    "listeners": 1600,
+    "lyricists": null,
+    "album": "Ulice",
+    "release_year": 2010,
+    "duration_ms": 292507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,20 @@
     "artist": "Kristína",
     "date": "26.10.2025",
     "time": "15:43",
-    "listeners": 1529
+    "listeners": 1529,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "album": "V Sieti Ta Mam",
+    "release_year": 2014,
+    "duration_ms": 227267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

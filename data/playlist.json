@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nie Alebo Áno",
+    "artist": "No Name",
+    "date": "26.10.2025",
+    "time": "06:11",
+    "listeners": 217
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Včely",
+    "artist": "Smatanová Zuzana",
+    "date": "26.10.2025",
+    "time": "06:07",
+    "listeners": 234
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dva Roky Prázdnin",
+    "artist": "Bartošová Iveta",
+    "date": "26.10.2025",
+    "time": "06:04",
+    "listeners": 224
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "26.10.2025",
+    "time": "06:01",
+    "listeners": 215
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Hurts",
+    "artist": "Nazareth",
+    "date": "26.10.2025",
+    "time": "05:57",
+    "listeners": 205
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Žuvačka Za Uchom",
     "artist": "Grigorov Robo",
     "date": "26.10.2025",

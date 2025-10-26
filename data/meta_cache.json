@@ -11863,5 +11863,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "c.c. catch|summer kisses": {
+    "release_year": 1990,
+    "artist_country": "DE",
+    "album": "The 80s Album",
+    "duration_ms": 230120,
+    "genres": [
+      "Pop"
+    ]
   }
 }

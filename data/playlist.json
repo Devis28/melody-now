@@ -5,7 +5,15 @@
     "artist": "C.C. Catch",
     "date": "26.10.2025",
     "time": "20:40",
-    "listeners": 1002
+    "listeners": 1002,
+    "lyricists": null,
+    "album": "The 80s Album",
+    "release_year": 1990,
+    "duration_ms": 230120,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "26.10.2025",
     "time": "20:36",
-    "listeners": 1041
+    "listeners": 1041,
+    "lyricists": null,
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 212304,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

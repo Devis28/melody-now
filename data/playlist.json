@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "26.10.2025",
     "time": "09:53",
-    "listeners": 1077
+    "listeners": 1077,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 181307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Darina Rolincová",
     "date": "26.10.2025",
     "time": "09:48",
-    "listeners": 998
+    "listeners": 998,
+    "lyricists": null,
+    "album": "Skús Ma Najsť, Bez Veľkej Slávy - Single",
+    "release_year": 1998,
+    "duration_ms": 269827,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

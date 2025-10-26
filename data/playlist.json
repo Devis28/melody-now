@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "26.10.2025",
     "time": "10:38",
-    "listeners": 1329
+    "listeners": 1329,
+    "lyricists": null,
+    "album": "Kamil Peteraj \"80\"",
+    "release_year": 2005,
+    "duration_ms": 242787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Imt Smile",
     "date": "26.10.2025",
     "time": "10:35",
-    "listeners": 1255
+    "listeners": 1255,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2007,
+    "duration_ms": 207533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Brontosauři",
     "date": "26.10.2025",
     "time": "10:32",
-    "listeners": 1223
+    "listeners": 1223,
+    "lyricists": null,
+    "album": "Na Kameni Kamen",
+    "release_year": 2007,
+    "duration_ms": 159227,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

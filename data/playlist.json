@@ -5,7 +5,15 @@
     "artist": "Robo Opatovský",
     "date": "26.10.2025",
     "time": "03:47",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Keď Muž Miluje Ženu - Single",
+    "release_year": 2017,
+    "duration_ms": 249240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Dušan Hlaváček",
     "date": "26.10.2025",
     "time": "03:43",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Zaľúbení",
+    "release_year": 1987,
+    "duration_ms": 233352,
+    "artist_country": "SK",
+    "genres": [
+      "Folk",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "The Scorpions",
     "date": "26.10.2025",
     "time": "03:38",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Crazy World",
+    "release_year": 1999,
+    "duration_ms": 312360,
+    "artist_country": "DE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Belinda Carlisle",
     "date": "26.10.2025",
     "time": "03:34",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Heaven on Earth",
+    "release_year": 2005,
+    "duration_ms": 247093,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Jana Kirschner",
     "date": "26.10.2025",
     "time": "03:31",
-    "listeners": 198
+    "listeners": 198,
+    "lyricists": null,
+    "album": "16 Naj Pesničiek",
+    "release_year": 2000,
+    "duration_ms": 196520,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,16 @@
     "artist": "Branigan Laura",
     "date": "26.10.2025",
     "time": "03:27",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Self Control",
+    "release_year": 1984,
+    "duration_ms": 246440,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Gladiátor",
     "date": "26.10.2025",
     "time": "03:24",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Mesto",
+    "release_year": 2020,
+    "duration_ms": 197000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,17 @@
     "artist": "Vangelis",
     "date": "26.10.2025",
     "time": "03:19",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": [
+      "Vangelis"
+    ],
+    "album": "1492 - Conquest of Paradise",
+    "release_year": 2001,
+    "duration_ms": 278200,
+    "artist_country": "GR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +137,15 @@
     "artist": "Elán",
     "date": "26.10.2025",
     "time": "03:16",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1992,
+    "duration_ms": 164893,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +153,16 @@
     "artist": "Céline Dion",
     "date": "26.10.2025",
     "time": "03:11",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Let's Talk About Love",
+    "release_year": 1998,
+    "duration_ms": 280000,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +170,16 @@
     "artist": "David Michal",
     "date": "26.10.2025",
     "time": "03:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 307853,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +187,15 @@
     "artist": "Miro Žbirka",
     "date": "26.10.2025",
     "time": "03:03",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 2007,
+    "duration_ms": 197960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +203,15 @@
     "artist": "Patejdl Vašo",
     "date": "26.10.2025",
     "time": "02:59",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 1989,
+    "duration_ms": 262387,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +219,13 @@
     "artist": "Whitney Houston",
     "date": "26.10.2025",
     "time": "02:55",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "release_year": 2000,
+    "duration_ms": 271093,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +233,15 @@
     "artist": "Beatles, The",
     "date": "26.10.2025",
     "time": "02:51",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "release_year": 1968,
+    "duration_ms": 431333,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +249,15 @@
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "26.10.2025",
     "time": "02:46",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "release_year": 1997,
+    "duration_ms": 301520,
+    "artist_country": null,
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +265,15 @@
     "artist": "I.M.T. Smile",
     "date": "26.10.2025",
     "time": "02:43",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2012,
+    "duration_ms": 195293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +281,15 @@
     "artist": "Jason Donovan",
     "date": "26.10.2025",
     "time": "02:41",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Ten Good Reasons",
+    "release_year": 1989,
+    "duration_ms": 152753,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +297,15 @@
     "artist": "Rimes Leann",
     "date": "26.10.2025",
     "time": "02:37",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Coyote Ugly",
+    "release_year": 2000,
+    "duration_ms": 215507,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +313,13 @@
     "artist": "Limahl",
     "date": "26.10.2025",
     "time": "02:33",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
+    "release_year": 2008,
+    "duration_ms": 210013,
+    "artist_country": "GB",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +327,15 @@
     "artist": "Smatanová Zuzana",
     "date": "26.10.2025",
     "time": "02:30",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Gemini",
+    "release_year": 2009,
+    "duration_ms": 215439,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +343,16 @@
     "artist": "Rush Jennifer",
     "date": "26.10.2025",
     "time": "02:24",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Jennifer Rush",
+    "release_year": 1984,
+    "duration_ms": 361231,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +360,15 @@
     "artist": "Ventil Rg",
     "date": "26.10.2025",
     "time": "02:21",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Ventil RG",
+    "release_year": 1991,
+    "duration_ms": 191067,
+    "artist_country": "SK",
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Erasure",
     "date": "26.10.2025",
     "time": "21:19",
-    "listeners": 814
+    "listeners": 814,
+    "lyricists": null,
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "release_year": 2005,
+    "duration_ms": 237840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Anita Ward",
     "date": "26.10.2025",
     "time": "21:15",
-    "listeners": 878
+    "listeners": 878,
+    "lyricists": null,
+    "album": "Ring My Bell",
+    "release_year": 2007,
+    "duration_ms": 491933,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,17 @@
     "artist": "Freddie Mercury",
     "date": "26.10.2025",
     "time": "21:12",
-    "listeners": 913
+    "listeners": 913,
+    "lyricists": [
+      "Freddie Mercury"
+    ],
+    "album": "Never Boring",
+    "release_year": 1985,
+    "duration_ms": 218293,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Masterboy",
     "date": "26.10.2025",
     "time": "21:07",
-    "listeners": 920
+    "listeners": 920,
+    "lyricists": null,
+    "album": "Generation of Love",
+    "release_year": 1995,
+    "duration_ms": 219227,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,16 @@
     "artist": "Europe",
     "date": "26.10.2025",
     "time": "21:03",
-    "listeners": 935
+    "listeners": 935,
+    "lyricists": null,
+    "album": "The Final Countdown (Expanded Edition)",
+    "release_year": 1996,
+    "duration_ms": 310333,
+    "artist_country": "SE",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Sandra",
     "date": "26.10.2025",
     "time": "20:59",
-    "listeners": 1013
+    "listeners": 1013,
+    "lyricists": null,
+    "album": "The Very Best of Sandra",
+    "release_year": 1987,
+    "duration_ms": 243733,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

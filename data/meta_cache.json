@@ -11872,5 +11872,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "masterboy|generation of love": {
+    "artist_country": "DE",
+    "release_year": 1995,
+    "album": "Generation of Love",
+    "duration_ms": 219227,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

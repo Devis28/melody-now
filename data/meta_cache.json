@@ -11900,5 +11900,18 @@
       "Pop",
       "Rock"
     ]
+  },
+  "michael jackson|beat it": {
+    "artist_country": "US",
+    "album": "Number Ones",
+    "release_year": 1982,
+    "duration_ms": 259483,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

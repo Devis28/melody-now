@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "26.10.2025",
     "time": "21:52",
-    "listeners": 705
+    "listeners": 705,
+    "lyricists": null,
+    "album": "ABBA: The Album",
+    "release_year": 1994,
+    "duration_ms": 245540,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Michael Jackson",
     "date": "26.10.2025",
     "time": "21:48",
-    "listeners": 734
+    "listeners": 734,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "Number Ones",
+    "release_year": 1982,
+    "duration_ms": 259483,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

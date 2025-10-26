@@ -5,7 +5,15 @@
     "artist": "Mousse T. & Hot 'n' Juicy",
     "date": "26.10.2025",
     "time": "22:07",
-    "listeners": 616
+    "listeners": 616,
+    "lyricists": null,
+    "album": "Horny - Single",
+    "release_year": 2009,
+    "duration_ms": 374267,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Oldfield Mike & Reilly Maggie",
     "date": "26.10.2025",
     "time": "22:04",
-    "listeners": 626
+    "listeners": 626,
+    "lyricists": null,
+    "album": "The Mike Oldfield Collection",
+    "release_year": 1983,
+    "duration_ms": 218187,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Robin S",
     "date": "26.10.2025",
     "time": "22:00",
-    "listeners": 622
+    "listeners": 622,
+    "lyricists": null,
+    "album": "Show Me Love",
+    "release_year": 2001,
+    "duration_ms": 269440,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Elán",
     "date": "26.10.2025",
     "time": "21:56",
-    "listeners": 642
+    "listeners": 642,
+    "lyricists": null,
+    "album": "Netvor z čiernej hviezdy Q7A",
+    "release_year": 2004,
+    "duration_ms": 238000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

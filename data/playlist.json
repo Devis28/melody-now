@@ -5,7 +5,15 @@
     "artist": "Nagy Peter",
     "date": "26.10.2025",
     "time": "16:39",
-    "listeners": 1355
+    "listeners": 1355,
+    "lyricists": null,
+    "album": "Šachy robia človeka",
+    "release_year": 1989,
+    "duration_ms": 201813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Habera Pavol",
     "date": "26.10.2025",
     "time": "16:35",
-    "listeners": 1284
+    "listeners": 1284,
+    "lyricists": null,
+    "album": "The Best Of",
+    "release_year": 1995,
+    "duration_ms": 250427,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Chinaski",
     "date": "26.10.2025",
     "time": "16:31",
-    "listeners": 1298
+    "listeners": 1298,
+    "lyricists": null,
+    "album": "Na vlnách spolu tělem i duší (Best of Chinaski)",
+    "release_year": 2005,
+    "duration_ms": 209040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

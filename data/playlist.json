@@ -5,7 +5,15 @@
     "artist": "Haddaway",
     "date": "26.10.2025",
     "time": "22:35",
-    "listeners": 473
+    "listeners": 473,
+    "lyricists": null,
+    "album": "The Album (Remastered 2025)",
+    "release_year": 2007,
+    "duration_ms": 284697,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Al Bano & Romina Power",
     "date": "26.10.2025",
     "time": "22:31",
-    "listeners": 511
+    "listeners": 511,
+    "lyricists": null,
+    "album": "Al Bano",
+    "release_year": 2007,
+    "duration_ms": 240987,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Roxette",
     "date": "26.10.2025",
     "time": "22:27",
-    "listeners": 495
+    "listeners": 495,
+    "lyricists": null,
+    "album": "Joyride (30th Anniversary Edition)",
+    "release_year": 1995,
+    "duration_ms": 263093,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

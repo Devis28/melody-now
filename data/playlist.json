@@ -1,6 +1,190 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Keď Muž Miluje Ženu",
+    "artist": "Robo Opatovský",
+    "date": "26.10.2025",
+    "time": "03:47",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zalúbení",
+    "artist": "Dušan Hlaváček",
+    "date": "26.10.2025",
+    "time": "03:43",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wind Of Change",
+    "artist": "The Scorpions",
+    "date": "26.10.2025",
+    "time": "03:38",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Heaven Is A Place On Earth",
+    "artist": "Belinda Carlisle",
+    "date": "26.10.2025",
+    "time": "03:34",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Líška",
+    "artist": "Jana Kirschner",
+    "date": "26.10.2025",
+    "time": "03:31",
+    "listeners": 198
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Self Control",
+    "artist": "Branigan Laura",
+    "date": "26.10.2025",
+    "time": "03:27",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bonboniéra",
+    "artist": "Gladiátor",
+    "date": "26.10.2025",
+    "time": "03:24",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "26.10.2025",
+    "time": "03:19",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neobzerajte Sa Pani Lótová",
+    "artist": "Elán",
+    "date": "26.10.2025",
+    "time": "03:16",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My Heart Will Go On",
+    "artist": "Céline Dion",
+    "date": "26.10.2025",
+    "time": "03:11",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nenapovídej",
+    "artist": "David Michal",
+    "date": "26.10.2025",
+    "time": "03:07",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "date": "26.10.2025",
+    "time": "03:03",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Francúzky",
+    "artist": "Patejdl Vašo",
+    "date": "26.10.2025",
+    "time": "02:59",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "date": "26.10.2025",
+    "time": "02:55",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hey Jude",
+    "artist": "Beatles, The",
+    "date": "26.10.2025",
+    "time": "02:51",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'll Be Missing You",
+    "artist": "Daddy, Puff & Evans, Faith",
+    "date": "26.10.2025",
+    "time": "02:46",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veľa Lásky",
+    "artist": "I.M.T. Smile",
+    "date": "26.10.2025",
+    "time": "02:43",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sealed With The Kiss",
+    "artist": "Jason Donovan",
+    "date": "26.10.2025",
+    "time": "02:41",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Can't Fight The Moonlight",
+    "artist": "Rimes Leann",
+    "date": "26.10.2025",
+    "time": "02:37",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Neverending Story",
+    "artist": "Limahl",
+    "date": "26.10.2025",
+    "time": "02:33",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stačí Si Priať",
+    "artist": "Smatanová Zuzana",
+    "date": "26.10.2025",
+    "time": "02:30",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Power Of Love",
+    "artist": "Rush Jennifer",
+    "date": "26.10.2025",
+    "time": "02:24",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nervózna Família",
+    "artist": "Ventil Rg",
+    "date": "26.10.2025",
+    "time": "02:21",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Show Must Go On",
     "artist": "Queen",
     "date": "26.10.2025",

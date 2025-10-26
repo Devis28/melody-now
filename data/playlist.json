@@ -5,7 +5,15 @@
     "artist": "Jiří Schelinger",
     "date": "26.10.2025",
     "time": "13:21",
-    "listeners": 2000
+    "listeners": 2000,
+    "lyricists": null,
+    "album": "Jsem Prý Blázen Jen",
+    "release_year": 2007,
+    "duration_ms": 132800,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Peter Nagy",
     "date": "26.10.2025",
     "time": "13:17",
-    "listeners": 1871
+    "listeners": 1871,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2002,
+    "duration_ms": 224307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Hana Zagorová",
     "date": "26.10.2025",
     "time": "13:14",
-    "listeners": 1943
+    "listeners": 1943,
+    "lyricists": null,
+    "album": "Kdyby se vrátil čas",
+    "release_year": 2003,
+    "duration_ms": 188480,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "No Name",
     "date": "26.10.2025",
     "time": "13:11",
-    "listeners": 1817
+    "listeners": 1817,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 202093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Adam Ďurica",
     "date": "26.10.2025",
     "time": "13:05",
-    "listeners": 1906
+    "listeners": 1906,
+    "lyricists": null,
+    "album": "Holubička - Single",
+    "release_year": 2018,
+    "duration_ms": 273955,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Team",
     "date": "26.10.2025",
     "time": "13:01",
-    "listeners": 1826
+    "listeners": 1826,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2010,
+    "duration_ms": 233253,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Dubasová Beáta",
     "date": "26.10.2025",
     "time": "12:58",
-    "listeners": 1784
+    "listeners": 1784,
+    "lyricists": null,
+    "album": "Beáta",
+    "release_year": 1987,
+    "duration_ms": 214413,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

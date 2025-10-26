@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "26.10.2025",
+    "time": "14:44",
+    "listeners": 1946
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lekná",
+    "artist": "No Name",
+    "date": "26.10.2025",
+    "time": "14:41",
+    "listeners": 1968
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Aj Keď Bez Peňazí",
     "artist": "Elán",
     "date": "26.10.2025",

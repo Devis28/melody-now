@@ -5,7 +5,15 @@
     "artist": "František Ringo Čech",
     "date": "26.10.2025",
     "time": "11:15",
-    "listeners": 1356
+    "listeners": 1356,
+    "lyricists": null,
+    "album": "Best Of Ringo (Šubyduby Amerika)",
+    "release_year": 2004,
+    "duration_ms": 464000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hex",
     "date": "26.10.2025",
     "time": "11:10",
-    "listeners": 1421
+    "listeners": 1421,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 1997,
+    "duration_ms": 262867,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Vašo Patejdl",
     "date": "26.10.2025",
     "time": "11:05",
-    "listeners": 1341
+    "listeners": 1341,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1994,
+    "duration_ms": 298267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Rolincová Darina",
     "date": "26.10.2025",
     "time": "11:03",
-    "listeners": 1386
+    "listeners": 1386,
+    "lyricists": null,
+    "album": "Kto Chce & Ak Náhodou - Single",
+    "release_year": 1987,
+    "duration_ms": 163067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Michal Dočolomanský",
     "date": "26.10.2025",
     "time": "10:57",
-    "listeners": 1252
+    "listeners": 1252,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 1993,
+    "duration_ms": 231831,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

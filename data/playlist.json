@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "26.10.2025",
+    "time": "17:48",
+    "listeners": 1150
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šiel, Šiel",
+    "artist": "Duchoň Karol",
+    "date": "26.10.2025",
+    "time": "17:45",
+    "listeners": 1186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slub",
+    "artist": "Dara Rolins",
+    "date": "26.10.2025",
+    "time": "17:42",
+    "listeners": 1155
+  },
+  {
+    "station": "Rádio Melody",
     "title": "S Tebou",
     "artist": "Žbirka Miro",
     "date": "26.10.2025",

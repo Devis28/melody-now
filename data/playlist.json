@@ -5,7 +5,15 @@
     "artist": "Urban Cookie Collective",
     "date": "26.10.2025",
     "time": "23:57",
-    "listeners": 260
+    "listeners": 260,
+    "lyricists": null,
+    "album": "The Key, The Secret (2011 Version) [Remixes]",
+    "release_year": 1993,
+    "duration_ms": 222110,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Tyler Bonnie",
     "date": "26.10.2025",
     "time": "23:53",
-    "listeners": 276
+    "listeners": 276,
+    "lyricists": null,
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "release_year": 1984,
+    "duration_ms": 350705,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

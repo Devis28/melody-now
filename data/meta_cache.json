@@ -11960,5 +11960,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "urban cookie collective|the key, the secret": {
+    "release_year": 1993,
+    "artist_country": "GB",
+    "album": "The Key, The Secret (2011 Version) [Remixes]",
+    "duration_ms": 222110,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

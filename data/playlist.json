@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Jednoho Dne Se Vrátíš",
+    "artist": "Věra Špinarová",
+    "date": "26.10.2025",
+    "time": "16:46",
+    "listeners": 1256
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Trápím Se, Trápím",
+    "artist": "Spálený Petr",
+    "date": "26.10.2025",
+    "time": "16:43",
+    "listeners": 1274
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Aj Tak Sme Frajeri",
     "artist": "Nagy Peter",
     "date": "26.10.2025",

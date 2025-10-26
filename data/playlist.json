@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čau, Lásko",
+    "artist": "Gott Karel & Holanová Marcela",
+    "date": "26.10.2025",
+    "time": "09:18",
+    "listeners": 910
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mží Ti Do Vlasů",
+    "artist": "Ladislav Štaidl",
+    "date": "26.10.2025",
+    "time": "09:15",
+    "listeners": 941
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pesnička O Medulienke",
+    "artist": "Gladiator Hammel Pavol",
+    "date": "26.10.2025",
+    "time": "09:10",
+    "listeners": 805
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Večnosť",
+    "artist": "No Name",
+    "date": "26.10.2025",
+    "time": "09:07",
+    "listeners": 828
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hráč",
+    "artist": "Turbo",
+    "date": "26.10.2025",
+    "time": "09:02",
+    "listeners": 829
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Modlitba Lásky",
+    "artist": "Robo Grigorov",
+    "date": "26.10.2025",
+    "time": "08:57",
+    "listeners": 762
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Komplikovaná",
     "artist": "Polemic",
     "date": "26.10.2025",

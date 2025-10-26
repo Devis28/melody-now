@@ -5,7 +5,15 @@
     "artist": "Matuška Waldemar",
     "date": "26.10.2025",
     "time": "12:16",
-    "listeners": 1615
+    "listeners": 1615,
+    "lyricists": null,
+    "album": "Co Neodnesl Čas",
+    "release_year": 1991,
+    "duration_ms": 300107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Rolincová Darina",
     "date": "26.10.2025",
     "time": "12:13",
-    "listeners": 1571
+    "listeners": 1571,
+    "lyricists": null,
+    "album": "Darinka",
+    "release_year": 1985,
+    "duration_ms": 180257,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Buty",
     "date": "26.10.2025",
     "time": "12:11",
-    "listeners": 1558
+    "listeners": 1558,
+    "lyricists": null,
+    "album": "Kosmostour 2000 (Live)",
+    "release_year": 2000,
+    "duration_ms": 278453,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Aya",
     "date": "26.10.2025",
     "time": "12:06",
-    "listeners": 1740
+    "listeners": 1740,
+    "lyricists": null,
+    "album": "AYA 30 ROKOV & ŠTÁTNY KOMORNÝ ORCHESTER ŽILINA (Live Concert Version)",
+    "release_year": 2011,
+    "duration_ms": 445000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,18 @@
     "artist": "Robo Grigorov",
     "date": "26.10.2025",
     "time": "12:03",
-    "listeners": 1549
+    "listeners": 1549,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 253597,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Brontosauři",
     "date": "26.10.2025",
     "time": "12:00",
-    "listeners": 1613
+    "listeners": 1613,
+    "lyricists": null,
+    "album": "Vsechny Hity",
+    "release_year": 1991,
+    "duration_ms": 133293,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

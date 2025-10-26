@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "26.10.2025",
+    "time": "19:54",
+    "listeners": 1202
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska Moja",
+    "artist": "Elán",
+    "date": "26.10.2025",
+    "time": "19:49",
+    "listeners": 1128
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Tebou",
+    "artist": "Peha",
+    "date": "26.10.2025",
+    "time": "19:45",
+    "listeners": 1168
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Proklínám",
+    "artist": "Ledecký Janek",
+    "date": "26.10.2025",
+    "time": "19:41",
+    "listeners": 1218
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Loď do neznáma",
+    "artist": "Uherčík, Ďurinda, Griglák, Horváth",
+    "date": "26.10.2025",
+    "time": "19:37",
+    "listeners": 1321
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mimoradna Linka",
+    "artist": "Hana Zagorova",
+    "date": "26.10.2025",
+    "time": "19:33",
+    "listeners": 1216
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Podvod",
+    "artist": "Honza Nedvěd",
+    "date": "26.10.2025",
+    "time": "19:29",
+    "listeners": 1204
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mama Kami",
     "artist": "Habera Pavol & Ibrahim Maiga",
     "date": "26.10.2025",

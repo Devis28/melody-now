@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mám Rád",
+    "artist": "Miro Žbirka",
+    "date": "26.10.2025",
+    "time": "09:53",
+    "listeners": 1077
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bez Veľkej Slávy",
+    "artist": "Darina Rolincová",
+    "date": "26.10.2025",
+    "time": "09:48",
+    "listeners": 998
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Holubí Dúm",
     "artist": "Jiří Schelinger",
     "date": "26.10.2025",

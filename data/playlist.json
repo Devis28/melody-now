@@ -5,7 +5,15 @@
     "artist": "Gombitová Marika",
     "date": "26.10.2025",
     "time": "10:54",
-    "listeners": 1322
+    "listeners": 1322,
+    "lyricists": null,
+    "album": "Kam idú ľudia?",
+    "release_year": 1990,
+    "duration_ms": 219093,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Žentour",
     "date": "26.10.2025",
     "time": "10:50",
-    "listeners": 1285
+    "listeners": 1285,
+    "lyricists": [
+      "Žentour"
+    ],
+    "album": "Hity Tommü",
+    "release_year": 1990,
+    "duration_ms": 225787,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

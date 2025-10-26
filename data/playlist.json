@@ -5,7 +5,15 @@
     "artist": "Peha",
     "date": "26.10.2025",
     "time": "08:36",
-    "listeners": 675
+    "listeners": 675,
+    "lyricists": null,
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "release_year": 2003,
+    "duration_ms": 206800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bartošová Iveta",
     "date": "26.10.2025",
     "time": "08:33",
-    "listeners": 717
+    "listeners": 717,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 227133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

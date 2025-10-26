@@ -1,6 +1,102 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Everybody Hurts",
+    "artist": "R.E.M.",
+    "date": "26.10.2025",
+    "time": "04:33",
+    "listeners": 198
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ja Som To Vedel",
+    "artist": "Polemic",
+    "date": "26.10.2025",
+    "time": "04:30",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Carrie",
+    "artist": "Europe",
+    "date": "26.10.2025",
+    "time": "04:25",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám 300 Mesiacov",
+    "artist": "Grigorov Robo",
+    "date": "26.10.2025",
+    "time": "04:22",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Raindrops Keep Fallin' On My Head",
+    "artist": "B. J. Thomas",
+    "date": "26.10.2025",
+    "time": "04:19",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Big In Japan",
+    "artist": "Alphaville",
+    "date": "26.10.2025",
+    "time": "04:15",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hľadám",
+    "artist": "No Name",
+    "date": "26.10.2025",
+    "time": "04:12",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ordinary World",
+    "artist": "Duran Duran",
+    "date": "26.10.2025",
+    "time": "04:06",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "26.10.2025",
+    "time": "04:03",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bamboleo",
+    "artist": "Garcia",
+    "date": "26.10.2025",
+    "time": "03:59",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "26.10.2025",
+    "time": "03:56",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "26.10.2025",
+    "time": "03:51",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Keď Muž Miluje Ženu",
     "artist": "Robo Opatovský",
     "date": "26.10.2025",

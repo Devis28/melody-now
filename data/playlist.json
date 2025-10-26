@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "26.10.2025",
     "time": "12:46",
-    "listeners": 1870
+    "listeners": 1870,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karel Gott",
     "date": "26.10.2025",
     "time": "12:42",
-    "listeners": 1841
+    "listeners": 1841,
+    "lyricists": null,
+    "album": "'76 (Bonus Track Version)",
+    "release_year": 1998,
+    "duration_ms": 230827,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Mária Čírová",
     "date": "26.10.2025",
     "time": "12:39",
-    "listeners": 1839
+    "listeners": 1839,
+    "lyricists": null,
+    "album": "Unikát - Single",
+    "release_year": 2016,
+    "duration_ms": 206360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

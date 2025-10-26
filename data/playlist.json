@@ -5,7 +5,15 @@
     "artist": "Iveta Bartošová & Petr Sepéši",
     "date": "26.10.2025",
     "time": "15:29",
-    "listeners": 1597
+    "listeners": 1597,
+    "lyricists": null,
+    "album": "Knoflíky Lásky",
+    "release_year": 2008,
+    "duration_ms": 188387,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Imt Smile",
     "date": "26.10.2025",
     "time": "15:25",
-    "listeners": 1677
+    "listeners": 1677,
+    "lyricists": null,
+    "album": "Hlava Ma Sedem Otvorov",
+    "release_year": 2015,
+    "duration_ms": 189787,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Michal Tučný",
     "date": "26.10.2025",
     "time": "15:21",
-    "listeners": 1652
+    "listeners": 1652,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Team",
     "date": "26.10.2025",
     "time": "15:18",
-    "listeners": 1837
+    "listeners": 1837,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2003,
+    "duration_ms": 180360,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Gott Karel A Holanova Marcela",
     "date": "26.10.2025",
     "time": "15:14",
-    "listeners": 1680
+    "listeners": 1680,
+    "lyricists": null,
+    "album": "Paráda (Zlatá Kolekce)",
+    "release_year": 1983,
+    "duration_ms": 219280,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

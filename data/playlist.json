@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Štesti Je Krasna Vec",
+    "artist": "Müller Richard",
+    "date": "26.10.2025",
+    "time": "10:27",
+    "listeners": 1167
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "26.10.2025",
+    "time": "10:23",
+    "listeners": 1182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Profesor Indigo",
+    "artist": "Nagy Peter",
+    "date": "26.10.2025",
+    "time": "10:19",
+    "listeners": 1147
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ne Petku Ne",
+    "artist": "Melen Josef",
+    "date": "26.10.2025",
+    "time": "10:16",
+    "listeners": 1118
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Keď Príde Láska",
     "artist": "Mc Erik And Barbara",
     "date": "26.10.2025",

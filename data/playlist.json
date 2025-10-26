@@ -5,7 +5,19 @@
     "artist": "Mc Erik And Barbara",
     "date": "26.10.2025",
     "time": "10:12",
-    "listeners": 1015
+    "listeners": 1015,
+    "lyricists": [
+      "Barbara Haščáková",
+      "MC Erik"
+    ],
+    "album": "U Can't Stop (96 Version)",
+    "release_year": 2023,
+    "duration_ms": 248867,
+    "artist_country": "SK",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Hex",
     "date": "26.10.2025",
     "time": "10:07",
-    "listeners": 1135
+    "listeners": 1135,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 1997,
+    "duration_ms": 240320,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Grigorov Robo",
     "date": "26.10.2025",
     "time": "10:03",
-    "listeners": 1044
+    "listeners": 1044,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 288800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Desmod",
     "date": "26.10.2025",
     "time": "09:56",
-    "listeners": 1046
+    "listeners": 1046,
+    "lyricists": null,
+    "album": "Vyberovka",
+    "release_year": 2009,
+    "duration_ms": 296520,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

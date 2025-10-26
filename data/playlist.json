@@ -5,7 +5,16 @@
     "artist": "No Mercy",
     "date": "26.10.2025",
     "time": "23:48",
-    "listeners": 293
+    "listeners": 293,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1997,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Climie Fisher",
     "date": "26.10.2025",
     "time": "23:44",
-    "listeners": 293
+    "listeners": 293,
+    "lyricists": null,
+    "album": "On the Radio: 80s",
+    "release_year": 2004,
+    "duration_ms": 268560,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Boney M.",
     "date": "26.10.2025",
     "time": "23:41",
-    "listeners": 316
+    "listeners": 316,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2025,
+    "duration_ms": 261200,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Adamski/Seal",
     "date": "26.10.2025",
     "time": "23:36",
-    "listeners": 299
+    "listeners": 299,
+    "lyricists": null,
+    "album": "Doctor Adamski’s Musical Pharmacy",
+    "release_year": 2010,
+    "duration_ms": 250760,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Mercury Freddie",
     "date": "26.10.2025",
     "time": "23:33",
-    "listeners": 309
+    "listeners": 309,
+    "lyricists": null,
+    "album": "Never Boring",
+    "release_year": 1993,
+    "duration_ms": 217411,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

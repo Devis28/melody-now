@@ -5,7 +5,15 @@
     "artist": "The Beatles",
     "date": "27.10.2025",
     "time": "11:51",
-    "listeners": 1481
+    "listeners": 1481,
+    "lyricists": null,
+    "album": "Abbey Road (Remastered)",
+    "release_year": 1978,
+    "duration_ms": 185733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Army Of Lovers",
     "date": "27.10.2025",
     "time": "11:48",
-    "listeners": 1419
+    "listeners": 1419,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Bartošová Iveta",
     "date": "27.10.2025",
     "time": "11:44",
-    "listeners": 1500
+    "listeners": 1500,
+    "lyricists": null,
+    "album": "Nekonecna/Best Of",
+    "release_year": 1998,
+    "duration_ms": 224920,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

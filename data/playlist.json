@@ -5,7 +5,16 @@
     "artist": "Pavol Habera",
     "date": "27.10.2025",
     "time": "19:53",
-    "listeners": 1668
+    "listeners": 1668,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Petra Janů",
     "date": "27.10.2025",
     "time": "19:49",
-    "listeners": 1729
+    "listeners": 1729,
+    "lyricists": null,
+    "album": "Už Nejsem Volná (Bonus Track Version)",
+    "release_year": 2000,
+    "duration_ms": 263733,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Tučný Michal",
     "date": "27.10.2025",
     "time": "19:45",
-    "listeners": 1773
+    "listeners": 1773,
+    "lyricists": null,
+    "album": "Poslední Kovboj",
+    "release_year": 1980,
+    "duration_ms": 250760,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Darina Rolincová",
     "date": "27.10.2025",
     "time": "19:41",
-    "listeners": 1776
+    "listeners": 1776,
+    "lyricists": null,
+    "album": "Téměř Růžový Příběh",
+    "release_year": 1998,
+    "duration_ms": 218600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

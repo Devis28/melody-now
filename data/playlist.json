@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Time Of My Life",
+    "artist": "Jennifer Warnes/Bill Medley",
+    "date": "27.10.2025",
+    "time": "06:21",
+    "listeners": 1356
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "True Colors",
+    "artist": "Phil Collins",
+    "date": "27.10.2025",
+    "time": "06:17",
+    "listeners": 1207
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lay All Your Love On Me",
+    "artist": "Abba",
+    "date": "27.10.2025",
+    "time": "06:12",
+    "listeners": 996
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One",
+    "artist": "U2",
+    "date": "27.10.2025",
+    "time": "06:06",
+    "listeners": 959
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're A Woman",
+    "artist": "Bad Boys Blue",
+    "date": "27.10.2025",
+    "time": "06:02",
+    "listeners": 812
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Reklama Na Ticho",
     "artist": "Team",
     "date": "27.10.2025",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "27.10.2025",
+    "time": "08:38",
+    "listeners": 2408
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jesenná Láska",
+    "artist": "Žbirka Miro",
+    "date": "27.10.2025",
+    "time": "08:35",
+    "listeners": 2582
+  },
+  {
+    "station": "Rádio Melody",
     "title": "One & One",
     "artist": "Robert Miles/Maria Nayler",
     "date": "27.10.2025",

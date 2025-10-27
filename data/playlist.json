@@ -5,7 +5,16 @@
     "artist": "Guru Josh",
     "date": "27.10.2025",
     "time": "21:19",
-    "listeners": 1152
+    "listeners": 1152,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "No Name",
     "date": "27.10.2025",
     "time": "21:16",
-    "listeners": 1118
+    "listeners": 1118,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2006,
+    "duration_ms": 202107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,18 @@
     "artist": "Sting",
     "date": "27.10.2025",
     "time": "21:12",
-    "listeners": 1151
+    "listeners": 1151,
+    "lyricists": [
+      "Sting"
+    ],
+    "album": "Ten Summoner's Tales",
+    "release_year": 2024,
+    "duration_ms": 222120,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Bano Al & Power Romina",
     "date": "27.10.2025",
     "time": "21:09",
-    "listeners": 1129
+    "listeners": 1129,
+    "lyricists": null,
+    "album": "Al Bano e Romina Power",
+    "release_year": 1982,
+    "duration_ms": 206040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Zich Karel & Filipová Lenka",
     "date": "27.10.2025",
     "time": "21:05",
-    "listeners": 1121
+    "listeners": 1121,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 1981,
+    "duration_ms": 218240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,18 @@
     "artist": "Robo Grigorov",
     "date": "27.10.2025",
     "time": "21:01",
-    "listeners": 1260
+    "listeners": 1260,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "album": "Balady",
+    "release_year": 1997,
+    "duration_ms": 256613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +108,15 @@
     "artist": "Elán",
     "date": "27.10.2025",
     "time": "20:58",
-    "listeners": 1194
+    "listeners": 1194,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2001,
+    "duration_ms": 184880,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +124,15 @@
     "artist": "Simply Red",
     "date": "27.10.2025",
     "time": "20:54",
-    "listeners": 1323
+    "listeners": 1323,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2003,
+    "duration_ms": 248600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +140,18 @@
     "artist": "Umberto Tozzi",
     "date": "27.10.2025",
     "time": "20:50",
-    "listeners": 1266
+    "listeners": 1266,
+    "lyricists": [
+      "Giancarlo Bigazzi",
+      "Umberto Tozzi"
+    ],
+    "album": "E' nell' aria…ti amo",
+    "release_year": 2006,
+    "duration_ms": 245693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +159,15 @@
     "artist": "Dubasová Beáta",
     "date": "27.10.2025",
     "time": "20:46",
-    "listeners": 1311
+    "listeners": 1311,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 1993,
+    "duration_ms": 215000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +175,15 @@
     "artist": "Komajota",
     "date": "27.10.2025",
     "time": "20:43",
-    "listeners": 1414
+    "listeners": 1414,
+    "lyricists": null,
+    "album": "Casopriestor",
+    "release_year": 2007,
+    "duration_ms": 186613,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,18 @@
     "artist": "Elton John",
     "date": "27.10.2025",
     "time": "16:31",
-    "listeners": 2458
+    "listeners": 2458,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Too Low For Zero (Bonus Track Version)",
+    "release_year": 1987,
+    "duration_ms": 183440,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Fun Factory",
     "date": "27.10.2025",
     "time": "16:26",
-    "listeners": 2442
+    "listeners": 2442,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 213600,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,17 @@
     "artist": "Queen",
     "date": "27.10.2025",
     "time": "16:24",
-    "listeners": 2527
+    "listeners": 2527,
+    "lyricists": [
+      "Queen"
+    ],
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1994,
+    "duration_ms": 121235,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +58,15 @@
     "artist": "Duchon  Karol",
     "date": "27.10.2025",
     "time": "16:19",
-    "listeners": 2304
+    "listeners": 2304,
+    "lyricists": null,
+    "album": "20 naj, Vol. 2",
+    "release_year": 2016,
+    "duration_ms": 249933,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "Duran Duran",
     "date": "27.10.2025",
     "time": "16:13",
-    "listeners": 2159
+    "listeners": 2159,
+    "lyricists": null,
+    "album": "Thank You",
+    "release_year": 1995,
+    "duration_ms": 230933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,15 @@
     "artist": "Gott Karel",
     "date": "27.10.2025",
     "time": "16:11",
-    "listeners": 2142
+    "listeners": 2142,
+    "lyricists": null,
+    "album": "Má Píseň",
+    "release_year": 1972,
+    "duration_ms": 156347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,16 @@
     "artist": "Esposito Joe",
     "date": "27.10.2025",
     "time": "16:07",
-    "listeners": 2153
+    "listeners": 2153,
+    "lyricists": null,
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "release_year": 1983,
+    "duration_ms": 249640,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +123,16 @@
     "artist": "Ramazzotti Eros",
     "date": "27.10.2025",
     "time": "16:03",
-    "listeners": 2040
+    "listeners": 2040,
+    "lyricists": null,
+    "album": "Eros 30 (Deluxe Version)",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +140,15 @@
     "artist": "Baccara",
     "date": "27.10.2025",
     "time": "15:55",
-    "listeners": 1835
+    "listeners": 1835,
+    "lyricists": null,
+    "album": "70s 100 Hits",
+    "release_year": 1997,
+    "duration_ms": 274581,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

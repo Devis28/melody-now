@@ -5,7 +5,15 @@
     "artist": "Dalibor Janda",
     "date": "27.10.2025",
     "time": "18:40",
-    "listeners": 2490
+    "listeners": 2490,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1993,
+    "duration_ms": 293667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bílá Lucie",
     "date": "27.10.2025",
     "time": "18:38",
-    "listeners": 2369
+    "listeners": 2369,
+    "lyricists": null,
+    "album": "Platinum Collection",
+    "release_year": 2004,
+    "duration_ms": 163853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Muller Richard",
     "date": "27.10.2025",
     "time": "18:34",
-    "listeners": 2344
+    "listeners": 2344,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

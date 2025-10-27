@@ -5,7 +5,15 @@
     "artist": "Goombay Dance Band",
     "date": "27.10.2025",
     "time": "15:44",
-    "listeners": 1553
+    "listeners": 1553,
+    "lyricists": null,
+    "album": "Land of Gold",
+    "release_year": 1999,
+    "duration_ms": 265500,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "27.10.2025",
     "time": "15:40",
-    "listeners": 1519
+    "listeners": 1519,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "28.10.2025",
+    "time": "00:49",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Something's Gotten Hold Of My Heart",
+    "artist": "Gene Pitney/Marc Almond",
+    "date": "28.10.2025",
+    "time": "00:44",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
     "title": "It's Raining Men",
     "artist": "Geri Halliwell",
     "date": "28.10.2025",

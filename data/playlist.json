@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "date": "27.10.2025",
+    "time": "11:38",
+    "listeners": 1398
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Strong Enough",
+    "artist": "Cher",
+    "date": "27.10.2025",
+    "time": "11:34",
+    "listeners": 1293
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kráľovná Bielych Tenisiek",
+    "artist": "Elán",
+    "date": "27.10.2025",
+    "time": "11:31",
+    "listeners": 1251
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zamilovaná",
+    "artist": "Filipová Lenka",
+    "date": "27.10.2025",
+    "time": "11:28",
+    "listeners": 1215
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bozk",
+    "artist": "I.M.T. Smile",
+    "date": "27.10.2025",
+    "time": "11:23",
+    "listeners": 1357
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Win Again",
+    "artist": "The Bee Gees",
+    "date": "27.10.2025",
+    "time": "11:20",
+    "listeners": 1220
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Zbohom Bud, Lipova Lyzka,...",
     "artist": "Dočolomanský Michal",
     "date": "27.10.2025",

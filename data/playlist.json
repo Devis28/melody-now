@@ -5,7 +5,15 @@
     "artist": "Hex",
     "date": "27.10.2025",
     "time": "04:12",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2002,
+    "duration_ms": 218120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Connells",
     "date": "27.10.2025",
     "time": "04:08",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Ring (Deluxe Edition)",
+    "release_year": 1995,
+    "duration_ms": 279107,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Ricchi E Poveri",
     "date": "27.10.2025",
     "time": "04:04",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1987,
+    "duration_ms": 190693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Desmod",
     "date": "27.10.2025",
     "time": "04:00",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "SLOVENSKÉ HITY",
+    "release_year": 2014,
+    "duration_ms": 220853,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,18 @@
     "artist": "Seal",
     "date": "27.10.2025",
     "time": "03:56",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": [
+      "Guy Sigsworth",
+      "Seal"
+    ],
+    "album": "Seal: Hits (Deluxe Version)",
+    "release_year": 2001,
+    "duration_ms": 356520,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "The Righteous Brothers",
     "date": "27.10.2025",
     "time": "03:52",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "The Very Best of the Righteous Brothers - Unchained Melody",
+    "release_year": 1965,
+    "duration_ms": 216267,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +104,18 @@
     "artist": "Elton John",
     "date": "27.10.2025",
     "time": "03:47",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Sleeping With the Past (Remastered)",
+    "release_year": 1989,
+    "duration_ms": 304133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +123,15 @@
     "artist": "Karol Duchoň",
     "date": "27.10.2025",
     "time": "03:44",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1985,
+    "duration_ms": 152867,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +139,15 @@
     "artist": "Jackson, Michael",
     "date": "27.10.2025",
     "time": "03:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Essential Michael Jackson",
+    "release_year": 1991,
+    "duration_ms": 385713,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +155,15 @@
     "artist": "Team",
     "date": "27.10.2025",
     "time": "03:36",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "7edem",
+    "release_year": 2001,
+    "duration_ms": 172547,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +171,16 @@
     "artist": "Kylie Minogue",
     "date": "27.10.2025",
     "time": "03:33",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "Showgirl - Homecoming (Live)",
+    "release_year": 2012,
+    "duration_ms": 283333,
+    "artist_country": "AU",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +188,15 @@
     "artist": "Modus",
     "date": "27.10.2025",
     "time": "03:29",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "99 zápaliek",
+    "release_year": 2005,
+    "duration_ms": 204013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +204,15 @@
     "artist": "Glenn Medeiros",
     "date": "27.10.2025",
     "time": "03:26",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Nothing's Gonna Change My Love for You",
+    "release_year": 1987,
+    "duration_ms": 231587,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +220,15 @@
     "artist": "Gombitová Marika & Patejdl Vašo",
     "date": "27.10.2025",
     "time": "03:22",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 199360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +236,15 @@
     "artist": "Haddaway",
     "date": "27.10.2025",
     "time": "03:17",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "What Is Love - EP",
+    "release_year": 1996,
+    "duration_ms": 270373,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +252,15 @@
     "artist": "Adam Ďurica",
     "date": "27.10.2025",
     "time": "03:15",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Spolu",
+    "release_year": 2016,
+    "duration_ms": 147750,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +268,15 @@
     "artist": "Guns N Roses",
     "date": "27.10.2025",
     "time": "03:10",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Use Your Illusion I",
+    "release_year": 1992,
+    "duration_ms": 283733,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +284,15 @@
     "artist": "Elán",
     "date": "27.10.2025",
     "time": "03:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1992,
+    "duration_ms": 170800,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +300,17 @@
     "artist": "Abba",
     "date": "27.10.2025",
     "time": "03:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 2008,
+    "duration_ms": 231844,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +318,15 @@
     "artist": "Miro Zbirka",
     "date": "27.10.2025",
     "time": "02:59",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "K.O.",
+    "release_year": 1990,
+    "duration_ms": 277053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +334,15 @@
     "artist": "O'connor Sinéad",
     "date": "27.10.2025",
     "time": "02:54",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "I Do Not Want What I Haven't Got (Deluxe Edition)",
+    "release_year": 1990,
+    "duration_ms": 310880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

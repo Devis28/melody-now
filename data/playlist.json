@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "27.10.2025",
+    "time": "15:44",
+    "listeners": 1553
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kočka",
+    "artist": "Elán",
+    "date": "27.10.2025",
+    "time": "15:40",
+    "listeners": 1519
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Iko Iko",
     "artist": "The Belle Stars",
     "date": "27.10.2025",

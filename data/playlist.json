@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "27.10.2025",
+    "time": "06:49",
+    "listeners": 2046
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Snad Jsem To Zavinil Já",
+    "artist": "Olympic",
+    "date": "27.10.2025",
+    "time": "06:45",
+    "listeners": 1868
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Dreams",
     "artist": "The Cranberries",
     "date": "27.10.2025",

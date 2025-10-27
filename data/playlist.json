@@ -5,7 +5,15 @@
     "artist": "Roxette",
     "date": "27.10.2025",
     "time": "12:07",
-    "listeners": 1561
+    "listeners": 1561,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2002,
+    "duration_ms": 237320,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Adiemus",
     "date": "27.10.2025",
     "time": "12:03",
-    "listeners": 1623
+    "listeners": 1623,
+    "lyricists": null,
+    "album": "Classic Summer Chillout",
+    "release_year": 1998,
+    "duration_ms": 225529,
+    "artist_country": "GB",
+    "genres": [
+      "Classical"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Modus",
     "date": "27.10.2025",
     "time": "12:01",
-    "listeners": 1537
+    "listeners": 1537,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 144240,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Blondie",
     "date": "27.10.2025",
     "time": "11:54",
-    "listeners": 1375
+    "listeners": 1375,
+    "lyricists": null,
+    "album": "Autoamerican (Bonus Track) [2001 Remaster]",
+    "release_year": 2002,
+    "duration_ms": 280267,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,78 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I'm Still Standing",
+    "artist": "Elton John",
+    "date": "27.10.2025",
+    "time": "16:31",
+    "listeners": 2458
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Wanna B with U",
+    "artist": "Fun Factory",
+    "date": "27.10.2025",
+    "time": "16:26",
+    "listeners": 2442
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "date": "27.10.2025",
+    "time": "16:24",
+    "listeners": 2527
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Ťa Rád",
+    "artist": "Duchon  Karol",
+    "date": "27.10.2025",
+    "time": "16:19",
+    "listeners": 2304
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Perfect Day",
+    "artist": "Duran Duran",
+    "date": "27.10.2025",
+    "time": "16:13",
+    "listeners": 2159
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kávu Si Osladím",
+    "artist": "Gott Karel",
+    "date": "27.10.2025",
+    "time": "16:11",
+    "listeners": 2142
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lady Lady Lady",
+    "artist": "Esposito Joe",
+    "date": "27.10.2025",
+    "time": "16:07",
+    "listeners": 2153
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fuoco Nel Fuoco",
+    "artist": "Ramazzotti Eros",
+    "date": "27.10.2025",
+    "time": "16:03",
+    "listeners": 2040
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yes Sir, I Can Boogie",
+    "artist": "Baccara",
+    "date": "27.10.2025",
+    "time": "15:55",
+    "listeners": 1835
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Tell Him",
     "artist": "Dion Celine & Streisand Barbra",
     "date": "27.10.2025",

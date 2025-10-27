@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Something's Gotten Hold Of My Heart",
+    "artist": "Gene Pitney/Marc Almond",
+    "date": "27.10.2025",
+    "time": "07:35",
+    "listeners": 3016
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Študentská Láska",
+    "artist": "Marika Gombitová",
+    "date": "27.10.2025",
+    "time": "07:31",
+    "listeners": 2639
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Psi Sa Bránia Útokom",
+    "artist": "Nagy, Peter A Raz, Jozef",
+    "date": "27.10.2025",
+    "time": "07:23",
+    "listeners": 2659
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "27.10.2025",
+    "time": "07:19",
+    "listeners": 2506
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lay Back In The Arms Of Someone",
+    "artist": "Smokie",
+    "date": "27.10.2025",
+    "time": "07:15",
+    "listeners": 2460
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "27.10.2025",
+    "time": "07:11",
+    "listeners": 2313
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Killing Me Softly",
+    "artist": "The Fugees",
+    "date": "27.10.2025",
+    "time": "07:05",
+    "listeners": 2453
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Daddy Cool",
+    "artist": "Boney M",
+    "date": "27.10.2025",
+    "time": "07:02",
+    "listeners": 2257
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nikita",
     "artist": "Elton John",
     "date": "27.10.2025",

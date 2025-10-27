@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I Promised Myself",
+    "artist": "Kamen, Nick",
+    "date": "28.10.2025",
+    "time": "00:19",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "Money Factor",
+    "date": "28.10.2025",
+    "time": "00:15",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nah Neh Nah",
+    "artist": "Vaya Con Dios",
+    "date": "28.10.2025",
+    "time": "00:12",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You're A Woman",
+    "artist": "Bad Boys Blue",
+    "date": "28.10.2025",
+    "time": "00:09",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lay All Your Love On Me",
+    "artist": "Abba",
+    "date": "28.10.2025",
+    "time": "00:04",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "All That She Wants",
+    "artist": "Ace Of Base",
+    "date": "28.10.2025",
+    "time": "00:01",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "All By Myself",
     "artist": "Eric Carmen",
     "date": "27.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Desmod",
     "date": "27.10.2025",
     "time": "21:53",
-    "listeners": 926
+    "listeners": 926,
+    "lyricists": null,
+    "album": "SLOVENSKÉ HITY",
+    "release_year": 2006,
+    "duration_ms": 208693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Abba",
     "date": "27.10.2025",
     "time": "21:49",
-    "listeners": 964
+    "listeners": 964,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 1976,
+    "duration_ms": 253220,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Pretenders, The",
     "date": "27.10.2025",
     "time": "21:45",
-    "listeners": 1011
+    "listeners": 1011,
+    "lyricists": null,
+    "album": "Last of the Independents",
+    "release_year": 1994,
+    "duration_ms": 238827,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Belinda Carlisle",
     "date": "27.10.2025",
     "time": "22:26",
-    "listeners": 710
+    "listeners": 710,
+    "lyricists": null,
+    "album": "Runaway Horses",
+    "release_year": 2013,
+    "duration_ms": 285027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,17 @@
     "artist": "Richard Müller",
     "date": "27.10.2025",
     "time": "22:24",
-    "listeners": 736
+    "listeners": 736,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2017,
+    "duration_ms": 157480,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Uriah Heep",
     "date": "27.10.2025",
     "time": "22:20",
-    "listeners": 729
+    "listeners": 729,
+    "lyricists": null,
+    "album": "The Best of... Pt. 1",
+    "release_year": 1996,
+    "duration_ms": 282307,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Ricchi E Poveri",
     "date": "27.10.2025",
     "time": "22:16",
-    "listeners": 825
+    "listeners": 825,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1984,
+    "duration_ms": 198867,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Miro Žbirka",
     "date": "27.10.2025",
     "time": "22:13",
-    "listeners": 814
+    "listeners": 814,
+    "lyricists": null,
+    "album": "Chlapec z ulice",
+    "release_year": 2007,
+    "duration_ms": 202107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

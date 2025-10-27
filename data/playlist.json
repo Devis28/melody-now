@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sweet Harmony",
+    "artist": "Beloved, The",
+    "date": "27.10.2025",
+    "time": "23:48",
+    "listeners": 358
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Radio Ga Ga",
+    "artist": "Queen",
+    "date": "27.10.2025",
+    "time": "23:44",
+    "listeners": 343
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Go West",
+    "artist": "Pet Shop Boys",
+    "date": "27.10.2025",
+    "time": "23:39",
+    "listeners": 361
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá",
+    "artist": "Miro Žbirka",
+    "date": "27.10.2025",
+    "time": "23:34",
+    "listeners": 399
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Oteckovia",
     "artist": "Hex",
     "date": "27.10.2025",

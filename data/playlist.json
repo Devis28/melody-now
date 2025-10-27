@@ -5,7 +5,16 @@
     "artist": "Robert Miles/Maria Nayler",
     "date": "27.10.2025",
     "time": "08:31",
-    "listeners": 2750
+    "listeners": 2750,
+    "lyricists": null,
+    "album": "Dreamland (Including One and One)",
+    "release_year": 2019,
+    "duration_ms": 238493,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Mamas & The Papas",
     "date": "27.10.2025",
     "time": "08:29",
-    "listeners": 2541
+    "listeners": 2541,
+    "lyricists": null,
+    "album": "If You Can Believe Your Eyes and Ears",
+    "release_year": 1991,
+    "duration_ms": 162373,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Modern Talking",
     "date": "27.10.2025",
     "time": "08:20",
-    "listeners": 2874
+    "listeners": 2874,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1984,
+    "duration_ms": 202228,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

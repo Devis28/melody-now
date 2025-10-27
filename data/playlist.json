@@ -5,7 +5,15 @@
     "artist": "Minogue Kylie & Donovan Jason",
     "date": "27.10.2025",
     "time": "15:11",
-    "listeners": 1071
+    "listeners": 1071,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1988,
+    "duration_ms": 240371,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hammel Pavol",
     "date": "27.10.2025",
     "time": "15:08",
-    "listeners": 1021
+    "listeners": 1021,
+    "lyricists": null,
+    "album": "Pavol Hammel & Prúdy 1966 – 1975",
+    "release_year": 1969,
+    "duration_ms": 154490,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "The Bee Gees",
     "date": "27.10.2025",
     "time": "15:05",
-    "listeners": 1064
+    "listeners": 1064,
+    "lyricists": null,
+    "album": "High Civilization",
+    "release_year": 1991,
+    "duration_ms": 222800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Alphaville",
     "date": "27.10.2025",
     "time": "15:01",
-    "listeners": 1003
+    "listeners": 1003,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2005,
+    "duration_ms": 226706,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

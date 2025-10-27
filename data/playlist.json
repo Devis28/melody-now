@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Oteckovia",
+    "artist": "Hex",
+    "date": "27.10.2025",
+    "time": "23:31",
+    "listeners": 406
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sometimes",
+    "artist": "Erasure",
+    "date": "27.10.2025",
+    "time": "23:27",
+    "listeners": 431
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dnes Je Skvelý Den",
+    "artist": "Gladiátor",
+    "date": "27.10.2025",
+    "time": "23:22",
+    "listeners": 471
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "27.10.2025",
+    "time": "23:18",
+    "listeners": 488
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cukráreň Na Dlani Námestia",
+    "artist": "Marika Gombitová",
+    "date": "27.10.2025",
+    "time": "23:13",
+    "listeners": 479
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Back For Good",
     "artist": "Take That",
     "date": "27.10.2025",

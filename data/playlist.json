@@ -5,7 +5,15 @@
     "artist": "Dočolomanský Michal",
     "date": "27.10.2025",
     "time": "11:16",
-    "listeners": 1072
+    "listeners": 1072,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 2008,
+    "duration_ms": 187943,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "R.E.M.",
     "date": "27.10.2025",
     "time": "11:12",
-    "listeners": 1054
+    "listeners": 1054,
+    "lyricists": null,
+    "album": "Out of Time (25th Anniversary Edition)",
+    "release_year": 2004,
+    "duration_ms": 268427,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "David Michal",
     "date": "27.10.2025",
     "time": "11:08",
-    "listeners": 1057
+    "listeners": 1057,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 234840,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Eagles The",
     "date": "27.10.2025",
     "time": "11:04",
-    "listeners": 1101
+    "listeners": 1101,
+    "lyricists": null,
+    "album": "Hotel California (40th Anniversary Expanded Edition)",
+    "release_year": 1976,
+    "duration_ms": 391357,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,15 @@
     "artist": "Janda Dalibor",
     "date": "27.10.2025",
     "time": "11:01",
-    "listeners": 969
+    "listeners": 969,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 180120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

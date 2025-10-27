@@ -5,7 +5,15 @@
     "artist": "Take That",
     "date": "27.10.2025",
     "time": "23:08",
-    "listeners": 517
+    "listeners": 517,
+    "lyricists": null,
+    "album": "Nobody Else (Expanded Edition)",
+    "release_year": 1996,
+    "duration_ms": 242267,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "27.10.2025",
     "time": "23:06",
-    "listeners": 541
+    "listeners": 541,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2004,
+    "duration_ms": 138120,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Hammel, Pavol",
     "date": "27.10.2025",
     "time": "23:03",
-    "listeners": 494
+    "listeners": 494,
+    "lyricists": null,
+    "album": "Čas malín",
+    "release_year": 1981,
+    "duration_ms": 179747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Zagorová Hana Hložek Stanislav Kotvald Petr",
     "date": "27.10.2025",
     "time": "22:59",
-    "listeners": 558
+    "listeners": 558,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 1995,
+    "duration_ms": 249813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,16 @@
     "artist": "Keating Ronan",
     "date": "27.10.2025",
     "time": "22:55",
-    "listeners": 552
+    "listeners": 552,
+    "lyricists": null,
+    "album": "Ronan",
+    "release_year": 1999,
+    "duration_ms": 256827,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

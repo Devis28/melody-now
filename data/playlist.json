@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "27.10.2025",
+    "time": "08:48",
+    "listeners": 2170
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "27.10.2025",
+    "time": "08:43",
+    "listeners": 2425
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Za Dverami Mojej Izby",
     "artist": "Beata Dubasová",
     "date": "27.10.2025",

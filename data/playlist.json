@@ -5,7 +5,18 @@
     "artist": "Phil Collins",
     "date": "27.10.2025",
     "time": "13:24",
-    "listeners": 1401
+    "listeners": 1401,
+    "lyricists": [
+      "Phil Collins"
+    ],
+    "album": "No Jacket Required (Deluxe Edition) [Remastered]",
+    "release_year": 1985,
+    "duration_ms": 291253,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Abba",
     "date": "27.10.2025",
     "time": "13:18",
-    "listeners": 1395
+    "listeners": 1395,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 325907,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Soul Asylum",
     "date": "27.10.2025",
     "time": "13:14",
-    "listeners": 1492
+    "listeners": 1492,
+    "lyricists": null,
+    "album": "Black Gold: The Best of Soul Asylum",
+    "release_year": 2007,
+    "duration_ms": 266067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Peter Nagy",
     "date": "27.10.2025",
     "time": "13:08",
-    "listeners": 1391
+    "listeners": 1391,
+    "lyricists": null,
+    "album": "Aj tak sme frajeri",
+    "release_year": 2004,
+    "duration_ms": 256667,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Baccara",
     "date": "27.10.2025",
     "time": "13:04",
-    "listeners": 1517
+    "listeners": 1517,
+    "lyricists": null,
+    "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire",
+    "release_year": 2004,
+    "duration_ms": 219067,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Exil",
     "date": "27.10.2025",
     "time": "13:01",
-    "listeners": 1484
+    "listeners": 1484,
+    "lyricists": null,
+    "album": "Kamarát - EP",
+    "release_year": 1996,
+    "duration_ms": 215615,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

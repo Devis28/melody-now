@@ -1,6 +1,102 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hero (Metro Mix)",
+    "artist": "Iglesias, Enrique",
+    "date": "27.10.2025",
+    "time": "04:56",
+    "listeners": 268
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám, Kým Nemám",
+    "artist": "Elán",
+    "date": "27.10.2025",
+    "time": "04:52",
+    "listeners": 237
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "27.10.2025",
+    "time": "04:48",
+    "listeners": 256
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zažni",
+    "artist": "Miro Žbirka",
+    "date": "27.10.2025",
+    "time": "04:45",
+    "listeners": 225
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šumienky Z Polomu",
+    "artist": "Dubasová Beáta",
+    "date": "27.10.2025",
+    "time": "04:40",
+    "listeners": 234
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Want To Know What Love Is",
+    "artist": "Foreigner",
+    "date": "27.10.2025",
+    "time": "04:36",
+    "listeners": 215
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fading Like A Flower",
+    "artist": "Roxette",
+    "date": "27.10.2025",
+    "time": "04:33",
+    "listeners": 217
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Škandál",
+    "artist": "Polemic",
+    "date": "27.10.2025",
+    "time": "04:30",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Some Hearts Are Diamonds",
+    "artist": "Chris Norman",
+    "date": "27.10.2025",
+    "time": "04:26",
+    "listeners": 198
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mmuoj Boze",
+    "artist": "Katarina Knechtova",
+    "date": "27.10.2025",
+    "time": "04:23",
+    "listeners": 213
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Thank You For The Music",
+    "artist": "Abba",
+    "date": "27.10.2025",
+    "time": "04:19",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kde Jsi ?",
+    "artist": "Janda Dalibor",
+    "date": "27.10.2025",
+    "time": "04:15",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
     "title": "V Piatok Podvečer",
     "artist": "Hex",
     "date": "27.10.2025",

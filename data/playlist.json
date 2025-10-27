@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bosý A Sám",
+    "artist": "Robo Grigorov",
+    "date": "27.10.2025",
+    "time": "18:12",
+    "listeners": 2984
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ona Je Taká",
+    "artist": "Polemic",
+    "date": "27.10.2025",
+    "time": "18:07",
+    "listeners": 2941
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kristínka Iba Spí",
+    "artist": "Nagy Peter",
+    "date": "27.10.2025",
+    "time": "18:02",
+    "listeners": 3022
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I Don't Want To Miss A Thing",
     "artist": "Aerosmith",
     "date": "27.10.2025",

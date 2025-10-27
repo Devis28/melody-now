@@ -5,7 +5,16 @@
     "artist": "The Cranberries",
     "date": "28.10.2025",
     "time": "00:49",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "release_year": 1993,
+    "duration_ms": 255107,
+    "artist_country": "IE",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Gene Pitney/Marc Almond",
     "date": "28.10.2025",
     "time": "00:44",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Hits and Pieces – The Best of Marc Almond & Soft Cell",
+    "release_year": 2016,
+    "duration_ms": 277140,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

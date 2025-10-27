@@ -5,7 +5,17 @@
     "artist": "Harpo",
     "date": "27.10.2025",
     "time": "17:41",
-    "listeners": 3095
+    "listeners": 3095,
+    "lyricists": [
+      "Harpo"
+    ],
+    "album": "Moviestar",
+    "release_year": 2002,
+    "duration_ms": 202280,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "Kryštof",
     "date": "27.10.2025",
     "time": "17:38",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Polocas",
+    "release_year": 2007,
+    "duration_ms": 206667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,18 @@
     "artist": "Cyndi Lauper",
     "date": "27.10.2025",
     "time": "17:34",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": [
+      "Cyndi Lauper",
+      "Rob Hyman"
+    ],
+    "album": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+    "release_year": 2004,
+    "duration_ms": 243067,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +58,16 @@
     "artist": "Pavol Habera",
     "date": "27.10.2025",
     "time": "17:31",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 2021,
+    "duration_ms": 280600,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +75,15 @@
     "artist": "Abba",
     "date": "27.10.2025",
     "time": "17:27",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 1974,
+    "duration_ms": 165800,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +91,15 @@
     "artist": "Michal David",
     "date": "27.10.2025",
     "time": "17:23",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2010,
+    "duration_ms": 283933,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +107,15 @@
     "artist": "Cher",
     "date": "27.10.2025",
     "time": "17:20",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 1999,
+    "duration_ms": 239027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +123,15 @@
     "artist": "Milli Vanilli",
     "date": "27.10.2025",
     "time": "17:14",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "80s 100 Hits – Volume 2",
+    "release_year": 2001,
+    "duration_ms": 225253,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

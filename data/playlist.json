@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "28.10.2025",
+    "time": "00:40",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Time Of My Life",
+    "artist": "Jennifer Warnes/Bill Medley",
+    "date": "28.10.2025",
+    "time": "00:35",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ženská Menom Panika",
     "artist": "Team",
     "date": "28.10.2025",

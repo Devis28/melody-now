@@ -5,7 +5,13 @@
     "artist": "Masquerade",
     "date": "27.10.2025",
     "time": "05:48",
-    "listeners": 702
+    "listeners": 702,
+    "lyricists": null,
+    "album": "Echoes",
+    "release_year": 1998,
+    "duration_ms": 259814,
+    "artist_country": "DE",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,15 @@
     "artist": "I.M.T. Smile",
     "date": "27.10.2025",
     "time": "05:43",
-    "listeners": 610
+    "listeners": 610,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2003,
+    "duration_ms": 277120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,16 @@
     "artist": "Cars The",
     "date": "27.10.2025",
     "time": "05:40",
-    "listeners": 547
+    "listeners": 547,
+    "lyricists": null,
+    "album": "Heartbeat City",
+    "release_year": 1984,
+    "duration_ms": 234332,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +52,15 @@
     "artist": "The Goombay Dance Band",
     "date": "27.10.2025",
     "time": "05:36",
-    "listeners": 543
+    "listeners": 543,
+    "lyricists": null,
+    "album": "Sun of Jamaica",
+    "release_year": 1980,
+    "duration_ms": 264000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +68,17 @@
     "artist": "Michael Jackson",
     "date": "27.10.2025",
     "time": "05:32",
-    "listeners": 492
+    "listeners": 492,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
+    "release_year": 1993,
+    "duration_ms": 219560,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

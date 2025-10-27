@@ -1,6 +1,174 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "V Piatok Podvečer",
+    "artist": "Hex",
+    "date": "27.10.2025",
+    "time": "04:12",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "74 - 75",
+    "artist": "The Connells",
+    "date": "27.10.2025",
+    "time": "04:08",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sará Perché Ti Amo",
+    "artist": "Ricchi E Poveri",
+    "date": "27.10.2025",
+    "time": "04:04",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vyrobená Pre Mňa",
+    "artist": "Desmod",
+    "date": "27.10.2025",
+    "time": "04:00",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crazy",
+    "artist": "Seal",
+    "date": "27.10.2025",
+    "time": "03:56",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Unchained Melody",
+    "artist": "The Righteous Brothers",
+    "date": "27.10.2025",
+    "time": "03:52",
+    "listeners": 201
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sacrifice",
+    "artist": "Elton John",
+    "date": "27.10.2025",
+    "time": "03:47",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Elena",
+    "artist": "Karol Duchoň",
+    "date": "27.10.2025",
+    "time": "03:44",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Heal The World",
+    "artist": "Jackson, Michael",
+    "date": "27.10.2025",
+    "time": "03:39",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "27.10.2025",
+    "time": "03:36",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Locomotion",
+    "artist": "Kylie Minogue",
+    "date": "27.10.2025",
+    "time": "03:33",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spoluhráčka",
+    "artist": "Modus",
+    "date": "27.10.2025",
+    "time": "03:29",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nothing's Gonna Change My Love For You",
+    "artist": "Glenn Medeiros",
+    "date": "27.10.2025",
+    "time": "03:26",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Uličník Bozk",
+    "artist": "Gombitová Marika & Patejdl Vašo",
+    "date": "27.10.2025",
+    "time": "03:22",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "27.10.2025",
+    "time": "03:17",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dovtedy",
+    "artist": "Adam Ďurica",
+    "date": "27.10.2025",
+    "time": "03:15",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Cry",
+    "artist": "Guns N Roses",
+    "date": "27.10.2025",
+    "time": "03:10",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tanečnice Z Lúčnice",
+    "artist": "Elán",
+    "date": "27.10.2025",
+    "time": "03:07",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dancing Queen",
+    "artist": "Abba",
+    "date": "27.10.2025",
+    "time": "03:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "C�est La Vie",
+    "artist": "Miro Zbirka",
+    "date": "27.10.2025",
+    "time": "02:59",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nothing Compares 2 U",
+    "artist": "O'connor Sinéad",
+    "date": "27.10.2025",
+    "time": "02:54",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mrs. Robinson",
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "27.10.2025",

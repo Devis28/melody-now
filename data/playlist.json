@@ -5,7 +5,15 @@
     "artist": "Aerosmith",
     "date": "27.10.2025",
     "time": "17:55",
-    "listeners": 3099
+    "listeners": 3099,
+    "lyricists": null,
+    "album": "I Don't Want To Miss A Thing EP",
+    "release_year": 1998,
+    "duration_ms": 299723,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "27.10.2025",
     "time": "17:50",
-    "listeners": 3139
+    "listeners": 3139,
+    "lyricists": null,
+    "album": "Ôsmy svetadiel (Remastered)",
+    "release_year": 1998,
+    "duration_ms": 274480,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Lenka Filipová",
     "date": "27.10.2025",
     "time": "17:47",
-    "listeners": 3049
+    "listeners": 3049,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 2007,
+    "duration_ms": 213253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "27.10.2025",
     "time": "02:50",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Bookends",
+    "release_year": 1968,
+    "duration_ms": 247420,
+    "artist_country": null,
+    "genres": [
+      "Classical"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Dr. Alban",
     "date": "27.10.2025",
     "time": "02:46",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ],
+    "album": "One Love",
+    "release_year": 1994,
+    "duration_ms": 243133,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,20 @@
     "artist": "Kristína",
     "date": "27.10.2025",
     "time": "02:43",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "album": "V Sieti Ta Mam",
+    "release_year": 2014,
+    "duration_ms": 221000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +61,19 @@
     "artist": "Bryan Adams",
     "date": "27.10.2025",
     "time": "02:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Bryan Adams",
+      "Jim Vallance"
+    ],
+    "album": "Reckless (30th Anniversary)",
+    "release_year": 1989,
+    "duration_ms": 243360,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +81,15 @@
     "artist": "Kelly Family, The",
     "date": "27.10.2025",
     "time": "02:35",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Over the Hump",
+    "release_year": 1994,
+    "duration_ms": 224507,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +97,15 @@
     "artist": "Team",
     "date": "27.10.2025",
     "time": "02:31",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2006,
+    "duration_ms": 221933,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +113,15 @@
     "artist": "Clapton Eric",
     "date": "27.10.2025",
     "time": "02:27",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Clapton Chronicles: The Best of Eric Clapton",
+    "release_year": 1992,
+    "duration_ms": 271760,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +129,17 @@
     "artist": "Peter Nagy",
     "date": "27.10.2025",
     "time": "02:24",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Peter Nagy"
+    ],
+    "album": "Aj tak sme frajeri",
+    "release_year": 1996,
+    "duration_ms": 200400,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +147,15 @@
     "artist": "Smokie",
     "date": "27.10.2025",
     "time": "02:20",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2009,
+    "duration_ms": 237667,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +163,15 @@
     "artist": "Gott Karel",
     "date": "27.10.2025",
     "time": "02:17",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 184307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +179,19 @@
     "artist": "Richard Müller",
     "date": "27.10.2025",
     "time": "02:12",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ],
+    "album": "Hlasy",
+    "release_year": 2011,
+    "duration_ms": 353360,
+    "artist_country": "SK",
+    "genres": [
+      "Jazz",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +199,15 @@
     "artist": "Gloria Gaynor",
     "date": "27.10.2025",
     "time": "02:07",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Make It 80's & 90's",
+    "release_year": 2000,
+    "duration_ms": 254600,
+    "artist_country": "US",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +215,16 @@
     "artist": "Patejdl, Vaso",
     "date": "27.10.2025",
     "time": "02:03",
-    "listeners": 194
+    "listeners": 194,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 252013,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +232,16 @@
     "artist": "Meat Loaf",
     "date": "27.10.2025",
     "time": "01:57",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Bat Out Of Hell II: Back Into Hell (Deluxe)",
+    "release_year": 1996,
+    "duration_ms": 316467,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +249,16 @@
     "artist": "Leo Sayer",
     "date": "27.10.2025",
     "time": "01:53",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Endless Journey – The Essential Leo Sayer",
+    "release_year": 2005,
+    "duration_ms": 252728,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +266,15 @@
     "artist": "I.M.T. Smile & Ondrej Kandráč",
     "date": "27.10.2025",
     "time": "01:50",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Hej, sokoly! (feat. Ondrej Kandrac) - Single",
+    "release_year": 2023,
+    "duration_ms": 174251,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +282,15 @@
     "artist": "Roxette",
     "date": "27.10.2025",
     "time": "01:46",
-    "listeners": 199
+    "listeners": 199,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2006,
+    "duration_ms": 275667,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +298,15 @@
     "artist": "Paradis, Vanessa",
     "date": "27.10.2025",
     "time": "01:42",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "M & J (CD2)",
+    "release_year": 1987,
+    "duration_ms": 235227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +314,16 @@
     "artist": "Erasure",
     "date": "27.10.2025",
     "time": "01:38",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Hits! The Very Best of Erasure",
+    "release_year": 1993,
+    "duration_ms": 237613,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +331,15 @@
     "artist": "Žbirka Miroslav",
     "date": "27.10.2025",
     "time": "01:35",
-    "listeners": 197
+    "listeners": 197,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 1988,
+    "duration_ms": 187107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +347,15 @@
     "artist": "Vidiek",
     "date": "27.10.2025",
     "time": "01:32",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "Nechajte si ju!",
+    "release_year": 2000,
+    "duration_ms": 171013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +363,15 @@
     "artist": "The Art Company",
     "date": "27.10.2025",
     "time": "01:27",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Susanna - Single",
+    "release_year": 2023,
+    "duration_ms": 285062,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +379,15 @@
     "artist": "No Name",
     "date": "27.10.2025",
     "time": "01:24",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2014,
+    "duration_ms": 199733,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -189,7 +395,15 @@
     "artist": "Ramazzotti Eros",
     "date": "27.10.2025",
     "time": "01:20",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 323867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -197,7 +411,15 @@
     "artist": "Zuzana Smatanová",
     "date": "27.10.2025",
     "time": "01:16",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Horou - Single",
+    "release_year": 2018,
+    "duration_ms": 246659,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -205,7 +427,15 @@
     "artist": "Mr. Big",
     "date": "27.10.2025",
     "time": "01:12",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2005,
+    "duration_ms": 206973,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -213,7 +443,16 @@
     "artist": "Black",
     "date": "27.10.2025",
     "time": "01:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Wonderful Life",
+    "release_year": 2003,
+    "duration_ms": 287933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -221,7 +460,19 @@
     "artist": "Al Bano & Romina Power",
     "date": "27.10.2025",
     "time": "01:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Al Bano Carrisi",
+      "Ciro Dammicco",
+      "Romina Power"
+    ],
+    "album": "Al Bano e Romina Power",
+    "release_year": 2007,
+    "duration_ms": 264773,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -229,7 +480,15 @@
     "artist": "Abba",
     "date": "27.10.2025",
     "time": "00:59",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Waterloo",
+    "release_year": 1994,
+    "duration_ms": 176440,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

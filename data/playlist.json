@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "27.10.2025",
+    "time": "22:34",
+    "listeners": 701
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Dobrom Aj Zlom",
+    "artist": "Zuzana Smatanová",
+    "date": "27.10.2025",
+    "time": "22:31",
+    "listeners": 713
+  },
+  {
+    "station": "Rádio Melody",
     "title": "La Luna",
     "artist": "Belinda Carlisle",
     "date": "27.10.2025",

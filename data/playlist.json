@@ -5,7 +5,15 @@
     "artist": "Pink Floyd",
     "date": "27.10.2025",
     "time": "10:29",
-    "listeners": 961
+    "listeners": 961,
+    "lyricists": null,
+    "album": "The Division Bell",
+    "release_year": 1994,
+    "duration_ms": 511013,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Helena Vondracková",
     "date": "27.10.2025",
     "time": "10:26",
-    "listeners": 935
+    "listeners": 935,
+    "lyricists": null,
+    "album": "Přejdi Jordán A Další Hity...",
+    "release_year": 2005,
+    "duration_ms": 267067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Taylor Dayne",
     "date": "27.10.2025",
     "time": "10:22",
-    "listeners": 896
+    "listeners": 896,
+    "lyricists": null,
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "release_year": 2004,
+    "duration_ms": 220880,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Penk Michal",
     "date": "27.10.2025",
     "time": "10:18",
-    "listeners": 948
+    "listeners": 948,
+    "lyricists": null,
+    "album": "Hit Album",
+    "release_year": 1992,
+    "duration_ms": 278000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Village People",
     "date": "27.10.2025",
     "time": "10:14",
-    "listeners": 988
+    "listeners": 988,
+    "lyricists": null,
+    "album": "YMCA",
+    "release_year": 1993,
+    "duration_ms": 286800,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Medulienka",
+    "artist": "Hammel Pavol",
+    "date": "27.10.2025",
+    "time": "17:11",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "María",
+    "artist": "Ricky Martin",
+    "date": "27.10.2025",
+    "time": "17:06",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eternal Flame",
+    "artist": "The Bangles",
+    "date": "27.10.2025",
+    "time": "17:03",
+    "listeners": 3012
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Please Forgive Me",
+    "artist": "Bryan Adams",
+    "date": "27.10.2025",
+    "time": "16:53",
+    "listeners": 2961
+  },
+  {
+    "station": "Rádio Melody",
     "title": "If You Can't Give Me Love",
     "artist": "Suzi Quatro",
     "date": "27.10.2025",

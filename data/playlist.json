@@ -5,7 +5,15 @@
     "artist": "All-4-One",
     "date": "27.10.2025",
     "time": "08:16",
-    "listeners": 2990
+    "listeners": 2990,
+    "lyricists": null,
+    "album": "All-4-One",
+    "release_year": 2012,
+    "duration_ms": 259853,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karel Gott",
     "date": "27.10.2025",
     "time": "08:13",
-    "listeners": 2899
+    "listeners": 2899,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 2006,
+    "duration_ms": 170067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Big Mountain",
     "date": "27.10.2025",
     "time": "08:05",
-    "listeners": 3127
+    "listeners": 3127,
+    "lyricists": null,
+    "album": "Unity",
+    "release_year": 1994,
+    "duration_ms": 249520,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Wham!",
     "date": "27.10.2025",
     "time": "08:01",
-    "listeners": 2894
+    "listeners": 2894,
+    "lyricists": null,
+    "album": "The Final: 14 Greatest Hits",
+    "release_year": 2001,
+    "duration_ms": 230667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

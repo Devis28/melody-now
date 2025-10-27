@@ -5,7 +5,18 @@
     "artist": "Eric Carmen",
     "date": "27.10.2025",
     "time": "23:56",
-    "listeners": 333
+    "listeners": 333,
+    "lyricists": [
+      "Eric Carmen",
+      "Сергей Васильевич Рахманинов"
+    ],
+    "album": "Eric Carmen",
+    "release_year": 2012,
+    "duration_ms": 429997,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Zuzana Smatanová",
     "date": "27.10.2025",
     "time": "23:53",
-    "listeners": 355
+    "listeners": 355,
+    "lyricists": null,
+    "album": "Dvere",
+    "release_year": 2011,
+    "duration_ms": 192467,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

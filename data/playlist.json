@@ -5,7 +5,18 @@
     "artist": "Jana Kirschner",
     "date": "27.10.2025",
     "time": "19:38",
-    "listeners": 1752
+    "listeners": 1752,
+    "lyricists": [
+      "Ivan Tásler",
+      "Jana Kirschner"
+    ],
+    "album": "V Cudzom Meste",
+    "release_year": 2000,
+    "duration_ms": 199347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Grigorov Robo",
     "date": "27.10.2025",
     "time": "19:34",
-    "listeners": 1793
+    "listeners": 1793,
+    "lyricists": null,
+    "album": "Midi",
+    "release_year": 1987,
+    "duration_ms": 212402,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Gombitová Marika",
     "date": "27.10.2025",
     "time": "19:30",
-    "listeners": 1758
+    "listeners": 1758,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 1982,
+    "duration_ms": 216013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Tublatanka",
     "date": "27.10.2025",
     "time": "19:26",
-    "listeners": 1871
+    "listeners": 1871,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 2006,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Marie Rottrová",
     "date": "27.10.2025",
     "time": "19:23",
-    "listeners": 1876
+    "listeners": 1876,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2003,
+    "duration_ms": 200307,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Heckovci Julia A Peter",
     "date": "27.10.2025",
     "time": "19:18",
-    "listeners": 1814
+    "listeners": 1814,
+    "lyricists": null,
+    "album": "Maturitné tablo",
+    "release_year": 1987,
+    "duration_ms": 243329,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +104,15 @@
     "artist": "Zagorová Hana",
     "date": "27.10.2025",
     "time": "19:15",
-    "listeners": 2010
+    "listeners": 2010,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 1995,
+    "duration_ms": 178320,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +120,15 @@
     "artist": "Ilona Csáková",
     "date": "27.10.2025",
     "time": "19:12",
-    "listeners": 1944
+    "listeners": 1944,
+    "lyricists": null,
+    "album": "22x Ilona - Best Of",
+    "release_year": 1999,
+    "duration_ms": 205147,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +136,15 @@
     "artist": "Desmod",
     "date": "27.10.2025",
     "time": "19:07",
-    "listeners": 2012
+    "listeners": 2012,
+    "lyricists": null,
+    "album": "Javorový Album: Akustický Výber",
+    "release_year": 2006,
+    "duration_ms": 260587,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +152,15 @@
     "artist": "Patejdl Vašo",
     "date": "27.10.2025",
     "time": "19:04",
-    "listeners": 2052
+    "listeners": 2052,
+    "lyricists": null,
+    "album": "Lov na city",
+    "release_year": 1987,
+    "duration_ms": 205813,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

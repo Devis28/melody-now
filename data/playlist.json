@@ -5,7 +5,15 @@
     "artist": "Carey Mariah",
     "date": "27.10.2025",
     "time": "07:52",
-    "listeners": 2794
+    "listeners": 2794,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 257973,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "A-Ha",
     "date": "27.10.2025",
     "time": "07:50",
-    "listeners": 2913
+    "listeners": 2913,
+    "lyricists": null,
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "release_year": 2003,
+    "duration_ms": 228520,
+    "artist_country": "NO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Hana Zagorová",
     "date": "27.10.2025",
     "time": "07:43",
-    "listeners": 3027
+    "listeners": 3027,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 2011,
+    "duration_ms": 312320,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "La Bouche",
     "date": "27.10.2025",
     "time": "07:39",
-    "listeners": 3052
+    "listeners": 3052,
+    "lyricists": null,
+    "album": "La Bouche: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 240867,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

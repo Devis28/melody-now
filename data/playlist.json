@@ -5,7 +5,15 @@
     "artist": "Nagy Peter Muk Petr",
     "date": "27.10.2025",
     "time": "22:44",
-    "listeners": 619
+    "listeners": 619,
+    "lyricists": null,
+    "album": "Spolu",
+    "release_year": 1989,
+    "duration_ms": 204040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Olivia Newton-John And Electric Light Orchestra",
     "date": "27.10.2025",
     "time": "22:40",
-    "listeners": 701
+    "listeners": 701,
+    "lyricists": null,
+    "album": "Xanadu (From the Original Motion Picture Soundtrack)",
+    "release_year": 1980,
+    "duration_ms": 208240,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

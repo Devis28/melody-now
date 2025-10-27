@@ -5,7 +5,16 @@
     "artist": "The Cranberries",
     "date": "27.10.2025",
     "time": "06:42",
-    "listeners": 1674
+    "listeners": 1674,
+    "lyricists": null,
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "release_year": 1993,
+    "duration_ms": 255107,
+    "artist_country": "IE",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Toto Cutugno",
     "date": "27.10.2025",
     "time": "06:38",
-    "listeners": 1584
+    "listeners": 1584,
+    "lyricists": null,
+    "album": "The Great Italian Songbook",
+    "release_year": 2000,
+    "duration_ms": 254987,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Kamen, Nick",
     "date": "27.10.2025",
     "time": "06:34",
-    "listeners": 1624
+    "listeners": 1624,
+    "lyricists": null,
+    "album": "Move Until We Fly",
+    "release_year": 1990,
+    "duration_ms": 240773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Streisand Barbra",
     "date": "27.10.2025",
     "time": "06:30",
-    "listeners": 1455
+    "listeners": 1455,
+    "lyricists": null,
+    "album": "Guilty",
+    "release_year": 1980,
+    "duration_ms": 233400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "One More Night",
+    "artist": "Phil Collins",
+    "date": "27.10.2025",
+    "time": "13:24",
+    "listeners": 1401
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chiquitita",
+    "artist": "Abba",
+    "date": "27.10.2025",
+    "time": "13:18",
+    "listeners": 1395
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Runaway Train",
+    "artist": "Soul Asylum",
+    "date": "27.10.2025",
+    "time": "13:14",
+    "listeners": 1492
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska Je Tu S Nami",
+    "artist": "Peter Nagy",
+    "date": "27.10.2025",
+    "time": "13:08",
+    "listeners": 1391
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sorry, I'm A Lady",
+    "artist": "Baccara",
+    "date": "27.10.2025",
+    "time": "13:04",
+    "listeners": 1517
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamarát",
+    "artist": "Exil",
+    "date": "27.10.2025",
+    "time": "13:01",
+    "listeners": 1484
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Always",
     "artist": "Bon Jovi",
     "date": "27.10.2025",

@@ -5,7 +5,15 @@
     "artist": "The Belle Stars",
     "date": "27.10.2025",
     "time": "15:33",
-    "listeners": 1441
+    "listeners": 1441,
+    "lyricists": null,
+    "album": "The Belle Stars",
+    "release_year": 1981,
+    "duration_ms": 178720,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "No Name",
     "date": "27.10.2025",
     "time": "15:30",
-    "listeners": 1355
+    "listeners": 1355,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 202093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,13 @@
     "artist": "Travolta John & Newton-John Olivia",
     "date": "27.10.2025",
     "time": "15:25",
-    "listeners": 1258
+    "listeners": 1258,
+    "lyricists": null,
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "release_year": 1978,
+    "duration_ms": 168907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Filipová Lenka",
     "date": "27.10.2025",
     "time": "15:21",
-    "listeners": 1168
+    "listeners": 1168,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 1980,
+    "duration_ms": 243173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,13 @@
     "artist": "Israel",
     "date": "27.10.2025",
     "time": "15:16",
-    "listeners": 1152
+    "listeners": 1152,
+    "lyricists": null,
+    "album": "Unforgettable",
+    "release_year": 2006,
+    "duration_ms": 244013,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Beata Dubasová",
     "date": "27.10.2025",
     "time": "18:47",
-    "listeners": 2531
+    "listeners": 2531,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 2001,
+    "duration_ms": 269000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Novák Petr",
     "date": "27.10.2025",
     "time": "18:45",
-    "listeners": 2446
+    "listeners": 2446,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 125867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

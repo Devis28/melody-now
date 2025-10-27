@@ -5,7 +5,13 @@
     "artist": "Jennifer Warnes/Bill Medley",
     "date": "27.10.2025",
     "time": "06:21",
-    "listeners": 1356
+    "listeners": 1356,
+    "lyricists": null,
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 1987,
+    "duration_ms": 290333,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,16 @@
     "artist": "Phil Collins",
     "date": "27.10.2025",
     "time": "06:17",
-    "listeners": 1207
+    "listeners": 1207,
+    "lyricists": null,
+    "album": "Testify (Deluxe Edition) [Remastered]",
+    "release_year": 1999,
+    "duration_ms": 331573,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +36,15 @@
     "artist": "Abba",
     "date": "27.10.2025",
     "time": "06:12",
-    "listeners": 996
+    "listeners": 996,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1981,
+    "duration_ms": 274867,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +52,18 @@
     "artist": "U2",
     "date": "27.10.2025",
     "time": "06:06",
-    "listeners": 959
+    "listeners": 959,
+    "lyricists": [
+      "Bono",
+      "U2"
+    ],
+    "album": "U218 Singles",
+    "release_year": 1988,
+    "duration_ms": 275400,
+    "artist_country": "IE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Bad Boys Blue",
     "date": "27.10.2025",
     "time": "06:02",
-    "listeners": 812
+    "listeners": 812,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 2009,
+    "duration_ms": 321840,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

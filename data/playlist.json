@@ -5,7 +5,15 @@
     "artist": "The Bee Gees",
     "date": "27.10.2025",
     "time": "20:22",
-    "listeners": 1540
+    "listeners": 1540,
+    "lyricists": null,
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "release_year": 2000,
+    "duration_ms": 246241,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Camouflage",
     "date": "27.10.2025",
     "time": "20:18",
-    "listeners": 1409
+    "listeners": 1409,
+    "lyricists": null,
+    "album": "Love Is A Shield - Single",
+    "release_year": 1989,
+    "duration_ms": 241013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Modus",
     "date": "27.10.2025",
     "time": "20:14",
-    "listeners": 1468
+    "listeners": 1468,
+    "lyricists": null,
+    "album": "Keď sa raz oči dohodnú",
+    "release_year": 1998,
+    "duration_ms": 276653,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Bon Jovi, Jon",
     "date": "27.10.2025",
     "time": "20:08",
-    "listeners": 1483
+    "listeners": 1483,
+    "lyricists": null,
+    "album": "Blaze of Glory (Inspired by the Film \"Young Guns II\")",
+    "release_year": 1990,
+    "duration_ms": 335240,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Nagy Peter",
     "date": "27.10.2025",
     "time": "20:05",
-    "listeners": 1546
+    "listeners": 1546,
+    "lyricists": null,
+    "album": "Mne sa neschováš",
+    "release_year": 1985,
+    "duration_ms": 197013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

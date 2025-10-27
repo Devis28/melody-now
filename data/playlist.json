@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "27.10.2025",
     "time": "18:30",
-    "listeners": 2669
+    "listeners": 2669,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 2007,
+    "duration_ms": 215027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Shalom",
     "date": "27.10.2025",
     "time": "18:26",
-    "listeners": 2551
+    "listeners": 2551,
+    "lyricists": null,
+    "album": "Slunce / To Nejlepsi",
+    "release_year": 2014,
+    "duration_ms": 213956,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Petra Černocká",
     "date": "27.10.2025",
     "time": "18:23",
-    "listeners": 2884
+    "listeners": 2884,
+    "lyricists": null,
+    "album": "Se Mnou Si Píseň Broukej",
+    "release_year": 1996,
+    "duration_ms": 168493,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,18 @@
     "artist": "Žentour",
     "date": "27.10.2025",
     "time": "18:19",
-    "listeners": 2815
+    "listeners": 2815,
+    "lyricists": [
+      "Žentour"
+    ],
+    "album": "Hity Tommü",
+    "release_year": 1990,
+    "duration_ms": 225787,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Karel Gott",
     "date": "27.10.2025",
     "time": "18:16",
-    "listeners": 2916
+    "listeners": 2916,
+    "lyricists": null,
+    "album": "Originální Nahrávky Ze 70. Let",
+    "release_year": 2007,
+    "duration_ms": 207187,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

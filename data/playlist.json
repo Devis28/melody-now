@@ -5,7 +5,15 @@
     "artist": "Streisand Barbra",
     "date": "28.10.2025",
     "time": "00:57",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Guilty",
+    "release_year": 1980,
+    "duration_ms": 233400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Desmod & Majself",
     "date": "28.10.2025",
     "time": "00:53",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",

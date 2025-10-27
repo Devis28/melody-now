@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "date": "27.10.2025",
+    "time": "08:16",
+    "listeners": 2990
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "C§est La Vie",
+    "artist": "Karel Gott",
+    "date": "27.10.2025",
+    "time": "08:13",
+    "listeners": 2899
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Baby, I Love Your Way",
+    "artist": "Big Mountain",
+    "date": "27.10.2025",
+    "time": "08:05",
+    "listeners": 3127
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "27.10.2025",
+    "time": "08:01",
+    "listeners": 2894
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hero",
     "artist": "Carey Mariah",
     "date": "27.10.2025",

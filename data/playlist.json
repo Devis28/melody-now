@@ -5,7 +5,15 @@
     "artist": "No Doubt",
     "date": "28.10.2025",
     "time": "13:53",
-    "listeners": 1077
+    "listeners": 1077,
+    "lyricists": null,
+    "album": "Tragic Kingdom",
+    "release_year": 1997,
+    "duration_ms": 263533,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "28.10.2025",
     "time": "13:50",
-    "listeners": 1080
+    "listeners": 1080,
+    "lyricists": null,
+    "album": "The Visitors (Bonus Track Version)",
+    "release_year": 2005,
+    "duration_ms": 236770,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Minogue Kylie",
     "date": "28.10.2025",
     "time": "13:47",
-    "listeners": 1144
+    "listeners": 1144,
+    "lyricists": null,
+    "album": "Kylie",
+    "release_year": 1987,
+    "duration_ms": 204128,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Jožo Ráž",
     "date": "28.10.2025",
     "time": "13:41",
-    "listeners": 1154
+    "listeners": 1154,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2007,
+    "duration_ms": 309392,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,17 @@
     "artist": "Barbra Streisand",
     "date": "28.10.2025",
     "time": "13:38",
-    "listeners": 1154
+    "listeners": 1154,
+    "lyricists": [
+      "Barbra Streisand"
+    ],
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "release_year": 1982,
+    "duration_ms": 233280,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "David Michal Kroky Františka Janečka",
     "date": "28.10.2025",
     "time": "13:35",
-    "listeners": 1336
+    "listeners": 1336,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 193239,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Miro Žbirka",
     "date": "28.10.2025",
     "time": "13:30",
-    "listeners": 1358
+    "listeners": 1358,
+    "lyricists": null,
+    "album": "Samozrejmy Svet",
+    "release_year": 2002,
+    "duration_ms": 237400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "Manilow Barry",
     "date": "28.10.2025",
     "time": "13:27",
-    "listeners": 1249
+    "listeners": 1249,
+    "lyricists": null,
+    "album": "Barry Manilow II",
+    "release_year": 1974,
+    "duration_ms": 213333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +135,15 @@
     "artist": "Rolincova Darinka",
     "date": "28.10.2025",
     "time": "13:24",
-    "listeners": 1355
+    "listeners": 1355,
+    "lyricists": null,
+    "album": "Čo O Mne Vieš",
+    "release_year": 1987,
+    "duration_ms": 161133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +151,15 @@
     "artist": "Metalinda",
     "date": "28.10.2025",
     "time": "13:18",
-    "listeners": 1379
+    "listeners": 1379,
+    "lyricists": null,
+    "album": "Metalinda",
+    "release_year": 1990,
+    "duration_ms": 336968,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

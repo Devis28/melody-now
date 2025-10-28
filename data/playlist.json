@@ -1,6 +1,158 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Slnko Nevychádzaj",
+    "artist": "Metalinda",
+    "date": "28.10.2025",
+    "time": "03:57",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch By Touch",
+    "artist": "Joy",
+    "date": "28.10.2025",
+    "time": "03:53",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Runaway Train",
+    "artist": "Soul Asylum",
+    "date": "28.10.2025",
+    "time": "03:49",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Študentská Láska",
+    "artist": "Marika Gombitová",
+    "date": "28.10.2025",
+    "time": "03:45",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Karmen Pál-Baláž",
+    "date": "28.10.2025",
+    "time": "03:41",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Win Again",
+    "artist": "The Bee Gees",
+    "date": "28.10.2025",
+    "time": "03:37",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Mi, Lásko, Není Dvacet Let",
+    "artist": "Jiří Zmožek",
+    "date": "28.10.2025",
+    "time": "03:33",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandolína",
+    "artist": "Adam Ďurica",
+    "date": "28.10.2025",
+    "time": "03:30",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Always On My Mind",
+    "artist": "Pet Shop Boys",
+    "date": "28.10.2025",
+    "time": "03:26",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chýbanie",
+    "artist": "Desmod",
+    "date": "28.10.2025",
+    "time": "03:22",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "28.10.2025",
+    "time": "03:19",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Věnování",
+    "artist": "Filipová Lenka",
+    "date": "28.10.2025",
+    "time": "03:15",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Žienka Domáca",
+    "artist": "Jana Kirschner",
+    "date": "28.10.2025",
+    "time": "03:11",
+    "listeners": 196
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Return To Innocence",
+    "artist": "Enigma",
+    "date": "28.10.2025",
+    "time": "03:07",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Want To Break Free",
+    "artist": "Queen",
+    "date": "28.10.2025",
+    "time": "03:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hard To Say I'm Sorry",
+    "artist": "Chicago",
+    "date": "28.10.2025",
+    "time": "02:59",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horehronie",
+    "artist": "Kristína",
+    "date": "28.10.2025",
+    "time": "02:56",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "28.10.2025",
+    "time": "02:52",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "California Dreamin'",
+    "artist": "Mamas & The Papas",
+    "date": "28.10.2025",
+    "time": "02:50",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I Swear",
     "artist": "All-4-One",
     "date": "28.10.2025",

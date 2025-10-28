@@ -5,7 +5,15 @@
     "artist": "I.M.T. Smile",
     "date": "28.10.2025",
     "time": "20:41",
-    "listeners": 1374
+    "listeners": 1374,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 178840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ub 40",
     "date": "28.10.2025",
     "time": "20:38",
-    "listeners": 1392
+    "listeners": 1392,
+    "lyricists": null,
+    "album": "The Very Best Of",
+    "release_year": 1989,
+    "duration_ms": 230000,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

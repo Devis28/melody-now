@@ -1,6 +1,94 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "28.10.2025",
+    "time": "11:40",
+    "listeners": 1423
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Já Budu Chodit Po Špičkách",
+    "artist": "Novák Petr",
+    "date": "28.10.2025",
+    "time": "11:37",
+    "listeners": 1392
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Netrpezliví",
+    "artist": "Elán",
+    "date": "28.10.2025",
+    "time": "11:33",
+    "listeners": 1315
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Senza Una Donna",
+    "artist": "Zucchero,Paul Young",
+    "date": "28.10.2025",
+    "time": "11:29",
+    "listeners": 1332
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "28.10.2025",
+    "time": "11:25",
+    "listeners": 1279
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hiroshima",
+    "artist": "Sandra",
+    "date": "28.10.2025",
+    "time": "11:21",
+    "listeners": 1105
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Always",
+    "artist": "Erasure",
+    "date": "28.10.2025",
+    "time": "11:17",
+    "listeners": 1150
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tornero",
+    "artist": "I Santo California",
+    "date": "28.10.2025",
+    "time": "11:13",
+    "listeners": 1160
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Diskohrátky",
+    "artist": "Hana Zagorová",
+    "date": "28.10.2025",
+    "time": "11:08",
+    "listeners": 1156
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Free",
+    "artist": "Lighthouse Family",
+    "date": "28.10.2025",
+    "time": "11:04",
+    "listeners": 1053
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Paráda",
+    "artist": "Zich Karel",
+    "date": "28.10.2025",
+    "time": "11:01",
+    "listeners": 1105
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Voyage Voyage",
     "artist": "Desirelles",
     "date": "28.10.2025",

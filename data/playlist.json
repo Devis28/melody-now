@@ -5,7 +5,15 @@
     "artist": "Grigorov Robo",
     "date": "28.10.2025",
     "time": "11:51",
-    "listeners": 1543
+    "listeners": 1543,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2008,
+    "duration_ms": 209427,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Boney M.",
     "date": "28.10.2025",
     "time": "11:48",
-    "listeners": 1508
+    "listeners": 1508,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2025,
+    "duration_ms": 261200,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,19 @@
     "artist": "Lionel Richie",
     "date": "28.10.2025",
     "time": "11:43",
-    "listeners": 1377
+    "listeners": 1377,
+    "lyricists": [
+      "James Anthony Carmichael",
+      "Lionel Richie"
+    ],
+    "album": "Can't Slow Down",
+    "release_year": 1983,
+    "duration_ms": 248401,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

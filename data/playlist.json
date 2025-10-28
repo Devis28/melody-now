@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Brother Louie",
+    "artist": "Modern Talking",
+    "date": "28.10.2025",
+    "time": "15:24",
+    "listeners": 1197
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Angel",
+    "artist": "Shaggy",
+    "date": "28.10.2025",
+    "time": "15:14",
+    "listeners": 1164
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Slepých Uličkách",
+    "artist": "Zbirka Miro & Gombitova Marika",
+    "date": "28.10.2025",
+    "time": "15:10",
+    "listeners": 1072
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sunshine Reggae",
+    "artist": "Laid Back",
+    "date": "28.10.2025",
+    "time": "15:06",
+    "listeners": 1113
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Stúpa Dym",
+    "artist": "I.M.T. Smile",
+    "date": "28.10.2025",
+    "time": "15:02",
+    "listeners": 961
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Where Do You Go",
     "artist": "No Mercy",
     "date": "28.10.2025",

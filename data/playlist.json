@@ -5,7 +5,16 @@
     "artist": "Ramazzotti Eros",
     "date": "28.10.2025",
     "time": "11:40",
-    "listeners": 1423
+    "listeners": 1423,
+    "lyricists": null,
+    "album": "9",
+    "release_year": 2003,
+    "duration_ms": 237880,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Novák Petr",
     "date": "28.10.2025",
     "time": "11:37",
-    "listeners": 1392
+    "listeners": 1392,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 141027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Elán",
     "date": "28.10.2025",
     "time": "11:33",
-    "listeners": 1315
+    "listeners": 1315,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 1992,
+    "duration_ms": 250547,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Zucchero,Paul Young",
     "date": "28.10.2025",
     "time": "11:29",
-    "listeners": 1332
+    "listeners": 1332,
+    "lyricists": null,
+    "album": "All the Best",
+    "release_year": 1991,
+    "duration_ms": 267080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Karol Duchoň",
     "date": "28.10.2025",
     "time": "11:25",
-    "listeners": 1279
+    "listeners": 1279,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 209427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Sandra",
     "date": "28.10.2025",
     "time": "11:21",
-    "listeners": 1105
+    "listeners": 1105,
+    "lyricists": null,
+    "album": "Paintings in Yellow",
+    "release_year": 2000,
+    "duration_ms": 412160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Erasure",
     "date": "28.10.2025",
     "time": "11:17",
-    "listeners": 1150
+    "listeners": 1150,
+    "lyricists": null,
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "release_year": 2005,
+    "duration_ms": 237840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "I Santo California",
     "date": "28.10.2025",
     "time": "11:13",
-    "listeners": 1160
+    "listeners": 1160,
+    "lyricists": null,
+    "album": "Tornerò/Volveré - Single",
+    "release_year": 2001,
+    "duration_ms": 226355,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +134,15 @@
     "artist": "Hana Zagorová",
     "date": "28.10.2025",
     "time": "11:08",
-    "listeners": 1156
+    "listeners": 1156,
+    "lyricists": null,
+    "album": "Singly 1981-1990",
+    "release_year": 2004,
+    "duration_ms": 205000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +150,16 @@
     "artist": "Lighthouse Family",
     "date": "28.10.2025",
     "time": "11:04",
-    "listeners": 1053
+    "listeners": 1053,
+    "lyricists": null,
+    "album": "Whatever Gets You Through the Day",
+    "release_year": 2001,
+    "duration_ms": 316360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +167,15 @@
     "artist": "Zich Karel",
     "date": "28.10.2025",
     "time": "11:01",
-    "listeners": 1105
+    "listeners": 1105,
+    "lyricists": null,
+    "album": "...To Nejlepší",
+    "release_year": 1981,
+    "duration_ms": 207133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

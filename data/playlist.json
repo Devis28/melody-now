@@ -5,7 +5,15 @@
     "artist": "Carlisle Belinda",
     "date": "28.10.2025",
     "time": "04:41",
-    "listeners": 229
+    "listeners": 229,
+    "lyricists": null,
+    "album": "Runaway Horses: The Tour (Live)",
+    "release_year": 1990,
+    "duration_ms": 266253,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gott Karel",
     "date": "28.10.2025",
     "time": "04:37",
-    "listeners": 198
+    "listeners": 198,
+    "lyricists": null,
+    "album": "Jágr vs Gott - Single",
+    "release_year": 2018,
+    "duration_ms": 190549,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "David Michal",
     "date": "28.10.2025",
     "time": "04:34",
-    "listeners": 219
+    "listeners": 219,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 234840,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Heckovci Julia A Peter",
     "date": "28.10.2025",
     "time": "04:30",
-    "listeners": 202
+    "listeners": 202,
+    "lyricists": null,
+    "album": "Taliansky muzikál",
+    "release_year": 1987,
+    "duration_ms": 228818,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,16 @@
     "artist": "Blondie",
     "date": "28.10.2025",
     "time": "04:26",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Autoamerican (Bonus Track) [2001 Remaster]",
+    "release_year": 2002,
+    "duration_ms": 280267,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,13 @@
     "artist": "Peter Nagy",
     "date": "28.10.2025",
     "time": "04:23",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": null,
+    "release_year": 2011,
+    "duration_ms": null,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +100,15 @@
     "artist": "Penk Michal",
     "date": "28.10.2025",
     "time": "04:18",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Hit Album",
+    "release_year": 1992,
+    "duration_ms": 278000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +116,15 @@
     "artist": "Hex",
     "date": "28.10.2025",
     "time": "04:14",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2002,
+    "duration_ms": 226493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +132,16 @@
     "artist": "Prince Ital Joe & Marky Mark",
     "date": "28.10.2025",
     "time": "04:10",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 2009,
+    "duration_ms": 241760,
+    "artist_country": "US",
+    "genres": [
+      "Hip-Hop",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +149,15 @@
     "artist": "Gravis",
     "date": "28.10.2025",
     "time": "04:07",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Kolotoč masiek",
+    "release_year": 2007,
+    "duration_ms": 245180,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +165,15 @@
     "artist": "Hana Zagorová",
     "date": "28.10.2025",
     "time": "04:01",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Maluj Zase Obrázky",
+    "release_year": 2011,
+    "duration_ms": 312320,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

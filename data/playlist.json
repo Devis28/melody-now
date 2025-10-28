@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hrám",
+    "artist": "Karol Duchoň",
+    "date": "28.10.2025",
+    "time": "18:39",
+    "listeners": 2503
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Niekto Ti To Povie Skôr Než Ja",
+    "artist": "Desmod",
+    "date": "28.10.2025",
+    "time": "18:34",
+    "listeners": 2589
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "S Tím Bláznem Si Nic Nezačínej",
+    "artist": "Rottrová Marie",
+    "date": "28.10.2025",
+    "time": "18:31",
+    "listeners": 2849
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hej Pane Diskžokej",
+    "artist": "Balet",
+    "date": "28.10.2025",
+    "time": "18:27",
+    "listeners": 2834
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Máš Chuť Majoránky",
     "artist": "Karel Zich",
     "date": "28.10.2025",

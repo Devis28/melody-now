@@ -5,7 +5,15 @@
     "artist": "Men At Work",
     "date": "28.10.2025",
     "time": "06:30",
-    "listeners": 1491
+    "listeners": 1491,
+    "lyricists": null,
+    "album": "Business As Usual",
+    "release_year": 2001,
+    "duration_ms": 222320,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vondráčková Helena Neckář Václav",
     "date": "28.10.2025",
     "time": "06:28",
-    "listeners": 1455
+    "listeners": 1455,
+    "lyricists": null,
+    "album": "Rendez Vous",
+    "release_year": 1965,
+    "duration_ms": 143680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Peter Nagy",
     "date": "28.10.2025",
     "time": "06:20",
-    "listeners": 1271
+    "listeners": 1271,
+    "lyricists": null,
+    "album": "Šachy robia človeka",
+    "release_year": 1996,
+    "duration_ms": 196627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Rimes Leann",
     "date": "28.10.2025",
     "time": "06:16",
-    "listeners": 1105
+    "listeners": 1105,
+    "lyricists": null,
+    "album": "Coyote Ugly",
+    "release_year": 2000,
+    "duration_ms": 215507,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Simon Paul & Garfunkel Art",
     "date": "28.10.2025",
     "time": "06:13",
-    "listeners": 1094
+    "listeners": 1094,
+    "lyricists": null,
+    "album": "Bridge Over Troubled Water",
+    "release_year": 1970,
+    "duration_ms": 188595,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "(We Want) The Same Thing",
+    "artist": "Belinda Carlisle",
+    "date": "28.10.2025",
+    "time": "08:35",
+    "listeners": 2646
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "date": "28.10.2025",
+    "time": "08:31",
+    "listeners": 2555
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chráň Svoje Bláznovstvá",
+    "artist": "Peter Nagy",
+    "date": "28.10.2025",
+    "time": "08:23",
+    "listeners": 2695
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Letím Tmou (Za Tebou)",
     "artist": "Miro Žbirka",
     "date": "28.10.2025",

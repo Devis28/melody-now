@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Láska Moja",
+    "artist": "Elán",
+    "date": "28.10.2025",
+    "time": "21:31",
+    "listeners": 1103
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Monika",
+    "artist": "Grigorov Robo",
+    "date": "28.10.2025",
+    "time": "21:27",
+    "listeners": 1191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cherish",
+    "artist": "Madonna",
+    "date": "28.10.2025",
+    "time": "21:23",
+    "listeners": 1081
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Pocit",
+    "artist": "Cmorík Peter",
+    "date": "28.10.2025",
+    "time": "21:19",
+    "listeners": 1178
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "date": "28.10.2025",
+    "time": "21:17",
+    "listeners": 1168
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milujem",
+    "artist": "Zenit",
+    "date": "28.10.2025",
+    "time": "21:13",
+    "listeners": 1216
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Keď To Nejde",
     "artist": "Zdenka Predná",
     "date": "28.10.2025",

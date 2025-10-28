@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mám Rád",
+    "artist": "Miro Žbirka",
+    "date": "28.10.2025",
+    "time": "17:28",
+    "listeners": 3141
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "28.10.2025",
+    "time": "17:24",
+    "listeners": 3126
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "date": "28.10.2025",
+    "time": "17:20",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Celebration",
+    "artist": "Fun Factory",
+    "date": "28.10.2025",
+    "time": "17:15",
+    "listeners": 3081
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Je Jaká Je",
+    "artist": "Karel Gott",
+    "date": "28.10.2025",
+    "time": "17:11",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blue Savannah",
+    "artist": "Erasure",
+    "date": "28.10.2025",
+    "time": "17:06",
+    "listeners": 2952
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "28.10.2025",
+    "time": "17:02",
+    "listeners": 3081
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Un-Break My Heart",
     "artist": "Braxton Toni",
     "date": "28.10.2025",

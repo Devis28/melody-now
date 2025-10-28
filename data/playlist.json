@@ -5,7 +5,15 @@
     "artist": "Rolincová Darina",
     "date": "28.10.2025",
     "time": "17:50",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Kto Chce & Ak Náhodou - Single",
+    "release_year": 1987,
+    "duration_ms": 163067,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,19 @@
     "artist": "ABBA",
     "date": "28.10.2025",
     "time": "17:44",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ],
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 201959,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Modern Talking",
     "date": "28.10.2025",
     "time": "17:40",
-    "listeners": 3122
+    "listeners": 3122,
+    "lyricists": null,
+    "album": "The Very Best of Modern Talking",
+    "release_year": 1997,
+    "duration_ms": 223027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Palonder Marcel",
     "date": "28.10.2025",
     "time": "17:37",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Cudzinec v tvojom srdci",
+    "release_year": 1992,
+    "duration_ms": 223000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,18 @@
     "artist": "Robin Gibb",
     "date": "28.10.2025",
     "time": "17:33",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": [
+      "Maurice Gibb",
+      "Robin Gibb"
+    ],
+    "album": "How Old Are You?",
+    "release_year": 1983,
+    "duration_ms": 228000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

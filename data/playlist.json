@@ -5,7 +5,15 @@
     "artist": "Kelly Family, The",
     "date": "28.10.2025",
     "time": "23:34",
-    "listeners": 359
+    "listeners": 359,
+    "lyricists": null,
+    "album": "Over the Hump",
+    "release_year": 1994,
+    "duration_ms": 224507,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Pavol Hammel",
     "date": "28.10.2025",
     "time": "23:31",
-    "listeners": 400
+    "listeners": 400,
+    "lyricists": null,
+    "album": "THE BEST OF PAVOL HAMMEL",
+    "release_year": 1981,
+    "duration_ms": 164947,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Culture Club",
     "date": "28.10.2025",
     "time": "23:27",
-    "listeners": 405
+    "listeners": 405,
+    "lyricists": null,
+    "album": "Colour By Numbers",
+    "release_year": 2004,
+    "duration_ms": 252773,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Marika Gombitová & Karel Gott",
     "date": "28.10.2025",
     "time": "23:23",
-    "listeners": 438
+    "listeners": 438,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1998,
+    "duration_ms": 262373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

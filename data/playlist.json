@@ -5,7 +5,19 @@
     "artist": "Bon Jovi",
     "date": "28.10.2025",
     "time": "16:48",
-    "listeners": 2926
+    "listeners": 2926,
+    "lyricists": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ],
+    "album": "Slippery When Wet",
+    "release_year": 2022,
+    "duration_ms": 249581,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,18 @@
     "artist": "Lobo",
     "date": "28.10.2025",
     "time": "16:42",
-    "listeners": 2635
+    "listeners": 2635,
+    "lyricists": [
+      "Lobo"
+    ],
+    "album": "I'd Love You To Want Me - Single",
+    "release_year": 2008,
+    "duration_ms": 248973,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +44,15 @@
     "artist": "Nagy Peter",
     "date": "28.10.2025",
     "time": "16:39",
-    "listeners": 2766
+    "listeners": 2766,
+    "lyricists": null,
+    "album": "Top Hity Tommü",
+    "release_year": 2009,
+    "duration_ms": 264040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

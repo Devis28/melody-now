@@ -1,6 +1,238 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "date": "28.10.2025",
+    "time": "02:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nedá Sa Újsť",
+    "artist": "I.M.T. Smile",
+    "date": "28.10.2025",
+    "time": "02:42",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "28.10.2025",
+    "time": "02:38",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "28.10.2025",
+    "time": "02:34",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Youre My Heart Youre My Soul",
+    "artist": "Modern Talking",
+    "date": "28.10.2025",
+    "time": "02:31",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Marcel Z Malého Mesta",
+    "artist": "Peter Nagy",
+    "date": "28.10.2025",
+    "time": "02:28",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Don't Wanna Get Hurt",
+    "artist": "Donna Summer",
+    "date": "28.10.2025",
+    "time": "02:25",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Boli Sme Raz Milovaní",
+    "artist": "Habera Pavol",
+    "date": "28.10.2025",
+    "time": "02:21",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "28.10.2025",
+    "time": "02:17",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vidiečan",
+    "artist": "Vidiek",
+    "date": "28.10.2025",
+    "time": "02:14",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Michaela",
+    "artist": "Hex",
+    "date": "28.10.2025",
+    "time": "02:10",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "28.10.2025",
+    "time": "02:05",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Daddy Cool",
+    "artist": "Boney M",
+    "date": "28.10.2025",
+    "time": "02:02",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "28.10.2025",
+    "time": "01:59",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bailamos",
+    "artist": "Enrique Iglesias",
+    "date": "28.10.2025",
+    "time": "01:55",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Snad Jsem To Zavinil Já",
+    "artist": "Olympic",
+    "date": "28.10.2025",
+    "time": "01:52",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "28.10.2025",
+    "time": "01:48",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tam Kde Sa Neumiera",
+    "artist": "Smatanová Zuzana",
+    "date": "28.10.2025",
+    "time": "01:44",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's A Sin",
+    "artist": "Pet Shop Boys",
+    "date": "28.10.2025",
+    "time": "01:39",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "28.10.2025",
+    "time": "01:36",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ty A Tvoja Sestra",
+    "artist": "No Name",
+    "date": "28.10.2025",
+    "time": "01:33",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Wanna Dance With Somebody",
+    "artist": "Whitney Houston",
+    "date": "28.10.2025",
+    "time": "01:28",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Preco Nie Som Pekna",
+    "artist": "Madam",
+    "date": "28.10.2025",
+    "time": "01:24",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lay Back In The Arms Of Someone",
+    "artist": "Smokie",
+    "date": "28.10.2025",
+    "time": "01:20",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "28.10.2025",
+    "time": "01:16",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tak Si So Mnou Opakuj",
+    "artist": "Gombitová Marika",
+    "date": "28.10.2025",
+    "time": "01:13",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "True Colors",
+    "artist": "Phil Collins",
+    "date": "28.10.2025",
+    "time": "01:08",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Psi Sa Bránia Útokom",
+    "artist": "Nagy, Peter A Raz, Jozef",
+    "date": "28.10.2025",
+    "time": "01:05",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Killing Me Softly",
+    "artist": "The Fugees",
+    "date": "28.10.2025",
+    "time": "01:00",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Woman In Love",
     "artist": "Streisand Barbra",
     "date": "28.10.2025",

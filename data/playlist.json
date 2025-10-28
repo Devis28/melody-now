@@ -5,7 +5,15 @@
     "artist": "Karel Zich",
     "date": "28.10.2025",
     "time": "18:24",
-    "listeners": 2731
+    "listeners": 2731,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 2004,
+    "duration_ms": 198040,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "28.10.2025",
     "time": "18:21",
-    "listeners": 2892
+    "listeners": 2892,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1998,
+    "duration_ms": 198507,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Bartosova Iveta",
     "date": "28.10.2025",
     "time": "18:17",
-    "listeners": 2787
+    "listeners": 2787,
+    "lyricists": null,
+    "album": "I.B.",
+    "release_year": 1987,
+    "duration_ms": 224543,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,18 @@
     "artist": "Richard Müller",
     "date": "28.10.2025",
     "time": "18:13",
-    "listeners": 3000
+    "listeners": 3000,
+    "lyricists": [
+      "Ivan Tásler",
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2017,
+    "duration_ms": 307080,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Ivan Tásler & I.M.T. Smile",
     "date": "28.10.2025",
     "time": "18:07",
-    "listeners": 3007
+    "listeners": 3007,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2023,
+    "duration_ms": 234587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Marika Gombitová",
     "date": "28.10.2025",
     "time": "18:03",
-    "listeners": 3032
+    "listeners": 3032,
+    "lyricists": null,
+    "album": "Dievča do dažďa",
+    "release_year": 1998,
+    "duration_ms": 285907,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

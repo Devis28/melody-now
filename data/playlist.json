@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Down Under",
+    "artist": "Men At Work",
+    "date": "28.10.2025",
+    "time": "06:30",
+    "listeners": 1491
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Znala Panna Pána",
+    "artist": "Vondráčková Helena Neckář Václav",
+    "date": "28.10.2025",
+    "time": "06:28",
+    "listeners": 1455
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Korálky Od Natálky",
+    "artist": "Peter Nagy",
+    "date": "28.10.2025",
+    "time": "06:20",
+    "listeners": 1271
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Can't Fight The Moonlight",
+    "artist": "Rimes Leann",
+    "date": "28.10.2025",
+    "time": "06:16",
+    "listeners": 1105
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "El Condor Pasa",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "28.10.2025",
+    "time": "06:13",
+    "listeners": 1094
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Cítim",
     "artist": "Karol Duchoň",
     "date": "28.10.2025",

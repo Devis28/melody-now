@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Keď To Nejde",
+    "artist": "Zdenka Predná",
+    "date": "28.10.2025",
+    "time": "21:10",
+    "listeners": 1156
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "28.10.2025",
+    "time": "21:05",
+    "listeners": 1197
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Flames Of Love",
+    "artist": "Fancy",
+    "date": "28.10.2025",
+    "time": "21:02",
+    "listeners": 1281
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Pri Mne Spíš",
+    "artist": "Habera Pavol",
+    "date": "28.10.2025",
+    "time": "20:57",
+    "listeners": 1316
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kamarátka Nádej",
+    "artist": "Vašo Patejdl",
+    "date": "28.10.2025",
+    "time": "20:54",
+    "listeners": 1251
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Baroko",
     "artist": "Muller Richard & Anna K. Ivan Tasler",
     "date": "28.10.2025",

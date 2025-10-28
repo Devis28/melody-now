@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mamma Maria",
+    "artist": "Ricchi E Poveri",
+    "date": "28.10.2025",
+    "time": "10:18",
+    "listeners": 839
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Time To Say Goodbye",
+    "artist": "Brightman Sarah&Bocelli Andrea",
+    "date": "28.10.2025",
+    "time": "10:14",
+    "listeners": 950
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "28.10.2025",
+    "time": "10:07",
+    "listeners": 985
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "28.10.2025",
+    "time": "10:04",
+    "listeners": 1012
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Do Čista",
+    "artist": "Müller Richard",
+    "date": "28.10.2025",
+    "time": "10:00",
+    "listeners": 1022
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sacrifice",
     "artist": "Elton John",
     "date": "28.10.2025",

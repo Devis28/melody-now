@@ -5,7 +5,15 @@
     "artist": "Ledecký Janek",
     "date": "28.10.2025",
     "time": "19:35",
-    "listeners": 1841
+    "listeners": 1841,
+    "lyricists": null,
+    "album": "Právě teď",
+    "release_year": 1993,
+    "duration_ms": 269120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dubasová Beáta",
     "date": "28.10.2025",
     "time": "19:32",
-    "listeners": 1843
+    "listeners": 1843,
+    "lyricists": null,
+    "album": "Najväčšie hity 1985 - 2020",
+    "release_year": 2020,
+    "duration_ms": 173880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Banket",
     "date": "28.10.2025",
     "time": "19:28",
-    "listeners": 1876
+    "listeners": 1876,
+    "lyricists": null,
+    "album": "Bioelektrovízia",
+    "release_year": 1989,
+    "duration_ms": 189000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Grigorov Robo",
     "date": "28.10.2025",
     "time": "19:25",
-    "listeners": 1825
+    "listeners": 1825,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Jiří Schelinger",
     "date": "28.10.2025",
     "time": "19:23",
-    "listeners": 1851
+    "listeners": 1851,
+    "lyricists": null,
+    "album": "Jsem Prý Blázen Jen",
+    "release_year": 2007,
+    "duration_ms": 132800,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,13 @@
     "artist": "Filipova Lenka",
     "date": "28.10.2025",
     "time": "19:20",
-    "listeners": 2138
+    "listeners": 2138,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +99,15 @@
     "artist": "Daněk Wabi",
     "date": "28.10.2025",
     "time": "19:17",
-    "listeners": 2153
+    "listeners": 2153,
+    "lyricists": null,
+    "album": "16 Nej Od Taborovych Ohnu",
+    "release_year": 2008,
+    "duration_ms": 177440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +115,16 @@
     "artist": "Habera, Pavol",
     "date": "28.10.2025",
     "time": "19:12",
-    "listeners": 2278
+    "listeners": 2278,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1995,
+    "duration_ms": 303493,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +132,15 @@
     "artist": "Peter Bič Project",
     "date": "28.10.2025",
     "time": "19:07",
-    "listeners": 2172
+    "listeners": 2172,
+    "lyricists": null,
+    "album": "Labyrint",
+    "release_year": 2019,
+    "duration_ms": 309780,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +148,15 @@
     "artist": "David Michal",
     "date": "28.10.2025",
     "time": "19:03",
-    "listeners": 1987
+    "listeners": 1987,
+    "lyricists": null,
+    "album": "Discopříběh",
+    "release_year": 1987,
+    "duration_ms": 191443,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +164,15 @@
     "artist": "Patejdl Vašo",
     "date": "28.10.2025",
     "time": "18:59",
-    "listeners": 2172
+    "listeners": 2172,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1986,
+    "duration_ms": 287667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

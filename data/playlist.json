@@ -5,7 +5,15 @@
     "artist": "Zdenka Predná",
     "date": "28.10.2025",
     "time": "21:10",
-    "listeners": 1156
+    "listeners": 1156,
+    "lyricists": null,
+    "album": "Zdenka Predná",
+    "release_year": 2007,
+    "duration_ms": 192608,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Alexandra Burke",
     "date": "28.10.2025",
     "time": "21:05",
-    "listeners": 1197
+    "listeners": 1197,
+    "lyricists": null,
+    "album": "Overcome (Deluxe Edition)",
+    "release_year": 2018,
+    "duration_ms": 217827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,19 @@
     "artist": "Fancy",
     "date": "28.10.2025",
     "time": "21:02",
-    "listeners": 1281
+    "listeners": 1281,
+    "lyricists": [
+      "Alfons Weindorf",
+      "Fancy",
+      "Sabrina Lorenz"
+    ],
+    "album": "Hit Collection",
+    "release_year": 1998,
+    "duration_ms": 217880,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Habera Pavol",
     "date": "28.10.2025",
     "time": "20:57",
-    "listeners": 1316
+    "listeners": 1316,
+    "lyricists": null,
+    "album": "Boli Sme Raz Milovani",
+    "release_year": 2000,
+    "duration_ms": 297467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Vašo Patejdl",
     "date": "28.10.2025",
     "time": "20:54",
-    "listeners": 1251
+    "listeners": 1251,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2015,
+    "duration_ms": 192507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

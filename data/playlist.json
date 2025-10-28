@@ -5,7 +5,15 @@
     "artist": "Kotvald Petr",
     "date": "28.10.2025",
     "time": "18:55",
-    "listeners": 2126
+    "listeners": 2126,
+    "lyricists": null,
+    "album": "Gejzír",
+    "release_year": 1990,
+    "duration_ms": 227267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vondráčková Helena",
     "date": "28.10.2025",
     "time": "18:52",
-    "listeners": 2451
+    "listeners": 2451,
+    "lyricists": null,
+    "album": "Ode Mne K Tobě",
+    "release_year": 1975,
+    "duration_ms": 180253,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Aya",
     "date": "28.10.2025",
     "time": "18:47",
-    "listeners": 2368
+    "listeners": 2368,
+    "lyricists": null,
+    "album": "AYA 30 ROKOV & ŠTÁTNY KOMORNÝ ORCHESTER ŽILINA (Live Concert Version)",
+    "release_year": 2011,
+    "duration_ms": 445000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Žbirka Miro",
     "date": "28.10.2025",
     "time": "18:43",
-    "listeners": 2470
+    "listeners": 2470,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 1983,
+    "duration_ms": 245027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

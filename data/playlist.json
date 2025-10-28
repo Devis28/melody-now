@@ -5,7 +5,18 @@
     "artist": "Elton John",
     "date": "28.10.2025",
     "time": "09:52",
-    "listeners": 1184
+    "listeners": 1184,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Sleeping With the Past (Remastered)",
+    "release_year": 1989,
+    "duration_ms": 304133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
     "date": "28.10.2025",
     "time": "09:49",
-    "listeners": 1125
+    "listeners": 1125,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2001,
+    "duration_ms": 182773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,16 @@
     "artist": "Usa For Africa & Jackson Michael",
     "date": "28.10.2025",
     "time": "09:44",
-    "listeners": 1284
+    "listeners": 1284,
+    "lyricists": null,
+    "album": "We Are the World - Single",
+    "release_year": 1985,
+    "duration_ms": 427333,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Hegerová Hana & Hapka Petr",
     "date": "29.10.2025",
     "time": "00:38",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "Všechno Nejlepší",
+    "release_year": 1964,
+    "duration_ms": 233267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Rimes Leann",
     "date": "29.10.2025",
     "time": "00:34",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "Coyote Ugly",
+    "release_year": 2000,
+    "duration_ms": 215507,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Hex",
     "date": "29.10.2025",
     "time": "00:30",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Kde je tu láska?",
+    "release_year": 2023,
+    "duration_ms": 260316,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

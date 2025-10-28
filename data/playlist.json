@@ -5,7 +5,15 @@
     "artist": "Styx",
     "date": "28.10.2025",
     "time": "12:05",
-    "listeners": 1599
+    "listeners": 1599,
+    "lyricists": null,
+    "album": "Greatest Hits, Pt. 2",
+    "release_year": 2001,
+    "duration_ms": 191093,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Jana Kirschner",
     "date": "28.10.2025",
     "time": "12:02",
-    "listeners": 1528
+    "listeners": 1528,
+    "lyricists": null,
+    "album": "Živá",
+    "release_year": 2017,
+    "duration_ms": 228594,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Roxette",
     "date": "28.10.2025",
     "time": "11:54",
-    "listeners": 1551
+    "listeners": 1551,
+    "lyricists": null,
+    "album": "It Must Have Been Love - Single",
+    "release_year": 1992,
+    "duration_ms": 259666,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

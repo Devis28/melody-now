@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Que Sera Mi Vida",
+    "artist": "The Gibson Brothers",
+    "date": "29.10.2025",
+    "time": "00:48",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Držím Ti Miesto",
+    "artist": "Team",
+    "date": "29.10.2025",
+    "time": "00:44",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nech Sa Deje Čo Sa Má",
+    "artist": "Zuzana Smatanová",
+    "date": "29.10.2025",
+    "time": "00:42",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Levandulová",
     "artist": "Hegerová Hana & Hapka Petr",
     "date": "29.10.2025",

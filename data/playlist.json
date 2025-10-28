@@ -5,7 +5,18 @@
     "artist": "Madonna",
     "date": "28.10.2025",
     "time": "10:35",
-    "listeners": 885
+    "listeners": 885,
+    "lyricists": [
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Ray of Light",
+    "release_year": 2007,
+    "duration_ms": 367333,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "David Michal Bartošová Iveta",
     "date": "28.10.2025",
     "time": "10:30",
-    "listeners": 939
+    "listeners": 939,
+    "lyricists": null,
+    "album": "Moje zapomenuté ploužáky 2",
+    "release_year": 2021,
+    "duration_ms": 230846,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Abba",
     "date": "28.10.2025",
     "time": "10:27",
-    "listeners": 948
+    "listeners": 948,
+    "lyricists": null,
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 212304,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,16 @@
     "artist": "Robert Miles",
     "date": "28.10.2025",
     "time": "10:23",
-    "listeners": 909
+    "listeners": 909,
+    "lyricists": null,
+    "album": "Dance Vault Mixes: Robert Miles - Children - EP",
+    "release_year": 1996,
+    "duration_ms": 243267,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,16 @@
     "artist": "Tucný Michal",
     "date": "28.10.2025",
     "time": "10:21",
-    "listeners": 888
+    "listeners": 888,
+    "lyricists": null,
+    "album": "Snídaně V Trávě",
+    "release_year": 2015,
+    "duration_ms": 178120,
+    "artist_country": null,
+    "genres": [
+      "Country",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

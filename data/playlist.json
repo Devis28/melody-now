@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Letím Tmou (Za Tebou)",
+    "artist": "Miro Žbirka",
+    "date": "28.10.2025",
+    "time": "08:20",
+    "listeners": 2745
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Are The Champions",
+    "artist": "Queen",
+    "date": "28.10.2025",
+    "time": "08:17",
+    "listeners": 2919
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mopedová",
+    "artist": "Vašo Patejdl a Oľga Záblacká",
+    "date": "28.10.2025",
+    "time": "08:13",
+    "listeners": 2953
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Here I Am",
+    "artist": "Adams, Bryan",
+    "date": "28.10.2025",
+    "time": "08:06",
+    "listeners": 2912
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Super Trouper",
+    "artist": "Abba",
+    "date": "28.10.2025",
+    "time": "08:02",
+    "listeners": 3024
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Everybody Hurts",
     "artist": "R.E.M.",
     "date": "28.10.2025",

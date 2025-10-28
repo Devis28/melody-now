@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "La Camisa Negra",
+    "artist": "Juanes",
+    "date": "28.10.2025",
+    "time": "20:09",
+    "listeners": 1576
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Africa",
+    "artist": "Toto",
+    "date": "28.10.2025",
+    "time": "20:05",
+    "listeners": 1609
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šaty",
+    "artist": "Gombitová Marika",
+    "date": "28.10.2025",
+    "time": "20:02",
+    "listeners": 1642
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá",
+    "artist": "No Name",
+    "date": "28.10.2025",
+    "time": "19:58",
+    "listeners": 1485
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dotaznik",
+    "artist": "Petr Rezek & Hana Zagorova",
+    "date": "28.10.2025",
+    "time": "19:55",
+    "listeners": 1610
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Zústanu Svúj",
     "artist": "Gott Karel",
     "date": "28.10.2025",

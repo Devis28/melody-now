@@ -5,7 +5,15 @@
     "artist": "Karol Duchoň",
     "date": "28.10.2025",
     "time": "06:10",
-    "listeners": 1047
+    "listeners": 1047,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1985,
+    "duration_ms": 203093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Springsteen Bruce",
     "date": "28.10.2025",
     "time": "06:04",
-    "listeners": 908
+    "listeners": 908,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 196813,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,17 @@
     "artist": "Eruption",
     "date": "28.10.2025",
     "time": "06:00",
-    "listeners": 856
+    "listeners": 856,
+    "lyricists": [
+      "Eruption"
+    ],
+    "album": "4 Hits: Eruption - EP",
+    "release_year": 2016,
+    "duration_ms": 213200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Wilde Kim",
     "date": "28.10.2025",
     "time": "05:52",
-    "listeners": 695
+    "listeners": 695,
+    "lyricists": null,
+    "album": "Another Step",
+    "release_year": 1986,
+    "duration_ms": 255220,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

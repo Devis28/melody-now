@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "28.10.2025",
+    "time": "12:50",
+    "listeners": 1582
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sunny",
+    "artist": "Boney M",
+    "date": "28.10.2025",
+    "time": "12:46",
+    "listeners": 1513
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Islands In The Stream",
     "artist": "Rogers Kenny &Parton Dolly",
     "date": "28.10.2025",

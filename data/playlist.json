@@ -5,7 +5,15 @@
     "artist": "Village People",
     "date": "28.10.2025",
     "time": "05:25",
-    "listeners": 394
+    "listeners": 394,
+    "lyricists": null,
+    "album": "YMCA",
+    "release_year": 1993,
+    "duration_ms": 286800,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Falco",
     "date": "28.10.2025",
     "time": "05:21",
-    "listeners": 374
+    "listeners": 374,
+    "lyricists": null,
+    "album": "Emotional (Deluxe Version) [2021 Remaster]",
+    "release_year": 2002,
+    "duration_ms": 338293,
+    "artist_country": "AT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Janda Dalibor",
     "date": "28.10.2025",
     "time": "05:18",
-    "listeners": 403
+    "listeners": 403,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 180120,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Roxette",
     "date": "28.10.2025",
     "time": "05:14",
-    "listeners": 360
+    "listeners": 360,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2002,
+    "duration_ms": 237320,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Snap",
     "date": "28.10.2025",
     "time": "05:11",
-    "listeners": 295
+    "listeners": 295,
+    "lyricists": null,
+    "album": "The Madman's Return",
+    "release_year": 1998,
+    "duration_ms": 332230,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Bonnie Tyler",
     "date": "28.10.2025",
     "time": "05:06",
-    "listeners": 313
+    "listeners": 313,
+    "lyricists": null,
+    "album": "It's a Heartache",
+    "release_year": 1991,
+    "duration_ms": 209760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Bartošová Iveta",
     "date": "28.10.2025",
     "time": "05:02",
-    "listeners": 294
+    "listeners": 294,
+    "lyricists": null,
+    "album": "Nekonecna/Best Of",
+    "release_year": 1998,
+    "duration_ms": 224920,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +117,15 @@
     "artist": "Mc Erik And Barbara",
     "date": "28.10.2025",
     "time": "04:59",
-    "listeners": 285
+    "listeners": 285,
+    "lyricists": null,
+    "album": "Second",
+    "release_year": 1996,
+    "duration_ms": 218427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

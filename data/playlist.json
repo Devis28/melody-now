@@ -5,7 +5,15 @@
     "artist": "Men At Work",
     "date": "29.10.2025",
     "time": "00:26",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Business As Usual",
+    "release_year": 2001,
+    "duration_ms": 222320,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Superstar Top 11",
     "date": "29.10.2025",
     "time": "00:22",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Slovensko Hlada SuperStar",
+    "release_year": 2005,
+    "duration_ms": 254773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,17 @@
     "artist": "Eruption",
     "date": "29.10.2025",
     "time": "00:19",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Eruption"
+    ],
+    "album": "4 Hits: Eruption - EP",
+    "release_year": 2016,
+    "duration_ms": 213200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Janda Dalibor",
     "date": "29.10.2025",
     "time": "00:16",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 196867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

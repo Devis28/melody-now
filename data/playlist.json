@@ -5,7 +5,16 @@
     "artist": "Céline Dion",
     "date": "28.10.2025",
     "time": "21:46",
-    "listeners": 1067
+    "listeners": 1067,
+    "lyricists": null,
+    "album": "Falling Into You",
+    "release_year": 1999,
+    "duration_ms": 273667,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Miro Žbirka",
     "date": "28.10.2025",
     "time": "21:42",
-    "listeners": 1017
+    "listeners": 1017,
+    "lyricists": null,
+    "album": "Chlapec z ulice",
+    "release_year": 2007,
+    "duration_ms": 223427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Frankie Goes To Hollywood",
     "date": "28.10.2025",
     "time": "21:37",
-    "listeners": 997
+    "listeners": 997,
+    "lyricists": null,
+    "album": "Welcome to the Pleasuredome",
+    "release_year": 1994,
+    "duration_ms": 332507,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

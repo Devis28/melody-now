@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Správne Dievčatá",
+    "artist": "Gombitová Marika",
+    "date": "29.10.2025",
+    "time": "00:56",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Big Big World",
+    "artist": "Emilia",
+    "date": "29.10.2025",
+    "time": "00:52",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Que Sera Mi Vida",
     "artist": "The Gibson Brothers",
     "date": "29.10.2025",

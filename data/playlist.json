@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "28.10.2025",
     "time": "14:48",
-    "listeners": 956
+    "listeners": 956,
+    "lyricists": null,
+    "album": "Kamil Peteraj \"80\"",
+    "release_year": 2005,
+    "duration_ms": 242787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Marie Rottrová",
     "date": "28.10.2025",
     "time": "14:41",
-    "listeners": 917
+    "listeners": 917,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2002,
+    "duration_ms": 292333,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Chesney Hawkes",
     "date": "28.10.2025",
     "time": "14:37",
-    "listeners": 862
+    "listeners": 862,
+    "lyricists": null,
+    "album": "Buddy's Song",
+    "release_year": 1991,
+    "duration_ms": 223667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

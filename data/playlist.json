@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Boys",
+    "artist": "Sabrina",
+    "date": "28.10.2025",
+    "time": "22:27",
+    "listeners": 724
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Môj Starý Dobrý Kabát",
+    "artist": "Tublatanka",
+    "date": "28.10.2025",
+    "time": "22:24",
+    "listeners": 729
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "28.10.2025",
+    "time": "22:19",
+    "listeners": 747
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zdá Sa Že To Stací",
+    "artist": "Smatanová Zuzana",
+    "date": "28.10.2025",
+    "time": "22:15",
+    "listeners": 806
+  },
+  {
+    "station": "Rádio Melody",
     "title": "She's The One",
     "artist": "Robbie Williams",
     "date": "28.10.2025",

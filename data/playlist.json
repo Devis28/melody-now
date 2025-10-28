@@ -1,6 +1,94 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Pěkná Pěkná Pěkná",
+    "artist": "Ledecký Janek",
+    "date": "28.10.2025",
+    "time": "19:35",
+    "listeners": 1841
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Účesy",
+    "artist": "Dubasová Beáta",
+    "date": "28.10.2025",
+    "time": "19:32",
+    "listeners": 1843
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Po Schodoch",
+    "artist": "Banket",
+    "date": "28.10.2025",
+    "time": "19:28",
+    "listeners": 1876
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "28.10.2025",
+    "time": "19:25",
+    "listeners": 1825
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Což Takhle Dát Si Špenát",
+    "artist": "Jiří Schelinger",
+    "date": "28.10.2025",
+    "time": "19:23",
+    "listeners": 1851
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Castecne Zatmneni Srdce",
+    "artist": "Filipova Lenka",
+    "date": "28.10.2025",
+    "time": "19:20",
+    "listeners": 2138
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rosa Na Kolejích",
+    "artist": "Daněk Wabi",
+    "date": "28.10.2025",
+    "time": "19:17",
+    "listeners": 2153
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Habera, Pavol",
+    "date": "28.10.2025",
+    "time": "19:12",
+    "listeners": 2278
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stoj",
+    "artist": "Peter Bič Project",
+    "date": "28.10.2025",
+    "time": "19:07",
+    "listeners": 2172
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Discopříběh",
+    "artist": "David Michal",
+    "date": "28.10.2025",
+    "time": "19:03",
+    "listeners": 1987
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dvojčatá",
+    "artist": "Patejdl Vašo",
+    "date": "28.10.2025",
+    "time": "18:59",
+    "listeners": 2172
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Milujem Se Čím Dál Víc",
     "artist": "Kotvald Petr",
     "date": "28.10.2025",

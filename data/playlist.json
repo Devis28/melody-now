@@ -1,6 +1,86 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "28.10.2025",
+    "time": "13:53",
+    "listeners": 1077
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Of Us",
+    "artist": "Abba",
+    "date": "28.10.2025",
+    "time": "13:50",
+    "listeners": 1080
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Should Be So Lucky",
+    "artist": "Minogue Kylie",
+    "date": "28.10.2025",
+    "time": "13:47",
+    "listeners": 1144
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voda Čo Ma Drží Nad Vodou",
+    "artist": "Jožo Ráž",
+    "date": "28.10.2025",
+    "time": "13:41",
+    "listeners": 1154
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Memory",
+    "artist": "Barbra Streisand",
+    "date": "28.10.2025",
+    "time": "13:38",
+    "listeners": 1154
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Decibely Lásky",
+    "artist": "David Michal Kroky Františka Janečka",
+    "date": "28.10.2025",
+    "time": "13:35",
+    "listeners": 1336
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zlodejka Snov Ii",
+    "artist": "Miro Žbirka",
+    "date": "28.10.2025",
+    "time": "13:30",
+    "listeners": 1358
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "28.10.2025",
+    "time": "13:27",
+    "listeners": 1249
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čo O Mne Vieš",
+    "artist": "Rolincova Darinka",
+    "date": "28.10.2025",
+    "time": "13:24",
+    "listeners": 1355
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ján Ámos Džínový",
+    "artist": "Metalinda",
+    "date": "28.10.2025",
+    "time": "13:18",
+    "listeners": 1379
+  },
+  {
+    "station": "Rádio Melody",
     "title": "You're The First, The Last,My Everything",
     "artist": "Barry White",
     "date": "28.10.2025",

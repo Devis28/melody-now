@@ -5,7 +5,16 @@
     "artist": "Mckenzie Scott",
     "date": "28.10.2025",
     "time": "07:45",
-    "listeners": 3040
+    "listeners": 3040,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Westlife",
     "date": "28.10.2025",
     "time": "07:40",
-    "listeners": 3185
+    "listeners": 3185,
+    "lyricists": null,
+    "album": "The Love Album",
+    "release_year": 2007,
+    "duration_ms": 279619,
+    "artist_country": "IE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "28.10.2025",
     "time": "07:36",
-    "listeners": 2982
+    "listeners": 2982,
+    "lyricists": null,
+    "album": "Holky Z Naší Školky",
+    "release_year": 2010,
+    "duration_ms": 232493,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,19 @@
     "artist": "Dario G",
     "date": "28.10.2025",
     "time": "07:33",
-    "listeners": 3022
+    "listeners": 3022,
+    "lyricists": [
+      "Dario G",
+      "Gilbert Gabriel",
+      "Nick Laird-Clowes"
+    ],
+    "album": "Sunmachine",
+    "release_year": 2016,
+    "duration_ms": 379200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,19 @@
     "artist": "Ben E. King",
     "date": "28.10.2025",
     "time": "07:30",
-    "listeners": 3022
+    "listeners": 3022,
+    "lyricists": [
+      "Ben E. King",
+      "Jerry Leiber",
+      "Mike Stoller"
+    ],
+    "album": "The Very Best of Ben E. King",
+    "release_year": 2024,
+    "duration_ms": 174800,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

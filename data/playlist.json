@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Some People",
+    "artist": "Richard Cliff",
+    "date": "28.10.2025",
+    "time": "20:24",
+    "listeners": 1400
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malý Veľký Vlak",
+    "artist": "Modus",
+    "date": "28.10.2025",
+    "time": "20:20",
+    "listeners": 1420
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "date": "28.10.2025",
+    "time": "20:16",
+    "listeners": 1569
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neľutujem",
+    "artist": "Adam Ďurica",
+    "date": "28.10.2025",
+    "time": "20:13",
+    "listeners": 1588
+  },
+  {
+    "station": "Rádio Melody",
     "title": "La Camisa Negra",
     "artist": "Juanes",
     "date": "28.10.2025",

@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nenahraditeľná",
+    "artist": "Sima Martausová & For You",
+    "date": "29.10.2025",
+    "time": "00:12",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Streets Of Philadelphia",
+    "artist": "Springsteen Bruce",
+    "date": "29.10.2025",
+    "time": "00:08",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Korálky Od Natálky",
+    "artist": "Peter Nagy",
+    "date": "29.10.2025",
+    "time": "00:04",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slovenská",
+    "artist": "Miro Žbirka",
+    "date": "29.10.2025",
+    "time": "00:01",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Od Tatier K Dunaju",
+    "artist": "Elán",
+    "date": "28.10.2025",
+    "time": "23:57",
+    "listeners": 309
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Over My Shoulder",
     "artist": "Mike & The Mechanics",
     "date": "28.10.2025",

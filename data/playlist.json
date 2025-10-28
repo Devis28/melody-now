@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "28.10.2025",
+    "time": "18:55",
+    "listeners": 2126
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "28.10.2025",
+    "time": "18:52",
+    "listeners": 2451
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malý Princ",
+    "artist": "Aya",
+    "date": "28.10.2025",
+    "time": "18:47",
+    "listeners": 2368
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Múr Našich Lások",
+    "artist": "Žbirka Miro",
+    "date": "28.10.2025",
+    "time": "18:43",
+    "listeners": 2470
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hrám",
     "artist": "Karol Duchoň",
     "date": "28.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Janda Dalibor",
     "date": "28.10.2025",
     "time": "06:43",
-    "listeners": 1937
+    "listeners": 1937,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 196867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Emilia",
     "date": "28.10.2025",
     "time": "06:40",
-    "listeners": 1844
+    "listeners": 1844,
+    "lyricists": [
+      "Emilia",
+      "Yogi"
+    ],
+    "album": "Big Big World",
+    "release_year": 2021,
+    "duration_ms": 205467,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Gott Karel & Olympic",
     "date": "28.10.2025",
     "time": "06:38",
-    "listeners": 1627
+    "listeners": 1627,
+    "lyricists": null,
+    "album": "Cesta Rájem",
+    "release_year": 1965,
+    "duration_ms": 116573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Team",
     "date": "28.10.2025",
     "time": "06:34",
-    "listeners": 1542
+    "listeners": 1542,
+    "lyricists": null,
+    "album": "Team 3",
+    "release_year": 1994,
+    "duration_ms": 242760,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,16 @@
     "artist": "Simon Paul & Garfunkel Art",
     "date": "28.10.2025",
     "time": "23:20",
-    "listeners": 458
+    "listeners": 458,
+    "lyricists": null,
+    "album": "Sounds of Silence",
+    "release_year": 1965,
+    "duration_ms": 190102,
+    "artist_country": null,
+    "genres": [
+      "Folk",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Michal David & Kroky Františka Janečka",
     "date": "28.10.2025",
     "time": "23:17",
-    "listeners": 460
+    "listeners": 460,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 191560,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Balogh Berco",
     "date": "28.10.2025",
     "time": "23:13",
-    "listeners": 488
+    "listeners": 488,
+    "lyricists": null,
+    "album": "Siedmy pád",
+    "release_year": 2007,
+    "duration_ms": 241747,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Savage Garden",
     "date": "28.10.2025",
     "time": "23:08",
-    "listeners": 475
+    "listeners": 475,
+    "lyricists": null,
+    "album": "Essential 90's",
+    "release_year": 2011,
+    "duration_ms": 274707,
+    "artist_country": "AU",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,16 @@
     "artist": "Wonder Stevie",
     "date": "28.10.2025",
     "time": "23:03",
-    "listeners": 556
+    "listeners": 556,
+    "lyricists": null,
+    "album": "The Definitive Collection",
+    "release_year": 2002,
+    "duration_ms": 262598,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "A-Ha",
     "date": "28.10.2025",
     "time": "22:59",
-    "listeners": 516
+    "listeners": 516,
+    "lyricists": null,
+    "album": "Hunting High & Low (Remastered)",
+    "release_year": 1985,
+    "duration_ms": 228480,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

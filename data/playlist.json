@@ -5,7 +5,18 @@
     "artist": "Phil Collins",
     "date": "28.10.2025",
     "time": "05:47",
-    "listeners": 675
+    "listeners": 675,
+    "lyricists": [
+      "Phil Collins"
+    ],
+    "album": "No Jacket Required (Deluxe Edition) [Remastered]",
+    "release_year": 1985,
+    "duration_ms": 291253,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Norman Chris & Quatro Suzi",
     "date": "28.10.2025",
     "time": "05:44",
-    "listeners": 627
+    "listeners": 627,
+    "lyricists": null,
+    "album": "Collections: Smokie",
+    "release_year": 1977,
+    "duration_ms": 238200,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

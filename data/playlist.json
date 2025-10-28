@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Angels",
+    "artist": "Robbie Williams",
+    "date": "28.10.2025",
+    "time": "15:41",
+    "listeners": 1607
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ľúbim Ťa",
+    "artist": "Michal Dočolomanský",
+    "date": "28.10.2025",
+    "time": "15:37",
+    "listeners": 1474
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Faith",
+    "artist": "Michael George",
+    "date": "28.10.2025",
+    "time": "15:34",
+    "listeners": 1491
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "A Tak Dál Nosíš Po Kapsách Sny Mládí",
+    "artist": "Matuška Waldemar",
+    "date": "28.10.2025",
+    "time": "15:28",
+    "listeners": 1273
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Brother Louie",
     "artist": "Modern Talking",
     "date": "28.10.2025",

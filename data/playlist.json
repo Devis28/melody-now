@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Máš Chuť Majoránky",
+    "artist": "Karel Zich",
+    "date": "28.10.2025",
+    "time": "18:24",
+    "listeners": 2731
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fero",
+    "artist": "Elán",
+    "date": "28.10.2025",
+    "time": "18:21",
+    "listeners": 2892
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Málo Mě Zná",
+    "artist": "Bartosova Iveta",
+    "date": "28.10.2025",
+    "time": "18:17",
+    "listeners": 2787
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rieka",
+    "artist": "Richard Müller",
+    "date": "28.10.2025",
+    "time": "18:13",
+    "listeners": 3000
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cesty II. Triedy",
+    "artist": "Ivan Tásler & I.M.T. Smile",
+    "date": "28.10.2025",
+    "time": "18:07",
+    "listeners": 3007
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vyznanie",
+    "artist": "Marika Gombitová",
+    "date": "28.10.2025",
+    "time": "18:03",
+    "listeners": 3032
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I Believe I Can Fly",
     "artist": "R. Kelly",
     "date": "28.10.2025",

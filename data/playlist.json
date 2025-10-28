@@ -5,7 +5,15 @@
     "artist": "Gott Karel",
     "date": "28.10.2025",
     "time": "19:51",
-    "listeners": 1743
+    "listeners": 1743,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 239600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Lucie",
     "date": "28.10.2025",
     "time": "19:47",
-    "listeners": 1729
+    "listeners": 1729,
+    "lyricists": null,
+    "album": "Hity Tommü",
+    "release_year": 1999,
+    "duration_ms": 249667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Žbirka Miro",
     "date": "28.10.2025",
     "time": "19:44",
-    "listeners": 1704
+    "listeners": 1704,
+    "lyricists": null,
+    "album": "Doktor Sen",
+    "release_year": 1980,
+    "duration_ms": 190587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Elán",
     "date": "28.10.2025",
     "time": "19:39",
-    "listeners": 1796
+    "listeners": 1796,
+    "lyricists": null,
+    "album": "Hodina slovenčiny",
+    "release_year": 2008,
+    "duration_ms": 275987,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

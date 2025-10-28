@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "28.10.2025",
+    "time": "13:15",
+    "listeners": 1388
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everlasting Love",
+    "artist": "Sandra",
+    "date": "28.10.2025",
+    "time": "13:09",
+    "listeners": 1412
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Feel",
+    "artist": "Robbie Williams",
+    "date": "28.10.2025",
+    "time": "13:06",
+    "listeners": 1425
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slzy Tvý Mámy",
+    "artist": "Olympic",
+    "date": "28.10.2025",
+    "time": "13:02",
+    "listeners": 1575
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Just Another Day",
+    "artist": "Jon Secada",
+    "date": "28.10.2025",
+    "time": "12:53",
+    "listeners": 1478
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Dievča Neplač",
     "artist": "Brezovská Mirka",
     "date": "28.10.2025",

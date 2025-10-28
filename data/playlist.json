@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "28.10.2025",
     "time": "04:55",
-    "listeners": 258
+    "listeners": 258,
+    "lyricists": null,
+    "album": "ABBA Gold: Greatest Hits",
+    "release_year": 2024,
+    "duration_ms": 241813,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Darina Rolincová",
     "date": "28.10.2025",
     "time": "04:51",
-    "listeners": 229
+    "listeners": 229,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1998,
+    "duration_ms": 238640,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Pink Floyd",
     "date": "28.10.2025",
     "time": "04:45",
-    "listeners": 249
+    "listeners": 249,
+    "lyricists": null,
+    "album": "The Division Bell",
+    "release_year": 1994,
+    "duration_ms": 511013,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

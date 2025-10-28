@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Big L.",
+    "artist": "Roxette",
+    "date": "28.10.2025",
+    "time": "16:35",
+    "listeners": 2561
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Torn",
+    "artist": "Imbruglia Natalie",
+    "date": "28.10.2025",
+    "time": "16:31",
+    "listeners": 2661
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Unchained Melody",
+    "artist": "The Righteous Brothers",
+    "date": "28.10.2025",
+    "time": "16:26",
+    "listeners": 2490
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lietam V Tom Tiež",
+    "artist": "Team",
+    "date": "28.10.2025",
+    "time": "16:23",
+    "listeners": 2444
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Happy People",
+    "artist": "Prince Ital Joe Feat.Marky Mark",
+    "date": "28.10.2025",
+    "time": "16:19",
+    "listeners": 2441
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ver mi",
     "artist": "Elán",
     "date": "28.10.2025",

@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "28.10.2025",
+    "time": "09:41",
+    "listeners": 1271
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cez Plece",
+    "artist": "Pavol Hammel",
+    "date": "28.10.2025",
+    "time": "09:39",
+    "listeners": 1284
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Felicita",
+    "artist": "Bano Al & Power Romina",
+    "date": "28.10.2025",
+    "time": "09:36",
+    "listeners": 1402
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Myslím Že Môže Byť",
+    "artist": "Imt Smile / Marián Čekovský",
+    "date": "28.10.2025",
+    "time": "09:31",
+    "listeners": 1425
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Gimme Gimme Gimme A Man After Midnight",
+    "artist": "Abba",
+    "date": "28.10.2025",
+    "time": "09:26",
+    "listeners": 1545
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My, Oh My",
+    "artist": "Slade",
+    "date": "28.10.2025",
+    "time": "09:22",
+    "listeners": 1591
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "28.10.2025",
+    "time": "09:18",
+    "listeners": 1686
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Chci Tě Líbat",
     "artist": "Václav Neckář",
     "date": "28.10.2025",

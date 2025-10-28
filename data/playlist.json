@@ -5,7 +5,15 @@
     "artist": "Václav Neckář",
     "date": "28.10.2025",
     "time": "09:14",
-    "listeners": 1745
+    "listeners": 1745,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 2003,
+    "duration_ms": 268907,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "28.10.2025",
     "time": "09:09",
-    "listeners": 1870
+    "listeners": 1870,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 2003,
+    "duration_ms": 215067,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,24 @@
     "artist": "Spice Girls",
     "date": "28.10.2025",
     "time": "09:06",
-    "listeners": 2041
+    "listeners": 2041,
+    "lyricists": [
+      "Emma Bunton",
+      "Geri Halliwell",
+      "Matt Rowe",
+      "Melanie Brown",
+      "Melanie C",
+      "Richard “Biff” Stannard",
+      "Spice Girls",
+      "Victoria Beckham"
+    ],
+    "album": "Spiceworld",
+    "release_year": 1998,
+    "duration_ms": 310667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +62,15 @@
     "artist": "Duchoň Karol",
     "date": "28.10.2025",
     "time": "09:03",
-    "listeners": 1970
+    "listeners": 1970,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 209863,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

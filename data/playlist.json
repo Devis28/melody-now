@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Because You Loved Me",
+    "artist": "Céline Dion",
+    "date": "28.10.2025",
+    "time": "21:46",
+    "listeners": 1067
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dr. Jekyll A Mr. Hyde",
+    "artist": "Miro Žbirka",
+    "date": "28.10.2025",
+    "time": "21:42",
+    "listeners": 1017
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Power Of Love",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "28.10.2025",
+    "time": "21:37",
+    "listeners": 997
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Láska Moja",
     "artist": "Elán",
     "date": "28.10.2025",

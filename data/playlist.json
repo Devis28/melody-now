@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Boat On The River",
+    "artist": "Styx",
+    "date": "28.10.2025",
+    "time": "12:05",
+    "listeners": 1599
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pokoj V Duši",
+    "artist": "Jana Kirschner",
+    "date": "28.10.2025",
+    "time": "12:02",
+    "listeners": 1528
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It Must Have Been Love",
+    "artist": "Roxette",
+    "date": "28.10.2025",
+    "time": "11:54",
+    "listeners": 1551
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ja Viem",
     "artist": "Grigorov Robo",
     "date": "28.10.2025",

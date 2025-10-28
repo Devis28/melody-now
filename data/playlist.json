@@ -5,7 +5,15 @@
     "artist": "Roxette",
     "date": "28.10.2025",
     "time": "15:54",
-    "listeners": 1771
+    "listeners": 1771,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2006,
+    "duration_ms": 275667,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Ricchi E Poveri",
     "date": "28.10.2025",
     "time": "15:51",
-    "listeners": 1680
+    "listeners": 1680,
+    "lyricists": null,
+    "album": "Ricchi e Poveri",
+    "release_year": 1981,
+    "duration_ms": 201253,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Beatles, The",
     "date": "28.10.2025",
     "time": "15:47",
-    "listeners": 1727
+    "listeners": 1727,
+    "lyricists": null,
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "release_year": 1968,
+    "duration_ms": 431333,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

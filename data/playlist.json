@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "28.10.2025",
     "time": "07:20",
-    "listeners": 2647
+    "listeners": 2647,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 2003,
+    "duration_ms": 277787,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "East 17",
     "date": "28.10.2025",
     "time": "07:16",
-    "listeners": 2634
+    "listeners": 2634,
+    "lyricists": null,
+    "album": "Steam",
+    "release_year": 1994,
+    "duration_ms": 267133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Pavol Hammel",
     "date": "28.10.2025",
     "time": "07:13",
-    "listeners": 2570
+    "listeners": 2570,
+    "lyricists": [
+      "Boris Filan",
+      "Pavol Hammel"
+    ],
+    "album": "Hráč",
+    "release_year": 1998,
+    "duration_ms": 155240,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Myles Alannah",
     "date": "28.10.2025",
     "time": "07:06",
-    "listeners": 2555
+    "listeners": 2555,
+    "lyricists": null,
+    "album": "Alannah Myles",
+    "release_year": 1989,
+    "duration_ms": 287440,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Gombitová Marika",
     "date": "28.10.2025",
     "time": "07:02",
-    "listeners": 2279
+    "listeners": 2279,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 191333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

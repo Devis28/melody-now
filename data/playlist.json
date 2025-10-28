@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Cítim",
+    "artist": "Karol Duchoň",
+    "date": "28.10.2025",
+    "time": "06:10",
+    "listeners": 1047
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Streets Of Philadelphia",
+    "artist": "Springsteen Bruce",
+    "date": "28.10.2025",
+    "time": "06:04",
+    "listeners": 908
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Way Ticket",
+    "artist": "Eruption",
+    "date": "28.10.2025",
+    "time": "06:00",
+    "listeners": 856
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Keep Me Hanging On",
+    "artist": "Wilde Kim",
+    "date": "28.10.2025",
+    "time": "05:52",
+    "listeners": 695
+  },
+  {
+    "station": "Rádio Melody",
     "title": "One More Night",
     "artist": "Phil Collins",
     "date": "28.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Gladiátor",
     "date": "28.10.2025",
     "time": "21:54",
-    "listeners": 965
+    "listeners": 965,
+    "lyricists": null,
+    "album": "Babylon Hotel",
+    "release_year": 2020,
+    "duration_ms": 236507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karol Duchoň",
     "date": "28.10.2025",
     "time": "21:50",
-    "listeners": 944
+    "listeners": 944,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 198707,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

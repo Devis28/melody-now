@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "28.10.2025",
+    "time": "23:45",
+    "listeners": 324
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skúšame Sa Nájsť",
+    "artist": "Peter Bič Project",
+    "date": "28.10.2025",
+    "time": "23:42",
+    "listeners": 363
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Take My Breath Away",
+    "artist": "Berlin",
+    "date": "28.10.2025",
+    "time": "23:38",
+    "listeners": 353
+  },
+  {
+    "station": "Rádio Melody",
     "title": "An Angel",
     "artist": "Kelly Family, The",
     "date": "28.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "28.10.2025",
     "time": "14:34",
-    "listeners": 944
+    "listeners": 944,
+    "lyricists": null,
+    "album": "V Pohodě (Bonus Track Version)",
+    "release_year": 2010,
+    "duration_ms": 205333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Erasure",
     "date": "28.10.2025",
     "time": "14:30",
-    "listeners": 988
+    "listeners": 988,
+    "lyricists": null,
+    "album": "Hits! The Very Best of Erasure",
+    "release_year": 1993,
+    "duration_ms": 237613,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Helena Vondráčková",
     "date": "28.10.2025",
     "time": "14:25",
-    "listeners": 968
+    "listeners": 968,
+    "lyricists": null,
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "release_year": 1983,
+    "duration_ms": 173107,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,13 @@
     "artist": "Limahl",
     "date": "28.10.2025",
     "time": "14:22",
-    "listeners": 875
+    "listeners": 875,
+    "lyricists": null,
+    "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
+    "release_year": 2008,
+    "duration_ms": 210013,
+    "artist_country": "GB",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +68,18 @@
     "artist": "Dr. Alban",
     "date": "28.10.2025",
     "time": "14:18",
-    "listeners": 901
+    "listeners": 901,
+    "lyricists": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ],
+    "album": "One Love",
+    "release_year": 1994,
+    "duration_ms": 243133,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,17 @@
     "artist": "Nik Kershaw",
     "date": "28.10.2025",
     "time": "14:11",
-    "listeners": 959
+    "listeners": 959,
+    "lyricists": [
+      "Nik Kershaw"
+    ],
+    "album": "Nik Kershaw: The Collection",
+    "release_year": 2023,
+    "duration_ms": 231133,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,15 @@
     "artist": "Jiří Schelinger",
     "date": "28.10.2025",
     "time": "14:08",
-    "listeners": 1010
+    "listeners": 1010,
+    "lyricists": null,
+    "album": "Holubí Dům",
+    "release_year": 2004,
+    "duration_ms": 240880,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +121,16 @@
     "artist": "Dj Bobo",
     "date": "28.10.2025",
     "time": "14:04",
-    "listeners": 1025
+    "listeners": 1025,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 1999,
+    "duration_ms": 212893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +138,15 @@
     "artist": "Bartošová Iveta",
     "date": "28.10.2025",
     "time": "14:01",
-    "listeners": 1039
+    "listeners": 1039,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 172600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

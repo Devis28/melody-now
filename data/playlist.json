@@ -5,7 +5,16 @@
     "artist": "Richard Cliff",
     "date": "28.10.2025",
     "time": "20:24",
-    "listeners": 1400
+    "listeners": 1400,
+    "lyricists": null,
+    "album": "Always Guaranteed (Remastered)",
+    "release_year": 1987,
+    "duration_ms": 231560,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Modus",
     "date": "28.10.2025",
     "time": "20:20",
-    "listeners": 1420
+    "listeners": 1420,
+    "lyricists": null,
+    "album": "Modus",
+    "release_year": 2005,
+    "duration_ms": 218600,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Queen",
     "date": "28.10.2025",
     "time": "20:16",
-    "listeners": 1569
+    "listeners": 1569,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1991,
+    "duration_ms": 271610,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Adam Ďurica",
     "date": "28.10.2025",
     "time": "20:13",
-    "listeners": 1588
+    "listeners": 1588,
+    "lyricists": null,
+    "album": "Akustické koncerty (Acoustic / Live)",
+    "release_year": 2023,
+    "duration_ms": 265998,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

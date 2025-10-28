@@ -5,7 +5,15 @@
     "artist": "Roxette",
     "date": "28.10.2025",
     "time": "16:35",
-    "listeners": 2561
+    "listeners": 2561,
+    "lyricists": null,
+    "album": "Joyride (30th Anniversary Edition)",
+    "release_year": 2011,
+    "duration_ms": 265733,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Imbruglia Natalie",
     "date": "28.10.2025",
     "time": "16:31",
-    "listeners": 2661
+    "listeners": 2661,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "The Righteous Brothers",
     "date": "28.10.2025",
     "time": "16:26",
-    "listeners": 2490
+    "listeners": 2490,
+    "lyricists": null,
+    "album": "The Very Best of the Righteous Brothers - Unchained Melody",
+    "release_year": 1965,
+    "duration_ms": 216267,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Team",
     "date": "28.10.2025",
     "time": "16:23",
-    "listeners": 2444
+    "listeners": 2444,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2010,
+    "duration_ms": 233253,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "28.10.2025",
     "time": "16:19",
-    "listeners": 2441
+    "listeners": 2441,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 1994,
+    "duration_ms": 238467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "29.10.2025",
     "time": "13:16",
-    "listeners": 1485
+    "listeners": 1485,
+    "lyricists": null,
+    "album": "Bookends",
+    "release_year": 1968,
+    "duration_ms": 247420,
+    "artist_country": null,
+    "genres": [
+      "Classical"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Mariah Carey",
     "date": "29.10.2025",
     "time": "13:12",
-    "listeners": 1452
+    "listeners": 1452,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 214040,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Bartošová Iveta",
     "date": "29.10.2025",
     "time": "13:07",
-    "listeners": 1552
+    "listeners": 1552,
+    "lyricists": null,
+    "album": "I.B.",
+    "release_year": 1987,
+    "duration_ms": 221205,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Matuška Waldemar",
     "date": "29.10.2025",
     "time": "13:05",
-    "listeners": 1491
+    "listeners": 1491,
+    "lyricists": null,
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "release_year": 1964,
+    "duration_ms": 145680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Geri Halliwell",
     "date": "29.10.2025",
     "time": "13:01",
-    "listeners": 1564
+    "listeners": 1564,
+    "lyricists": null,
+    "album": "It's Raining Men - Single",
+    "release_year": 2002,
+    "duration_ms": 255160,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Farmer Mylene",
     "date": "29.10.2025",
     "time": "12:53",
-    "listeners": 1569
+    "listeners": 1569,
+    "lyricists": null,
+    "album": "L'autre",
+    "release_year": 1991,
+    "duration_ms": 322760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

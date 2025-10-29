@@ -5,7 +5,16 @@
     "artist": "Elán",
     "date": "29.10.2025",
     "time": "23:55",
-    "listeners": 328
+    "listeners": 328,
+    "lyricists": null,
+    "album": "Legenda 1",
+    "release_year": 2003,
+    "duration_ms": 240000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Kryštof",
     "date": "29.10.2025",
     "time": "23:51",
-    "listeners": 369
+    "listeners": 369,
+    "lyricists": null,
+    "album": "Polocas",
+    "release_year": 2007,
+    "duration_ms": 206667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

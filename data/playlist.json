@@ -5,7 +5,15 @@
     "artist": "Michal Tučný",
     "date": "29.10.2025",
     "time": "18:24",
-    "listeners": 2700
+    "listeners": 2700,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "29.10.2025",
     "time": "18:19",
-    "listeners": 2832
+    "listeners": 2832,
+    "lyricists": null,
+    "album": "Rabaka",
+    "release_year": 2010,
+    "duration_ms": 355027,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Věra Martinová",
     "date": "29.10.2025",
     "time": "18:16",
-    "listeners": 2731
+    "listeners": 2731,
+    "lyricists": null,
+    "album": "Jako Dřív (Zlatá Kolekce)",
+    "release_year": 2013,
+    "duration_ms": 187000,
+    "artist_country": "CZ",
+    "genres": [
+      "Country",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Pavol Habera",
     "date": "29.10.2025",
     "time": "18:13",
-    "listeners": 2853
+    "listeners": 2853,
+    "lyricists": null,
+    "album": "Pavol Habera",
+    "release_year": 1991,
+    "duration_ms": 198533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Gombitová Marika",
     "date": "29.10.2025",
     "time": "18:06",
-    "listeners": 2922
+    "listeners": 2922,
+    "lyricists": null,
+    "album": "Mince na dne fontán",
+    "release_year": 1983,
+    "duration_ms": 224013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Tublatanka",
     "date": "29.10.2025",
     "time": "18:01",
-    "listeners": 2931
+    "listeners": 2931,
+    "lyricists": null,
+    "album": "Skúsime to cez vesmír",
+    "release_year": 2002,
+    "duration_ms": 298893,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

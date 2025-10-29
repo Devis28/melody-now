@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Prvá Láska",
+    "artist": "Ráž Jožo",
+    "date": "29.10.2025",
+    "time": "08:21",
+    "listeners": 3062
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "František",
+    "artist": "Buty",
+    "date": "29.10.2025",
+    "time": "08:18",
+    "listeners": 2803
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sharazan",
+    "artist": "Al Bano & Romina Power",
+    "date": "29.10.2025",
+    "time": "08:14",
+    "listeners": 2671
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Because I Love You",
+    "artist": "Stevie B.",
+    "date": "29.10.2025",
+    "time": "08:07",
+    "listeners": 2897
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hráč",
+    "artist": "Turbo",
+    "date": "29.10.2025",
+    "time": "08:02",
+    "listeners": 2947
+  },
+  {
+    "station": "Rádio Melody",
     "title": "November Rain",
     "artist": "Guns N Roses",
     "date": "29.10.2025",

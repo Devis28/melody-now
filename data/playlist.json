@@ -5,7 +5,15 @@
     "artist": "Karel Gott & Darinka Rolincová",
     "date": "29.10.2025",
     "time": "22:58",
-    "listeners": 566
+    "listeners": 566,
+    "lyricists": null,
+    "album": "Zvonky Štěstí, Moje Druhé Já - Single",
+    "release_year": 2007,
+    "duration_ms": 236693,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,19 @@
     "artist": "Madonna",
     "date": "29.10.2025",
     "time": "22:54",
-    "listeners": 563
+    "listeners": 563,
+    "lyricists": [
+      "Bruce Gaitsch",
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Celebration (Deluxe Version)",
+    "release_year": 1989,
+    "duration_ms": 242947,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

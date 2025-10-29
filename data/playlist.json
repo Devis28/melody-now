@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Povedzme",
+    "artist": "Grigorov Robo",
+    "date": "30.10.2025",
+    "time": "00:59",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Don't Go Breaking My Heart",
+    "artist": "John Elton & Dee Kiki",
+    "date": "30.10.2025",
+    "time": "00:54",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "V Sieti Ťa Mám",
     "artist": "Kristína",
     "date": "30.10.2025",

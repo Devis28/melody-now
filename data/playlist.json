@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "date": "29.10.2025",
+    "time": "17:54",
+    "listeners": 3155
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Coco Jambo",
+    "artist": "Mr. President",
+    "date": "29.10.2025",
+    "time": "17:50",
+    "listeners": 2862
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sme Svoji",
+    "artist": "Nagy Peter",
+    "date": "29.10.2025",
+    "time": "17:47",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
     "title": "All By Myself",
     "artist": "Eric Carmen",
     "date": "29.10.2025",

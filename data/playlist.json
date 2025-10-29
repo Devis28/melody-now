@@ -5,7 +5,15 @@
     "artist": "Eagles The",
     "date": "29.10.2025",
     "time": "21:47",
-    "listeners": 963
+    "listeners": 963,
+    "lyricists": null,
+    "album": "Hotel California (40th Anniversary Expanded Edition)",
+    "release_year": 1976,
+    "duration_ms": 391357,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vengaboys",
     "date": "29.10.2025",
     "time": "21:43",
-    "listeners": 972
+    "listeners": 972,
+    "lyricists": null,
+    "album": "Boom, Boom, Boom, Boom!! - Single",
+    "release_year": 1998,
+    "duration_ms": 202583,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Francesco Napoli",
     "date": "29.10.2025",
     "time": "21:39",
-    "listeners": 1024
+    "listeners": 1024,
+    "lyricists": null,
+    "album": "Balla... the First Dance",
+    "release_year": 2014,
+    "duration_ms": 352560,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

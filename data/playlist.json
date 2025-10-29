@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Love Hurts",
+    "artist": "Nazareth",
+    "date": "29.10.2025",
+    "time": "22:19",
+    "listeners": 730
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My Máme Prima Rodiče",
+    "artist": "David Michal",
+    "date": "29.10.2025",
+    "time": "22:16",
+    "listeners": 806
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Večnosť",
+    "artist": "No Name",
+    "date": "29.10.2025",
+    "time": "22:13",
+    "listeners": 749
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Absolutely Everybody",
+    "artist": "Vanessa Amorosi",
+    "date": "29.10.2025",
+    "time": "22:08",
+    "listeners": 861
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Proklínám",
+    "artist": "Ledecký Janek",
+    "date": "29.10.2025",
+    "time": "22:04",
+    "listeners": 831
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Dážď",
     "artist": "Peter Cmorík",
     "date": "29.10.2025",

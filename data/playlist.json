@@ -5,7 +5,15 @@
     "artist": "Uriah Heep",
     "date": "29.10.2025",
     "time": "16:52",
-    "listeners": 2846
+    "listeners": 2846,
+    "lyricists": null,
+    "album": "The Best of... Pt. 1",
+    "release_year": 1996,
+    "duration_ms": 282307,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Modern Talking",
     "date": "29.10.2025",
     "time": "16:49",
-    "listeners": 3076
+    "listeners": 3076,
+    "lyricists": null,
+    "album": "Let's Talk About Love",
+    "release_year": 1985,
+    "duration_ms": 226333,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

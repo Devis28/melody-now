@@ -5,7 +5,17 @@
     "artist": "Richard Müller",
     "date": "29.10.2025",
     "time": "20:21",
-    "listeners": 1475
+    "listeners": 1475,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2017,
+    "duration_ms": 157480,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,18 @@
     "artist": "Elton John",
     "date": "29.10.2025",
     "time": "20:18",
-    "listeners": 1366
+    "listeners": 1366,
+    "lyricists": [
+      "Bernie Taupin",
+      "Elton John"
+    ],
+    "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition)",
+    "release_year": 2003,
+    "duration_ms": 228928,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +42,15 @@
     "artist": "Žbirka Miro",
     "date": "29.10.2025",
     "time": "20:14",
-    "listeners": 1449
+    "listeners": 1449,
+    "lyricists": null,
+    "album": "Nemoderný chalan",
+    "release_year": 1984,
+    "duration_ms": 222640,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +58,20 @@
     "artist": "Kristína",
     "date": "29.10.2025",
     "time": "20:11",
-    "listeners": 1519
+    "listeners": 1519,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "album": "V Sieti Ta Mam",
+    "release_year": 2014,
+    "duration_ms": 227267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +79,15 @@
     "artist": "Mckee Maria",
     "date": "29.10.2025",
     "time": "20:06",
-    "listeners": 1615
+    "listeners": 1615,
+    "lyricists": null,
+    "album": "Ultimate Collection: Maria McKee",
+    "release_year": 1993,
+    "duration_ms": 224707,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +95,19 @@
     "artist": "Eurythmics",
     "date": "29.10.2025",
     "time": "20:03",
-    "listeners": 1552
+    "listeners": 1552,
+    "lyricists": [
+      "Annie Lennox",
+      "Dave Stewart",
+      "Eurythmics"
+    ],
+    "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
+    "release_year": 2005,
+    "duration_ms": 216933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

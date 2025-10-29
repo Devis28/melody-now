@@ -5,7 +5,15 @@
     "artist": "Gott Karel",
     "date": "29.10.2025",
     "time": "09:21",
-    "listeners": 1680
+    "listeners": 1680,
+    "lyricists": null,
+    "album": "Má Píseň",
+    "release_year": 1972,
+    "duration_ms": 156347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Adams Bryan & Stewart Rod & Sting",
     "date": "29.10.2025",
     "time": "09:16",
-    "listeners": 1745
+    "listeners": 1745,
+    "lyricists": null,
+    "album": "All For Love (Luca Schreiner Remix) [feat. Richard Smitt] - Single",
+    "release_year": 2018,
+    "duration_ms": 178560,
+    "artist_country": null,
+    "genres": [
+      "Classical",
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Team",
     "date": "29.10.2025",
     "time": "09:11",
-    "listeners": 1911
+    "listeners": 1911,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 1989,
+    "duration_ms": 270040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Baccara",
     "date": "29.10.2025",
     "time": "09:06",
-    "listeners": 2083
+    "listeners": 2083,
+    "lyricists": null,
+    "album": "70s 100 Hits",
+    "release_year": 1997,
+    "duration_ms": 274581,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,16 @@
     "artist": "The Cranberries",
     "date": "29.10.2025",
     "time": "09:02",
-    "listeners": 2229
+    "listeners": 2229,
+    "lyricists": null,
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "release_year": 1993,
+    "duration_ms": 255107,
+    "artist_country": "IE",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

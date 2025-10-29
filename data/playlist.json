@@ -1,6 +1,118 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "29.10.2025",
+    "time": "05:41",
+    "listeners": 601
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "A Kind Of Magic",
+    "artist": "Queen",
+    "date": "29.10.2025",
+    "time": "05:37",
+    "listeners": 535
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "date": "29.10.2025",
+    "time": "05:33",
+    "listeners": 509
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Senza Una Donna",
+    "artist": "Zucchero,Paul Young",
+    "date": "29.10.2025",
+    "time": "05:28",
+    "listeners": 475
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skorápky Orechú",
+    "artist": "Marie Rottrová",
+    "date": "29.10.2025",
+    "time": "05:25",
+    "listeners": 385
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tornero",
+    "artist": "I Santo California",
+    "date": "29.10.2025",
+    "time": "05:22",
+    "listeners": 387
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čo O Mne Vieš",
+    "artist": "Rolincova Darinka",
+    "date": "29.10.2025",
+    "time": "05:19",
+    "listeners": 386
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chíldren",
+    "artist": "Robert Miles",
+    "date": "29.10.2025",
+    "time": "05:16",
+    "listeners": 358
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Super Trouper",
+    "artist": "Abba",
+    "date": "29.10.2025",
+    "time": "05:12",
+    "listeners": 339
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Free",
+    "artist": "Lighthouse Family",
+    "date": "29.10.2025",
+    "time": "05:07",
+    "listeners": 323
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It Must Have Been Love",
+    "artist": "Roxette",
+    "date": "29.10.2025",
+    "time": "05:03",
+    "listeners": 300
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Máš V Rukáve Máj",
+    "artist": "Marika Gombitová",
+    "date": "29.10.2025",
+    "time": "05:00",
+    "listeners": 283
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Diskohrátky",
+    "artist": "Hana Zagorová",
+    "date": "29.10.2025",
+    "time": "04:57",
+    "listeners": 274
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "29.10.2025",
+    "time": "04:54",
+    "listeners": 269
+  },
+  {
+    "station": "Rádio Melody",
     "title": "San Francisco",
     "artist": "Mckenzie Scott",
     "date": "29.10.2025",

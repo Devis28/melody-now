@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "29.10.2025",
+    "time": "07:21",
+    "listeners": 2578
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "29.10.2025",
+    "time": "07:18",
+    "listeners": 2588
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "date": "29.10.2025",
+    "time": "07:13",
+    "listeners": 2667
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Povedzme",
+    "artist": "Grigorov Robo",
+    "date": "29.10.2025",
+    "time": "07:06",
+    "listeners": 2386
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "29.10.2025",
+    "time": "07:02",
+    "listeners": 2280
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Wind Of Change",
     "artist": "The Scorpions",
     "date": "29.10.2025",

@@ -5,7 +5,17 @@
     "artist": "Shakira",
     "date": "29.10.2025",
     "time": "05:41",
-    "listeners": 601
+    "listeners": 601,
+    "lyricists": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ],
+    "album": "Laundry Service",
+    "release_year": 2001,
+    "duration_ms": 196160,
+    "artist_country": "CO",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "Queen",
     "date": "29.10.2025",
     "time": "05:37",
-    "listeners": 535
+    "listeners": 535,
+    "lyricists": null,
+    "album": "A Kind of Magic (Deluxe Edition)",
+    "release_year": 1993,
+    "duration_ms": 264254,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,16 @@
     "artist": "Rod Stewart",
     "date": "29.10.2025",
     "time": "05:33",
-    "listeners": 509
+    "listeners": 509,
+    "lyricists": null,
+    "album": "Some Guys Have All the Luck",
+    "release_year": 1993,
+    "duration_ms": 278600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Zucchero,Paul Young",
     "date": "29.10.2025",
     "time": "05:28",
-    "listeners": 475
+    "listeners": 475,
+    "lyricists": null,
+    "album": "All the Best",
+    "release_year": 1991,
+    "duration_ms": 267080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Marie Rottrová",
     "date": "29.10.2025",
     "time": "05:25",
-    "listeners": 385
+    "listeners": 385,
+    "lyricists": null,
+    "album": "12× Marie Rottrová",
+    "release_year": 2003,
+    "duration_ms": 209600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "I Santo California",
     "date": "29.10.2025",
     "time": "05:22",
-    "listeners": 387
+    "listeners": 387,
+    "lyricists": null,
+    "album": "Tornerò/Volveré - Single",
+    "release_year": 2001,
+    "duration_ms": 226355,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +104,15 @@
     "artist": "Rolincova Darinka",
     "date": "29.10.2025",
     "time": "05:19",
-    "listeners": 386
+    "listeners": 386,
+    "lyricists": null,
+    "album": "Čo O Mne Vieš",
+    "release_year": 1987,
+    "duration_ms": 161133,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +120,16 @@
     "artist": "Robert Miles",
     "date": "29.10.2025",
     "time": "05:16",
-    "listeners": 358
+    "listeners": 358,
+    "lyricists": null,
+    "album": "Dance Vault Mixes: Robert Miles - Children - EP",
+    "release_year": 1996,
+    "duration_ms": 243267,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +137,15 @@
     "artist": "Abba",
     "date": "29.10.2025",
     "time": "05:12",
-    "listeners": 339
+    "listeners": 339,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1989,
+    "duration_ms": 251298,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +153,16 @@
     "artist": "Lighthouse Family",
     "date": "29.10.2025",
     "time": "05:07",
-    "listeners": 323
+    "listeners": 323,
+    "lyricists": null,
+    "album": "Whatever Gets You Through the Day",
+    "release_year": 2001,
+    "duration_ms": 316360,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +170,15 @@
     "artist": "Roxette",
     "date": "29.10.2025",
     "time": "05:03",
-    "listeners": 300
+    "listeners": 300,
+    "lyricists": null,
+    "album": "It Must Have Been Love - Single",
+    "release_year": 1992,
+    "duration_ms": 259666,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +186,15 @@
     "artist": "Marika Gombitová",
     "date": "29.10.2025",
     "time": "05:00",
-    "listeners": 283
+    "listeners": 283,
+    "lyricists": null,
+    "album": "Slnečný kalendár",
+    "release_year": 1998,
+    "duration_ms": 146013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +202,15 @@
     "artist": "Hana Zagorová",
     "date": "29.10.2025",
     "time": "04:57",
-    "listeners": 274
+    "listeners": 274,
+    "lyricists": null,
+    "album": "Singly 1981-1990",
+    "release_year": 2004,
+    "duration_ms": 205000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +218,15 @@
     "artist": "Team",
     "date": "29.10.2025",
     "time": "04:54",
-    "listeners": 269
+    "listeners": 269,
+    "lyricists": null,
+    "album": "7edem",
+    "release_year": 2001,
+    "duration_ms": 172547,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

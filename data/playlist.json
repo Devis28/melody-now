@@ -1,6 +1,246 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nároční",
+    "artist": "Team",
+    "date": "29.10.2025",
+    "time": "02:51",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You'll See",
+    "artist": "Madonna",
+    "date": "29.10.2025",
+    "time": "02:46",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mamma Maria",
+    "artist": "Ricchi E Poveri",
+    "date": "29.10.2025",
+    "time": "02:44",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hľadám",
+    "artist": "No Name",
+    "date": "29.10.2025",
+    "time": "02:40",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Snídane V Tráve",
+    "artist": "Tucný Michal",
+    "date": "29.10.2025",
+    "time": "02:37",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody Hurts",
+    "artist": "R.E.M.",
+    "date": "29.10.2025",
+    "time": "02:32",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stačí Si Priať",
+    "artist": "Smatanová Zuzana",
+    "date": "29.10.2025",
+    "time": "02:28",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "29.10.2025",
+    "time": "02:23",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Musím Už Ísť",
+    "artist": "Kelecsényi Martin",
+    "date": "29.10.2025",
+    "time": "02:20",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "date": "29.10.2025",
+    "time": "02:17",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chráň Svoje Bláznovstvá",
+    "artist": "Peter Nagy",
+    "date": "29.10.2025",
+    "time": "02:14",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ešte Váham",
+    "artist": "Kristína",
+    "date": "29.10.2025",
+    "time": "02:10",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Here I Am",
+    "artist": "Adams, Bryan",
+    "date": "29.10.2025",
+    "time": "02:06",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mopedová",
+    "artist": "Vašo Patejdl a Oľga Záblacká",
+    "date": "29.10.2025",
+    "time": "02:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Adiemus",
+    "artist": "Adiemus",
+    "date": "29.10.2025",
+    "time": "02:00",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "El Condor Pasa",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "29.10.2025",
+    "time": "01:57",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maťo A Linda",
+    "artist": "Hex",
+    "date": "29.10.2025",
+    "time": "01:52",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Total Eclipse Of The Heart",
+    "artist": "Westlife",
+    "date": "29.10.2025",
+    "time": "01:48",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "My, Oh My",
+    "artist": "Slade",
+    "date": "29.10.2025",
+    "time": "01:44",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sunchyme",
+    "artist": "Dario G",
+    "date": "29.10.2025",
+    "time": "01:39",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cítim",
+    "artist": "Karol Duchoň",
+    "date": "29.10.2025",
+    "time": "01:36",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Desmod",
+    "date": "29.10.2025",
+    "time": "01:33",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "(We Want) The Same Thing",
+    "artist": "Belinda Carlisle",
+    "date": "29.10.2025",
+    "time": "01:29",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pozhasínané",
+    "artist": "Modus",
+    "date": "29.10.2025",
+    "time": "01:25",
+    "listeners": 195
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cose Della Vita / Can't Stop Thinking Of You",
+    "artist": "Tina Turner/Eros Ramazzotti",
+    "date": "29.10.2025",
+    "time": "01:20",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spomaľ",
+    "artist": "Peha",
+    "date": "29.10.2025",
+    "time": "01:16",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Black Velvet",
+    "artist": "Myles Alannah",
+    "date": "29.10.2025",
+    "time": "01:11",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Holky Z Naší Školky",
+    "artist": "Stanislav Hložek & Petr Kotvald",
+    "date": "29.10.2025",
+    "time": "01:07",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Znala Panna Pána",
+    "artist": "Vondráčková Helena Neckář Václav",
+    "date": "29.10.2025",
+    "time": "01:05",
+    "listeners": 193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spočítaj Ma",
+    "artist": "Richard Müller",
+    "date": "29.10.2025",
+    "time": "01:00",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Správne Dievčatá",
     "artist": "Gombitová Marika",
     "date": "29.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Roxette",
     "date": "29.10.2025",
     "time": "23:46",
-    "listeners": 367
+    "listeners": 367,
+    "lyricists": null,
+    "album": "Look Sharp!",
+    "release_year": 1995,
+    "duration_ms": 328093,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "B. J. Thomas",
     "date": "29.10.2025",
     "time": "23:43",
-    "listeners": 338
+    "listeners": 338,
+    "lyricists": null,
+    "album": "Raindrops Keep Fallin' On My Head",
+    "release_year": 1996,
+    "duration_ms": 184493,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Cher",
     "date": "29.10.2025",
     "time": "23:39",
-    "listeners": 384
+    "listeners": 384,
+    "lyricists": null,
+    "album": "Believe",
+    "release_year": 1999,
+    "duration_ms": 239027,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

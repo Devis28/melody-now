@@ -5,7 +5,15 @@
     "artist": "Michael, George",
     "date": "29.10.2025",
     "time": "20:45",
-    "listeners": 1342
+    "listeners": 1342,
+    "lyricists": null,
+    "album": "Make It Big",
+    "release_year": 1984,
+    "duration_ms": 392267,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "I.M.T. Smile",
     "date": "29.10.2025",
     "time": "20:41",
-    "listeners": 1445
+    "listeners": 1445,
+    "lyricists": null,
+    "album": "2010 Odysea Dva",
+    "release_year": 2020,
+    "duration_ms": 232120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

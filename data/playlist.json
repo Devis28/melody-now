@@ -5,7 +5,15 @@
     "artist": "Miro Žbirka",
     "date": "29.10.2025",
     "time": "11:39",
-    "listeners": 1393
+    "listeners": 1393,
+    "lyricists": null,
+    "album": "Symphonic Album",
+    "release_year": 2007,
+    "duration_ms": 215293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Love Message",
     "date": "29.10.2025",
     "time": "11:35",
-    "listeners": 1355
+    "listeners": 1355,
+    "lyricists": null,
+    "album": "Love Message (The 90s Version) - Single",
+    "release_year": 1996,
+    "duration_ms": 229177,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Europe",
     "date": "29.10.2025",
     "time": "11:32",
-    "listeners": 1353
+    "listeners": 1353,
+    "lyricists": null,
+    "album": "The Final Countdown (Expanded Edition)",
+    "release_year": 1996,
+    "duration_ms": 310333,
+    "artist_country": "SE",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Vondráčková Helena",
     "date": "29.10.2025",
     "time": "11:29",
-    "listeners": 1331
+    "listeners": 1331,
+    "lyricists": null,
+    "album": "Růže Kvetou Dál",
+    "release_year": 1964,
+    "duration_ms": 154200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Grigorov Robo",
     "date": "29.10.2025",
     "time": "11:25",
-    "listeners": 1172
+    "listeners": 1172,
+    "lyricists": null,
+    "album": "Balady",
+    "release_year": 2006,
+    "duration_ms": 261107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,16 @@
     "artist": "Baltimora",
     "date": "29.10.2025",
     "time": "11:21",
-    "listeners": 1182
+    "listeners": 1182,
+    "lyricists": null,
+    "album": "Living In the Background",
+    "release_year": 1997,
+    "duration_ms": 378947,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

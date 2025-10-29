@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "29.10.2025",
+    "time": "20:45",
+    "listeners": 1342
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bozk",
+    "artist": "I.M.T. Smile",
+    "date": "29.10.2025",
+    "time": "20:41",
+    "listeners": 1445
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mama Kúp Mi Rontgen",
     "artist": "Yps",
     "date": "29.10.2025",

@@ -1,6 +1,94 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "29.10.2025",
+    "time": "14:02",
+    "listeners": 1055
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Heaven Is A Place On Earth",
+    "artist": "Belinda Carlisle",
+    "date": "29.10.2025",
+    "time": "13:54",
+    "listeners": 1006
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "29.10.2025",
+    "time": "13:50",
+    "listeners": 1099
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "29.10.2025",
+    "time": "13:46",
+    "listeners": 1061
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch Me (I Want Your Body)",
+    "artist": "Fox Samantha",
+    "date": "29.10.2025",
+    "time": "13:42",
+    "listeners": 1258
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Báječná Ženská",
+    "artist": "Tučný Michal",
+    "date": "29.10.2025",
+    "time": "13:38",
+    "listeners": 1171
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Road To Mandalay",
+    "artist": "Williams, Robbie",
+    "date": "29.10.2025",
+    "time": "13:34",
+    "listeners": 1250
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "S Tebou",
+    "artist": "Žbirka Miro",
+    "date": "29.10.2025",
+    "time": "13:30",
+    "listeners": 1371
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zrpš",
+    "artist": "Hammel, Pavol",
+    "date": "29.10.2025",
+    "time": "13:27",
+    "listeners": 1370
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Over The Rainbow/What A Wonderful World",
+    "artist": "Israel",
+    "date": "29.10.2025",
+    "time": "13:22",
+    "listeners": 1329
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Daruj Mi Svoj Najkrajší Deň",
+    "artist": "Gravis",
+    "date": "29.10.2025",
+    "time": "13:19",
+    "listeners": 1406
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mrs. Robinson",
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "29.10.2025",

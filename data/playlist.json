@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Medulienka",
+    "artist": "Hammel Pavol",
+    "date": "29.10.2025",
+    "time": "09:43",
+    "listeners": 1165
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sadeness-Part 1",
+    "artist": "Enigma",
+    "date": "29.10.2025",
+    "time": "09:39",
+    "listeners": 1287
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Arabela",
+    "artist": "Rolincova Darinka",
+    "date": "29.10.2025",
+    "time": "09:34",
+    "listeners": 1293
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Študentská Láska",
+    "artist": "Marika Gombitová",
+    "date": "29.10.2025",
+    "time": "09:31",
+    "listeners": 1415
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "29.10.2025",
+    "time": "09:27",
+    "listeners": 1623
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bamboléo",
+    "artist": "Gipsy Kings",
+    "date": "29.10.2025",
+    "time": "09:23",
+    "listeners": 1625
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kávu Si Osladím",
     "artist": "Gott Karel",
     "date": "29.10.2025",

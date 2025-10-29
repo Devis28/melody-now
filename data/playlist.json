@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hotel California",
+    "artist": "Eagles The",
+    "date": "29.10.2025",
+    "time": "21:47",
+    "listeners": 963
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sha La La",
+    "artist": "Vengaboys",
+    "date": "29.10.2025",
+    "time": "21:43",
+    "listeners": 972
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Balla...Balla! (Italian Hit Connection)",
+    "artist": "Francesco Napoli",
+    "date": "29.10.2025",
+    "time": "21:39",
+    "listeners": 1024
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kamarát",
     "artist": "Exil",
     "date": "29.10.2025",

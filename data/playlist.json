@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "29.10.2025",
+    "time": "11:17",
+    "listeners": 1103
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cigaretka Na Dva Ťahy",
+    "artist": "Richard Müller",
+    "date": "29.10.2025",
+    "time": "11:14",
+    "listeners": 1083
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hurikán",
+    "artist": "Janda Dalibor",
+    "date": "29.10.2025",
+    "time": "11:08",
+    "listeners": 1079
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "California Dreamin'",
+    "artist": "Mamas & The Papas",
+    "date": "29.10.2025",
+    "time": "11:06",
+    "listeners": 1009
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'll Stand By You",
+    "artist": "Pretenders, The",
+    "date": "29.10.2025",
+    "time": "11:02",
+    "listeners": 1044
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Do You Really Want To Hurt Me",
     "artist": "Culture Club",
     "date": "29.10.2025",

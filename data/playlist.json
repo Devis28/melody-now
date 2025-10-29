@@ -5,7 +5,15 @@
     "artist": "No Name",
     "date": "29.10.2025",
     "time": "19:59",
-    "listeners": 1626
+    "listeners": 1626,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 202093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Kryštof",
     "date": "29.10.2025",
     "time": "19:54",
-    "listeners": 1739
+    "listeners": 1739,
+    "lyricists": null,
+    "album": "25",
+    "release_year": 2017,
+    "duration_ms": 376000,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

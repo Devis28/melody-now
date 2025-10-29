@@ -5,7 +5,15 @@
     "artist": "Neckář Václav",
     "date": "29.10.2025",
     "time": "06:11",
-    "listeners": 1017
+    "listeners": 1017,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 1965,
+    "duration_ms": 323453,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Shakespear's Sister",
     "date": "29.10.2025",
     "time": "06:06",
-    "listeners": 922
+    "listeners": 922,
+    "lyricists": null,
+    "album": "Hormonally Yours",
+    "release_year": 1993,
+    "duration_ms": 229000,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Alphaville",
     "date": "29.10.2025",
     "time": "06:02",
-    "listeners": 860
+    "listeners": 860,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2009,
+    "duration_ms": 286160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

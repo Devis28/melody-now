@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "30.10.2025",
     "time": "00:15",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 1998,
+    "duration_ms": 260800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dj Bobo",
     "date": "30.10.2025",
     "time": "00:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1995,
+    "duration_ms": 252093,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Alphaville",
     "date": "30.10.2025",
     "time": "00:07",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2009,
+    "duration_ms": 286160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Neckář Václav",
     "date": "30.10.2025",
     "time": "00:02",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 1965,
+    "duration_ms": 323453,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Enya",
     "date": "29.10.2025",
     "time": "23:58",
-    "listeners": 321
+    "listeners": 321,
+    "lyricists": null,
+    "album": "Intense (Bonus Track Version)",
+    "release_year": 2013,
+    "duration_ms": 203307,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

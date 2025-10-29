@@ -5,7 +5,15 @@
     "artist": "Hammel Pavol",
     "date": "29.10.2025",
     "time": "09:43",
-    "listeners": 1165
+    "listeners": 1165,
+    "lyricists": null,
+    "album": "Vrabec vševed",
+    "release_year": 1979,
+    "duration_ms": 201293,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Enigma",
     "date": "29.10.2025",
     "time": "09:39",
-    "listeners": 1287
+    "listeners": 1287,
+    "lyricists": null,
+    "album": "Love Sensuality Devotion: The Greatest Hits",
+    "release_year": 2001,
+    "duration_ms": 255533,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,13 @@
     "artist": "Rolincova Darinka",
     "date": "29.10.2025",
     "time": "09:34",
-    "listeners": 1293
+    "listeners": 1293,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 238640,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Marika Gombitová",
     "date": "29.10.2025",
     "time": "09:31",
-    "listeners": 1415
+    "listeners": 1415,
+    "lyricists": null,
+    "album": "Single (1977 - 1989)",
+    "release_year": 2000,
+    "duration_ms": 202960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,15 @@
     "artist": "La Bouche",
     "date": "29.10.2025",
     "time": "09:27",
-    "listeners": 1623
+    "listeners": 1623,
+    "lyricists": null,
+    "album": "La Bouche: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 240867,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +83,13 @@
     "artist": "Gipsy Kings",
     "date": "29.10.2025",
     "time": "09:23",
-    "listeners": 1625
+    "listeners": 1625,
+    "lyricists": null,
+    "album": "Gipsy Kings",
+    "release_year": 2013,
+    "duration_ms": 203333,
+    "artist_country": "FR",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

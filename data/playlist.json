@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Všichni Jsou Už V Mexiku",
+    "artist": "Michal Tučný",
+    "date": "29.10.2025",
+    "time": "18:24",
+    "listeners": 2700
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Van Goghovo Ucho",
+    "artist": "Elán",
+    "date": "29.10.2025",
+    "time": "18:19",
+    "listeners": 2832
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malý Dům Nad Skálou",
+    "artist": "Věra Martinová",
+    "date": "29.10.2025",
+    "time": "18:16",
+    "listeners": 2731
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Je To Vo Hviezdach",
+    "artist": "Pavol Habera",
+    "date": "29.10.2025",
+    "time": "18:13",
+    "listeners": 2853
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Školská Lavica",
+    "artist": "Gombitová Marika",
+    "date": "29.10.2025",
+    "time": "18:06",
+    "listeners": 2922
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dnes",
+    "artist": "Tublatanka",
+    "date": "29.10.2025",
+    "time": "18:01",
+    "listeners": 2931
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ti Amo",
     "artist": "Umberto Tozzi",
     "date": "29.10.2025",

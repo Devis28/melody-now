@@ -5,7 +5,16 @@
     "artist": "Ace Of Base",
     "date": "29.10.2025",
     "time": "14:02",
-    "listeners": 1055
+    "listeners": 1055,
+    "lyricists": null,
+    "album": "The Bridge (Remastered)",
+    "release_year": 1995,
+    "duration_ms": 221187,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Belinda Carlisle",
     "date": "29.10.2025",
     "time": "13:54",
-    "listeners": 1006
+    "listeners": 1006,
+    "lyricists": null,
+    "album": "Heaven on Earth",
+    "release_year": 2005,
+    "duration_ms": 247093,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "The Beatles",
     "date": "29.10.2025",
     "time": "13:50",
-    "listeners": 1099
+    "listeners": 1099,
+    "lyricists": null,
+    "album": "Abbey Road (Remastered)",
+    "release_year": 1978,
+    "duration_ms": 185733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Beata Dubasová",
     "date": "29.10.2025",
     "time": "13:46",
-    "listeners": 1061
+    "listeners": 1061,
+    "lyricists": null,
+    "album": "Za dverami mojej izby",
+    "release_year": 1990,
+    "duration_ms": 303903,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Fox Samantha",
     "date": "29.10.2025",
     "time": "13:42",
-    "listeners": 1258
+    "listeners": 1258,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1986,
+    "duration_ms": 213684,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Tučný Michal",
     "date": "29.10.2025",
     "time": "13:38",
-    "listeners": 1171
+    "listeners": 1171,
+    "lyricists": null,
+    "album": "Poslední Kovboj",
+    "release_year": 1980,
+    "duration_ms": 250760,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Williams, Robbie",
     "date": "29.10.2025",
     "time": "13:34",
-    "listeners": 1250
+    "listeners": 1250,
+    "lyricists": null,
+    "album": "Sing When You're Winning",
+    "release_year": 2000,
+    "duration_ms": 237401,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,15 @@
     "artist": "Žbirka Miro",
     "date": "29.10.2025",
     "time": "13:30",
-    "listeners": 1371
+    "listeners": 1371,
+    "lyricists": null,
+    "album": "Roky a dni",
+    "release_year": 1983,
+    "duration_ms": 225040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +134,15 @@
     "artist": "Hammel, Pavol",
     "date": "29.10.2025",
     "time": "13:27",
-    "listeners": 1370
+    "listeners": 1370,
+    "lyricists": null,
+    "album": "Čas malín",
+    "release_year": 1981,
+    "duration_ms": 179747,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +150,13 @@
     "artist": "Israel",
     "date": "29.10.2025",
     "time": "13:22",
-    "listeners": 1329
+    "listeners": 1329,
+    "lyricists": null,
+    "album": "Unforgettable",
+    "release_year": 2006,
+    "duration_ms": 244013,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +164,15 @@
     "artist": "Gravis",
     "date": "29.10.2025",
     "time": "13:19",
-    "listeners": 1406
+    "listeners": 1406,
+    "lyricists": null,
+    "album": "Kolotoč masiek",
+    "release_year": 1989,
+    "duration_ms": 194235,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

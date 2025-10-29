@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Naša Láska Letí",
+    "artist": "Richard Müller",
+    "date": "29.10.2025",
+    "time": "20:21",
+    "listeners": 1475
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Candle In The Wind",
+    "artist": "Elton John",
+    "date": "29.10.2025",
+    "time": "20:18",
+    "listeners": 1366
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "22 Dní",
+    "artist": "Žbirka Miro",
+    "date": "29.10.2025",
+    "time": "20:14",
+    "listeners": 1449
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stonka",
+    "artist": "Kristína",
+    "date": "29.10.2025",
+    "time": "20:11",
+    "listeners": 1519
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Show Me Heaven",
+    "artist": "Mckee Maria",
+    "date": "29.10.2025",
+    "time": "20:06",
+    "listeners": 1615
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sweet Dreams",
+    "artist": "Eurythmics",
+    "date": "29.10.2025",
+    "time": "20:03",
+    "listeners": 1552
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Žily",
     "artist": "No Name",
     "date": "29.10.2025",

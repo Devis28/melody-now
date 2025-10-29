@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mama Kúp Mi Rontgen",
+    "artist": "Yps",
+    "date": "29.10.2025",
+    "time": "20:39",
+    "listeners": 1265
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dolce Vita",
+    "artist": "Paris Ryan",
+    "date": "29.10.2025",
+    "time": "20:35",
+    "listeners": 1445
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Slnko Nevychádzaj",
+    "artist": "Metalinda",
+    "date": "29.10.2025",
+    "time": "20:31",
+    "listeners": 1395
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mám 300 Mesiacov",
     "artist": "Grigorov Robo",
     "date": "29.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Exil",
     "date": "29.10.2025",
     "time": "21:35",
-    "listeners": 955
+    "listeners": 955,
+    "lyricists": null,
+    "album": "Kamarát - EP",
+    "release_year": 1996,
+    "duration_ms": 215615,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "29.10.2025",
     "time": "21:32",
-    "listeners": 1054
+    "listeners": 1054,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 2004,
+    "duration_ms": 165227,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Smatanová Zuzana",
     "date": "29.10.2025",
     "time": "21:28",
-    "listeners": 1149
+    "listeners": 1149,
+    "lyricists": null,
+    "album": "Best Of",
+    "release_year": 2008,
+    "duration_ms": 259387,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Chris Norman",
     "date": "29.10.2025",
     "time": "21:24",
-    "listeners": 1030
+    "listeners": 1030,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 2002,
+    "duration_ms": 250000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

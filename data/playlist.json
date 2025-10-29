@@ -5,7 +5,16 @@
     "artist": "Mckenzie Scott",
     "date": "29.10.2025",
     "time": "04:51",
-    "listeners": 260
+    "listeners": 260,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,18 @@
     "artist": "Madonna",
     "date": "29.10.2025",
     "time": "04:46",
-    "listeners": 238
+    "listeners": 238,
+    "lyricists": [
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Ray of Light",
+    "release_year": 2007,
+    "duration_ms": 367333,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,15 @@
     "artist": "Kryštof ft. Sima Martausová",
     "date": "29.10.2025",
     "time": "04:42",
-    "listeners": 218
+    "listeners": 218,
+    "lyricists": null,
+    "album": "Hvězdáři (feat. Sima Martausová) - Single",
+    "release_year": 2019,
+    "duration_ms": 242553,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,19 @@
     "artist": "Lionel Richie",
     "date": "29.10.2025",
     "time": "04:38",
-    "listeners": 229
+    "listeners": 229,
+    "lyricists": [
+      "James Anthony Carmichael",
+      "Lionel Richie"
+    ],
+    "album": "Can't Slow Down",
+    "release_year": 1983,
+    "duration_ms": 248401,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +77,15 @@
     "artist": "Müller Richard",
     "date": "29.10.2025",
     "time": "04:34",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2012,
+    "duration_ms": 280013,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +93,15 @@
     "artist": "Beáta Dubasová",
     "date": "29.10.2025",
     "time": "04:31",
-    "listeners": 213
+    "listeners": 213,
+    "lyricists": null,
+    "album": "Pierko pravdy - Single",
+    "release_year": 2023,
+    "duration_ms": 190000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +109,15 @@
     "artist": "Rogers Kenny &Parton Dolly",
     "date": "29.10.2025",
     "time": "04:27",
-    "listeners": 209
+    "listeners": 209,
+    "lyricists": null,
+    "album": "Ultimate Dolly Parton",
+    "release_year": 1983,
+    "duration_ms": 249293,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +125,15 @@
     "artist": "Pavol Hammel",
     "date": "29.10.2025",
     "time": "04:23",
-    "listeners": 202
+    "listeners": 202,
+    "lyricists": null,
+    "album": "The Best Of Pavol Hammel",
+    "release_year": 1998,
+    "duration_ms": 209533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +141,15 @@
     "artist": "Václav Neckář",
     "date": "29.10.2025",
     "time": "04:19",
-    "listeners": 195
+    "listeners": 195,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 2003,
+    "duration_ms": 268907,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +157,15 @@
     "artist": "Desirelles",
     "date": "29.10.2025",
     "time": "04:15",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "François",
+    "release_year": 1980,
+    "duration_ms": 264585,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +173,15 @@
     "artist": "Polemic",
     "date": "29.10.2025",
     "time": "04:12",
-    "listeners": 211
+    "listeners": 211,
+    "lyricists": null,
+    "album": "Polemic: Live",
+    "release_year": 2007,
+    "duration_ms": 256842,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

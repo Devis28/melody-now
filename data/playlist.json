@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Fuoco Nel Fuoco",
+    "artist": "Ramazzotti Eros",
+    "date": "29.10.2025",
+    "time": "08:54",
+    "listeners": 2161
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Biely Kvet",
+    "artist": "Miro Žbirka",
+    "date": "29.10.2025",
+    "time": "08:51",
+    "listeners": 2463
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Dancing Queen",
     "artist": "Abba",
     "date": "29.10.2025",

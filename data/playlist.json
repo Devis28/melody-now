@@ -5,7 +5,16 @@
     "artist": "Peter Cmorík",
     "date": "29.10.2025",
     "time": "21:59",
-    "listeners": 929
+    "listeners": 929,
+    "lyricists": null,
+    "album": "Nadherny Den",
+    "release_year": 2008,
+    "duration_ms": 279720,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Inner Circle",
     "date": "29.10.2025",
     "time": "21:55",
-    "listeners": 878
+    "listeners": 878,
+    "lyricists": null,
+    "album": "Sweat (A La La La La Long) - Single",
+    "release_year": 1993,
+    "duration_ms": 227067,
+    "artist_country": "JM",
+    "genres": [
+      "Reggae"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Grigorov Robo Midi",
     "date": "29.10.2025",
     "time": "21:51",
-    "listeners": 1059
+    "listeners": 1059,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

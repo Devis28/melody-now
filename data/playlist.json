@@ -5,7 +5,15 @@
     "artist": "Darina Rolincová",
     "date": "29.10.2025",
     "time": "06:48",
-    "listeners": 1898
+    "listeners": 1898,
+    "lyricists": null,
+    "album": "Skús Ma Najsť, Bez Veľkej Slávy - Single",
+    "release_year": 1998,
+    "duration_ms": 269827,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Duchoň Karol",
     "date": "29.10.2025",
     "time": "06:43",
-    "listeners": 1830
+    "listeners": 1830,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1974,
+    "duration_ms": 208160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Zbirka Miro & Martha",
     "date": "29.10.2025",
     "time": "06:40",
-    "listeners": 1691
+    "listeners": 1691,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2001,
+    "duration_ms": 204173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Bad Boys Blue",
     "date": "29.10.2025",
     "time": "06:37",
-    "listeners": 1673
+    "listeners": 1673,
+    "lyricists": null,
+    "album": "Super 20",
+    "release_year": 1988,
+    "duration_ms": 346507,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

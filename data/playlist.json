@@ -5,7 +5,15 @@
     "artist": "Kotvald Petr",
     "date": "29.10.2025",
     "time": "16:26",
-    "listeners": 2408
+    "listeners": 2408,
+    "lyricists": null,
+    "album": "Exxxclusive (Best Of - Zlatá Kolekce)",
+    "release_year": 2016,
+    "duration_ms": 197000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Bee Gees",
     "date": "29.10.2025",
     "time": "16:22",
-    "listeners": 2236
+    "listeners": 2236,
+    "lyricists": null,
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "release_year": 2000,
+    "duration_ms": 246241,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Ricchi E Poveri",
     "date": "29.10.2025",
     "time": "16:19",
-    "listeners": 2427
+    "listeners": 2427,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1987,
+    "duration_ms": 190693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Londonbeat",
     "date": "29.10.2025",
     "time": "16:13",
-    "listeners": 2291
+    "listeners": 2291,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 228280,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Zich Karel & Filipová Lenka",
     "date": "29.10.2025",
     "time": "16:09",
-    "listeners": 2167
+    "listeners": 2167,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 1981,
+    "duration_ms": 218240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Nazareth",
     "date": "29.10.2025",
     "time": "16:06",
-    "listeners": 2163
+    "listeners": 2163,
+    "lyricists": null,
+    "album": "2Xs",
+    "release_year": 2005,
+    "duration_ms": 204827,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +101,15 @@
     "artist": "Shakira & Freshlyground",
     "date": "29.10.2025",
     "time": "16:02",
-    "listeners": 2063
+    "listeners": 2063,
+    "lyricists": null,
+    "album": "Éxitos de Verano",
+    "release_year": 2014,
+    "duration_ms": 201773,
+    "artist_country": "CO",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

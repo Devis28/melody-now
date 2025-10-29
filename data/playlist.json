@@ -5,7 +5,15 @@
     "artist": "Tublatanka",
     "date": "29.10.2025",
     "time": "10:19",
-    "listeners": 897
+    "listeners": 897,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 2006,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "John Paul Young",
     "date": "29.10.2025",
     "time": "10:16",
-    "listeners": 933
+    "listeners": 933,
+    "lyricists": null,
+    "album": "Vanda and Young: The Official Songbook",
+    "release_year": 1996,
+    "duration_ms": 208413,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,18 @@
     "artist": "Robo Grigorov",
     "date": "29.10.2025",
     "time": "10:09",
-    "listeners": 953
+    "listeners": 953,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "album": "Chýbaš Mi...",
+    "release_year": 2006,
+    "duration_ms": 273293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Garcia",
     "date": "29.10.2025",
     "time": "10:05",
-    "listeners": 994
+    "listeners": 994,
+    "lyricists": null,
+    "album": "Bamboleo - Single",
+    "release_year": 2000,
+    "duration_ms": 228963,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Helena Vondráčková",
     "date": "29.10.2025",
     "time": "10:01",
-    "listeners": 1025
+    "listeners": 1025,
+    "lyricists": null,
+    "album": "Best of the Best",
+    "release_year": 2009,
+    "duration_ms": 233507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

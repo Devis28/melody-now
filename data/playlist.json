@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Woman In Love",
+    "artist": "Streisand Barbra",
+    "date": "29.10.2025",
+    "time": "11:49",
+    "listeners": 1532
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "29.10.2025",
+    "time": "11:46",
+    "listeners": 1474
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maria Magdalena",
+    "artist": "Sandra",
+    "date": "29.10.2025",
+    "time": "11:43",
+    "listeners": 1492
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Zažni",
     "artist": "Miro Žbirka",
     "date": "29.10.2025",

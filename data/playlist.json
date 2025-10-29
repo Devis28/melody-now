@@ -5,7 +5,15 @@
     "artist": "Streisand Barbra",
     "date": "29.10.2025",
     "time": "11:49",
-    "listeners": 1532
+    "listeners": 1532,
+    "lyricists": null,
+    "album": "Guilty",
+    "release_year": 1980,
+    "duration_ms": 233400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gladiator",
     "date": "29.10.2025",
     "time": "11:46",
-    "listeners": 1474
+    "listeners": 1474,
+    "lyricists": null,
+    "album": "Zlate Hity",
+    "release_year": 2011,
+    "duration_ms": 215627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Sandra",
     "date": "29.10.2025",
     "time": "11:43",
-    "listeners": 1492
+    "listeners": 1492,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 2020,
+    "duration_ms": 240440,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

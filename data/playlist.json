@@ -5,7 +5,15 @@
     "artist": "Goombay Dance Band",
     "date": "29.10.2025",
     "time": "11:17",
-    "listeners": 1103
+    "listeners": 1103,
+    "lyricists": null,
+    "album": "Land of Gold",
+    "release_year": 1999,
+    "duration_ms": 265500,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Richard Müller",
     "date": "29.10.2025",
     "time": "11:14",
-    "listeners": 1083
+    "listeners": 1083,
+    "lyricists": null,
+    "album": "Koncert (Live)",
+    "release_year": 2002,
+    "duration_ms": 436587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Janda Dalibor",
     "date": "29.10.2025",
     "time": "11:08",
-    "listeners": 1079
+    "listeners": 1079,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 229080,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Mamas & The Papas",
     "date": "29.10.2025",
     "time": "11:06",
-    "listeners": 1009
+    "listeners": 1009,
+    "lyricists": null,
+    "album": "If You Can Believe Your Eyes and Ears",
+    "release_year": 1991,
+    "duration_ms": 162373,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Pretenders, The",
     "date": "29.10.2025",
     "time": "11:02",
-    "listeners": 1044
+    "listeners": 1044,
+    "lyricists": null,
+    "album": "Last of the Independents",
+    "release_year": 1994,
+    "duration_ms": 238827,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

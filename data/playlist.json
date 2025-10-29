@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bez Veľkej Slávy",
+    "artist": "Darina Rolincová",
+    "date": "29.10.2025",
+    "time": "06:48",
+    "listeners": 1898
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šiel, Šiel",
+    "artist": "Duchoň Karol",
+    "date": "29.10.2025",
+    "time": "06:43",
+    "listeners": 1830
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Co Bolí To Přebolí",
+    "artist": "Zbirka Miro & Martha",
+    "date": "29.10.2025",
+    "time": "06:40",
+    "listeners": 1691
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pretty Young Girl",
+    "artist": "Bad Boys Blue",
+    "date": "29.10.2025",
+    "time": "06:37",
+    "listeners": 1673
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Vráť Trochu Lásky Medzi Nás",
     "artist": "G8",
     "date": "29.10.2025",

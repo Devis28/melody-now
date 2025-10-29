@@ -5,7 +5,15 @@
     "artist": "Norman Chris & Quatro Suzi",
     "date": "29.10.2025",
     "time": "15:10",
-    "listeners": 1110
+    "listeners": 1110,
+    "lyricists": null,
+    "album": "Collections: Smokie",
+    "release_year": 1977,
+    "duration_ms": 238200,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Team",
     "date": "29.10.2025",
     "time": "15:06",
-    "listeners": 1018
+    "listeners": 1018,
+    "lyricists": null,
+    "album": "Team 3",
+    "release_year": 2005,
+    "duration_ms": 305107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Oldfield Mike & Reilly Maggie",
     "date": "29.10.2025",
     "time": "15:03",
-    "listeners": 1011
+    "listeners": 1011,
+    "lyricists": null,
+    "album": "The Mike Oldfield Collection",
+    "release_year": 1983,
+    "duration_ms": 218187,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Tozzi, Umberto",
     "date": "29.10.2025",
     "time": "14:54",
-    "listeners": 895
+    "listeners": 895,
+    "lyricists": null,
+    "album": "Gloria",
+    "release_year": 1979,
+    "duration_ms": 264674,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

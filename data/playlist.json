@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mám 300 Mesiacov",
+    "artist": "Grigorov Robo",
+    "date": "29.10.2025",
+    "time": "20:28",
+    "listeners": 1386
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "In The Army Now",
+    "artist": "Status Quo",
+    "date": "29.10.2025",
+    "time": "20:24",
+    "listeners": 1439
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Naša Láska Letí",
     "artist": "Richard Müller",
     "date": "29.10.2025",

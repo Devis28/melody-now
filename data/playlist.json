@@ -5,7 +5,15 @@
     "artist": "Culture Club",
     "date": "29.10.2025",
     "time": "10:54",
-    "listeners": 1046
+    "listeners": 1046,
+    "lyricists": null,
+    "album": "Kissing to Be Clever",
+    "release_year": 1982,
+    "duration_ms": 262173,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Habera Pavol",
     "date": "29.10.2025",
     "time": "10:50",
-    "listeners": 962
+    "listeners": 962,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2001,
+    "duration_ms": 241000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Abba",
     "date": "29.10.2025",
     "time": "10:47",
-    "listeners": 904
+    "listeners": 904,
+    "lyricists": null,
+    "album": "Waterloo",
+    "release_year": 1994,
+    "duration_ms": 176440,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

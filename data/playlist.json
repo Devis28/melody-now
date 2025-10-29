@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "29.10.2025",
     "time": "10:34",
-    "listeners": 929
+    "listeners": 929,
+    "lyricists": null,
+    "album": "Legenda 5: Posledná...",
+    "release_year": 2007,
+    "duration_ms": 271773,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Whitney Houston",
     "date": "29.10.2025",
     "time": "10:29",
-    "listeners": 864
+    "listeners": 864,
+    "lyricists": null,
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "release_year": 2000,
+    "duration_ms": 271093,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Karel Gott",
     "date": "29.10.2025",
     "time": "10:27",
-    "listeners": 893
+    "listeners": 893,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 2006,
+    "duration_ms": 170067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,24 @@
     "artist": "Kool & The Gang",
     "date": "29.10.2025",
     "time": "10:23",
-    "listeners": 846
+    "listeners": 846,
+    "lyricists": [
+      "Claydes Smith",
+      "Clifford Adams",
+      "Curtis “Fitz” Williams",
+      "George Brown",
+      "James “J.T.” Taylor",
+      "Jim Bonnefond",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ],
+    "album": "Emergency",
+    "release_year": 1984,
+    "duration_ms": 290600,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Smokie",
     "date": "29.10.2025",
     "time": "09:53",
-    "listeners": 1029
+    "listeners": 1029,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 1998,
+    "duration_ms": 244733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Robert Miles/Maria Nayler",
     "date": "29.10.2025",
     "time": "09:49",
-    "listeners": 1089
+    "listeners": 1089,
+    "lyricists": null,
+    "album": "Dreamland (Including One and One)",
+    "release_year": 2019,
+    "duration_ms": 238493,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "David Michal & Kroky Frantiska Janecka",
     "date": "29.10.2025",
     "time": "09:46",
-    "listeners": 1124
+    "listeners": 1124,
+    "lyricists": null,
+    "album": "Mejdan Roku (Live)",
+    "release_year": 2010,
+    "duration_ms": 181560,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

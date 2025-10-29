@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Komajota",
+    "date": "29.10.2025",
+    "time": "21:21",
+    "listeners": 1212
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Promised Myself",
+    "artist": "Kamen, Nick",
+    "date": "29.10.2025",
+    "time": "21:17",
+    "listeners": 1200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kralovna Pavlaci A Dvorov",
+    "artist": "Heckovci Peter A Julia",
+    "date": "29.10.2025",
+    "time": "21:14",
+    "listeners": 1223
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The River Of Dreams",
+    "artist": "Joel Billy",
+    "date": "29.10.2025",
+    "time": "21:10",
+    "listeners": 1223
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Aj Tak Sme Frajeri",
+    "artist": "Nagy Peter",
+    "date": "29.10.2025",
+    "time": "21:07",
+    "listeners": 1264
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "date": "29.10.2025",
+    "time": "21:03",
+    "listeners": 1309
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ked Sa Baba Zblazni",
+    "artist": "Pavol Habera & Team",
+    "date": "29.10.2025",
+    "time": "20:58",
+    "listeners": 1200
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Daddy Cool",
     "artist": "Boney M",
     "date": "29.10.2025",

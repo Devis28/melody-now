@@ -5,7 +5,15 @@
     "artist": "Slivová Silvia",
     "date": "29.10.2025",
     "time": "07:49",
-    "listeners": 3018
+    "listeners": 3018,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 233373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Orbison Roy",
     "date": "29.10.2025",
     "time": "07:45",
-    "listeners": 3076
+    "listeners": 3076,
+    "lyricists": null,
+    "album": "Oh! Pretty Woman",
+    "release_year": 1964,
+    "duration_ms": 178929,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Army Of Lovers",
     "date": "29.10.2025",
     "time": "07:42",
-    "listeners": 2834
+    "listeners": 2834,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Patejdl Vašo",
     "date": "29.10.2025",
     "time": "07:38",
-    "listeners": 2886
+    "listeners": 2886,
+    "lyricists": null,
+    "album": "Chlapcenský úsmev",
+    "release_year": 1986,
+    "duration_ms": 203867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Gott Karel",
     "date": "29.10.2025",
     "time": "07:35",
-    "listeners": 2906
+    "listeners": 2906,
+    "lyricists": null,
+    "album": "Lady Carneval",
+    "release_year": 1987,
+    "duration_ms": 180227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,16 @@
     "artist": "Opus",
     "date": "29.10.2025",
     "time": "07:31",
-    "listeners": 2855
+    "listeners": 2855,
+    "lyricists": null,
+    "album": "Live Is Life - Single",
+    "release_year": 1991,
+    "duration_ms": 249500,
+    "artist_country": "AT",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

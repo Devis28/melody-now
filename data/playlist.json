@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Róberta",
+    "artist": "Modus",
+    "date": "30.10.2025",
+    "time": "00:15",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "There's A Party",
+    "artist": "Dj Bobo",
+    "date": "30.10.2025",
+    "time": "00:11",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Big In Japan",
+    "artist": "Alphaville",
+    "date": "30.10.2025",
+    "time": "00:07",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kdo Vchází Do Tvých Snů Má Lásko",
+    "artist": "Neckář Václav",
+    "date": "30.10.2025",
+    "time": "00:02",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Only Time (Two Tribes Remix))",
+    "artist": "Enya",
+    "date": "29.10.2025",
+    "time": "23:58",
+    "listeners": 321
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kaskadér",
     "artist": "Elán",
     "date": "29.10.2025",

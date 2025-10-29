@@ -5,7 +5,16 @@
     "artist": "Pavol Habera",
     "date": "29.10.2025",
     "time": "12:43",
-    "listeners": 1607
+    "listeners": 1607,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Marie Rottrová",
     "date": "29.10.2025",
     "time": "12:39",
-    "listeners": 1635
+    "listeners": 1635,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2003,
+    "duration_ms": 200307,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Elán",
     "date": "29.10.2025",
     "time": "12:36",
-    "listeners": 1705
+    "listeners": 1705,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 1992,
+    "duration_ms": 227560,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

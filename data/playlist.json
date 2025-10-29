@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "All By Myself",
+    "artist": "Eric Carmen",
+    "date": "29.10.2025",
+    "time": "17:40",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "29.10.2025",
+    "time": "17:36",
+    "listeners": 3076
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When The Rain Begins To Fall",
+    "artist": "Jermaine Jackson & Pia Zadora",
+    "date": "29.10.2025",
+    "time": "17:33",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Mi, Lásko, Není Dvacet Let",
+    "artist": "Jiří Zmožek",
+    "date": "29.10.2025",
+    "time": "17:28",
+    "listeners": 3177
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "29.10.2025",
+    "time": "17:23",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Padá Hvězda",
     "artist": "Janda Dalibor",
     "date": "29.10.2025",

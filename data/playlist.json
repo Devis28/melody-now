@@ -5,7 +5,18 @@
     "artist": "Eric Carmen",
     "date": "29.10.2025",
     "time": "17:40",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": [
+      "Eric Carmen",
+      "Сергей Васильевич Рахманинов"
+    ],
+    "album": "Eric Carmen",
+    "release_year": 2012,
+    "duration_ms": 429997,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +24,15 @@
     "artist": "Corona",
     "date": "29.10.2025",
     "time": "17:36",
-    "listeners": 3076
+    "listeners": 3076,
+    "lyricists": null,
+    "album": "The Rhythm of the Night",
+    "release_year": 1994,
+    "duration_ms": 264280,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,16 @@
     "artist": "Jermaine Jackson & Pia Zadora",
     "date": "29.10.2025",
     "time": "17:33",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Jermaine Jackson: Greatest Hits",
+    "release_year": 2018,
+    "duration_ms": 243790,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Jiří Zmožek",
     "date": "29.10.2025",
     "time": "17:28",
-    "listeners": 3177
+    "listeners": 3177,
+    "lyricists": null,
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "release_year": 2001,
+    "duration_ms": 246093,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Rubettes, The",
     "date": "29.10.2025",
     "time": "17:23",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "The Best of the Rubettes",
+    "release_year": 1974,
+    "duration_ms": 209893,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

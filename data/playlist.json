@@ -5,7 +5,16 @@
     "artist": "Ramazzotti Eros",
     "date": "29.10.2025",
     "time": "08:54",
-    "listeners": 2161
+    "listeners": 2161,
+    "lyricists": null,
+    "album": "Eros 30 (Deluxe Version)",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Miro Žbirka",
     "date": "29.10.2025",
     "time": "08:51",
-    "listeners": 2463
+    "listeners": 2463,
+    "lyricists": null,
+    "album": "Miro Zbirka: Live",
+    "release_year": 2007,
+    "duration_ms": 256013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

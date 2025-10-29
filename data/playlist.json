@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bamboléo",
+    "artist": "Gipsy Kings",
+    "date": "30.10.2025",
+    "time": "00:28",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tri Štvrte Na Jeseň",
+    "artist": "Vašo Patejdl",
+    "date": "30.10.2025",
+    "time": "00:23",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "G8",
+    "date": "30.10.2025",
+    "time": "00:19",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Róberta",
     "artist": "Modus",
     "date": "30.10.2025",

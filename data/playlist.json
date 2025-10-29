@@ -5,7 +5,16 @@
     "artist": "Grigorov Robo",
     "date": "30.10.2025",
     "time": "00:59",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2006,
+    "duration_ms": 294013,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "John Elton & Dee Kiki",
     "date": "30.10.2025",
     "time": "00:54",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Rock of the Westies (Remastered)",
+    "release_year": 1975,
+    "duration_ms": 275440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

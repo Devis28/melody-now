@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nothing Compares 2 U",
+    "artist": "O'connor Sinéad",
+    "date": "30.10.2025",
+    "time": "06:52",
+    "listeners": 2042
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lambada",
+    "artist": "Kaoma",
+    "date": "30.10.2025",
+    "time": "06:49",
+    "listeners": 1986
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "30.10.2025",
+    "time": "06:44",
+    "listeners": 1892
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Lásko Má, Já Stůňu",
     "artist": "Vondráčková Helena",
     "date": "30.10.2025",

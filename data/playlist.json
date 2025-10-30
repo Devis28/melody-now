@@ -5,7 +5,15 @@
     "artist": "John Paul Young",
     "date": "30.10.2025",
     "time": "05:28",
-    "listeners": 498
+    "listeners": 498,
+    "lyricists": null,
+    "album": "Vanda and Young: The Official Songbook",
+    "release_year": 1996,
+    "duration_ms": 208413,
+    "artist_country": "AU",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hečková Júlia",
     "date": "30.10.2025",
     "time": "05:24",
-    "listeners": 468
+    "listeners": 468,
+    "lyricists": null,
+    "album": "Maturitné tablo",
+    "release_year": 1987,
+    "duration_ms": 244316,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Habera Pavol",
     "date": "30.10.2025",
     "time": "05:20",
-    "listeners": 404
+    "listeners": 404,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2001,
+    "duration_ms": 241000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Black",
     "date": "30.10.2025",
     "time": "05:15",
-    "listeners": 357
+    "listeners": 357,
+    "lyricists": null,
+    "album": "Wonderful Life",
+    "release_year": 2003,
+    "duration_ms": 287933,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Love Message",
     "date": "30.10.2025",
     "time": "05:11",
-    "listeners": 327
+    "listeners": 327,
+    "lyricists": null,
+    "album": "Love Message (The 90s Version) - Single",
+    "release_year": 1996,
+    "duration_ms": 229177,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,17 @@
     "artist": "Abba",
     "date": "30.10.2025",
     "time": "05:07",
-    "listeners": 290
+    "listeners": 290,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 2008,
+    "duration_ms": 231844,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,16 @@
     "artist": "Europe",
     "date": "30.10.2025",
     "time": "05:03",
-    "listeners": 275
+    "listeners": 275,
+    "lyricists": null,
+    "album": "The Final Countdown (Expanded Edition)",
+    "release_year": 1996,
+    "duration_ms": 310333,
+    "artist_country": "SE",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +122,19 @@
     "artist": "Fancy",
     "date": "30.10.2025",
     "time": "04:59",
-    "listeners": 265
+    "listeners": 265,
+    "lyricists": [
+      "Alfons Weindorf",
+      "Fancy",
+      "Sabrina Lorenz"
+    ],
+    "album": "Hit Collection",
+    "release_year": 1998,
+    "duration_ms": 217880,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

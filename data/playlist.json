@@ -5,7 +5,16 @@
     "artist": "Robert Miles/Maria Nayler",
     "date": "30.10.2025",
     "time": "04:16",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Dreamland (Including One and One)",
+    "release_year": 2019,
+    "duration_ms": 238493,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Desmod",
     "date": "30.10.2025",
     "time": "04:12",
-    "listeners": 199
+    "listeners": 199,
+    "lyricists": null,
+    "album": "Molekuly Zvuku",
+    "release_year": 2017,
+    "duration_ms": 207978,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,13 @@
     "artist": "Whitney Houston",
     "date": "30.10.2025",
     "time": "04:08",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": null,
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "release_year": 2000,
+    "duration_ms": 271093,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Peter Nagy",
     "date": "30.10.2025",
     "time": "04:05",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "\"Ale\"",
+    "release_year": 2011,
+    "duration_ms": 152800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,16 @@
     "artist": "Orbison Roy",
     "date": "30.10.2025",
     "time": "04:02",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Oh! Pretty Woman",
+    "release_year": 1964,
+    "duration_ms": 178929,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,18 @@
     "artist": "Robo Grigorov",
     "date": "30.10.2025",
     "time": "03:58",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ],
+    "album": "Chýbaš Mi...",
+    "release_year": 2006,
+    "duration_ms": 273293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,15 @@
     "artist": "Garcia",
     "date": "30.10.2025",
     "time": "03:54",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Bamboleo - Single",
+    "release_year": 2000,
+    "duration_ms": 228963,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +121,15 @@
     "artist": "Gott Karel",
     "date": "30.10.2025",
     "time": "03:51",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Lady Carneval",
+    "release_year": 1987,
+    "duration_ms": 180227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +137,15 @@
     "artist": "La Bouche",
     "date": "30.10.2025",
     "time": "03:47",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "La Bouche: Greatest Hits",
+    "release_year": 2007,
+    "duration_ms": 240867,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +153,15 @@
     "artist": "No Name",
     "date": "30.10.2025",
     "time": "03:43",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2003,
+    "duration_ms": 210307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +169,16 @@
     "artist": "Baltimora",
     "date": "30.10.2025",
     "time": "03:39",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Living In the Background",
+    "release_year": 1997,
+    "duration_ms": 378947,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +186,16 @@
     "artist": "The Cranberries",
     "date": "30.10.2025",
     "time": "03:35",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "release_year": 1993,
+    "duration_ms": 255107,
+    "artist_country": "IE",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +203,15 @@
     "artist": "Peha",
     "date": "30.10.2025",
     "time": "03:31",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "release_year": 2005,
+    "duration_ms": 236680,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +219,15 @@
     "artist": "Culture Club",
     "date": "30.10.2025",
     "time": "03:27",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Kissing to Be Clever",
+    "release_year": 1982,
+    "duration_ms": 262173,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +235,15 @@
     "artist": "Modus",
     "date": "30.10.2025",
     "time": "03:23",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 2005,
+    "duration_ms": 208227,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +251,15 @@
     "artist": "Baccara",
     "date": "30.10.2025",
     "time": "03:19",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "70s 100 Hits",
+    "release_year": 1997,
+    "duration_ms": 274581,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +267,13 @@
     "artist": "Rolincova Darinka",
     "date": "30.10.2025",
     "time": "03:15",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 238640,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +281,16 @@
     "artist": "Balogh Berco",
     "date": "30.10.2025",
     "time": "03:11",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Siedmy pád",
+    "release_year": 2007,
+    "duration_ms": 202507,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +298,15 @@
     "artist": "Enigma",
     "date": "30.10.2025",
     "time": "03:06",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Love Sensuality Devotion: The Greatest Hits",
+    "release_year": 2001,
+    "duration_ms": 255533,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +314,15 @@
     "artist": "Team",
     "date": "30.10.2025",
     "time": "03:01",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 1989,
+    "duration_ms": 270040,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

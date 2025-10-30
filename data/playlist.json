@@ -5,7 +5,15 @@
     "artist": "Ramazzotti Eros",
     "date": "30.10.2025",
     "time": "12:44",
-    "listeners": 1697
+    "listeners": 1697,
+    "lyricists": null,
+    "album": "Eros",
+    "release_year": 1987,
+    "duration_ms": 323867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Karol Duchoň",
     "date": "30.10.2025",
     "time": "12:41",
-    "listeners": 1663
+    "listeners": 1663,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1985,
+    "duration_ms": 203093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gott Karel & Olympic",
     "date": "30.10.2025",
     "time": "12:39",
-    "listeners": 1694
+    "listeners": 1694,
+    "lyricists": null,
+    "album": "Cesta Rájem",
+    "release_year": 1965,
+    "duration_ms": 116573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

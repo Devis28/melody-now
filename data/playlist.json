@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Baby, I Love Your Way",
+    "artist": "Big Mountain",
+    "date": "30.10.2025",
+    "time": "23:49",
+    "listeners": 368
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "30.10.2025",
+    "time": "23:46",
+    "listeners": 337
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ako Vánok",
+    "artist": "Müller Richard",
+    "date": "30.10.2025",
+    "time": "23:43",
+    "listeners": 349
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sealed With The Kiss",
     "artist": "Jason Donovan",
     "date": "30.10.2025",

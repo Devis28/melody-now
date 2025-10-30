@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Čo Ak",
+    "artist": "I.M.T. Smile",
+    "date": "30.10.2025",
+    "time": "18:37",
+    "listeners": 2602
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Školská Láska",
+    "artist": "Rolincová Darina",
+    "date": "30.10.2025",
+    "time": "18:33",
+    "listeners": 2329
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "30.10.2025",
+    "time": "18:30",
+    "listeners": 2574
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lásko Voníš Deštem",
+    "artist": "Marie Rottrová",
+    "date": "30.10.2025",
+    "time": "18:25",
+    "listeners": 2588
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bílá Královna",
+    "artist": "Stanislav Hlozek & Petr Kotvald",
+    "date": "30.10.2025",
+    "time": "18:21",
+    "listeners": 2838
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Má První Láska Se Dnes Vdává",
     "artist": "Gott Karel",
     "date": "30.10.2025",

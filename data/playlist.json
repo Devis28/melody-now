@@ -5,7 +5,15 @@
     "artist": "Karel Gott",
     "date": "30.10.2025",
     "time": "09:47",
-    "listeners": 1189
+    "listeners": 1189,
+    "lyricists": null,
+    "album": "'76 (Bonus Track Version)",
+    "release_year": 1998,
+    "duration_ms": 230827,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Al Bano & Romina Power",
     "date": "30.10.2025",
     "time": "09:43",
-    "listeners": 1233
+    "listeners": 1233,
+    "lyricists": null,
+    "album": "Al Bano",
+    "release_year": 2007,
+    "duration_ms": 240987,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Grigorov Robo",
     "date": "30.10.2025",
     "time": "09:40",
-    "listeners": 1254
+    "listeners": 1254,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "The George Baker Selection",
     "date": "30.10.2025",
     "time": "09:37",
-    "listeners": 1314
+    "listeners": 1314,
+    "lyricists": null,
+    "album": "Paloma Blanca",
+    "release_year": 1975,
+    "duration_ms": 209360,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Elán",
     "date": "30.10.2025",
     "time": "09:34",
-    "listeners": 1320
+    "listeners": 1320,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1992,
+    "duration_ms": 170800,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

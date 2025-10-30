@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Thank You For The Music",
+    "artist": "Abba",
+    "date": "30.10.2025",
+    "time": "20:52",
+    "listeners": 1336
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čím To Je",
+    "artist": "No Name",
+    "date": "30.10.2025",
+    "time": "20:49",
+    "listeners": 1252
+  },
+  {
+    "station": "Rádio Melody",
     "title": "It's My Life",
     "artist": "Dr. Alban",
     "date": "30.10.2025",

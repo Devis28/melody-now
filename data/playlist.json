@@ -5,7 +5,15 @@
     "artist": "Erasure",
     "date": "30.10.2025",
     "time": "15:26",
-    "listeners": 1236
+    "listeners": 1236,
+    "lyricists": null,
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "release_year": 2005,
+    "duration_ms": 237840,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Beatles",
     "date": "30.10.2025",
     "time": "15:24",
-    "listeners": 1339
+    "listeners": 1339,
+    "lyricists": null,
+    "album": "Help!",
+    "release_year": 1965,
+    "duration_ms": 125667,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Vašo Patejdl a Oľga Záblacká",
     "date": "30.10.2025",
     "time": "15:21",
-    "listeners": 1229
+    "listeners": 1229,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 2015,
+    "duration_ms": 141000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,13 @@
     "artist": "Iglesias, Enrique",
     "date": "30.10.2025",
     "time": "15:14",
-    "listeners": 1156
+    "listeners": 1156,
+    "lyricists": null,
+    "album": "Escape (Bonus Track Version)",
+    "release_year": 2001,
+    "duration_ms": 264240,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,15 @@
     "artist": "Gombitová Marika",
     "date": "30.10.2025",
     "time": "15:11",
-    "listeners": 1125
+    "listeners": 1125,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 250240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +83,15 @@
     "artist": "Michal David",
     "date": "30.10.2025",
     "time": "15:08",
-    "listeners": 1120
+    "listeners": 1120,
+    "lyricists": null,
+    "album": "Non Stop",
+    "release_year": 2010,
+    "duration_ms": 196840,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +99,13 @@
     "artist": "R.E.M.",
     "date": "30.10.2025",
     "time": "15:04",
-    "listeners": 1005
+    "listeners": 1005,
+    "lyricists": null,
+    "album": "Automatic For The People",
+    "release_year": 1999,
+    "duration_ms": 320351,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",

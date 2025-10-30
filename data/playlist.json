@@ -5,7 +5,15 @@
     "artist": "Jason Donovan",
     "date": "30.10.2025",
     "time": "23:40",
-    "listeners": 354
+    "listeners": 354,
+    "lyricists": null,
+    "album": "Ten Good Reasons",
+    "release_year": 1989,
+    "duration_ms": 152753,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Tobias Szidi",
     "date": "30.10.2025",
     "time": "23:35",
-    "listeners": 409
+    "listeners": 409,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2008,
+    "duration_ms": 307000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

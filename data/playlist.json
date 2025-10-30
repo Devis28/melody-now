@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Smútok Krásnych Dievčat",
+    "artist": "Duchoň Karol",
+    "date": "30.10.2025",
+    "time": "19:45",
+    "listeners": 1821
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skúšky Z Lásky",
+    "artist": "Gravis",
+    "date": "30.10.2025",
+    "time": "19:41",
+    "listeners": 1733
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Som On (Snežný Pluh)",
+    "artist": "Hex",
+    "date": "30.10.2025",
+    "time": "19:37",
+    "listeners": 1729
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ztraceny Raj",
+    "artist": "Vaso Patejdl A Heidi Janku",
+    "date": "30.10.2025",
+    "time": "19:33",
+    "listeners": 1692
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Když Láska Schází",
+    "artist": "Bartošová Iveta",
+    "date": "30.10.2025",
+    "time": "19:29",
+    "listeners": 1815
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pokoj V Duši",
+    "artist": "Jana Kirschner",
+    "date": "30.10.2025",
+    "time": "19:26",
+    "listeners": 1837
+  },
+  {
+    "station": "Rádio Melody",
     "title": "A Tak Dál Nosíš Po Kapsách Sny Mládí",
     "artist": "Matuška Waldemar",
     "date": "30.10.2025",

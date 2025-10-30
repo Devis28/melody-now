@@ -5,7 +5,15 @@
     "artist": "Team",
     "date": "30.10.2025",
     "time": "11:52",
-    "listeners": 1464
+    "listeners": 1464,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2005,
+    "duration_ms": 130373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Miro Žbirka",
     "date": "30.10.2025",
     "time": "11:49",
-    "listeners": 1490
+    "listeners": 1490,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2007,
+    "duration_ms": 181307,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Hammel Pavol",
     "date": "30.10.2025",
     "time": "11:46",
-    "listeners": 1463
+    "listeners": 1463,
+    "lyricists": null,
+    "album": "Pavol Hammel & Prúdy 1966 – 1975",
+    "release_year": 1969,
+    "duration_ms": 154490,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

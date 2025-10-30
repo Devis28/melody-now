@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Sealed With The Kiss",
+    "artist": "Jason Donovan",
+    "date": "30.10.2025",
+    "time": "23:40",
+    "listeners": 354
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "30.10.2025",
+    "time": "23:35",
+    "listeners": 409
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Som V Tom",
     "artist": "Team",
     "date": "30.10.2025",

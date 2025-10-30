@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "30.10.2025",
+    "time": "05:50",
+    "listeners": 749
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sharazan",
+    "artist": "Al Bano & Romina Power",
+    "date": "30.10.2025",
+    "time": "05:45",
+    "listeners": 671
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I'll Stand By You",
     "artist": "Pretenders, The",
     "date": "30.10.2025",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "The Great Commandment",
+    "artist": "Camouflage",
+    "date": "30.10.2025",
+    "time": "20:26",
+    "listeners": 1436
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bonboniéra",
+    "artist": "Gladiátor",
+    "date": "30.10.2025",
+    "time": "20:23",
+    "listeners": 1506
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voda Čo Ma Drží Nad Vodou",
+    "artist": "Jožo Ráž",
+    "date": "30.10.2025",
+    "time": "20:18",
+    "listeners": 1472
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Prútikár",
     "artist": "Zuzana Smatanová & Richard Autner",
     "date": "30.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Depeche Mode",
     "date": "30.10.2025",
     "time": "08:22",
-    "listeners": 2775
+    "listeners": 2775,
+    "lyricists": null,
+    "album": "Violator (Deluxe)",
+    "release_year": 1999,
+    "duration_ms": 372827,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

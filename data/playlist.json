@@ -5,7 +5,15 @@
     "artist": "Gott Karel",
     "date": "30.10.2025",
     "time": "18:18",
-    "listeners": 2809
+    "listeners": 2809,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 171573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Müller Richard",
     "date": "30.10.2025",
     "time": "18:14",
-    "listeners": 2933
+    "listeners": 2933,
+    "lyricists": null,
+    "album": "Neuc Vtaka Lietat!",
+    "release_year": 1992,
+    "duration_ms": 233573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "No Name",
     "date": "30.10.2025",
     "time": "18:08",
-    "listeners": 2706
+    "listeners": 2706,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2006,
+    "duration_ms": 202107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Vašo Patejdl",
     "date": "30.10.2025",
     "time": "18:03",
-    "listeners": 2956
+    "listeners": 2956,
+    "lyricists": null,
+    "album": "Mon Amour",
+    "release_year": 2005,
+    "duration_ms": 273160,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

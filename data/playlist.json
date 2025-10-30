@@ -5,7 +5,15 @@
     "artist": "Pink Floyd",
     "date": "31.10.2025",
     "time": "00:37",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "The Wall",
+    "release_year": 1994,
+    "duration_ms": 238947,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dubasová Beáta",
     "date": "31.10.2025",
     "time": "00:34",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 1993,
+    "duration_ms": 215000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

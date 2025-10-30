@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ulica",
+    "artist": "Elán",
+    "date": "30.10.2025",
+    "time": "15:43",
+    "listeners": 1472
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "date": "30.10.2025",
+    "time": "15:39",
+    "listeners": 1540
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "30.10.2025",
+    "time": "15:36",
+    "listeners": 1450
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "date": "30.10.2025",
+    "time": "15:33",
+    "listeners": 1447
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Always",
     "artist": "Erasure",
     "date": "30.10.2025",

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "30.10.2025",
+    "time": "12:05",
+    "listeners": 1522
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Where Do You Go",
+    "artist": "No Mercy",
+    "date": "30.10.2025",
+    "time": "12:01",
+    "listeners": 1582
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "date": "30.10.2025",
+    "time": "11:54",
+    "listeners": 1491
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Jeden Kabát, Jedna Koža, Jedna Tvár",
     "artist": "Team",
     "date": "30.10.2025",

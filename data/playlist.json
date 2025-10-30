@@ -5,7 +5,15 @@
     "artist": "Gott Karel",
     "date": "30.10.2025",
     "time": "16:46",
-    "listeners": 2942
+    "listeners": 2942,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 233107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "I Santo California",
     "date": "30.10.2025",
     "time": "16:41",
-    "listeners": 2734
+    "listeners": 2734,
+    "lyricists": null,
+    "album": "Tornerò/Volveré - Single",
+    "release_year": 2001,
+    "duration_ms": 226355,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Backstreet Boys",
     "date": "30.10.2025",
     "time": "16:38",
-    "listeners": 3007
+    "listeners": 3007,
+    "lyricists": null,
+    "album": "Backstreet's Back",
+    "release_year": 1998,
+    "duration_ms": 221107,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

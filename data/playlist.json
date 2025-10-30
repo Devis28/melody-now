@@ -5,7 +5,13 @@
     "artist": "John, Elton",
     "date": "30.10.2025",
     "time": "21:34",
-    "listeners": 1089
+    "listeners": 1089,
+    "lyricists": null,
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "release_year": 1994,
+    "duration_ms": 241907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,16 @@
     "artist": "Habera Pavol & Ibrahim Maiga",
     "date": "30.10.2025",
     "time": "21:30",
-    "listeners": 1121
+    "listeners": 1121,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2008,
+    "duration_ms": 226000,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +36,16 @@
     "artist": "Collins Phil",
     "date": "30.10.2025",
     "time": "21:25",
-    "listeners": 1084
+    "listeners": 1084,
+    "lyricists": null,
+    "album": "The Singles (Deluxe Edition)",
+    "release_year": 1989,
+    "duration_ms": 322133,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Jana Kirschner",
     "date": "30.10.2025",
     "time": "21:22",
-    "listeners": 1147
+    "listeners": 1147,
+    "lyricists": null,
+    "album": "16 Naj Pesničiek",
+    "release_year": 2000,
+    "duration_ms": 196520,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Beatles, The",
     "date": "30.10.2025",
     "time": "21:18",
-    "listeners": 1072
+    "listeners": 1072,
+    "lyricists": null,
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "release_year": 1968,
+    "duration_ms": 431333,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Beata Dubasová",
     "date": "30.10.2025",
     "time": "07:41",
-    "listeners": 2909
+    "listeners": 2909,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 2001,
+    "duration_ms": 269000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Bangles",
     "date": "30.10.2025",
     "time": "07:37",
-    "listeners": 3028
+    "listeners": 3028,
+    "lyricists": null,
+    "album": "Eternal Flame: The Best of Bangles",
+    "release_year": 2001,
+    "duration_ms": 240160,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Elán",
     "date": "30.10.2025",
     "time": "07:33",
-    "listeners": 2788
+    "listeners": 2788,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Smokie",
     "date": "30.10.2025",
     "time": "07:29",
-    "listeners": 2753
+    "listeners": 2753,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2009,
+    "duration_ms": 237667,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,16 @@
     "artist": "Patejdl, Vaso",
     "date": "30.10.2025",
     "time": "07:20",
-    "listeners": 2374
+    "listeners": 2374,
+    "lyricists": null,
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "release_year": 1986,
+    "duration_ms": 252013,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,19 @@
     "artist": "Sophie B. Hawkins",
     "date": "30.10.2025",
     "time": "07:17",
-    "listeners": 2409
+    "listeners": 2409,
+    "lyricists": [
+      "Rick Chertoff",
+      "Sophie B. Hawkins",
+      "Stewart Lerman"
+    ],
+    "album": "The Best of Sophie B. Hawkins",
+    "release_year": 2001,
+    "duration_ms": 286573,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

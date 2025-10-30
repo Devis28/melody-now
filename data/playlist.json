@@ -5,7 +5,15 @@
     "artist": "Černoch Karel Brabec Filip",
     "date": "30.10.2025",
     "time": "16:12",
-    "listeners": 2076
+    "listeners": 2076,
+    "lyricists": null,
+    "album": "Setkání",
+    "release_year": 1968,
+    "duration_ms": 257880,
+    "artist_country": null,
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "30.10.2025",
     "time": "16:08",
-    "listeners": 2058
+    "listeners": 2058,
+    "lyricists": null,
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 212304,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "I.M.T Smile",
     "date": "30.10.2025",
     "time": "16:06",
-    "listeners": 2045
+    "listeners": 2045,
+    "lyricists": null,
+    "album": "Nech Sa Paci",
+    "release_year": 2005,
+    "duration_ms": 163267,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Bano Al & Power Romina",
     "date": "30.10.2025",
     "time": "16:02",
-    "listeners": 1939
+    "listeners": 1939,
+    "lyricists": null,
+    "album": "Al Bano e Romina Power",
+    "release_year": 1982,
+    "duration_ms": 192853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

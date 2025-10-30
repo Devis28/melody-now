@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Je Jaká Je",
+    "artist": "Karel Gott",
+    "date": "30.10.2025",
+    "time": "09:47",
+    "listeners": 1189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sempre Sempre",
+    "artist": "Al Bano & Romina Power",
+    "date": "30.10.2025",
+    "time": "09:43",
+    "listeners": 1233
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "30.10.2025",
+    "time": "09:40",
+    "listeners": 1254
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "30.10.2025",
+    "time": "09:37",
+    "listeners": 1314
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tanečnice Z Lúčnice",
+    "artist": "Elán",
+    "date": "30.10.2025",
+    "time": "09:34",
+    "listeners": 1320
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ľudia Nie Sú Zlí",
     "artist": "I.M.T. Smile",
     "date": "30.10.2025",

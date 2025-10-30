@@ -1,6 +1,254 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Flashdance ( What A Feeling )",
+    "artist": "Cara Irene",
+    "date": "30.10.2025",
+    "time": "02:57",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vetroň",
+    "artist": "Hex",
+    "date": "30.10.2025",
+    "time": "02:53",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Woman In Love",
+    "artist": "Streisand Barbra",
+    "date": "30.10.2025",
+    "time": "02:49",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nie Alebo Áno",
+    "artist": "No Name",
+    "date": "30.10.2025",
+    "time": "02:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Biely Kvet",
+    "artist": "Miro Žbirka",
+    "date": "30.10.2025",
+    "time": "02:42",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fuoco Nel Fuoco",
+    "artist": "Ramazzotti Eros",
+    "date": "30.10.2025",
+    "time": "02:38",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prvá Láska",
+    "artist": "Ráž Jožo",
+    "date": "30.10.2025",
+    "time": "02:34",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Daj Ruku Do Mojej Ruky",
+    "artist": "Smatanová Zuzana",
+    "date": "30.10.2025",
+    "time": "02:31",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Orinoco Flow",
+    "artist": "Enya",
+    "date": "30.10.2025",
+    "time": "02:27",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V nás",
+    "artist": "Nocadeň",
+    "date": "30.10.2025",
+    "time": "02:24",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fading Like A Flower",
+    "artist": "Roxette",
+    "date": "30.10.2025",
+    "time": "02:20",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Naveky",
+    "artist": "Katarína Knechtová",
+    "date": "30.10.2025",
+    "time": "02:17",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "All For Love",
+    "artist": "Adams Bryan & Stewart Rod & Sting",
+    "date": "30.10.2025",
+    "time": "02:12",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hráč",
+    "artist": "Turbo",
+    "date": "30.10.2025",
+    "time": "02:07",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "30.10.2025",
+    "time": "02:03",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Veľa Lásky",
+    "artist": "I.M.T. Smile",
+    "date": "30.10.2025",
+    "time": "02:00",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "30.10.2025",
+    "time": "01:57",
+    "listeners": 191
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "30.10.2025",
+    "time": "01:53",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šiel, Šiel",
+    "artist": "Duchoň Karol",
+    "date": "30.10.2025",
+    "time": "01:50",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Because I Love You",
+    "artist": "Stevie B.",
+    "date": "30.10.2025",
+    "time": "01:45",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Holubička",
+    "artist": "Adam Ďurica",
+    "date": "30.10.2025",
+    "time": "01:41",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Juliet",
+    "artist": "Robin Gibb",
+    "date": "30.10.2025",
+    "time": "01:37",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "30.10.2025",
+    "time": "01:33",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Už Je Tu Láska",
+    "artist": "Peter Nagy",
+    "date": "30.10.2025",
+    "time": "01:30",
+    "listeners": 190
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cherish",
+    "artist": "Kool & The Gang",
+    "date": "30.10.2025",
+    "time": "01:26",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horúca Láska",
+    "artist": "Lukáš Adamec",
+    "date": "30.10.2025",
+    "time": "01:22",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "30.10.2025",
+    "time": "01:20",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "date": "30.10.2025",
+    "time": "01:16",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neuč Vtáka Lietať",
+    "artist": "Müller Richard",
+    "date": "30.10.2025",
+    "time": "01:12",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "November Rain",
+    "artist": "Guns N Roses",
+    "date": "30.10.2025",
+    "time": "01:06",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "date": "30.10.2025",
+    "time": "01:02",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Povedzme",
     "artist": "Grigorov Robo",
     "date": "30.10.2025",

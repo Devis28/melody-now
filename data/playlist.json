@@ -5,7 +5,15 @@
     "artist": "Ilona Csáková",
     "date": "30.10.2025",
     "time": "18:54",
-    "listeners": 2122
+    "listeners": 2122,
+    "lyricists": null,
+    "album": "22x Ilona - Best Of",
+    "release_year": 1999,
+    "duration_ms": 205147,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Michal Dočolomanský",
     "date": "30.10.2025",
     "time": "18:47",
-    "listeners": 2372
+    "listeners": 2372,
+    "lyricists": null,
+    "album": "14 naj",
+    "release_year": 1993,
+    "duration_ms": 231831,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

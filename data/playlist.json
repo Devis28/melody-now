@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Maluj Zase Obrázky",
+    "artist": "Hana Zagorová",
+    "date": "30.10.2025",
+    "time": "10:35",
+    "listeners": 938
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Will You Be There",
+    "artist": "Michael Jackson",
+    "date": "30.10.2025",
+    "time": "10:32",
+    "listeners": 872
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "C�est La Vie",
+    "artist": "Miro Zbirka",
+    "date": "30.10.2025",
+    "time": "10:28",
+    "listeners": 829
+  },
+  {
+    "station": "Rádio Melody",
     "title": "S Úsmevom",
     "artist": "Karol Duchoň",
     "date": "30.10.2025",

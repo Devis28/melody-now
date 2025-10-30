@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hej Mistre Basu",
+    "artist": "Hana Zagorova & Karel Wagner",
+    "date": "30.10.2025",
+    "time": "19:56",
+    "listeners": 1593
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "30.10.2025",
+    "time": "19:52",
+    "listeners": 1631
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nočná Optika",
+    "artist": "Müller Richard",
+    "date": "30.10.2025",
+    "time": "19:48",
+    "listeners": 1767
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Smútok Krásnych Dievčat",
     "artist": "Duchoň Karol",
     "date": "30.10.2025",

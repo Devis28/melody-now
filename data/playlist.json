@@ -5,7 +5,16 @@
     "artist": "Metallica",
     "date": "30.10.2025",
     "time": "14:05",
-    "listeners": 995
+    "listeners": 995,
+    "lyricists": null,
+    "album": "Metallica (Deluxe Box Set)",
+    "release_year": 1991,
+    "duration_ms": 388733,
+    "artist_country": "US",
+    "genres": [
+      "Metal",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Kylie Minogue",
     "date": "30.10.2025",
     "time": "14:01",
-    "listeners": 1089
+    "listeners": 1089,
+    "lyricists": null,
+    "album": "Showgirl - Homecoming (Live)",
+    "release_year": 2012,
+    "duration_ms": 283333,
+    "artist_country": "AU",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "The Art Company",
     "date": "30.10.2025",
     "time": "13:53",
-    "listeners": 1060
+    "listeners": 1060,
+    "lyricists": null,
+    "album": "Susanna - Single",
+    "release_year": 2023,
+    "duration_ms": 285062,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "I.M.T. Smile",
     "date": "30.10.2025",
     "time": "13:50",
-    "listeners": 1135
+    "listeners": 1135,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 178840,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,15 @@
     "artist": "Vondráčková Helena Neckář Václav",
     "date": "30.10.2025",
     "time": "13:47",
-    "listeners": 1195
+    "listeners": 1195,
+    "lyricists": null,
+    "album": "Rendez Vous",
+    "release_year": 1965,
+    "duration_ms": 143680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Tikaram Tanita",
     "date": "30.10.2025",
     "time": "13:42",
-    "listeners": 1217
+    "listeners": 1217,
+    "lyricists": null,
+    "album": "Ancient Heart",
+    "release_year": 1987,
+    "duration_ms": 290787,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Miro Žbirka",
     "date": "30.10.2025",
     "time": "13:39",
-    "listeners": 1165
+    "listeners": 1165,
+    "lyricists": null,
+    "album": "Meky",
+    "release_year": 1997,
+    "duration_ms": 188467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "The Righteous Brothers",
     "date": "30.10.2025",
     "time": "13:35",
-    "listeners": 1286
+    "listeners": 1286,
+    "lyricists": null,
+    "album": "The Very Best of the Righteous Brothers - Unchained Melody",
+    "release_year": 1965,
+    "duration_ms": 216267,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +135,15 @@
     "artist": "Elán",
     "date": "30.10.2025",
     "time": "13:32",
-    "listeners": 1263
+    "listeners": 1263,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1987,
+    "duration_ms": 194973,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +151,15 @@
     "artist": "Carey Mariah",
     "date": "30.10.2025",
     "time": "13:28",
-    "listeners": 1211
+    "listeners": 1211,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1993,
+    "duration_ms": 257973,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

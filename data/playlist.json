@@ -5,7 +5,15 @@
     "artist": "Cara Irene",
     "date": "30.10.2025",
     "time": "02:57",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "What a Feelin' (Bonus Track Version)",
+    "release_year": 1983,
+    "duration_ms": 237053,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Hex",
     "date": "30.10.2025",
     "time": "02:53",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 1997,
+    "duration_ms": 240320,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Streisand Barbra",
     "date": "30.10.2025",
     "time": "02:49",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Guilty",
+    "release_year": 1980,
+    "duration_ms": 233400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "No Name",
     "date": "30.10.2025",
     "time": "02:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 243480,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Miro Žbirka",
     "date": "30.10.2025",
     "time": "02:42",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Miro Zbirka: Live",
+    "release_year": 2007,
+    "duration_ms": 256013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,16 @@
     "artist": "Ramazzotti Eros",
     "date": "30.10.2025",
     "time": "02:38",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Eros 30 (Deluxe Version)",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,13 @@
     "artist": "Ráž Jožo",
     "date": "30.10.2025",
     "time": "02:34",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": null,
+    "release_year": null,
+    "duration_ms": null,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +116,15 @@
     "artist": "Smatanová Zuzana",
     "date": "30.10.2025",
     "time": "02:31",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Gemini",
+    "release_year": 2009,
+    "duration_ms": 184930,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +132,18 @@
     "artist": "Enya",
     "date": "30.10.2025",
     "time": "02:27",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": [
+      "Enya",
+      "Roma Ryan"
+    ],
+    "album": "Watermark (Remastered Bonus Track Version)",
+    "release_year": 1994,
+    "duration_ms": 266200,
+    "artist_country": "IE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +151,15 @@
     "artist": "Nocadeň",
     "date": "30.10.2025",
     "time": "02:24",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Nocadeň v Prahe (Live 2024)",
+    "release_year": 2015,
+    "duration_ms": 258587,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +167,15 @@
     "artist": "Roxette",
     "date": "30.10.2025",
     "time": "02:20",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Fading Like A Flower - Single",
+    "release_year": 1992,
+    "duration_ms": 145808,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +183,15 @@
     "artist": "Katarína Knechtová",
     "date": "30.10.2025",
     "time": "02:17",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": [
+      "Katarína Knechtová"
+    ],
+    "album": null,
+    "release_year": 2015,
+    "duration_ms": null,
+    "artist_country": "SK",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +199,16 @@
     "artist": "Adams Bryan & Stewart Rod & Sting",
     "date": "30.10.2025",
     "time": "02:12",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "All For Love (Luca Schreiner Remix) [feat. Richard Smitt] - Single",
+    "release_year": 2018,
+    "duration_ms": 178560,
+    "artist_country": null,
+    "genres": [
+      "Classical",
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +216,15 @@
     "artist": "Turbo",
     "date": "30.10.2025",
     "time": "02:07",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "To Byla, Pánové, Jízda",
+    "release_year": 2023,
+    "duration_ms": 284733,
+    "artist_country": "CZ",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +232,15 @@
     "artist": "The Goombay Dance Band",
     "date": "30.10.2025",
     "time": "02:03",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Sun of Jamaica",
+    "release_year": 1980,
+    "duration_ms": 264000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +248,15 @@
     "artist": "I.M.T. Smile",
     "date": "30.10.2025",
     "time": "02:00",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2012,
+    "duration_ms": 195293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +264,15 @@
     "artist": "Vondráčková Helena",
     "date": "30.10.2025",
     "time": "01:57",
-    "listeners": 191
+    "listeners": 191,
+    "lyricists": null,
+    "album": "Ode Mne K Tobě",
+    "release_year": 1975,
+    "duration_ms": 180253,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +280,16 @@
     "artist": "Army Of Lovers",
     "date": "30.10.2025",
     "time": "01:53",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +297,15 @@
     "artist": "Duchoň Karol",
     "date": "30.10.2025",
     "time": "01:50",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1974,
+    "duration_ms": 208160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +313,20 @@
     "artist": "Stevie B.",
     "date": "30.10.2025",
     "time": "01:45",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Stevie B",
+      "Warren Allen Brooks"
+    ],
+    "album": "Love and Emotion",
+    "release_year": 1991,
+    "duration_ms": 303333,
+    "artist_country": "US",
+    "genres": [
+      "Electronic",
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -165,7 +334,15 @@
     "artist": "Adam Ďurica",
     "date": "30.10.2025",
     "time": "01:41",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Holubička - Single",
+    "release_year": 2018,
+    "duration_ms": 273955,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -173,7 +350,18 @@
     "artist": "Robin Gibb",
     "date": "30.10.2025",
     "time": "01:37",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Maurice Gibb",
+      "Robin Gibb"
+    ],
+    "album": "How Old Are You?",
+    "release_year": 1983,
+    "duration_ms": 228000,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -181,7 +369,15 @@
     "artist": "Penk Michal",
     "date": "30.10.2025",
     "time": "01:33",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Hit Album",
+    "release_year": 1992,
+    "duration_ms": 278000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -189,7 +385,15 @@
     "artist": "Peter Nagy",
     "date": "30.10.2025",
     "time": "01:30",
-    "listeners": 190
+    "listeners": 190,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 177027,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -197,7 +401,24 @@
     "artist": "Kool & The Gang",
     "date": "30.10.2025",
     "time": "01:26",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Claydes Smith",
+      "Clifford Adams",
+      "Curtis “Fitz” Williams",
+      "George Brown",
+      "James “J.T.” Taylor",
+      "Jim Bonnefond",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ],
+    "album": "Emergency",
+    "release_year": 1984,
+    "duration_ms": 290600,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -205,7 +426,15 @@
     "artist": "Lukáš Adamec",
     "date": "30.10.2025",
     "time": "01:22",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Lukáš Adamec",
+    "release_year": 2017,
+    "duration_ms": 208147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -213,7 +442,15 @@
     "artist": "Zagorová Hana&Rezek Petr",
     "date": "30.10.2025",
     "time": "01:20",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "release_year": 1995,
+    "duration_ms": 169400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -221,7 +458,16 @@
     "artist": "Opus",
     "date": "30.10.2025",
     "time": "01:16",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Live Is Life - Single",
+    "release_year": 1991,
+    "duration_ms": 249500,
+    "artist_country": "AT",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -229,7 +475,15 @@
     "artist": "Müller Richard",
     "date": "30.10.2025",
     "time": "01:12",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "Neuc Vtaka Lietat!",
+    "release_year": 1992,
+    "duration_ms": 220533,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -237,7 +491,15 @@
     "artist": "Guns N Roses",
     "date": "30.10.2025",
     "time": "01:06",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": null,
+    "album": "Use Your Illusion I",
+    "release_year": 1991,
+    "duration_ms": 536067,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -245,7 +507,15 @@
     "artist": "Rick Astley",
     "date": "30.10.2025",
     "time": "01:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1999,
+    "duration_ms": 213560,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

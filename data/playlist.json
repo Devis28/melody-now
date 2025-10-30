@@ -5,7 +5,15 @@
     "artist": "Roxette",
     "date": "30.10.2025",
     "time": "09:51",
-    "listeners": 1224
+    "listeners": 1224,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2006,
+    "duration_ms": 275667,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

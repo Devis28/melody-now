@@ -5,7 +5,16 @@
     "artist": "The Police",
     "date": "30.10.2025",
     "time": "23:16",
-    "listeners": 451
+    "listeners": 451,
+    "lyricists": null,
+    "album": "Synchronicity (Remastered 2003)",
+    "release_year": 1983,
+    "duration_ms": 253960,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Hex",
     "date": "30.10.2025",
     "time": "23:12",
-    "listeners": 509
+    "listeners": 509,
+    "lyricists": null,
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "release_year": 2002,
+    "duration_ms": 218120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "The Connells",
     "date": "30.10.2025",
     "time": "23:08",
-    "listeners": 483
+    "listeners": 483,
+    "lyricists": null,
+    "album": "Ring (Deluxe Edition)",
+    "release_year": 1995,
+    "duration_ms": 279107,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Alphaville",
     "date": "30.10.2025",
     "time": "23:04",
-    "listeners": 487
+    "listeners": 487,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2005,
+    "duration_ms": 226706,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Imt Smile",
     "date": "30.10.2025",
     "time": "23:01",
-    "listeners": 509
+    "listeners": 509,
+    "lyricists": null,
+    "album": "Hlava Ma Sedem Otvorov",
+    "release_year": 2015,
+    "duration_ms": 189787,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Guns N Roses",
     "date": "30.10.2025",
     "time": "22:56",
-    "listeners": 543
+    "listeners": 543,
+    "lyricists": null,
+    "album": "Use Your Illusion I",
+    "release_year": 1992,
+    "duration_ms": 283733,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

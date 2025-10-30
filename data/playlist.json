@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Love Is In The Air",
+    "artist": "John Paul Young",
+    "date": "30.10.2025",
+    "time": "05:28",
+    "listeners": 498
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Maturitné Tablo",
+    "artist": "Hečková Júlia",
+    "date": "30.10.2025",
+    "time": "05:24",
+    "listeners": 468
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lovesong",
+    "artist": "Habera Pavol",
+    "date": "30.10.2025",
+    "time": "05:20",
+    "listeners": 404
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wonderful Life",
+    "artist": "Black",
+    "date": "30.10.2025",
+    "time": "05:15",
+    "listeners": 357
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Love Message",
+    "artist": "Love Message",
+    "date": "30.10.2025",
+    "time": "05:11",
+    "listeners": 327
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dancing Queen",
+    "artist": "Abba",
+    "date": "30.10.2025",
+    "time": "05:07",
+    "listeners": 290
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "30.10.2025",
+    "time": "05:03",
+    "listeners": 275
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Flames Of Love",
+    "artist": "Fancy",
+    "date": "30.10.2025",
+    "time": "04:59",
+    "listeners": 265
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Uličník Bozk",
     "artist": "Gombitová Marika & Patejdl Vašo",
     "date": "30.10.2025",

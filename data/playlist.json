@@ -5,7 +5,15 @@
     "artist": "Helena Vondráčková",
     "date": "30.10.2025",
     "time": "21:44",
-    "listeners": 959
+    "listeners": 959,
+    "lyricists": null,
+    "album": "Course de la paix. Praha 1967. Album Supraphonu",
+    "release_year": 1982,
+    "duration_ms": 298089,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "I.M.T. Smile & Ondrej Kandráč",
     "date": "30.10.2025",
     "time": "21:41",
-    "listeners": 1065
+    "listeners": 1065,
+    "lyricists": null,
+    "album": "Hej, sokoly! (feat. Ondrej Kandrac) - Single",
+    "release_year": 2023,
+    "duration_ms": 174251,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Heart",
     "date": "30.10.2025",
     "time": "21:38",
-    "listeners": 1018
+    "listeners": 1018,
+    "lyricists": null,
+    "album": "Greatest Hits 1985-1995",
+    "release_year": 2022,
+    "duration_ms": 219293,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

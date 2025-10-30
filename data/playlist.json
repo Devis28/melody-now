@@ -5,7 +5,15 @@
     "artist": "Suzi Quatro",
     "date": "30.10.2025",
     "time": "12:05",
-    "listeners": 1522
+    "listeners": 1522,
+    "lyricists": null,
+    "album": "If You Knew Suzi… (2017 Remaster)",
+    "release_year": 1988,
+    "duration_ms": 232994,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "No Mercy",
     "date": "30.10.2025",
     "time": "12:01",
-    "listeners": 1582
+    "listeners": 1582,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1997,
+    "duration_ms": 271440,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "All-4-One",
     "date": "30.10.2025",
     "time": "11:54",
-    "listeners": 1491
+    "listeners": 1491,
+    "lyricists": null,
+    "album": "All-4-One",
+    "release_year": 2012,
+    "duration_ms": 259853,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

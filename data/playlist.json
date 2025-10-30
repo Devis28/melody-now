@@ -5,7 +5,15 @@
     "artist": "Adam Ďurica",
     "date": "30.10.2025",
     "time": "04:49",
-    "listeners": 242
+    "listeners": 242,
+    "lyricists": null,
+    "album": "30",
+    "release_year": 2019,
+    "duration_ms": 198444,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Smokie",
     "date": "30.10.2025",
     "time": "04:45",
-    "listeners": 234
+    "listeners": 234,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 1998,
+    "duration_ms": 244733,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Fun Factory",
     "date": "30.10.2025",
     "time": "04:42",
-    "listeners": 217
+    "listeners": 217,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 213600,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Collins Phil",
     "date": "30.10.2025",
     "time": "04:39",
-    "listeners": 236
+    "listeners": 236,
+    "lyricists": null,
+    "album": "Hello, I Must Be Going! (Remastered)",
+    "release_year": 1982,
+    "duration_ms": 175747,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Tublatanka",
     "date": "30.10.2025",
     "time": "04:35",
-    "listeners": 212
+    "listeners": 212,
+    "lyricists": null,
+    "album": "Nebo, Peklo, Raj",
+    "release_year": 2006,
+    "duration_ms": 292000,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Elán",
     "date": "30.10.2025",
     "time": "04:31",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": null,
+    "album": "Legenda 5: Posledná...",
+    "release_year": 2007,
+    "duration_ms": 271773,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Dara Rolins",
     "date": "30.10.2025",
     "time": "04:27",
-    "listeners": 196
+    "listeners": 196,
+    "lyricists": null,
+    "album": "Etc",
+    "release_year": 2017,
+    "duration_ms": 273733,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,16 @@
     "artist": "Sandra",
     "date": "30.10.2025",
     "time": "04:23",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 2020,
+    "duration_ms": 240440,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +135,15 @@
     "artist": "Zuzana Smatanová",
     "date": "30.10.2025",
     "time": "04:19",
-    "listeners": 199
+    "listeners": 199,
+    "lyricists": null,
+    "album": "Jediný A Jediná - Single",
+    "release_year": 2018,
+    "duration_ms": 258669,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

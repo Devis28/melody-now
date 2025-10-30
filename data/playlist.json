@@ -5,7 +5,15 @@
     "artist": "Lucie",
     "date": "30.10.2025",
     "time": "12:24",
-    "listeners": 1627
+    "listeners": 1627,
+    "lyricists": null,
+    "album": "Hity Tommü",
+    "release_year": 1999,
+    "duration_ms": 249667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Donovan Jason",
     "date": "30.10.2025",
     "time": "12:21",
-    "listeners": 1786
+    "listeners": 1786,
+    "lyricists": null,
+    "album": "Too Many Broken Hearts",
+    "release_year": 1989,
+    "duration_ms": 208373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Novák Petr",
     "date": "30.10.2025",
     "time": "12:19",
-    "listeners": 1666
+    "listeners": 1666,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 125867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Tublatanka",
     "date": "30.10.2025",
     "time": "12:14",
-    "listeners": 1784
+    "listeners": 1784,
+    "lyricists": null,
+    "album": "Rockové Balady",
+    "release_year": 1992,
+    "duration_ms": 327893,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "David Michal",
     "date": "30.10.2025",
     "time": "12:09",
-    "listeners": 1610
+    "listeners": 1610,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 211960,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

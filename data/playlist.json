@@ -5,7 +5,15 @@
     "artist": "Vondráčková Helena",
     "date": "30.10.2025",
     "time": "06:42",
-    "listeners": 1766
+    "listeners": 1766,
+    "lyricists": null,
+    "album": "Kam Zmizel Ten Starý Song",
+    "release_year": 1992,
+    "duration_ms": 136800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Michael Jackson",
     "date": "30.10.2025",
     "time": "06:38",
-    "listeners": 1724
+    "listeners": 1724,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "release_year": 2005,
+    "duration_ms": 284310,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Survivor",
     "date": "30.10.2025",
     "time": "06:34",
-    "listeners": 1679
+    "listeners": 1679,
+    "lyricists": null,
+    "album": "Eye of the Tiger",
+    "release_year": 2022,
+    "duration_ms": 243773,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

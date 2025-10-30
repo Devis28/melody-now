@@ -5,7 +5,15 @@
     "artist": "The Gipsy Kings",
     "date": "30.10.2025",
     "time": "11:42",
-    "listeners": 1478
+    "listeners": 1478,
+    "lyricists": null,
+    "album": "The Essential Gipsy Kings",
+    "release_year": 1989,
+    "duration_ms": 219667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "30.10.2025",
     "time": "11:39",
-    "listeners": 1274
+    "listeners": 1274,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 1994,
+    "duration_ms": 238467,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Queen",
     "date": "30.10.2025",
     "time": "11:36",
-    "listeners": 1372
+    "listeners": 1372,
+    "lyricists": null,
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1977,
+    "duration_ms": 179191,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Elán",
     "date": "30.10.2025",
     "time": "11:32",
-    "listeners": 1287
+    "listeners": 1287,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 1992,
+    "duration_ms": 232613,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Fool's Garden",
     "date": "30.10.2025",
     "time": "11:28",
-    "listeners": 1325
+    "listeners": 1325,
+    "lyricists": null,
+    "album": "Dish of the Day",
+    "release_year": 1995,
+    "duration_ms": 191027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

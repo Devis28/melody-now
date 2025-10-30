@@ -5,7 +5,15 @@
     "artist": "Rednex",
     "date": "30.10.2025",
     "time": "15:54",
-    "listeners": 1840
+    "listeners": 1840,
+    "lyricists": null,
+    "album": "Sex & Violins",
+    "release_year": 1998,
+    "duration_ms": 236933,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Team",
     "date": "30.10.2025",
     "time": "15:50",
-    "listeners": 1740
+    "listeners": 1740,
+    "lyricists": null,
+    "album": "Team Hity",
+    "release_year": 2011,
+    "duration_ms": 307467,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Simon Paul & Garfunkel Art",
     "date": "30.10.2025",
     "time": "15:46",
-    "listeners": 1502
+    "listeners": 1502,
+    "lyricists": null,
+    "album": "Sounds of Silence",
+    "release_year": 1965,
+    "duration_ms": 190102,
+    "artist_country": null,
+    "genres": [
+      "Folk",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

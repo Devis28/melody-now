@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "S Úsmevom",
+    "artist": "Karol Duchoň",
+    "date": "30.10.2025",
+    "time": "10:24",
+    "listeners": 927
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "30.10.2025",
+    "time": "10:19",
+    "listeners": 1002
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stay",
+    "artist": "Bonnie Bianco & Pierre Cosso",
+    "date": "30.10.2025",
+    "time": "10:15",
+    "listeners": 909
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Učiteľka Tanca",
+    "artist": "Pavol Hammel",
+    "date": "30.10.2025",
+    "time": "10:13",
+    "listeners": 882
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Neznáma",
+    "artist": "Palonder Marcel",
+    "date": "30.10.2025",
+    "time": "10:09",
+    "listeners": 904
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "30.10.2025",
+    "time": "10:05",
+    "listeners": 989
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "date": "30.10.2025",
+    "time": "10:02",
+    "listeners": 1086
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "30.10.2025",
+    "time": "10:00",
+    "listeners": 1058
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Spending My Time",
     "artist": "Roxette",
     "date": "30.10.2025",

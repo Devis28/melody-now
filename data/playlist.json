@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Má První Láska Se Dnes Vdává",
+    "artist": "Gott Karel",
+    "date": "30.10.2025",
+    "time": "18:18",
+    "listeners": 2809
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nebude To Ľahké",
+    "artist": "Müller Richard",
+    "date": "30.10.2025",
+    "time": "18:14",
+    "listeners": 2933
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ďakujem Že Si",
+    "artist": "No Name",
+    "date": "30.10.2025",
+    "time": "18:08",
+    "listeners": 2706
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nepriznaná",
+    "artist": "Vašo Patejdl",
+    "date": "30.10.2025",
+    "time": "18:03",
+    "listeners": 2956
+  },
+  {
+    "station": "Rádio Melody",
     "title": "I'd Do Anything For Love But I Won't Do That",
     "artist": "Meat Loaf",
     "date": "30.10.2025",

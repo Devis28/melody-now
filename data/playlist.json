@@ -5,7 +5,15 @@
     "artist": "Abba",
     "date": "30.10.2025",
     "time": "08:18",
-    "listeners": 2830
+    "listeners": 2830,
+    "lyricists": null,
+    "album": "ABBA: The Album",
+    "release_year": 1994,
+    "duration_ms": 245540,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gott Karel",
     "date": "30.10.2025",
     "time": "08:13",
-    "listeners": 2886
+    "listeners": 2886,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 184307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Gloria Gaynor",
     "date": "30.10.2025",
     "time": "08:06",
-    "listeners": 2972
+    "listeners": 2972,
+    "lyricists": null,
+    "album": "Make It 80's & 90's",
+    "release_year": 2000,
+    "duration_ms": 254600,
+    "artist_country": "US",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Kiss",
     "date": "30.10.2025",
     "time": "08:01",
-    "listeners": 2966
+    "listeners": 2966,
+    "lyricists": null,
+    "album": "KISS Off The Soundboard: Live In Virginia Beach",
+    "release_year": 2013,
+    "duration_ms": 372867,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

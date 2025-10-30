@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Nothing Compares 2 U",
+    "artist": "O'connor Sinéad",
+    "date": "31.10.2025",
+    "time": "00:47",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "date": "31.10.2025",
+    "time": "00:44",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "V Dobrom Aj Zlom",
+    "artist": "Zuzana Smatanová",
+    "date": "31.10.2025",
+    "time": "00:41",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Another Brick In The Wall Part 2",
     "artist": "Pink Floyd",
     "date": "31.10.2025",

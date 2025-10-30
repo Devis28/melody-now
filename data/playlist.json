@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "V tichu",
+    "artist": "Katarína Knechtová",
+    "date": "31.10.2025",
+    "time": "00:21",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Memory",
+    "artist": "Barbra Streisand",
+    "date": "31.10.2025",
+    "time": "00:17",
+    "listeners": 194
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Together Forever",
+    "artist": "Astley Rick",
+    "date": "31.10.2025",
+    "time": "00:14",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Raz Oči Dohodnú",
+    "artist": "Modus",
+    "date": "31.10.2025",
+    "time": "00:10",
+    "listeners": 182
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Of Us",
+    "artist": "Osborne Joan",
+    "date": "31.10.2025",
+    "time": "00:06",
+    "listeners": 187
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Muzika",
+    "artist": "Gott Karel",
+    "date": "31.10.2025",
+    "time": "00:01",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
     "title": "S Nohami Na Stole",
     "artist": "Nagy Peter",
     "date": "30.10.2025",

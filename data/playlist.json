@@ -5,7 +5,15 @@
     "artist": "Camouflage",
     "date": "30.10.2025",
     "time": "20:26",
-    "listeners": 1436
+    "listeners": 1436,
+    "lyricists": null,
+    "album": "Best of Camouflage: We Stroke the Flames",
+    "release_year": 2009,
+    "duration_ms": 253267,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gladiátor",
     "date": "30.10.2025",
     "time": "20:23",
-    "listeners": 1506
+    "listeners": 1506,
+    "lyricists": null,
+    "album": "Mesto",
+    "release_year": 2020,
+    "duration_ms": 197000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Jožo Ráž",
     "date": "30.10.2025",
     "time": "20:18",
-    "listeners": 1472
+    "listeners": 1472,
+    "lyricists": null,
+    "album": "Happy Valentine",
+    "release_year": 2007,
+    "duration_ms": 309392,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "31.10.2025",
+    "time": "00:56",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "31.10.2025",
+    "time": "00:52",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Nothing Compares 2 U",
     "artist": "O'connor Sinéad",
     "date": "31.10.2025",

@@ -1,6 +1,102 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "30.10.2025",
+    "time": "17:47",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everlasting Love",
+    "artist": "Sandra",
+    "date": "30.10.2025",
+    "time": "17:42",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "30.10.2025",
+    "time": "17:39",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One Of Us",
+    "artist": "Abba",
+    "date": "30.10.2025",
+    "time": "17:35",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I'm So Excited",
+    "artist": "Pointer Sisters, The",
+    "date": "30.10.2025",
+    "time": "17:31",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ja Viem",
+    "artist": "Grigorov Robo",
+    "date": "30.10.2025",
+    "time": "17:25",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Boat On The River",
+    "artist": "Styx",
+    "date": "30.10.2025",
+    "time": "17:22",
+    "listeners": 3176
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Skorápky Orechú",
+    "artist": "Marie Rottrová",
+    "date": "30.10.2025",
+    "time": "17:19",
+    "listeners": 3173
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "One",
+    "artist": "U2",
+    "date": "30.10.2025",
+    "time": "17:13",
+    "listeners": 3054
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čardáš Dvoch Sŕdc",
+    "artist": "Karol Duchoň",
+    "date": "30.10.2025",
+    "time": "17:09",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Manic Monday",
+    "artist": "The Bangles",
+    "date": "30.10.2025",
+    "time": "17:06",
+    "listeners": 3010
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "30.10.2025",
+    "time": "17:02",
+    "listeners": 2980
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Sacrifice",
     "artist": "Elton John",
     "date": "30.10.2025",

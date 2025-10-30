@@ -5,7 +5,15 @@
     "artist": "I.M.T. Smile",
     "date": "30.10.2025",
     "time": "09:31",
-    "listeners": 1368
+    "listeners": 1368,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2008,
+    "duration_ms": 180933,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Rod Stewart",
     "date": "30.10.2025",
     "time": "09:27",
-    "listeners": 1702
+    "listeners": 1702,
+    "lyricists": null,
+    "album": "Some Guys Have All the Luck",
+    "release_year": 1993,
+    "duration_ms": 278600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Marika Gombitová",
     "date": "30.10.2025",
     "time": "09:22",
-    "listeners": 1773
+    "listeners": 1773,
+    "lyricists": null,
+    "album": "Nevy(í)dané Rarity",
+    "release_year": 2005,
+    "duration_ms": 322533,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Dj Bobo",
     "date": "30.10.2025",
     "time": "09:17",
-    "listeners": 1703
+    "listeners": 1703,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 229893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,17 @@
     "artist": "Queen",
     "date": "30.10.2025",
     "time": "09:15",
-    "listeners": 1809
+    "listeners": 1809,
+    "lyricists": [
+      "Queen"
+    ],
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "release_year": 1994,
+    "duration_ms": 121235,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,15 @@
     "artist": "Miro Žbirka",
     "date": "30.10.2025",
     "time": "09:12",
-    "listeners": 1914
+    "listeners": 1914,
+    "lyricists": null,
+    "album": "Sezónne lásky",
+    "release_year": 2007,
+    "duration_ms": 223787,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +105,16 @@
     "artist": "Team",
     "date": "30.10.2025",
     "time": "09:04",
-    "listeners": 2077
+    "listeners": 2077,
+    "lyricists": null,
+    "album": "Team Hity",
+    "release_year": 1994,
+    "duration_ms": 313400,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +122,16 @@
     "artist": "Mckenzie Scott",
     "date": "30.10.2025",
     "time": "09:01",
-    "listeners": 2202
+    "listeners": 2202,
+    "lyricists": null,
+    "album": "San Francisco - The Very Best of Scott McKenzie",
+    "release_year": 1967,
+    "duration_ms": 178507,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

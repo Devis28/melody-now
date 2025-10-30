@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "30.10.2025",
+    "time": "07:53",
+    "listeners": 3043
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Another Brick In The Wall Part 2",
+    "artist": "Pink Floyd",
+    "date": "30.10.2025",
+    "time": "07:50",
+    "listeners": 2914
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tancujem S Tebou Rád",
+    "artist": "Karol Duchoň",
+    "date": "30.10.2025",
+    "time": "07:45",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Ten Príbeh Je Preč",
     "artist": "Beata Dubasová",
     "date": "30.10.2025",

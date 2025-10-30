@@ -5,7 +5,15 @@
     "artist": "Modus",
     "date": "30.10.2025",
     "time": "17:47",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "GOLD",
+    "release_year": 1998,
+    "duration_ms": 208853,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Sandra",
     "date": "30.10.2025",
     "time": "17:42",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 2018,
+    "duration_ms": 221107,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Team",
     "date": "30.10.2025",
     "time": "17:39",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "7edem",
+    "release_year": 2001,
+    "duration_ms": 172547,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Abba",
     "date": "30.10.2025",
     "time": "17:35",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "The Visitors (Bonus Track Version)",
+    "release_year": 2005,
+    "duration_ms": 236770,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,16 @@
     "artist": "Pointer Sisters, The",
     "date": "30.10.2025",
     "time": "17:31",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1982,
+    "duration_ms": 228440,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Grigorov Robo",
     "date": "30.10.2025",
     "time": "17:25",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Complete Of",
+    "release_year": 2008,
+    "duration_ms": 209427,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Styx",
     "date": "30.10.2025",
     "time": "17:22",
-    "listeners": 3176
+    "listeners": 3176,
+    "lyricists": null,
+    "album": "Greatest Hits, Pt. 2",
+    "release_year": 2001,
+    "duration_ms": 191093,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,15 @@
     "artist": "Marie Rottrová",
     "date": "30.10.2025",
     "time": "17:19",
-    "listeners": 3173
+    "listeners": 3173,
+    "lyricists": null,
+    "album": "12× Marie Rottrová",
+    "release_year": 2003,
+    "duration_ms": 209600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +135,18 @@
     "artist": "U2",
     "date": "30.10.2025",
     "time": "17:13",
-    "listeners": 3054
+    "listeners": 3054,
+    "lyricists": [
+      "Bono",
+      "U2"
+    ],
+    "album": "U218 Singles",
+    "release_year": 1988,
+    "duration_ms": 275400,
+    "artist_country": "IE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +154,15 @@
     "artist": "Karol Duchoň",
     "date": "30.10.2025",
     "time": "17:09",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 2006,
+    "duration_ms": 210347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +170,15 @@
     "artist": "The Bangles",
     "date": "30.10.2025",
     "time": "17:06",
-    "listeners": 3010
+    "listeners": 3010,
+    "lyricists": null,
+    "album": "The Bangles Greatest Hits",
+    "release_year": 2022,
+    "duration_ms": 184863,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +186,15 @@
     "artist": "Kelly Family, The",
     "date": "30.10.2025",
     "time": "17:02",
-    "listeners": 2980
+    "listeners": 2980,
+    "lyricists": null,
+    "album": "Over the Hump",
+    "release_year": 1994,
+    "duration_ms": 224507,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

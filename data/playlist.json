@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Léto",
+    "artist": "Bartošová Iveta",
+    "date": "30.10.2025",
+    "time": "21:14",
+    "listeners": 1150
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dovtedy",
+    "artist": "Adam Ďurica",
+    "date": "30.10.2025",
+    "time": "21:11",
+    "listeners": 1228
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Joyride",
+    "artist": "Roxette",
+    "date": "30.10.2025",
+    "time": "21:06",
+    "listeners": 1319
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hard To Say I'm Sorry",
+    "artist": "Chicago",
+    "date": "30.10.2025",
+    "time": "21:03",
+    "listeners": 1279
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nechajte Si Ju",
+    "artist": "Vidiek",
+    "date": "30.10.2025",
+    "time": "21:00",
+    "listeners": 1352
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "7 Seconds",
+    "artist": "N'dour Youssou & Cherry Neneh",
+    "date": "30.10.2025",
+    "time": "20:56",
+    "listeners": 1286
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Thank You For The Music",
     "artist": "Abba",
     "date": "30.10.2025",

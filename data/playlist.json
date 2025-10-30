@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Láska Je Tu S Nami",
+    "artist": "Peter Nagy",
+    "date": "30.10.2025",
+    "time": "14:51",
+    "listeners": 907
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sunny",
+    "artist": "Boney M",
+    "date": "30.10.2025",
+    "time": "14:47",
+    "listeners": 867
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "30.10.2025",
+    "time": "14:41",
+    "listeners": 905
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Carrie",
     "artist": "Europe",
     "date": "30.10.2025",

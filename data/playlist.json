@@ -5,7 +5,15 @@
     "artist": "I.M.T. Smile",
     "date": "30.10.2025",
     "time": "18:37",
-    "listeners": 2602
+    "listeners": 2602,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2020,
+    "duration_ms": 197947,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Rolincová Darina",
     "date": "30.10.2025",
     "time": "18:33",
-    "listeners": 2329
+    "listeners": 2329,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1988,
+    "duration_ms": 241867,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Brontosauři",
     "date": "30.10.2025",
     "time": "18:30",
-    "listeners": 2574
+    "listeners": 2574,
+    "lyricists": null,
+    "album": "Na Kameni Kamen",
+    "release_year": 2007,
+    "duration_ms": 159227,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Marie Rottrová",
     "date": "30.10.2025",
     "time": "18:25",
-    "listeners": 2588
+    "listeners": 2588,
+    "lyricists": null,
+    "album": "Všechno Nejlepší...",
+    "release_year": 2002,
+    "duration_ms": 292333,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Stanislav Hlozek & Petr Kotvald",
     "date": "30.10.2025",
     "time": "18:21",
-    "listeners": 2838
+    "listeners": 2838,
+    "lyricists": null,
+    "album": "Holky Z Naší Školky",
+    "release_year": 2004,
+    "duration_ms": 217400,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

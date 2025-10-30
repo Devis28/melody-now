@@ -1,6 +1,62 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Always",
+    "artist": "Erasure",
+    "date": "30.10.2025",
+    "time": "15:26",
+    "listeners": 1236
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "date": "30.10.2025",
+    "time": "15:24",
+    "listeners": 1339
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mopedová",
+    "artist": "Vašo Patejdl a Oľga Záblacká",
+    "date": "30.10.2025",
+    "time": "15:21",
+    "listeners": 1229
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hero (Metro Mix)",
+    "artist": "Iglesias, Enrique",
+    "date": "30.10.2025",
+    "time": "15:14",
+    "listeners": 1156
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šaty",
+    "artist": "Gombitová Marika",
+    "date": "30.10.2025",
+    "time": "15:11",
+    "listeners": 1125
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Colu, Pijeme Colu",
+    "artist": "Michal David",
+    "date": "30.10.2025",
+    "time": "15:08",
+    "listeners": 1120
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody Hurts",
+    "artist": "R.E.M.",
+    "date": "30.10.2025",
+    "time": "15:04",
+    "listeners": 1005
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Gimme Gimme Gimme A Man After Midnight",
     "artist": "Abba",
     "date": "30.10.2025",

@@ -1,6 +1,70 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Ľudia Nie Sú Zlí",
+    "artist": "I.M.T. Smile",
+    "date": "30.10.2025",
+    "time": "09:31",
+    "listeners": 1368
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "date": "30.10.2025",
+    "time": "09:27",
+    "listeners": 1702
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ži a nechaj žiť",
+    "artist": "Marika Gombitová",
+    "date": "30.10.2025",
+    "time": "09:22",
+    "listeners": 1773
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "30.10.2025",
+    "time": "09:17",
+    "listeners": 1703
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "date": "30.10.2025",
+    "time": "09:15",
+    "listeners": 1809
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Atlantída",
+    "artist": "Miro Žbirka",
+    "date": "30.10.2025",
+    "time": "09:12",
+    "listeners": 1914
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čo S Tým",
+    "artist": "Team",
+    "date": "30.10.2025",
+    "time": "09:04",
+    "listeners": 2077
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "San Francisco",
+    "artist": "Mckenzie Scott",
+    "date": "30.10.2025",
+    "time": "09:01",
+    "listeners": 2202
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Crazy",
     "artist": "Seal",
     "date": "30.10.2025",

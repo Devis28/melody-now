@@ -5,7 +5,15 @@
     "artist": "Filipová Lenka",
     "date": "30.10.2025",
     "time": "06:32",
-    "listeners": 1379
+    "listeners": 1379,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 1980,
+    "duration_ms": 172800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dubasová Beáta",
     "date": "30.10.2025",
     "time": "06:25",
-    "listeners": 1324
+    "listeners": 1324,
+    "lyricists": null,
+    "album": "Modry Album",
+    "release_year": 1993,
+    "duration_ms": 215000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,18 @@
     "artist": "Gazebo",
     "date": "30.10.2025",
     "time": "06:21",
-    "listeners": 1203
+    "listeners": 1203,
+    "lyricists": [
+      "Gazebo",
+      "Pierluigi Giombini"
+    ],
+    "album": "The Collection",
+    "release_year": 2000,
+    "duration_ms": 248440,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,17 @@
     "artist": "Barbra Streisand",
     "date": "30.10.2025",
     "time": "06:17",
-    "listeners": 1110
+    "listeners": 1110,
+    "lyricists": [
+      "Barbra Streisand"
+    ],
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "release_year": 1982,
+    "duration_ms": 233280,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "Gott Karel",
     "date": "30.10.2025",
     "time": "06:13",
-    "listeners": 1163
+    "listeners": 1163,
+    "lyricists": null,
+    "album": "Lidovky Mého Srdce",
+    "release_year": 2010,
+    "duration_ms": 102427,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

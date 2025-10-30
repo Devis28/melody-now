@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Motýl Admirál",
+    "artist": "Miro Žbirka",
+    "date": "30.10.2025",
+    "time": "18:44",
+    "listeners": 2222
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cas Sluhu",
+    "artist": "Zoo & Jan Kalousek",
+    "date": "30.10.2025",
+    "time": "18:40",
+    "listeners": 2582
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Čo Ak",
     "artist": "I.M.T. Smile",
     "date": "30.10.2025",

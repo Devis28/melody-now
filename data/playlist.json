@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "One Of Us",
+    "artist": "Osborne Joan",
+    "date": "30.10.2025",
+    "time": "06:05",
+    "listeners": 927
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "date": "30.10.2025",
+    "time": "06:02",
+    "listeners": 876
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Touch Me (I Want Your Body)",
+    "artist": "Fox Samantha",
+    "date": "30.10.2025",
+    "time": "05:54",
+    "listeners": 710
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kým Ťa Mám",
     "artist": "Grigorov Robo",
     "date": "30.10.2025",

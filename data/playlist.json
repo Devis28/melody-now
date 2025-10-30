@@ -5,7 +5,15 @@
     "artist": "Bartošová Iveta",
     "date": "30.10.2025",
     "time": "21:14",
-    "listeners": 1150
+    "listeners": 1150,
+    "lyricists": null,
+    "album": "Nekonecna/Best Of",
+    "release_year": 1998,
+    "duration_ms": 224920,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Adam Ďurica",
     "date": "30.10.2025",
     "time": "21:11",
-    "listeners": 1228
+    "listeners": 1228,
+    "lyricists": null,
+    "album": "Spolu",
+    "release_year": 2016,
+    "duration_ms": 147750,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Roxette",
     "date": "30.10.2025",
     "time": "21:06",
-    "listeners": 1319
+    "listeners": 1319,
+    "lyricists": null,
+    "album": "Joyride (30th Anniversary Edition)",
+    "release_year": 1995,
+    "duration_ms": 263093,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Chicago",
     "date": "30.10.2025",
     "time": "21:03",
-    "listeners": 1279
+    "listeners": 1279,
+    "lyricists": null,
+    "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
+    "release_year": 1982,
+    "duration_ms": 223280,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Vidiek",
     "date": "30.10.2025",
     "time": "21:00",
-    "listeners": 1352
+    "listeners": 1352,
+    "lyricists": null,
+    "album": "Nechajte si ju!",
+    "release_year": 2000,
+    "duration_ms": 171013,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "N'dour Youssou & Cherry Neneh",
     "date": "30.10.2025",
     "time": "20:56",
-    "listeners": 1286
+    "listeners": 1286,
+    "lyricists": null,
+    "album": "The Guide (Wommat)",
+    "release_year": 1994,
+    "duration_ms": 306227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

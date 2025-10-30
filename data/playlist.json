@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "30.10.2025",
+    "time": "20:37",
+    "listeners": 1405
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "L' Italiano",
+    "artist": "Toto Cutugno",
+    "date": "30.10.2025",
+    "time": "20:33",
+    "listeners": 1533
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Muž Miluje Ženu",
+    "artist": "Robo Opatovský",
+    "date": "30.10.2025",
+    "time": "20:29",
+    "listeners": 1338
+  },
+  {
+    "station": "Rádio Melody",
     "title": "The Great Commandment",
     "artist": "Camouflage",
     "date": "30.10.2025",

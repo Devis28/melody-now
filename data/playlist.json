@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Se Bastasse Una Canzone",
+    "artist": "Ramazzotti Eros",
+    "date": "30.10.2025",
+    "time": "12:44",
+    "listeners": 1697
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cítim",
+    "artist": "Karol Duchoň",
+    "date": "30.10.2025",
+    "time": "12:41",
+    "listeners": 1663
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Trezor",
+    "artist": "Gott Karel & Olympic",
+    "date": "30.10.2025",
+    "time": "12:39",
+    "listeners": 1694
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Secret Love",
     "artist": "The Bee Gees",
     "date": "30.10.2025",

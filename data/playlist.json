@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Láska Moja",
+    "artist": "Elán",
+    "date": "31.10.2025",
+    "time": "18:47",
+    "listeners": 2372
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám Ťa Rád",
+    "artist": "Duchon  Karol",
+    "date": "31.10.2025",
+    "time": "18:43",
+    "listeners": 2327
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Chci Zas V Tobě Spát",
     "artist": "Lucie",
     "date": "31.10.2025",

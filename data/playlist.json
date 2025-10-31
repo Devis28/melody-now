@@ -5,7 +5,15 @@
     "artist": "Karel Gott",
     "date": "31.10.2025",
     "time": "15:44",
-    "listeners": 1563
+    "listeners": 1563,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 2006,
+    "duration_ms": 170067,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Pretenders, The",
     "date": "31.10.2025",
     "time": "15:40",
-    "listeners": 1541
+    "listeners": 1541,
+    "lyricists": null,
+    "album": "Last of the Independents",
+    "release_year": 1994,
+    "duration_ms": 238827,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "U2",
     "date": "31.10.2025",
     "time": "15:37",
-    "listeners": 1477
+    "listeners": 1477,
+    "lyricists": null,
+    "album": "The Joshua Tree (30th Anniversary Super Deluxe Edition)",
+    "release_year": 1993,
+    "duration_ms": 295516,
+    "artist_country": "IE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,16 @@
     "artist": "Robert Miles/Maria Nayler",
     "date": "31.10.2025",
     "time": "15:33",
-    "listeners": 1412
+    "listeners": 1412,
+    "lyricists": null,
+    "album": "Dreamland (Including One and One)",
+    "release_year": 2019,
+    "duration_ms": 238493,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

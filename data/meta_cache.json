@@ -12045,5 +12045,24 @@
     "genres": [
       "Pop"
     ]
+  },
+  "kool|fresh": {
+    "release_year": 2016,
+    "artist_country": "US",
+    "album": "Emergency",
+    "duration_ms": 266560,
+    "lyricists": [
+      "Claydes Smith",
+      "Curtis “Fitz” Williams",
+      "George Brown",
+      "James “J.T.” Taylor",
+      "Jim Bonnefond",
+      "Robert “Kool” Bell",
+      "Ronald Bell",
+      "Sandy Linzer"
+    ],
+    "genres": [
+      "R&B"
+    ]
   }
 }

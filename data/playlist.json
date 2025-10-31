@@ -5,7 +5,16 @@
     "artist": "Elán",
     "date": "31.10.2025",
     "time": "10:46",
-    "listeners": 960
+    "listeners": 960,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 2010,
+    "duration_ms": 249000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Glenn Medeiros",
     "date": "31.10.2025",
     "time": "10:42",
-    "listeners": 939
+    "listeners": 939,
+    "lyricists": null,
+    "album": "Nothing's Gonna Change My Love for You",
+    "release_year": 1987,
+    "duration_ms": 231587,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Jiří Zmožek",
     "date": "31.10.2025",
     "time": "10:38",
-    "listeners": 865
+    "listeners": 865,
+    "lyricists": null,
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "release_year": 2001,
+    "duration_ms": 246093,
+    "artist_country": "XC",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

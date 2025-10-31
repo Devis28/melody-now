@@ -5,7 +5,19 @@
     "artist": "Enrique Iglesias",
     "date": "31.10.2025",
     "time": "15:51",
-    "listeners": 1667
+    "listeners": 1667,
+    "lyricists": [
+      "Enrique Iglesias",
+      "Mark Taylor",
+      "Paul Barry"
+    ],
+    "album": "Enrique",
+    "release_year": 2000,
+    "duration_ms": 220160,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +25,15 @@
     "artist": "Peter Nagy",
     "date": "31.10.2025",
     "time": "15:48",
-    "listeners": 1693
+    "listeners": 1693,
+    "lyricists": null,
+    "album": "\"Ale\"",
+    "release_year": 2011,
+    "duration_ms": 152800,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

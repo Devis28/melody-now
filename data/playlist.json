@@ -1,6 +1,22 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "La Primavera",
+    "artist": "Sash!",
+    "date": "31.10.2025",
+    "time": "20:35",
+    "listeners": 1324
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kúp Mi Knihu",
+    "artist": "Miro Žbirka",
+    "date": "31.10.2025",
+    "time": "20:31",
+    "listeners": 1479
+  },
+  {
+    "station": "Rádio Melody",
     "title": "There's A Party",
     "artist": "Dj Bobo",
     "date": "31.10.2025",

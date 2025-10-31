@@ -5,7 +5,16 @@
     "artist": "Ramazzotti Eros",
     "date": "31.10.2025",
     "time": "12:54",
-    "listeners": 1521
+    "listeners": 1521,
+    "lyricists": null,
+    "album": "Eros 30 (Deluxe Version)",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Zenit",
     "date": "31.10.2025",
     "time": "12:50",
-    "listeners": 1577
+    "listeners": 1577,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 233960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Bonnie Tyler",
     "date": "31.10.2025",
     "time": "12:47",
-    "listeners": 1555
+    "listeners": 1555,
+    "lyricists": null,
+    "album": "It's a Heartache",
+    "release_year": 1991,
+    "duration_ms": 209760,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Paul Young",
     "date": "31.10.2025",
     "time": "12:44",
-    "listeners": 1441
+    "listeners": 1441,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2005,
+    "duration_ms": 214381,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Zbirka Miro & Martha",
     "date": "31.10.2025",
     "time": "12:40",
-    "listeners": 1656
+    "listeners": 1656,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2001,
+    "duration_ms": 204173,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

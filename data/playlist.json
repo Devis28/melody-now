@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Touch By Touch",
+    "artist": "Joy",
+    "date": "31.10.2025",
+    "time": "05:47",
+    "listeners": 606
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "When I Need You",
+    "artist": "Leo Sayer",
+    "date": "31.10.2025",
+    "time": "05:43",
+    "listeners": 636
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Cose Della Vita / Can't Stop Thinking Of You",
+    "artist": "Tina Turner/Eros Ramazzotti",
+    "date": "31.10.2025",
+    "time": "05:38",
+    "listeners": 604
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Knoflíky Lásky",
+    "artist": "Iveta Bartošová & Petr Sepéši",
+    "date": "31.10.2025",
+    "time": "05:35",
+    "listeners": 528
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Mandy",
     "artist": "Manilow Barry",
     "date": "31.10.2025",

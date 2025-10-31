@@ -11991,5 +11991,19 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "bryan adams|summer of '69": {
+    "release_year": 2003,
+    "artist_country": "CA",
+    "album": "Reckless",
+    "duration_ms": 216597,
+    "lyricists": [
+      "Bryan Adams",
+      "Jim Vallance"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

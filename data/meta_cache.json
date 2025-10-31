@@ -12014,5 +12014,15 @@
     "genres": [
       "Pop"
     ]
+  },
+  "delegation|where is the love/we used to know/": {
+    "artist_country": "GB",
+    "album": "The Promise of Love",
+    "release_year": 1977,
+    "duration_ms": 237084,
+    "genres": [
+      "Classical",
+      "R&B"
+    ]
   }
 }

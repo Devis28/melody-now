@@ -5,7 +5,16 @@
     "artist": "Pavol Habera",
     "date": "31.10.2025",
     "time": "21:43",
-    "listeners": 1055
+    "listeners": 1055,
+    "lyricists": null,
+    "album": "Habera 2",
+    "release_year": 1992,
+    "duration_ms": 224493,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,16 @@
     "artist": "Delegation",
     "date": "31.10.2025",
     "time": "21:39",
-    "listeners": 984
+    "listeners": 984,
+    "lyricists": null,
+    "album": "The Promise of Love",
+    "release_year": 1977,
+    "duration_ms": 237084,
+    "artist_country": "GB",
+    "genres": [
+      "Classical",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Abba",
     "date": "31.10.2025",
     "time": "21:36",
-    "listeners": 1017
+    "listeners": 1017,
+    "lyricists": null,
+    "album": "Waterloo",
+    "release_year": 1994,
+    "duration_ms": 176440,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

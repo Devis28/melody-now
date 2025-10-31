@@ -5,7 +5,13 @@
     "artist": "Ottawan",
     "date": "31.10.2025",
     "time": "10:35",
-    "listeners": 913
+    "listeners": 913,
+    "lyricists": null,
+    "album": "Ottawan 2",
+    "release_year": 1997,
+    "duration_ms": 289027,
+    "artist_country": "FR",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +19,19 @@
     "artist": "Bon Jovi",
     "date": "31.10.2025",
     "time": "10:31",
-    "listeners": 876
+    "listeners": 876,
+    "lyricists": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ],
+    "album": "Slippery When Wet",
+    "release_year": 2022,
+    "duration_ms": 249581,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Bilá Lucie",
     "date": "31.10.2025",
     "time": "10:27",
-    "listeners": 890
+    "listeners": 890,
+    "lyricists": null,
+    "album": "Platinum Collection",
+    "release_year": 1998,
+    "duration_ms": 211897,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,19 @@
     "artist": "Al Bano & Romina Power",
     "date": "31.10.2025",
     "time": "10:23",
-    "listeners": 894
+    "listeners": 894,
+    "lyricists": [
+      "Al Bano Carrisi",
+      "Ciro Dammicco",
+      "Romina Power"
+    ],
+    "album": "Al Bano e Romina Power",
+    "release_year": 2007,
+    "duration_ms": 264773,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +75,15 @@
     "artist": "Darina Rolincová",
     "date": "31.10.2025",
     "time": "10:20",
-    "listeners": 877
+    "listeners": 877,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 2021,
+    "duration_ms": 178987,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

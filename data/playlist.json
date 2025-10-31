@@ -1,6 +1,86 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Srdce Jako Kniže Rohan",
+    "artist": "Muller Richard",
+    "date": "31.10.2025",
+    "time": "19:33",
+    "listeners": 1850
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Až Na Vrcholky Hor",
+    "artist": "Věra Martinová",
+    "date": "31.10.2025",
+    "time": "19:30",
+    "listeners": 1914
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "31.10.2025",
+    "time": "19:26",
+    "listeners": 1934
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tereza",
+    "artist": "Matuška Waldemar",
+    "date": "31.10.2025",
+    "time": "19:23",
+    "listeners": 2025
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Profesor Indigo",
+    "artist": "Nagy Peter",
+    "date": "31.10.2025",
+    "time": "19:21",
+    "listeners": 1946
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Máma",
+    "artist": "Lunetic",
+    "date": "31.10.2025",
+    "time": "19:17",
+    "listeners": 1945
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zlodejka Snov Ii",
+    "artist": "Miro Žbirka",
+    "date": "31.10.2025",
+    "time": "19:12",
+    "listeners": 2131
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horehronie",
+    "artist": "Kristína",
+    "date": "31.10.2025",
+    "time": "19:08",
+    "listeners": 2018
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tisíckrát Krásnější",
+    "artist": "Dalibor Janda",
+    "date": "31.10.2025",
+    "time": "19:04",
+    "listeners": 2193
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Yvetta",
+    "artist": "Jiří Korn",
+    "date": "31.10.2025",
+    "time": "19:01",
+    "listeners": 2090
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Anjelik Môj",
     "artist": "Darina Rolincová",
     "date": "31.10.2025",

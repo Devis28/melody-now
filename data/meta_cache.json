@@ -11982,5 +11982,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "sash!|la primavera": {
+    "release_year": 1998,
+    "artist_country": "DE",
+    "album": "The Best Of",
+    "duration_ms": 191933,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

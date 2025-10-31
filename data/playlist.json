@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hej Pane Diskžokej",
+    "artist": "Balet",
+    "date": "31.10.2025",
+    "time": "18:08",
+    "listeners": 2879
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ja Som To Vedel",
+    "artist": "Polemic",
+    "date": "31.10.2025",
+    "time": "18:05",
+    "listeners": 3149
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Len S Ňou",
+    "artist": "Žbirka Miroslav",
+    "date": "31.10.2025",
+    "time": "18:02",
+    "listeners": 3025
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Viva Forever",
+    "artist": "Spice Girls",
+    "date": "31.10.2025",
+    "time": "17:56",
+    "listeners": 3092
+  },
+  {
+    "station": "Rádio Melody",
     "title": "You're The First, The Last,My Everything",
     "artist": "Barry White",
     "date": "31.10.2025",

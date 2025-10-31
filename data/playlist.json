@@ -5,7 +5,16 @@
     "artist": "Sqeezer",
     "date": "31.10.2025",
     "time": "22:55",
-    "listeners": 593
+    "listeners": 593,
+    "lyricists": null,
+    "album": "Blue Jeans (2025) - Single",
+    "release_year": 1997,
+    "duration_ms": 225173,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Tozzi, Umberto",
     "date": "31.10.2025",
     "time": "22:50",
-    "listeners": 598
+    "listeners": 598,
+    "lyricists": null,
+    "album": "Gloria",
+    "release_year": 1979,
+    "duration_ms": 264674,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

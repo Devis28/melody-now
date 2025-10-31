@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "31.10.2025",
     "time": "23:16",
-    "listeners": 482
+    "listeners": 482,
+    "lyricists": null,
+    "album": "Hodiny Nehy",
+    "release_year": 1998,
+    "duration_ms": 257000,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Boney M",
     "date": "31.10.2025",
     "time": "23:12",
-    "listeners": 510
+    "listeners": 510,
+    "lyricists": null,
+    "album": "The Collection",
+    "release_year": 2012,
+    "duration_ms": 186067,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Kershaw Nik",
     "date": "31.10.2025",
     "time": "23:09",
-    "listeners": 509
+    "listeners": 509,
+    "lyricists": null,
+    "album": "Human Racing",
+    "release_year": 1983,
+    "duration_ms": 203853,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,18 @@
     "artist": "Crystal Waters",
     "date": "31.10.2025",
     "time": "23:05",
-    "listeners": 538
+    "listeners": 538,
+    "lyricists": [
+      "Crystal Waters",
+      "Neal Conway"
+    ],
+    "album": "Surprise",
+    "release_year": 1999,
+    "duration_ms": 451827,
+    "artist_country": "US",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Ricchi E Poveri",
     "date": "31.10.2025",
     "time": "23:02",
-    "listeners": 581
+    "listeners": 581,
+    "lyricists": null,
+    "album": "Ricchi e Poveri",
+    "release_year": 1981,
+    "duration_ms": 201253,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,15 @@
     "artist": "David Michal Kroky Františka Janečka",
     "date": "31.10.2025",
     "time": "22:59",
-    "listeners": 551
+    "listeners": 551,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 193239,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

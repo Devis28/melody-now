@@ -12064,5 +12064,18 @@
     "genres": [
       "R&B"
     ]
+  },
+  "crystal waters|gypsy woman": {
+    "release_year": 1999,
+    "artist_country": "US",
+    "album": "Surprise",
+    "duration_ms": 451827,
+    "lyricists": [
+      "Crystal Waters",
+      "Neal Conway"
+    ],
+    "genres": [
+      "Electronic"
+    ]
   }
 }

@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "To Je Naše Věc",
+    "artist": "David Michal Bartošová Iveta",
+    "date": "31.10.2025",
+    "time": "16:41",
+    "listeners": 2850
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Over The Rainbow/What A Wonderful World",
+    "artist": "Israel",
+    "date": "31.10.2025",
+    "time": "16:36",
+    "listeners": 2466
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Tancujem S Tebou Rád",
+    "artist": "Karol Duchoň",
+    "date": "31.10.2025",
+    "time": "16:33",
+    "listeners": 2512
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Slnko Nevychádzaj",
     "artist": "Metalinda",
     "date": "31.10.2025",

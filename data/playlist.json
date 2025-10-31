@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Hands Up",
+    "artist": "Ottawan",
+    "date": "31.10.2025",
+    "time": "10:35",
+    "listeners": 913
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "date": "31.10.2025",
+    "time": "10:31",
+    "listeners": 876
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Trouba",
+    "artist": "Bilá Lucie",
+    "date": "31.10.2025",
+    "time": "10:27",
+    "listeners": 890
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sharazan",
+    "artist": "Al Bano & Romina Power",
+    "date": "31.10.2025",
+    "time": "10:23",
+    "listeners": 894
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pieseň O Kamarátstve",
+    "artist": "Darina Rolincová",
+    "date": "31.10.2025",
+    "time": "10:20",
+    "listeners": 877
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Infinity",
     "artist": "Guru Josh",
     "date": "31.10.2025",

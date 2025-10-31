@@ -12033,5 +12033,17 @@
     "genres": [
       "Pop"
     ]
+  },
+  "madonna|who's that girl": {
+    "release_year": 1989,
+    "artist_country": "US",
+    "album": "Who's That Girl (Soundtrack from the Motion Picture)",
+    "duration_ms": 239173,
+    "lyricists": [
+      "Madonna"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

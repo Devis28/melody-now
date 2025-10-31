@@ -5,7 +5,17 @@
     "artist": "Madonna",
     "date": "31.10.2025",
     "time": "22:39",
-    "listeners": 649
+    "listeners": 649,
+    "lyricists": [
+      "Madonna"
+    ],
+    "album": "Who's That Girl (Soundtrack from the Motion Picture)",
+    "release_year": 1989,
+    "duration_ms": 239173,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,15 @@
     "artist": "Vondráčková Helena",
     "date": "31.10.2025",
     "time": "22:37",
-    "listeners": 679
+    "listeners": 679,
+    "lyricists": null,
+    "album": "Růže Kvetou Dál",
+    "release_year": 1964,
+    "duration_ms": 154200,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +39,15 @@
     "artist": "Pharao",
     "date": "31.10.2025",
     "time": "22:33",
-    "listeners": 615
+    "listeners": 615,
+    "lyricists": null,
+    "album": "There Is a Star - EP",
+    "release_year": 1995,
+    "duration_ms": 235008,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Žbirka Miro",
     "date": "31.10.2025",
     "time": "22:30",
-    "listeners": 698
+    "listeners": 698,
+    "lyricists": null,
+    "album": "Nemoderný chalan",
+    "release_year": 1984,
+    "duration_ms": 142307,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

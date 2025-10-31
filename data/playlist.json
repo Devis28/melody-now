@@ -5,7 +5,17 @@
     "artist": "Freddie Mercury",
     "date": "31.10.2025",
     "time": "09:46",
-    "listeners": 1195
+    "listeners": 1195,
+    "lyricists": [
+      "Freddie Mercury"
+    ],
+    "album": "Never Boring",
+    "release_year": 1985,
+    "duration_ms": 218293,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +23,17 @@
     "artist": "Abba",
     "date": "31.10.2025",
     "time": "09:42",
-    "listeners": 1257
+    "listeners": 1257,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 2008,
+    "duration_ms": 231844,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +41,18 @@
     "artist": "Jana Kirschner",
     "date": "31.10.2025",
     "time": "09:39",
-    "listeners": 1288
+    "listeners": 1288,
+    "lyricists": [
+      "Ivan Tásler",
+      "Jana Kirschner"
+    ],
+    "album": "V Cudzom Meste",
+    "release_year": 2000,
+    "duration_ms": 199347,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +60,15 @@
     "artist": "Gott Karel",
     "date": "31.10.2025",
     "time": "09:35",
-    "listeners": 1320
+    "listeners": 1320,
+    "lyricists": null,
+    "album": "42 Největších Hitů",
+    "release_year": 1964,
+    "duration_ms": 239600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

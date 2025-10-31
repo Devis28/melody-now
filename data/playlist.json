@@ -5,7 +5,16 @@
     "artist": "Maduar",
     "date": "31.10.2025",
     "time": "19:49",
-    "listeners": 1604
+    "listeners": 1604,
+    "lyricists": null,
+    "album": "Hafanana the Best of, Vol. 2",
+    "release_year": 1994,
+    "duration_ms": 336773,
+    "artist_country": "SK",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Marika Gombitová",
     "date": "31.10.2025",
     "time": "19:45",
-    "listeners": 1679
+    "listeners": 1679,
+    "lyricists": null,
+    "album": "Single (1977 - 1989)",
+    "release_year": 2000,
+    "duration_ms": 202960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Team",
     "date": "31.10.2025",
     "time": "19:41",
-    "listeners": 1743
+    "listeners": 1743,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2006,
+    "duration_ms": 246560,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Shalom",
     "date": "31.10.2025",
     "time": "19:37",
-    "listeners": 1804
+    "listeners": 1804,
+    "lyricists": null,
+    "album": "Bon soir, mademoiselle Paris",
+    "release_year": 1999,
+    "duration_ms": 288980,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

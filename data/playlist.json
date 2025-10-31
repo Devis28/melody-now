@@ -5,7 +5,15 @@
     "artist": "Balet",
     "date": "31.10.2025",
     "time": "18:08",
-    "listeners": 2879
+    "listeners": 2879,
+    "lyricists": null,
+    "album": "Hej Pane Diskžokej",
+    "release_year": 2013,
+    "duration_ms": 208133,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Polemic",
     "date": "31.10.2025",
     "time": "18:05",
-    "listeners": 3149
+    "listeners": 3149,
+    "lyricists": null,
+    "album": "Gangster-SKA",
+    "release_year": 2002,
+    "duration_ms": 149880,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Žbirka Miroslav",
     "date": "31.10.2025",
     "time": "18:02",
-    "listeners": 3025
+    "listeners": 3025,
+    "lyricists": null,
+    "album": "Zlomky poznania",
+    "release_year": 1988,
+    "duration_ms": 187107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,24 @@
     "artist": "Spice Girls",
     "date": "31.10.2025",
     "time": "17:56",
-    "listeners": 3092
+    "listeners": 3092,
+    "lyricists": [
+      "Emma Bunton",
+      "Geri Halliwell",
+      "Matt Rowe",
+      "Melanie Brown",
+      "Melanie C",
+      "Richard “Biff” Stannard",
+      "Spice Girls",
+      "Victoria Beckham"
+    ],
+    "album": "Spiceworld",
+    "release_year": 1998,
+    "duration_ms": 310667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

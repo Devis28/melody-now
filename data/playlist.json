@@ -5,7 +5,15 @@
     "artist": "David Michal Bartošová Iveta",
     "date": "31.10.2025",
     "time": "16:41",
-    "listeners": 2850
+    "listeners": 2850,
+    "lyricists": null,
+    "album": "Moje zapomenuté ploužáky 2",
+    "release_year": 2021,
+    "duration_ms": 230846,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Israel",
     "date": "31.10.2025",
     "time": "16:36",
-    "listeners": 2466
+    "listeners": 2466,
+    "lyricists": null,
+    "album": "Unforgettable",
+    "release_year": 2006,
+    "duration_ms": 244013,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Karol Duchoň",
     "date": "31.10.2025",
     "time": "16:33",
-    "listeners": 2512
+    "listeners": 2512,
+    "lyricists": null,
+    "album": "Čardáš dvoch sŕdc",
+    "release_year": 1976,
+    "duration_ms": 191960,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

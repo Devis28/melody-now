@@ -5,7 +5,15 @@
     "artist": "The Bee Gees",
     "date": "31.10.2025",
     "time": "11:50",
-    "listeners": 1344
+    "listeners": 1344,
+    "lyricists": null,
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "release_year": 2000,
+    "duration_ms": 246241,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "No Name",
     "date": "31.10.2025",
     "time": "11:47",
-    "listeners": 1405
+    "listeners": 1405,
+    "lyricists": null,
+    "album": "Love Songs",
+    "release_year": 2001,
+    "duration_ms": 202093,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Chris Norman",
     "date": "31.10.2025",
     "time": "11:43",
-    "listeners": 1245
+    "listeners": 1245,
+    "lyricists": null,
+    "album": "Some Hearts Are Diamonds",
+    "release_year": 2004,
+    "duration_ms": 223733,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Gott Karel",
     "date": "31.10.2025",
     "time": "11:40",
-    "listeners": 1387
+    "listeners": 1387,
+    "lyricists": null,
+    "album": "Lady Carneval",
+    "release_year": 1987,
+    "duration_ms": 180227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

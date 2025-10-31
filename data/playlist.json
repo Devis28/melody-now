@@ -5,7 +5,16 @@
     "artist": "Keating Ronan",
     "date": "31.10.2025",
     "time": "14:13",
-    "listeners": 971
+    "listeners": 971,
+    "lyricists": null,
+    "album": "Ronan",
+    "release_year": 1999,
+    "duration_ms": 256827,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Abba",
     "date": "31.10.2025",
     "time": "14:09",
-    "listeners": 935
+    "listeners": 935,
+    "lyricists": null,
+    "album": "Super Trouper (Bonus Track Version)",
+    "release_year": 1981,
+    "duration_ms": 274867,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Patrick Swayze",
     "date": "31.10.2025",
     "time": "14:05",
-    "listeners": 1022
+    "listeners": 1022,
+    "lyricists": [
+      "Patrick Swayze",
+      "Stacy Widelitz"
+    ],
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "release_year": 2007,
+    "duration_ms": 232907,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,16 @@
     "artist": "Army Of Lovers",
     "date": "31.10.2025",
     "time": "14:02",
-    "listeners": 1017
+    "listeners": 1017,
+    "lyricists": null,
+    "album": "Massive Luxury Overdose",
+    "release_year": 1992,
+    "duration_ms": 213760,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Tyler Bonnie",
     "date": "31.10.2025",
     "time": "13:54",
-    "listeners": 964
+    "listeners": 964,
+    "lyricists": null,
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "release_year": 1984,
+    "duration_ms": 350705,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Michal Tučný",
     "date": "31.10.2025",
     "time": "13:49",
-    "listeners": 1186
+    "listeners": 1186,
+    "lyricists": null,
+    "album": "Jižanský Rok",
+    "release_year": 1980,
+    "duration_ms": 257333,
+    "artist_country": "CZ",
+    "genres": [
+      "Country"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +104,15 @@
     "artist": "Foreigner",
     "date": "31.10.2025",
     "time": "13:45",
-    "listeners": 1161
+    "listeners": 1161,
+    "lyricists": null,
+    "album": "No End In Sight: The Very Best of Foreigner (Remastered)",
+    "release_year": 1992,
+    "duration_ms": 301107,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +120,16 @@
     "artist": "Boney M",
     "date": "31.10.2025",
     "time": "13:42",
-    "listeners": 1250
+    "listeners": 1250,
+    "lyricists": null,
+    "album": "Daddy Cool",
+    "release_year": 2016,
+    "duration_ms": 206086,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",

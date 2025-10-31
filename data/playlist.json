@@ -5,7 +5,16 @@
     "artist": "Wes",
     "date": "31.10.2025",
     "time": "21:32",
-    "listeners": 1128
+    "listeners": 1128,
+    "lyricists": null,
+    "album": "Alane - EP",
+    "release_year": 1997,
+    "duration_ms": 484373,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "The Bee Gees",
     "date": "31.10.2025",
     "time": "21:28",
-    "listeners": 1128
+    "listeners": 1128,
+    "lyricists": null,
+    "album": "E.S.P.",
+    "release_year": 2004,
+    "duration_ms": 241400,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Ricky Martin",
     "date": "31.10.2025",
     "time": "21:23",
-    "listeners": 1082
+    "listeners": 1082,
+    "lyricists": null,
+    "album": "Ricky Martin",
+    "release_year": 1997,
+    "duration_ms": 271267,
+    "artist_country": "PR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Abc",
     "date": "31.10.2025",
     "time": "21:20",
-    "listeners": 1121
+    "listeners": 1121,
+    "lyricists": null,
+    "album": "Christmas… With Love - EP",
+    "release_year": 2000,
+    "duration_ms": 209893,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -12005,5 +12005,14 @@
       "Pop",
       "Rock"
     ]
+  },
+  "abc|the look of love": {
+    "release_year": 2000,
+    "artist_country": "GB",
+    "album": "Christmas… With Love - EP",
+    "duration_ms": 209893,
+    "genres": [
+      "Pop"
+    ]
   }
 }

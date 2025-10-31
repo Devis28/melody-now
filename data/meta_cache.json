@@ -12024,5 +12024,14 @@
       "Classical",
       "R&B"
     ]
+  },
+  "wham!|freedom": {
+    "release_year": 2007,
+    "artist_country": "GB",
+    "album": "Haynes Ultimate Guide to 80s",
+    "duration_ms": 318827,
+    "genres": [
+      "Pop"
+    ]
   }
 }

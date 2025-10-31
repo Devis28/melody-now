@@ -5,7 +5,15 @@
     "artist": "Cyndi Lauper",
     "date": "31.10.2025",
     "time": "17:38",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 224510,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,18 @@
     "artist": "Bon Jovi",
     "date": "31.10.2025",
     "time": "17:32",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": [
+      "Jon Bon Jovi"
+    ],
+    "album": "Keep the Faith",
+    "release_year": 2016,
+    "duration_ms": 394528,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +40,15 @@
     "artist": "Novák Petr",
     "date": "31.10.2025",
     "time": "17:28",
-    "listeners": 3192
+    "listeners": 3192,
+    "lyricists": null,
+    "album": "12 Nej",
+    "release_year": 1986,
+    "duration_ms": 141027,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Desirelles",
     "date": "31.10.2025",
     "time": "17:24",
-    "listeners": 3082
+    "listeners": 3082,
+    "lyricists": null,
+    "album": "François",
+    "release_year": 1980,
+    "duration_ms": 264585,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Grigorov Robo",
     "date": "31.10.2025",
     "time": "17:20",
-    "listeners": 3072
+    "listeners": 3072,
+    "lyricists": null,
+    "album": "Balady",
+    "release_year": 2006,
+    "duration_ms": 261107,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Erasure",
     "date": "31.10.2025",
     "time": "17:14",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "The Circus (2011 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 217056,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Braxton Toni",
     "date": "31.10.2025",
     "time": "13:38",
-    "listeners": 1259
+    "listeners": 1259,
+    "lyricists": null,
+    "album": "Secrets",
+    "release_year": 1996,
+    "duration_ms": 270333,
+    "artist_country": null,
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bartošová Iveta",
     "date": "31.10.2025",
     "time": "13:35",
-    "listeners": 1240
+    "listeners": 1240,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 172600,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,18 @@
     "artist": "Umberto Tozzi",
     "date": "31.10.2025",
     "time": "13:31",
-    "listeners": 1440
+    "listeners": 1440,
+    "lyricists": [
+      "Giancarlo Bigazzi",
+      "Umberto Tozzi"
+    ],
+    "album": "E' nell' aria…ti amo",
+    "release_year": 2006,
+    "duration_ms": 245693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +56,15 @@
     "artist": "Roxette",
     "date": "31.10.2025",
     "time": "13:27",
-    "listeners": 1388
+    "listeners": 1388,
+    "lyricists": null,
+    "album": "Fading Like A Flower - Single",
+    "release_year": 1992,
+    "duration_ms": 145808,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Patejdl Vašo",
     "date": "31.10.2025",
     "time": "13:22",
-    "listeners": 1517
+    "listeners": 1517,
+    "lyricists": null,
+    "album": "Lov na city",
+    "release_year": 1987,
+    "duration_ms": 273933,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Zich Karel & Filipová Lenka",
     "date": "31.10.2025",
     "time": "13:19",
-    "listeners": 1298
+    "listeners": 1298,
+    "lyricists": null,
+    "album": "Mosty",
+    "release_year": 1981,
+    "duration_ms": 218240,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +104,17 @@
     "artist": "Ace Of Base",
     "date": "31.10.2025",
     "time": "13:15",
-    "listeners": 1509
+    "listeners": 1509,
+    "lyricists": [
+      "Ace of Base"
+    ],
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 1995,
+    "duration_ms": 211213,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +122,15 @@
     "artist": "Team",
     "date": "31.10.2025",
     "time": "13:09",
-    "listeners": 1527
+    "listeners": 1527,
+    "lyricists": null,
+    "album": "Team",
+    "release_year": 2011,
+    "duration_ms": 222427,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +138,15 @@
     "artist": "Zagorová Hana&Rezek Petr",
     "date": "31.10.2025",
     "time": "13:06",
-    "listeners": 1573
+    "listeners": 1573,
+    "lyricists": null,
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "release_year": 1995,
+    "duration_ms": 169400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +154,15 @@
     "artist": "The Scorpions",
     "date": "31.10.2025",
     "time": "13:01",
-    "listeners": 1533
+    "listeners": 1533,
+    "lyricists": null,
+    "album": "Crazy World",
+    "release_year": 1999,
+    "duration_ms": 312360,
+    "artist_country": "DE",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

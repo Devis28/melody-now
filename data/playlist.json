@@ -5,7 +5,15 @@
     "artist": "Farmer Mylene",
     "date": "31.10.2025",
     "time": "20:19",
-    "listeners": 1493
+    "listeners": 1493,
+    "lyricists": null,
+    "album": "L'autre",
+    "release_year": 1991,
+    "duration_ms": 322760,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Abba",
     "date": "31.10.2025",
     "time": "20:16",
-    "listeners": 1547
+    "listeners": 1547,
+    "lyricists": null,
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 1976,
+    "duration_ms": 186070,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Alphaville",
     "date": "31.10.2025",
     "time": "20:11",
-    "listeners": 1461
+    "listeners": 1461,
+    "lyricists": null,
+    "album": "First Harvest 1984-1992",
+    "release_year": 2024,
+    "duration_ms": 267907,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,18 @@
     "artist": "Michael Jackson",
     "date": "31.10.2025",
     "time": "20:08",
-    "listeners": 1479
+    "listeners": 1479,
+    "lyricists": [
+      "Bill Bottrell",
+      "Michael Jackson"
+    ],
+    "album": "Dangerous",
+    "release_year": 1995,
+    "duration_ms": 256018,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Astley Rick",
     "date": "31.10.2025",
     "time": "20:05",
-    "listeners": 1584
+    "listeners": 1584,
+    "lyricists": null,
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "release_year": 1987,
+    "duration_ms": 205573,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

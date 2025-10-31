@@ -11969,5 +11969,18 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "michael jackson|black or white": {
+    "release_year": 1995,
+    "artist_country": "US",
+    "album": "Dangerous",
+    "duration_ms": 256018,
+    "lyricists": [
+      "Bill Bottrell",
+      "Michael Jackson"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

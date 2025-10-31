@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Keď Odchádzajú Lásky",
+    "artist": "Richard Müller",
+    "date": "01.11.2025",
+    "time": "00:21",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lovesong",
+    "artist": "Habera Pavol",
+    "date": "01.11.2025",
+    "time": "00:17",
+    "listeners": 183
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šumienky Z Polomu",
+    "artist": "Dubasová Beáta",
+    "date": "01.11.2025",
+    "time": "00:13",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "The Sign",
+    "artist": "Ace Of Base",
+    "date": "01.11.2025",
+    "time": "00:10",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Kristínka Iba Spí",
     "artist": "Nagy Peter",
     "date": "01.11.2025",

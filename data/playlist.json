@@ -5,7 +5,15 @@
     "artist": "Dj Bobo",
     "date": "31.10.2025",
     "time": "20:27",
-    "listeners": 1430
+    "listeners": 1430,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1995,
+    "duration_ms": 252093,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Dead Or Alive",
     "date": "31.10.2025",
     "time": "20:24",
-    "listeners": 1411
+    "listeners": 1411,
+    "lyricists": null,
+    "album": "Youthquake",
+    "release_year": 2004,
+    "duration_ms": 199667,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

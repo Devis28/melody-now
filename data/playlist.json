@@ -1,6 +1,46 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Zalúbení",
+    "artist": "Dušan Hlaváček",
+    "date": "31.10.2025",
+    "time": "18:30",
+    "listeners": 2475
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Láska, Necestuj Tým Vlakom",
+    "artist": "Pavol Habera",
+    "date": "31.10.2025",
+    "time": "18:26",
+    "listeners": 2770
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Což Takhle Dát Si Špenát",
+    "artist": "Jiří Schelinger",
+    "date": "31.10.2025",
+    "time": "18:24",
+    "listeners": 2616
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Čau, Lásko",
+    "artist": "Gott Karel & Holanová Marcela",
+    "date": "31.10.2025",
+    "time": "18:20",
+    "listeners": 2692
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dívka S Perlami Ve Vlasech",
+    "artist": "Aleš Brichta",
+    "date": "31.10.2025",
+    "time": "18:14",
+    "listeners": 2796
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Hej Pane Diskžokej",
     "artist": "Balet",
     "date": "31.10.2025",

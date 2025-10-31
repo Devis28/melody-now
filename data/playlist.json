@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Girls Just Wanna Have Fun",
+    "artist": "Cyndi Lauper",
+    "date": "31.10.2025",
+    "time": "17:38",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "31.10.2025",
+    "time": "17:32",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Já Budu Chodit Po Špičkách",
+    "artist": "Novák Petr",
+    "date": "31.10.2025",
+    "time": "17:28",
+    "listeners": 3192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voyage Voyage",
+    "artist": "Desirelles",
+    "date": "31.10.2025",
+    "time": "17:24",
+    "listeners": 3082
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "31.10.2025",
+    "time": "17:20",
+    "listeners": 3072
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sometimes",
+    "artist": "Erasure",
+    "date": "31.10.2025",
+    "time": "17:14",
+    "listeners": 3200
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Let It Be",
     "artist": "The Beatles",
     "date": "31.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Queen",
     "date": "31.10.2025",
     "time": "04:47",
-    "listeners": 231
+    "listeners": 231,
+    "lyricists": null,
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "release_year": 1975,
+    "duration_ms": 354947,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Brontosauři",
     "date": "31.10.2025",
     "time": "04:45",
-    "listeners": 245
+    "listeners": 245,
+    "lyricists": null,
+    "album": "Vsechny Hity",
+    "release_year": 2001,
+    "duration_ms": 139747,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,19 @@
     "artist": "Richard Müller",
     "date": "31.10.2025",
     "time": "04:41",
-    "listeners": 208
+    "listeners": 208,
+    "lyricists": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ],
+    "album": "Hlasy",
+    "release_year": 2011,
+    "duration_ms": 353360,
+    "artist_country": "SK",
+    "genres": [
+      "Jazz",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Donovan Jason",
     "date": "31.10.2025",
     "time": "04:37",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "Too Many Broken Hearts",
+    "release_year": 1989,
+    "duration_ms": 208373,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Roxette",
     "date": "31.10.2025",
     "time": "04:33",
-    "listeners": 217
+    "listeners": 217,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2006,
+    "duration_ms": 275667,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +89,16 @@
     "artist": "I.M.T Smile & Smatanova Zuzana",
     "date": "31.10.2025",
     "time": "04:29",
-    "listeners": 209
+    "listeners": 209,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2009,
+    "duration_ms": 297920,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,15 @@
     "artist": "The Gipsy Kings",
     "date": "31.10.2025",
     "time": "04:25",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "The Essential Gipsy Kings",
+    "release_year": 1989,
+    "duration_ms": 219667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +122,15 @@
     "artist": "No Name",
     "date": "31.10.2025",
     "time": "04:22",
-    "listeners": 205
+    "listeners": 205,
+    "lyricists": null,
+    "album": "The Best Of",
+    "release_year": 2022,
+    "duration_ms": 203107,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +138,15 @@
     "artist": "The George Baker Selection",
     "date": "31.10.2025",
     "time": "04:18",
-    "listeners": 211
+    "listeners": 211,
+    "lyricists": null,
+    "album": "Paloma Blanca",
+    "release_year": 1975,
+    "duration_ms": 209360,
+    "artist_country": "NL",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +154,15 @@
     "artist": "David Michal",
     "date": "31.10.2025",
     "time": "04:15",
-    "listeners": 211
+    "listeners": 211,
+    "lyricists": null,
+    "album": "Classic",
+    "release_year": 2012,
+    "duration_ms": 211960,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +170,15 @@
     "artist": "Madam",
     "date": "31.10.2025",
     "time": "04:10",
-    "listeners": 192
+    "listeners": 192,
+    "lyricists": null,
+    "album": "GOLD Supermix",
+    "release_year": 2007,
+    "duration_ms": 269880,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +186,17 @@
     "artist": "Michael Jackson",
     "date": "31.10.2025",
     "time": "04:06",
-    "listeners": 189
+    "listeners": 189,
+    "lyricists": [
+      "Michael Jackson"
+    ],
+    "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
+    "release_year": 1993,
+    "duration_ms": 219560,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +204,15 @@
     "artist": "Team",
     "date": "31.10.2025",
     "time": "04:04",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Prichytený pri živote",
+    "release_year": 2005,
+    "duration_ms": 130373,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

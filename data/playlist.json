@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "31.10.2025",
+    "time": "14:39",
+    "listeners": 870
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Šípková Růženka",
+    "artist": "Jiří Schelinger",
+    "date": "31.10.2025",
+    "time": "14:36",
+    "listeners": 841
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Xanadu",
+    "artist": "Olivia Newton-John And Electric Light Orchestra",
+    "date": "31.10.2025",
+    "time": "14:32",
+    "listeners": 884
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nie Alebo Áno",
+    "artist": "No Name",
+    "date": "31.10.2025",
+    "time": "14:26",
+    "listeners": 944
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Raindrops Keep Fallin' On My Head",
+    "artist": "B. J. Thomas",
+    "date": "31.10.2025",
+    "time": "14:23",
+    "listeners": 905
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "date": "31.10.2025",
+    "time": "14:20",
+    "listeners": 907
+  },
+  {
+    "station": "Rádio Melody",
     "title": "When You Say Nothing At All",
     "artist": "Keating Ronan",
     "date": "31.10.2025",

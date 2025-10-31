@@ -1,6 +1,54 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Believe",
+    "artist": "Cher",
+    "date": "31.10.2025",
+    "time": "21:16",
+    "listeners": 1074
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Hafanana [Voodoo Up Mix]",
+    "artist": "Simone, Afric",
+    "date": "31.10.2025",
+    "time": "21:13",
+    "listeners": 1149
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "It's A Sin",
+    "artist": "Pet Shop Boys",
+    "date": "31.10.2025",
+    "time": "21:08",
+    "listeners": 1214
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Doctor Jones",
+    "artist": "Aqua",
+    "date": "31.10.2025",
+    "time": "21:04",
+    "listeners": 1271
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Chráň Svoje Bláznovstvá",
+    "artist": "Peter Nagy",
+    "date": "31.10.2025",
+    "time": "21:01",
+    "listeners": 1164
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Piccolo Amore",
+    "artist": "Ricchi E Poveri",
+    "date": "31.10.2025",
+    "time": "20:58",
+    "listeners": 1300
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Yes Sir, I Can Boogie",
     "artist": "Baccara",
     "date": "31.10.2025",

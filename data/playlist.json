@@ -5,7 +5,15 @@
     "artist": "Muller Richard",
     "date": "31.10.2025",
     "time": "19:33",
-    "listeners": 1850
+    "listeners": 1850,
+    "lyricists": null,
+    "album": "Retro",
+    "release_year": 2000,
+    "duration_ms": 241093,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Věra Martinová",
     "date": "31.10.2025",
     "time": "19:30",
-    "listeners": 1914
+    "listeners": 1914,
+    "lyricists": null,
+    "album": "Dál Jen Vejdi",
+    "release_year": 1989,
+    "duration_ms": 200427,
+    "artist_country": "CZ",
+    "genres": [
+      "Country",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Gladiator",
     "date": "31.10.2025",
     "time": "19:26",
-    "listeners": 1934
+    "listeners": 1934,
+    "lyricists": null,
+    "album": "Zlate Hity",
+    "release_year": 2011,
+    "duration_ms": 215627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Matuška Waldemar",
     "date": "31.10.2025",
     "time": "19:23",
-    "listeners": 2025
+    "listeners": 2025,
+    "lyricists": null,
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "release_year": 1964,
+    "duration_ms": 145680,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Nagy Peter",
     "date": "31.10.2025",
     "time": "19:21",
-    "listeners": 1946
+    "listeners": 1946,
+    "lyricists": null,
+    "album": "Singles (1984-1988)",
+    "release_year": 2011,
+    "duration_ms": 162000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +86,15 @@
     "artist": "Lunetic",
     "date": "31.10.2025",
     "time": "19:17",
-    "listeners": 1945
+    "listeners": 1945,
+    "lyricists": null,
+    "album": "Cik-Cak",
+    "release_year": 1998,
+    "duration_ms": 213040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +102,15 @@
     "artist": "Miro Žbirka",
     "date": "31.10.2025",
     "time": "19:12",
-    "listeners": 2131
+    "listeners": 2131,
+    "lyricists": null,
+    "album": "Samozrejmy Svet",
+    "release_year": 2002,
+    "duration_ms": 237400,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +118,21 @@
     "artist": "Kristína",
     "date": "31.10.2025",
     "time": "19:08",
-    "listeners": 2018
+    "listeners": 2018,
+    "lyricists": [
+      "Anna Servická",
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ],
+    "album": "V Sieti Ta Mam",
+    "release_year": 2010,
+    "duration_ms": 183147,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +140,15 @@
     "artist": "Dalibor Janda",
     "date": "31.10.2025",
     "time": "19:04",
-    "listeners": 2193
+    "listeners": 2193,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1993,
+    "duration_ms": 293667,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +156,15 @@
     "artist": "Jiří Korn",
     "date": "31.10.2025",
     "time": "19:01",
-    "listeners": 2090
+    "listeners": 2090,
+    "lyricists": null,
+    "album": "To nejlepší 1971-2024",
+    "release_year": 1998,
+    "duration_ms": 156386,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

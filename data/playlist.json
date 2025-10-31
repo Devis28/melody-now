@@ -1,6 +1,30 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "31.10.2025",
+    "time": "17:52",
+    "listeners": 2933
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Korálky Od Natálky",
+    "artist": "Peter Nagy",
+    "date": "31.10.2025",
+    "time": "17:49",
+    "listeners": 3147
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "31.10.2025",
+    "time": "17:42",
+    "listeners": 3163
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Girls Just Wanna Have Fun",
     "artist": "Cyndi Lauper",
     "date": "31.10.2025",

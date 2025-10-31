@@ -5,7 +5,15 @@
     "artist": "Helena Vondráčková",
     "date": "31.10.2025",
     "time": "08:42",
-    "listeners": 2680
+    "listeners": 2680,
+    "lyricists": null,
+    "album": "Best of the Best",
+    "release_year": 2009,
+    "duration_ms": 233507,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Ace Of Base",
     "date": "31.10.2025",
     "time": "08:38",
-    "listeners": 2700
+    "listeners": 2700,
+    "lyricists": null,
+    "album": "The Bridge (Remastered)",
+    "release_year": 1995,
+    "duration_ms": 221187,
+    "artist_country": "SE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Hana Hegerová",
     "date": "31.10.2025",
     "time": "08:35",
-    "listeners": 2715
+    "listeners": 2715,
+    "lyricists": null,
+    "album": "Paběrky",
+    "release_year": 2015,
+    "duration_ms": 183600,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Fun Factory",
     "date": "31.10.2025",
     "time": "08:32",
-    "listeners": 2688
+    "listeners": 2688,
+    "lyricists": null,
+    "album": "Back to the Factory",
+    "release_year": 1995,
+    "duration_ms": 213600,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

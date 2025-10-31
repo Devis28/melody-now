@@ -5,7 +5,16 @@
     "artist": "Duran Duran",
     "date": "31.10.2025",
     "time": "14:55",
-    "listeners": 941
+    "listeners": 941,
+    "lyricists": null,
+    "album": "Duran Duran (The Wedding Album)",
+    "release_year": 1993,
+    "duration_ms": 340200,
+    "artist_country": "GB",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Michal David & Kroky Františka Janečka",
     "date": "31.10.2025",
     "time": "14:52",
-    "listeners": 895
+    "listeners": 895,
+    "lyricists": null,
+    "album": "Děti Ráje",
+    "release_year": 1986,
+    "duration_ms": 191560,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Mamas & The Papas",
     "date": "31.10.2025",
     "time": "14:49",
-    "listeners": 941
+    "listeners": 941,
+    "lyricists": null,
+    "album": "If You Can Believe Your Eyes and Ears",
+    "release_year": 1991,
+    "duration_ms": 162373,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Roxette",
     "date": "31.10.2025",
     "time": "14:43",
-    "listeners": 1012
+    "listeners": 1012,
+    "lyricists": null,
+    "album": "The 30 Biggest Hits XXX",
+    "release_year": 2002,
+    "duration_ms": 237320,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

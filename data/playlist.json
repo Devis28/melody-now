@@ -5,7 +5,15 @@
     "artist": "Yazoo",
     "date": "31.10.2025",
     "time": "06:45",
-    "listeners": 1898
+    "listeners": 1898,
+    "lyricists": null,
+    "album": "Upstairs at Eric's (Remastered)",
+    "release_year": 2008,
+    "duration_ms": 195213,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gott Karel",
     "date": "31.10.2025",
     "time": "06:42",
-    "listeners": 1723
+    "listeners": 1723,
+    "lyricists": null,
+    "album": "Má Píseň",
+    "release_year": 1972,
+    "duration_ms": 156347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,16 @@
     "artist": "Adams Bryan",
     "date": "31.10.2025",
     "time": "06:38",
-    "listeners": 1705
+    "listeners": 1705,
+    "lyricists": null,
+    "album": "Waking Up the Neighbours",
+    "release_year": 1991,
+    "duration_ms": 393640,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

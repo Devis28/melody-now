@@ -5,7 +5,15 @@
     "artist": "John Elton & Dee Kiki",
     "date": "31.10.2025",
     "time": "12:36",
-    "listeners": 1654
+    "listeners": 1654,
+    "lyricists": null,
+    "album": "Rock of the Westies (Remastered)",
+    "release_year": 1975,
+    "duration_ms": 275440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "David Michal",
     "date": "31.10.2025",
     "time": "12:33",
-    "listeners": 1581
+    "listeners": 1581,
+    "lyricists": null,
+    "album": "Discopříběh",
+    "release_year": 1987,
+    "duration_ms": 191443,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Snap",
     "date": "31.10.2025",
     "time": "12:29",
-    "listeners": 1588
+    "listeners": 1588,
+    "lyricists": null,
+    "album": "The Madman's Return",
+    "release_year": 1998,
+    "duration_ms": 332230,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Elán",
     "date": "31.10.2025",
     "time": "12:24",
-    "listeners": 1723
+    "listeners": 1723,
+    "lyricists": null,
+    "album": "Ôsmy svetadiel (Remastered)",
+    "release_year": 1998,
+    "duration_ms": 274480,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Mercury Freddie",
     "date": "31.10.2025",
     "time": "12:21",
-    "listeners": 1610
+    "listeners": 1610,
+    "lyricists": null,
+    "album": "Never Boring",
+    "release_year": 1993,
+    "duration_ms": 217411,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

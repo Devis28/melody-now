@@ -5,7 +5,15 @@
     "artist": "Nagy Peter",
     "date": "01.11.2025",
     "time": "00:05",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Chrán svoje bláznovstvá",
+    "release_year": 1984,
+    "duration_ms": 292040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Gott Karel",
     "date": "01.11.2025",
     "time": "00:02",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Má Píseň",
+    "release_year": 1972,
+    "duration_ms": 156347,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Bartosova, Iveta",
     "date": "31.10.2025",
     "time": "23:59",
-    "listeners": 307
+    "listeners": 307,
+    "lyricists": null,
+    "album": "Top 13",
+    "release_year": 1984,
+    "duration_ms": 208667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Eiffel 65",
     "date": "31.10.2025",
     "time": "23:54",
-    "listeners": 348
+    "listeners": 348,
+    "lyricists": null,
+    "album": "Blue (Da Ba Dee) - Single",
+    "release_year": 2000,
+    "duration_ms": 530123,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",

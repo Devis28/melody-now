@@ -5,7 +5,16 @@
     "artist": "Guru Josh",
     "date": "31.10.2025",
     "time": "10:17",
-    "listeners": 946
+    "listeners": 946,
+    "lyricists": null,
+    "album": "90s 100 Hits",
+    "release_year": 2004,
+    "duration_ms": 243693,
+    "artist_country": "GB",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Rubettes, The",
     "date": "31.10.2025",
     "time": "10:14",
-    "listeners": 926
+    "listeners": 926,
+    "lyricists": null,
+    "album": "The Best of the Rubettes",
+    "release_year": 1974,
+    "duration_ms": 209893,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Michal David",
     "date": "31.10.2025",
     "time": "10:08",
-    "listeners": 947
+    "listeners": 947,
+    "lyricists": null,
+    "album": "Bláznivá Noc",
+    "release_year": 1983,
+    "duration_ms": 212253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,15 @@
     "artist": "Enrique Iglesias",
     "date": "31.10.2025",
     "time": "10:04",
-    "listeners": 1025
+    "listeners": 1025,
+    "lyricists": null,
+    "album": "Enrique",
+    "release_year": 1999,
+    "duration_ms": 212693,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +70,15 @@
     "artist": "Duchoň Karol",
     "date": "31.10.2025",
     "time": "10:01",
-    "listeners": 1087
+    "listeners": 1087,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 1974,
+    "duration_ms": 208160,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

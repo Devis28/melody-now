@@ -1,6 +1,86 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Un-Break My Heart",
+    "artist": "Braxton Toni",
+    "date": "31.10.2025",
+    "time": "13:38",
+    "listeners": 1259
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Dva Roky Prázdnin",
+    "artist": "Bartošová Iveta",
+    "date": "31.10.2025",
+    "time": "13:35",
+    "listeners": 1240
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "date": "31.10.2025",
+    "time": "13:31",
+    "listeners": 1440
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Fading Like A Flower",
+    "artist": "Roxette",
+    "date": "31.10.2025",
+    "time": "13:27",
+    "listeners": 1388
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Umenie Žiť",
+    "artist": "Patejdl Vašo",
+    "date": "31.10.2025",
+    "time": "13:22",
+    "listeners": 1517
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mosty",
+    "artist": "Zich Karel & Filipová Lenka",
+    "date": "31.10.2025",
+    "time": "13:19",
+    "listeners": 1298
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "All That She Wants",
+    "artist": "Ace Of Base",
+    "date": "31.10.2025",
+    "time": "13:15",
+    "listeners": 1509
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Reklama Na Ticho",
+    "artist": "Team",
+    "date": "31.10.2025",
+    "time": "13:09",
+    "listeners": 1527
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "31.10.2025",
+    "time": "13:06",
+    "listeners": 1573
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Wind Of Change",
+    "artist": "The Scorpions",
+    "date": "31.10.2025",
+    "time": "13:01",
+    "listeners": 1533
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Fuoco Nel Fuoco",
     "artist": "Ramazzotti Eros",
     "date": "31.10.2025",

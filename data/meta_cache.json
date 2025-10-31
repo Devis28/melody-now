@@ -12077,5 +12077,19 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "lisa stansfield|all around the world": {
+    "release_year": 1990,
+    "artist_country": "GB",
+    "album": "The Complete Collection (Remastered)",
+    "duration_ms": 265760,
+    "lyricists": [
+      "Andy Morris",
+      "Ian Devaney",
+      "Lisa Stansfield"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

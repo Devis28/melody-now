@@ -5,7 +5,15 @@
     "artist": "No Doubt",
     "date": "31.10.2025",
     "time": "07:20",
-    "listeners": 2728
+    "listeners": 2728,
+    "lyricists": null,
+    "album": "Tragic Kingdom",
+    "release_year": 1997,
+    "duration_ms": 263533,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,13 @@
     "artist": "Travolta John & Newton-John Olivia",
     "date": "31.10.2025",
     "time": "07:18",
-    "listeners": 2674
+    "listeners": 2674,
+    "lyricists": null,
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "release_year": 1978,
+    "duration_ms": 168907,
+    "artist_country": null,
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +35,15 @@
     "artist": "Gombitová Marika",
     "date": "31.10.2025",
     "time": "07:12",
-    "listeners": 2498
+    "listeners": 2498,
+    "lyricists": null,
+    "album": "Ateliér duse",
+    "release_year": 1987,
+    "duration_ms": 237587,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +51,15 @@
     "artist": "Masterboy",
     "date": "31.10.2025",
     "time": "07:05",
-    "listeners": 2279
+    "listeners": 2279,
+    "lyricists": null,
+    "album": "Generation of Love",
+    "release_year": 1998,
+    "duration_ms": 243000,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +67,15 @@
     "artist": "Karol Duchoň",
     "date": "31.10.2025",
     "time": "07:02",
-    "listeners": 2264
+    "listeners": 2264,
+    "lyricists": null,
+    "album": "20 naj",
+    "release_year": 2006,
+    "duration_ms": 220693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

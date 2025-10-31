@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Love Is The Shield",
+    "artist": "Camouflage",
+    "date": "31.10.2025",
+    "time": "06:34",
+    "listeners": 1583
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lovesong",
+    "artist": "Habera Pavol",
+    "date": "31.10.2025",
+    "time": "06:30",
+    "listeners": 1464
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Knowing Me, Knowing You",
+    "artist": "Abba",
+    "date": "31.10.2025",
+    "time": "06:23",
+    "listeners": 1304
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Voňavky Dievčat",
+    "artist": "Patejdl Vašo",
+    "date": "31.10.2025",
+    "time": "06:20",
+    "listeners": 1186
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Pandora's Box",
     "artist": "Orchestral Manoeuvres In The Dark",
     "date": "31.10.2025",

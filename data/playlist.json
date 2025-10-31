@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Kristínka Iba Spí",
+    "artist": "Nagy Peter",
+    "date": "01.11.2025",
+    "time": "00:05",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kávu Si Osladím",
+    "artist": "Gott Karel",
+    "date": "01.11.2025",
+    "time": "00:02",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Útoč Láskou",
+    "artist": "Bartosova, Iveta",
+    "date": "31.10.2025",
+    "time": "23:59",
+    "listeners": 307
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Blue Da Ba Dee",
+    "artist": "Eiffel 65",
+    "date": "31.10.2025",
+    "time": "23:54",
+    "listeners": 348
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Waterloo",
     "artist": "Abba",
     "date": "31.10.2025",

@@ -1,6 +1,246 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "31.10.2025",
+    "time": "02:47",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lásko Má, Já Stůňu",
+    "artist": "Vondráčková Helena",
+    "date": "31.10.2025",
+    "time": "02:45",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Horou",
+    "artist": "Zuzana Smatanová",
+    "date": "31.10.2025",
+    "time": "02:41",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stay",
+    "artist": "Bonnie Bianco & Pierre Cosso",
+    "date": "31.10.2025",
+    "time": "02:37",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ten Príbeh Je Preč",
+    "artist": "Beata Dubasová",
+    "date": "31.10.2025",
+    "time": "02:33",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mandolína",
+    "artist": "Adam Ďurica",
+    "date": "31.10.2025",
+    "time": "02:30",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "In The Army Now",
+    "artist": "Status Quo",
+    "date": "31.10.2025",
+    "time": "02:26",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vyrobená Pre Mňa",
+    "artist": "Desmod",
+    "date": "31.10.2025",
+    "time": "02:22",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Take A Chance On Me",
+    "artist": "Abba",
+    "date": "31.10.2025",
+    "time": "02:18",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "31.10.2025",
+    "time": "02:15",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Elena",
+    "artist": "Karol Duchoň",
+    "date": "31.10.2025",
+    "time": "02:12",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Can't Take My Eyes Off You",
+    "artist": "Gloria Gaynor",
+    "date": "31.10.2025",
+    "time": "02:07",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Pábitelé",
+    "artist": "Gott Karel",
+    "date": "31.10.2025",
+    "time": "02:04",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Vidiečan",
+    "artist": "Vidiek",
+    "date": "31.10.2025",
+    "time": "02:00",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Right Beside You",
+    "artist": "Sophie B. Hawkins",
+    "date": "31.10.2025",
+    "time": "01:57",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mexican Girl",
+    "artist": "Smokie",
+    "date": "31.10.2025",
+    "time": "01:53",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Marcel Z Malého Mesta",
+    "artist": "Peter Nagy",
+    "date": "31.10.2025",
+    "time": "01:50",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "31.10.2025",
+    "time": "01:46",
+    "listeners": 181
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Sempre Sempre",
+    "artist": "Al Bano & Romina Power",
+    "date": "31.10.2025",
+    "time": "01:42",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kočka",
+    "artist": "Elán",
+    "date": "31.10.2025",
+    "time": "01:38",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ak Nie Si Moja",
+    "artist": "Patejdl, Vaso",
+    "date": "31.10.2025",
+    "time": "01:34",
+    "listeners": 186
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Modrá",
+    "artist": "Kirschner Jana",
+    "date": "31.10.2025",
+    "time": "01:29",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nothing's Gonna Stop Me Now",
+    "artist": "Samantha Fox",
+    "date": "31.10.2025",
+    "time": "01:26",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Kto Z Nás Dvoch Sa Lásky Opýta?",
+    "artist": "Team",
+    "date": "31.10.2025",
+    "time": "01:22",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "31.10.2025",
+    "time": "01:18",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nič Nie Je Isté",
+    "artist": "Imt Smile",
+    "date": "31.10.2025",
+    "time": "01:14",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Quit Playing Games (With My Heart)",
+    "artist": "Backstreet Boys",
+    "date": "31.10.2025",
+    "time": "01:10",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Want To Break Free",
+    "artist": "Queen",
+    "date": "31.10.2025",
+    "time": "01:06",
+    "listeners": 185
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Zamilovaná",
+    "artist": "Filipová Lenka",
+    "date": "31.10.2025",
+    "time": "01:03",
+    "listeners": 184
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Keď To Nejde",
+    "artist": "Zdenka Predná",
+    "date": "31.10.2025",
+    "time": "00:59",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "They Don't Care About Us",
     "artist": "Michael Jackson",
     "date": "31.10.2025",

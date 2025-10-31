@@ -1,6 +1,110 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "date": "31.10.2025",
+    "time": "04:47",
+    "listeners": 231
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "31.10.2025",
+    "time": "04:45",
+    "listeners": 245
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Milovanie V Daždi",
+    "artist": "Richard Müller",
+    "date": "31.10.2025",
+    "time": "04:41",
+    "listeners": 208
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Too Many Broken Hearts",
+    "artist": "Donovan Jason",
+    "date": "31.10.2025",
+    "time": "04:37",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "31.10.2025",
+    "time": "04:33",
+    "listeners": 217
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Úsmev A Čaj",
+    "artist": "I.M.T Smile & Smatanova Zuzana",
+    "date": "31.10.2025",
+    "time": "04:29",
+    "listeners": 209
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Volare (Nel Blu Di Pinto Di Blu)",
+    "artist": "The Gipsy Kings",
+    "date": "31.10.2025",
+    "time": "04:25",
+    "listeners": 188
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Ty A Tvoja Sestra",
+    "artist": "No Name",
+    "date": "31.10.2025",
+    "time": "04:22",
+    "listeners": 205
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "31.10.2025",
+    "time": "04:18",
+    "listeners": 211
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Nonstop",
+    "artist": "David Michal",
+    "date": "31.10.2025",
+    "time": "04:15",
+    "listeners": 211
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mama Preco Nie Som Pekna",
+    "artist": "Madam",
+    "date": "31.10.2025",
+    "time": "04:10",
+    "listeners": 192
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Will You Be There",
+    "artist": "Michael Jackson",
+    "date": "31.10.2025",
+    "time": "04:06",
+    "listeners": 189
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Jeden Kabát, Jedna Koža, Jedna Tvár",
+    "artist": "Team",
+    "date": "31.10.2025",
+    "time": "04:04",
+    "listeners": 180
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Youre My Heart Youre My Soul",
     "artist": "Modern Talking",
     "date": "31.10.2025",

@@ -5,7 +5,15 @@
     "artist": "Orchestral Manoeuvres In The Dark",
     "date": "31.10.2025",
     "time": "06:16",
-    "listeners": 1053
+    "listeners": 1053,
+    "lyricists": null,
+    "album": "Sugar Tax",
+    "release_year": 2011,
+    "duration_ms": 249173,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Vondrackova Helena + Korn Jiri",
     "date": "31.10.2025",
     "time": "06:13",
-    "listeners": 1173
+    "listeners": 1173,
+    "lyricists": null,
+    "album": "Těch Pár Dnů",
+    "release_year": null,
+    "duration_ms": 179000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Nagy Peter",
     "date": "31.10.2025",
     "time": "06:05",
-    "listeners": 980
+    "listeners": 980,
+    "lyricists": null,
+    "album": "Chrán svoje bláznovstvá",
+    "release_year": 1984,
+    "duration_ms": 292040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Ace Of Base",
     "date": "31.10.2025",
     "time": "06:02",
-    "listeners": 844
+    "listeners": 844,
+    "lyricists": null,
+    "album": "The Sign (2015 Remastered Version)",
+    "release_year": 2007,
+    "duration_ms": 191040,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

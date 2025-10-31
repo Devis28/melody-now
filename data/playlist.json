@@ -5,7 +5,16 @@
     "artist": "Prince Ital Joe & Marky Mark",
     "date": "31.10.2025",
     "time": "22:26",
-    "listeners": 733
+    "listeners": 733,
+    "lyricists": null,
+    "album": "Life In the Streets",
+    "release_year": 2009,
+    "duration_ms": 241760,
+    "artist_country": "US",
+    "genres": [
+      "Hip-Hop",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Alphaville",
     "date": "31.10.2025",
     "time": "22:23",
-    "listeners": 746
+    "listeners": 746,
+    "lyricists": null,
+    "album": "First Harvest 1984-1992",
+    "release_year": 2019,
+    "duration_ms": 240933,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

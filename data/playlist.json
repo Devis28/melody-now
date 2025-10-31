@@ -5,7 +5,20 @@
     "artist": "Barry White",
     "date": "31.10.2025",
     "time": "17:52",
-    "listeners": 2933
+    "listeners": 2933,
+    "lyricists": [
+      "Barry White",
+      "Peter Sterling Radcliffe",
+      "Tony Sepe"
+    ],
+    "album": "The Complete 20th Century Records Singles (1973-1979)",
+    "release_year": 2005,
+    "duration_ms": 212987,
+    "artist_country": "US",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +26,15 @@
     "artist": "Peter Nagy",
     "date": "31.10.2025",
     "time": "17:49",
-    "listeners": 3147
+    "listeners": 3147,
+    "lyricists": null,
+    "album": "Šachy robia človeka",
+    "release_year": 1996,
+    "duration_ms": 196627,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +42,15 @@
     "artist": "Beata Dubasová",
     "date": "31.10.2025",
     "time": "17:42",
-    "listeners": 3163
+    "listeners": 3163,
+    "lyricists": null,
+    "album": "Za dverami mojej izby",
+    "release_year": 1990,
+    "duration_ms": 303903,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

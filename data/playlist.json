@@ -5,7 +5,15 @@
     "artist": "The Beatles",
     "date": "31.10.2025",
     "time": "17:10",
-    "listeners": 2969
+    "listeners": 2969,
+    "lyricists": null,
+    "album": "Let It Be",
+    "release_year": 1994,
+    "duration_ms": 243027,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Simply Red",
     "date": "31.10.2025",
     "time": "17:06",
-    "listeners": 3200
+    "listeners": 3200,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2003,
+    "duration_ms": 248600,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Elán",
     "date": "31.10.2025",
     "time": "17:01",
-    "listeners": 2994
+    "listeners": 2994,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 2003,
+    "duration_ms": 277787,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,18 @@
     "artist": "Madonna",
     "date": "31.10.2025",
     "time": "16:53",
-    "listeners": 3072
+    "listeners": 3072,
+    "lyricists": [
+      "Madonna",
+      "Patrick Leonard"
+    ],
+    "album": "Ray of Light",
+    "release_year": 2007,
+    "duration_ms": 367333,
+    "artist_country": "US",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +72,15 @@
     "artist": "Brezovská Mirka",
     "date": "31.10.2025",
     "time": "16:50",
-    "listeners": 2867
+    "listeners": 2867,
+    "lyricists": null,
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "release_year": 2016,
+    "duration_ms": 197007,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +88,15 @@
     "artist": "Nazareth",
     "date": "31.10.2025",
     "time": "16:46",
-    "listeners": 2721
+    "listeners": 2721,
+    "lyricists": null,
+    "album": "Hair of the Dog",
+    "release_year": 2002,
+    "duration_ms": 232120,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

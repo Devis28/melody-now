@@ -1,6 +1,38 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Anjel",
+    "artist": "Maduar",
+    "date": "31.10.2025",
+    "time": "19:49",
+    "listeners": 1604
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Študentská Láska",
+    "artist": "Marika Gombitová",
+    "date": "31.10.2025",
+    "time": "19:45",
+    "listeners": 1679
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Malá Nočná Búrka",
+    "artist": "Team",
+    "date": "31.10.2025",
+    "time": "19:41",
+    "listeners": 1743
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Bon Soir, Mademoiselle Paris",
+    "artist": "Shalom",
+    "date": "31.10.2025",
+    "time": "19:37",
+    "listeners": 1804
+  },
+  {
+    "station": "Rádio Melody",
     "title": "Srdce Jako Kniže Rohan",
     "artist": "Muller Richard",
     "date": "31.10.2025",

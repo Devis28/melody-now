@@ -5,7 +5,15 @@
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "31.10.2025",
     "time": "06:55",
-    "listeners": 2118
+    "listeners": 2118,
+    "lyricists": null,
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "release_year": 1997,
+    "duration_ms": 301520,
+    "artist_country": null,
+    "genres": [
+      "Hip-Hop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Smokie",
     "date": "31.10.2025",
     "time": "06:49",
-    "listeners": 1954
+    "listeners": 1954,
+    "lyricists": null,
+    "album": "The Best of Smokie",
+    "release_year": 2003,
+    "duration_ms": 196867,
+    "artist_country": "GB",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

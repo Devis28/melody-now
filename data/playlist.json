@@ -5,7 +5,15 @@
     "artist": "Baccara",
     "date": "31.10.2025",
     "time": "20:53",
-    "listeners": 1338
+    "listeners": 1338,
+    "lyricists": null,
+    "album": "70s 100 Hits",
+    "release_year": 1997,
+    "duration_ms": 274581,
+    "artist_country": "ES",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Bronski Beat",
     "date": "31.10.2025",
     "time": "20:49",
-    "listeners": 1439
+    "listeners": 1439,
+    "lyricists": null,
+    "album": "The Age of Consent (Bonus Tracks)",
+    "release_year": 1994,
+    "duration_ms": 302413,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

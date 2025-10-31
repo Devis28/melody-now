@@ -5,7 +5,15 @@
     "artist": "Neckář Václav",
     "date": "31.10.2025",
     "time": "09:30",
-    "listeners": 1432
+    "listeners": 1432,
+    "lyricists": null,
+    "album": "Největší Hity 1965-2013",
+    "release_year": 1965,
+    "duration_ms": 323453,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "Beloved, The",
     "date": "31.10.2025",
     "time": "09:25",
-    "listeners": 1617
+    "listeners": 1617,
+    "lyricists": null,
+    "album": "Conscience",
+    "release_year": 1989,
+    "duration_ms": 301467,
+    "artist_country": null,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,19 @@
     "artist": "Bryan Adams",
     "date": "31.10.2025",
     "time": "09:21",
-    "listeners": 1716
+    "listeners": 1716,
+    "lyricists": [
+      "Bryan Adams",
+      "Jim Vallance"
+    ],
+    "album": "Reckless (30th Anniversary)",
+    "release_year": 1989,
+    "duration_ms": 243360,
+    "artist_country": "CA",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +58,15 @@
     "artist": "The Goombay Dance Band",
     "date": "31.10.2025",
     "time": "09:17",
-    "listeners": 1752
+    "listeners": 1752,
+    "lyricists": null,
+    "album": "Sun of Jamaica",
+    "release_year": 1980,
+    "duration_ms": 264000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +74,15 @@
     "artist": "Zbirka Miro & Gombitova Marika",
     "date": "31.10.2025",
     "time": "09:14",
-    "listeners": 1778
+    "listeners": 1778,
+    "lyricists": null,
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "release_year": 2001,
+    "duration_ms": 203280,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,15 @@
     "artist": "Bano Al & Power Romina",
     "date": "31.10.2025",
     "time": "09:09",
-    "listeners": 1944
+    "listeners": 1944,
+    "lyricists": null,
+    "album": "Al Bano e Romina Power",
+    "release_year": 1982,
+    "duration_ms": 206040,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +106,15 @@
     "artist": "John Lennon, The Plastic Ono Band",
     "date": "31.10.2025",
     "time": "09:06",
-    "listeners": 2124
+    "listeners": 2124,
+    "lyricists": null,
+    "album": "Power To The People (Live At The One To One Concert - Afternoon & Evening Shows)",
+    "release_year": 2025,
+    "duration_ms": 202891,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +122,15 @@
     "artist": "Kamen, Nick",
     "date": "31.10.2025",
     "time": "09:02",
-    "listeners": 2179
+    "listeners": 2179,
+    "lyricists": null,
+    "album": "Move Until We Fly",
+    "release_year": 1990,
+    "duration_ms": 240773,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

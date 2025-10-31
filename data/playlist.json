@@ -5,7 +5,17 @@
     "artist": "Abba",
     "date": "31.10.2025",
     "time": "08:21",
-    "listeners": 2771
+    "listeners": 2771,
+    "lyricists": [
+      "ABBA"
+    ],
+    "album": "Arrival (Bonus Track Version)",
+    "release_year": 1976,
+    "duration_ms": 253220,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

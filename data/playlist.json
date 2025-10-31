@@ -5,7 +5,15 @@
     "artist": "Adams, Bryan",
     "date": "31.10.2025",
     "time": "11:36",
-    "listeners": 1349
+    "listeners": 1349,
+    "lyricists": null,
+    "album": "Bare Bones (Live)",
+    "release_year": 2010,
+    "duration_ms": 227133,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Alphaville",
     "date": "31.10.2025",
     "time": "11:32",
-    "listeners": 1293
+    "listeners": 1293,
+    "lyricists": null,
+    "album": "Forever Young",
+    "release_year": 2009,
+    "duration_ms": 286160,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,19 @@
     "artist": "ABBA",
     "date": "31.10.2025",
     "time": "11:29",
-    "listeners": 1269
+    "listeners": 1269,
+    "lyricists": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ],
+    "album": "ABBA (Bonus Track Version)",
+    "release_year": 1975,
+    "duration_ms": 201959,
+    "artist_country": "SE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +57,15 @@
     "artist": "Corona",
     "date": "31.10.2025",
     "time": "11:24",
-    "listeners": 1132
+    "listeners": 1132,
+    "lyricists": null,
+    "album": "The Rhythm of the Night",
+    "release_year": 1994,
+    "duration_ms": 264280,
+    "artist_country": "IT",
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,15 @@
     "artist": "Dubasová Beáta",
     "date": "31.10.2025",
     "time": "11:20",
-    "listeners": 1133
+    "listeners": 1133,
+    "lyricists": null,
+    "album": "Beáta",
+    "release_year": 1987,
+    "duration_ms": 255360,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

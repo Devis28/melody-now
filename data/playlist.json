@@ -5,7 +5,15 @@
     "artist": "Elán",
     "date": "31.10.2025",
     "time": "15:26",
-    "listeners": 1374
+    "listeners": 1374,
+    "lyricists": null,
+    "album": "Legenda 5: Posledná...",
+    "release_year": 2007,
+    "duration_ms": 271773,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,16 @@
     "artist": "The Cranberries",
     "date": "31.10.2025",
     "time": "15:23",
-    "listeners": 1294
+    "listeners": 1294,
+    "lyricists": null,
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "release_year": 1993,
+    "duration_ms": 255107,
+    "artist_country": "IE",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,16 @@
     "artist": "Gene Pitney/Marc Almond",
     "date": "31.10.2025",
     "time": "15:19",
-    "listeners": 1222
+    "listeners": 1222,
+    "lyricists": null,
+    "album": "Hits and Pieces – The Best of Marc Almond & Soft Cell",
+    "release_year": 2016,
+    "duration_ms": 277140,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +55,15 @@
     "artist": "Miro Žbirka",
     "date": "31.10.2025",
     "time": "15:15",
-    "listeners": 1109
+    "listeners": 1109,
+    "lyricists": null,
+    "album": "Symphonic Album",
+    "release_year": 2007,
+    "duration_ms": 215293,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +71,13 @@
     "artist": "R.E.M.",
     "date": "31.10.2025",
     "time": "15:07",
-    "listeners": 951
+    "listeners": 951,
+    "lyricists": null,
+    "album": "Out of Time (25th Anniversary Edition)",
+    "release_year": 2004,
+    "duration_ms": 268427,
+    "artist_country": "US",
+    "genres": null
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +85,15 @@
     "artist": "Gombitová Marika",
     "date": "31.10.2025",
     "time": "15:03",
-    "listeners": 1046
+    "listeners": 1046,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 191333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

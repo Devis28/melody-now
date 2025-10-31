@@ -1,6 +1,78 @@
 [
   {
     "station": "Rádio Melody",
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "31.10.2025",
+    "time": "05:31",
+    "listeners": 482
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Secret Love",
+    "artist": "The Bee Gees",
+    "date": "31.10.2025",
+    "time": "05:28",
+    "listeners": 440
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Mám, Kým Nemám",
+    "artist": "Elán",
+    "date": "31.10.2025",
+    "time": "05:24",
+    "listeners": 421
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "date": "31.10.2025",
+    "time": "05:21",
+    "listeners": 394
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "In The Heat Of The Night",
+    "artist": "Sandra",
+    "date": "31.10.2025",
+    "time": "05:18",
+    "listeners": 374
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "31.10.2025",
+    "time": "05:13",
+    "listeners": 358
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "I Was Made For Loving You",
+    "artist": "Kiss",
+    "date": "31.10.2025",
+    "time": "05:09",
+    "listeners": 312
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Lemon Tree",
+    "artist": "Fool's Garden",
+    "date": "31.10.2025",
+    "time": "05:05",
+    "listeners": 289
+  },
+  {
+    "station": "Rádio Melody",
+    "title": "Prý Se Tomu Říká Láska",
+    "artist": "Lenka Filipová",
+    "date": "31.10.2025",
+    "time": "05:01",
+    "listeners": 281
+  },
+  {
+    "station": "Rádio Melody",
     "title": "C�est La Vie",
     "artist": "Miro Zbirka",
     "date": "31.10.2025",

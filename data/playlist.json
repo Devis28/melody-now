@@ -5,7 +5,15 @@
     "artist": "Vengaboys",
     "date": "31.10.2025",
     "time": "22:19",
-    "listeners": 762
+    "listeners": 762,
+    "lyricists": null,
+    "album": "Boom, Boom, Boom, Boom!! - Single",
+    "release_year": 1998,
+    "duration_ms": 202583,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Grease",
     "date": "31.10.2025",
     "time": "22:14",
-    "listeners": 824
+    "listeners": 824,
+    "lyricists": null,
+    "album": "Disco Top 50",
+    "release_year": 2010,
+    "duration_ms": 288627,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Rush Jennifer",
     "date": "31.10.2025",
     "time": "22:10",
-    "listeners": 833
+    "listeners": 833,
+    "lyricists": null,
+    "album": "Jennifer Rush: Best of 1983-2010",
+    "release_year": 1985,
+    "duration_ms": 228147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "N Trance",
     "date": "31.10.2025",
     "time": "22:06",
-    "listeners": 869
+    "listeners": 869,
+    "lyricists": null,
+    "album": "Da Ya Think I'm Sexy? (feat. Rod Stewart) - Single",
+    "release_year": 1998,
+    "duration_ms": 262960,
+    "artist_country": null,
+    "genres": [
+      "Electronic"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,15 @@
     "artist": "Elán",
     "date": "31.10.2025",
     "time": "22:02",
-    "listeners": 887
+    "listeners": 887,
+    "lyricists": null,
+    "album": "Nie sme zlí",
+    "release_year": 1992,
+    "duration_ms": 250547,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -5,7 +5,15 @@
     "artist": "Manilow Barry",
     "date": "31.10.2025",
     "time": "05:31",
-    "listeners": 482
+    "listeners": 482,
+    "lyricists": null,
+    "album": "Barry Manilow II",
+    "release_year": 1974,
+    "duration_ms": 213333,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "The Bee Gees",
     "date": "31.10.2025",
     "time": "05:28",
-    "listeners": 440
+    "listeners": 440,
+    "lyricists": null,
+    "album": "High Civilization",
+    "release_year": 1991,
+    "duration_ms": 222800,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Elán",
     "date": "31.10.2025",
     "time": "05:24",
-    "listeners": 421
+    "listeners": 421,
+    "lyricists": null,
+    "album": "Elán 3",
+    "release_year": 1992,
+    "duration_ms": 232613,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,19 @@
     "artist": "Ben E. King",
     "date": "31.10.2025",
     "time": "05:21",
-    "listeners": 394
+    "listeners": 394,
+    "lyricists": [
+      "Ben E. King",
+      "Jerry Leiber",
+      "Mike Stoller"
+    ],
+    "album": "The Very Best of Ben E. King",
+    "release_year": 2024,
+    "duration_ms": 174800,
+    "artist_country": "US",
+    "genres": [
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +73,16 @@
     "artist": "Sandra",
     "date": "31.10.2025",
     "time": "05:18",
-    "listeners": 374
+    "listeners": 374,
+    "lyricists": null,
+    "album": "18 Greatest Hits: Sandra",
+    "release_year": 1999,
+    "duration_ms": 301933,
+    "artist_country": "DE",
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +90,17 @@
     "artist": "Vangelis",
     "date": "31.10.2025",
     "time": "05:13",
-    "listeners": 358
+    "listeners": 358,
+    "lyricists": [
+      "Vangelis"
+    ],
+    "album": "1492 - Conquest of Paradise",
+    "release_year": 2001,
+    "duration_ms": 278200,
+    "artist_country": "GR",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +108,15 @@
     "artist": "Kiss",
     "date": "31.10.2025",
     "time": "05:09",
-    "listeners": 312
+    "listeners": 312,
+    "lyricists": null,
+    "album": "KISS Off The Soundboard: Live In Virginia Beach",
+    "release_year": 2013,
+    "duration_ms": 372867,
+    "artist_country": "US",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +124,15 @@
     "artist": "Fool's Garden",
     "date": "31.10.2025",
     "time": "05:05",
-    "listeners": 289
+    "listeners": 289,
+    "lyricists": null,
+    "album": "Dish of the Day",
+    "release_year": 1995,
+    "duration_ms": 191027,
+    "artist_country": "DE",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +140,15 @@
     "artist": "Lenka Filipová",
     "date": "31.10.2025",
     "time": "05:01",
-    "listeners": 281
+    "listeners": 281,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 2007,
+    "duration_ms": 213253,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

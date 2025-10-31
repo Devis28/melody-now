@@ -5,7 +5,16 @@
     "artist": "Orbison Roy",
     "date": "31.10.2025",
     "time": "16:10",
-    "listeners": 1945
+    "listeners": 1945,
+    "lyricists": null,
+    "album": "Oh! Pretty Woman",
+    "release_year": 1964,
+    "duration_ms": 178929,
+    "artist_country": null,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +22,15 @@
     "artist": "Janda Dalibor",
     "date": "31.10.2025",
     "time": "16:06",
-    "listeners": 2030
+    "listeners": 2030,
+    "lyricists": null,
+    "album": "Velký Flám (Zlaté Album)",
+    "release_year": 1982,
+    "duration_ms": 262147,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +38,15 @@
     "artist": "Geri Halliwell",
     "date": "31.10.2025",
     "time": "16:02",
-    "listeners": 2055
+    "listeners": 2055,
+    "lyricists": null,
+    "album": "It's Raining Men - Single",
+    "release_year": 2002,
+    "duration_ms": 255160,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +54,16 @@
     "artist": "Boney M.",
     "date": "31.10.2025",
     "time": "15:54",
-    "listeners": 1839
+    "listeners": 1839,
+    "lyricists": null,
+    "album": "The Greatest Hits",
+    "release_year": 2012,
+    "duration_ms": 274960,
+    "artist_country": "DE",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

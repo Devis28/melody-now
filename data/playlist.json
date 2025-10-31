@@ -5,7 +5,15 @@
     "artist": "Modern Talking",
     "date": "31.10.2025",
     "time": "04:01",
-    "listeners": 188
+    "listeners": 188,
+    "lyricists": null,
+    "album": "80s 100 Hits",
+    "release_year": 1984,
+    "duration_ms": 202228,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -13,7 +21,15 @@
     "artist": "Desmod",
     "date": "31.10.2025",
     "time": "03:58",
-    "listeners": 201
+    "listeners": 201,
+    "lyricists": null,
+    "album": "SLOVENSKÉ HITY",
+    "release_year": 2006,
+    "duration_ms": 208693,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -21,7 +37,15 @@
     "artist": "Palonder Marcel",
     "date": "31.10.2025",
     "time": "03:54",
-    "listeners": 193
+    "listeners": 193,
+    "lyricists": null,
+    "album": "Cudzinec v tvojom srdci",
+    "release_year": 1992,
+    "duration_ms": 244000,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -29,7 +53,15 @@
     "artist": "Eagles The",
     "date": "31.10.2025",
     "time": "03:49",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Hotel California (40th Anniversary Expanded Edition)",
+    "release_year": 1976,
+    "duration_ms": 391357,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -37,7 +69,17 @@
     "artist": "Peter Nagy",
     "date": "31.10.2025",
     "time": "03:46",
-    "listeners": 182
+    "listeners": 182,
+    "lyricists": [
+      "Peter Nagy"
+    ],
+    "album": "Aj tak sme frajeri",
+    "release_year": 1996,
+    "duration_ms": 200400,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -45,7 +87,15 @@
     "artist": "Grigorov Robo",
     "date": "31.10.2025",
     "time": "03:43",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Chýbaš Mi...",
+    "release_year": 1992,
+    "duration_ms": 181186,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -53,7 +103,15 @@
     "artist": "Gombitová Marika",
     "date": "31.10.2025",
     "time": "03:40",
-    "listeners": 187
+    "listeners": 187,
+    "lyricists": null,
+    "album": "Volné miesto v srdci",
+    "release_year": 1986,
+    "duration_ms": 221440,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -61,7 +119,16 @@
     "artist": "Dj Bobo",
     "date": "31.10.2025",
     "time": "03:37",
-    "listeners": 186
+    "listeners": 186,
+    "lyricists": null,
+    "album": "Greatest Hits",
+    "release_year": 1999,
+    "duration_ms": 229893,
+    "artist_country": "CH",
+    "genres": [
+      "Electronic",
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -69,7 +136,15 @@
     "artist": "Elán",
     "date": "31.10.2025",
     "time": "03:34",
-    "listeners": 184
+    "listeners": 184,
+    "lyricists": null,
+    "album": "Detektívka",
+    "release_year": 1992,
+    "duration_ms": 170800,
+    "artist_country": "SK",
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -77,7 +152,16 @@
     "artist": "Polemic",
     "date": "31.10.2025",
     "time": "03:32",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Yahman !",
+    "release_year": 2007,
+    "duration_ms": 140120,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -85,7 +169,15 @@
     "artist": "Ub 40 Hynde Chrissie",
     "date": "31.10.2025",
     "time": "03:28",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "The Very Best Of",
+    "release_year": 1985,
+    "duration_ms": 189733,
+    "artist_country": null,
+    "genres": [
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -93,7 +185,16 @@
     "artist": "Gladiátor",
     "date": "31.10.2025",
     "time": "03:23",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Single (1994-2002)",
+    "release_year": 2020,
+    "duration_ms": 303173,
+    "artist_country": "SK",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -101,7 +202,15 @@
     "artist": "Imbruglia Natalie",
     "date": "31.10.2025",
     "time": "03:19",
-    "listeners": 185
+    "listeners": 185,
+    "lyricists": null,
+    "album": "Left of the Middle",
+    "release_year": 1997,
+    "duration_ms": 244667,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -109,7 +218,17 @@
     "artist": "Richard Müller",
     "date": "31.10.2025",
     "time": "03:15",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Richard Müller"
+    ],
+    "album": "Výberovka",
+    "release_year": 2011,
+    "duration_ms": 229507,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -117,7 +236,15 @@
     "artist": "I.M.T. Smile",
     "date": "31.10.2025",
     "time": "03:13",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "hiSTORY",
+    "release_year": 2008,
+    "duration_ms": 180933,
+    "artist_country": "SK",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -125,7 +252,15 @@
     "artist": "Ricchi E Poveri",
     "date": "31.10.2025",
     "time": "03:09",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Ricchi e Poveri: The Collection",
+    "release_year": 1987,
+    "duration_ms": 190693,
+    "artist_country": "IT",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -133,7 +268,16 @@
     "artist": "Olympic",
     "date": "31.10.2025",
     "time": "03:04",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": null,
+    "album": "Best of 43 jasných hitových zpráv",
+    "release_year": 1993,
+    "duration_ms": 259973,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -141,7 +285,15 @@
     "artist": "Darina Rolincová",
     "date": "31.10.2025",
     "time": "03:00",
-    "listeners": 181
+    "listeners": 181,
+    "lyricists": null,
+    "album": "Keby som bola princezná Arabela",
+    "release_year": 1998,
+    "duration_ms": 238640,
+    "artist_country": "CZ",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -149,7 +301,18 @@
     "artist": "Seal",
     "date": "31.10.2025",
     "time": "02:55",
-    "listeners": 180
+    "listeners": 180,
+    "lyricists": [
+      "Guy Sigsworth",
+      "Seal"
+    ],
+    "album": "Seal: Hits (Deluxe Version)",
+    "release_year": 2001,
+    "duration_ms": 356520,
+    "artist_country": "GB",
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",
@@ -157,7 +320,15 @@
     "artist": "Filipová Lenka",
     "date": "31.10.2025",
     "time": "02:51",
-    "listeners": 183
+    "listeners": 183,
+    "lyricists": null,
+    "album": "1982-92",
+    "release_year": 1980,
+    "duration_ms": 245227,
+    "artist_country": null,
+    "genres": [
+      "Pop"
+    ]
   },
   {
     "station": "Rádio Melody",

@@ -12091,5 +12091,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "corona|baby baby": {
+    "release_year": 1996,
+    "artist_country": "IT",
+    "album": "The Rhythm of the Night",
+    "duration_ms": 228013,
+    "genres": [
+      "Electronic"
+    ]
   }
 }

@@ -12100,5 +12100,13 @@
     "genres": [
       "Electronic"
     ]
+  },
+  "grant eddy|i don't wanna dance": {
+    "album": "Killer on the Rampage",
+    "release_year": 1982,
+    "duration_ms": 219533,
+    "genres": [
+      "Pop"
+    ]
   }
 }

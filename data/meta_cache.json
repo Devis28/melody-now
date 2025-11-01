@@ -12108,5 +12108,18 @@
     "genres": [
       "Pop"
     ]
+  },
+  "matthew wilder|break my stride": {
+    "release_year": 2018,
+    "artist_country": "US",
+    "album": "I Don't Speak the Language",
+    "duration_ms": 184408,
+    "lyricists": [
+      "Greg Prestopino",
+      "Matthew Wilder"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

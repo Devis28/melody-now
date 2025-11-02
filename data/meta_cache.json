@@ -12163,5 +12163,17 @@
     "genres": [
       "R&B"
     ]
+  },
+  "sin with sebastian|shut up (and sleep with me)": {
+    "release_year": 1996,
+    "artist_country": "DE",
+    "album": "Shut Up (And Sleep With Me)",
+    "duration_ms": 226667,
+    "lyricists": [
+      "Sin With Sebastian"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

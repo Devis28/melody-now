@@ -12175,5 +12175,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "donna summer|on the radio": {
+    "release_year": 2001,
+    "artist_country": "US",
+    "album": "On the Radio: Greatest Hits, Vol. I & II",
+    "duration_ms": 350606,
+    "lyricists": [
+      "Donna Summer",
+      "Giorgio Moroder"
+    ],
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   }
 }

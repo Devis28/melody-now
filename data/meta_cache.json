@@ -12189,5 +12189,18 @@
       "Pop",
       "R&B"
     ]
+  },
+  "righeira|vamos a la playa": {
+    "release_year": 2001,
+    "artist_country": "IT",
+    "album": "Vamos a la Playa - Single",
+    "duration_ms": 219469,
+    "lyricists": [
+      "Carmelo La Bionda",
+      "Johnson Righeira"
+    ],
+    "genres": [
+      "Electronic"
+    ]
   }
 }

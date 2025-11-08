@@ -12243,5 +12243,22 @@
     "genres": [
       "Pop"
     ]
+  },
+  "mc miker g.|holiday rap": {
+    "release_year": 2004,
+    "artist_country": "NL",
+    "album": "Holiday Rap - Single",
+    "duration_ms": 267889,
+    "lyricists": [
+      "Brian Bennett",
+      "Bruce Welch",
+      "Curtis Hudson",
+      "DJ Sven",
+      "Lisa Stevens",
+      "MC Miker G"
+    ],
+    "genres": [
+      "Hip-Hop"
+    ]
   }
 }

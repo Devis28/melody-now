@@ -12230,5 +12230,18 @@
     "genres": [
       "Rock"
     ]
+  },
+  "madonna|true blue": {
+    "release_year": 1991,
+    "artist_country": "US",
+    "album": "True Blue",
+    "duration_ms": 257467,
+    "lyricists": [
+      "Madonna",
+      "Stephen Bray"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

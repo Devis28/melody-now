@@ -12260,5 +12260,19 @@
     "genres": [
       "Hip-Hop"
     ]
+  },
+  "phil collins|two hearts": {
+    "artist_country": "GB",
+    "release_year": 2002,
+    "album": "Love Songs",
+    "duration_ms": 204387,
+    "lyricists": [
+      "Lamont Dozier",
+      "Phil Collins"
+    ],
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

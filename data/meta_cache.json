@@ -12274,5 +12274,17 @@
       "Pop",
       "Rock"
     ]
+  },
+  "holly johnson|americanos": {
+    "release_year": 1999,
+    "artist_country": "GB",
+    "album": "Hollelujah (The Remix Album)",
+    "duration_ms": 373027,
+    "lyricists": [
+      "Holly Johnson"
+    ],
+    "genres": [
+      "Pop"
+    ]
   }
 }

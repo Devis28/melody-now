@@ -12286,5 +12286,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "elán|stužková": {
+    "release_year": 2008,
+    "artist_country": "SK",
+    "album": "Hodina slovenčiny",
+    "duration_ms": 181827,
+    "genres": [
+      "Rock"
+    ]
   }
 }

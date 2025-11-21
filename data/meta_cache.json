@@ -12642,5 +12642,21 @@
     "genres": [
       "Rock"
     ]
+  },
+  "coldplay|christmas lights": {
+    "release_year": 2018,
+    "artist_country": "GB",
+    "album": "Christmas Lights - Single",
+    "duration_ms": 242496
+  },
+  "shakin' stevens|merry christmas everyone": {
+    "album": "Merry Christmas Everyone - EP",
+    "release_year": 2025,
+    "duration_ms": 220280
+  },
+  "r.e.m.|at my most beautiful": {
+    "album": "Up",
+    "release_year": 1998,
+    "duration_ms": 215421
   }
 }

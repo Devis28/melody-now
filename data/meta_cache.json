@@ -12394,5 +12394,57 @@
     "release_year": 1989,
     "album": "Merry, Merry Christmas",
     "duration_ms": 244678
+  },
+  "chris rea|driving home for christmas": {
+    "release_year": 1999,
+    "album": "The Works",
+    "duration_ms": 240213,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "spector ronnie|rockin' around the christmas tree": {
+    "album": "A Very Special Christmas 2",
+    "release_year": 1992,
+    "duration_ms": 167467
+  },
+  "emma drobná|vianočný čas": {
+    "album": "Vianočný čas - Single",
+    "release_year": 2023,
+    "duration_ms": 173151
+  },
+  "hammond albert|under the christmas tree": {
+    "album": "Under the Christmas Tree - Single",
+    "release_year": 1989,
+    "duration_ms": 216053,
+    "genres": [
+      "Classical",
+      "Pop",
+      "Rock"
+    ]
+  },
+  "mária čírová|vstávajte pastieri": {
+    "album": "Moje Vianoce",
+    "release_year": 2019,
+    "duration_ms": 232654
+  },
+  "the kelly family|who´ll come with me": {
+    "album": "Almost Heaven",
+    "release_year": 1996,
+    "duration_ms": 191587,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "band aid|do they know it's christmas": {
+    "album": "Do They Know It's Christmas? (2004 Version) - Single",
+    "release_year": 1984,
+    "duration_ms": 222533
+  },
+  "maria cirova|vianoce krásne sú": {
+    "album": "Moje Vianoce",
+    "release_year": 2019,
+    "duration_ms": 313939
   }
 }

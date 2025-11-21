@@ -13388,5 +13388,32 @@
     "genres": [
       "Pop"
     ]
+  },
+  "gloria estefan|christmas through your eyes": {
+    "release_year": 2000,
+    "artist_country": "US",
+    "album": "Christmas Through Your Eyes",
+    "duration_ms": 300733,
+    "lyricists": [
+      "Diane Warren",
+      "Gloria Estefan"
+    ],
+    "genres": [
+      "Pop"
+    ]
+  },
+  "greg lake|i believe in father christmas": {
+    "release_year": 2003,
+    "artist_country": "GB",
+    "album": "I Believe in Father Christmas - Single",
+    "duration_ms": 213667,
+    "lyricists": [
+      "Greg Lake",
+      "Peter Sinfield",
+      "Сергей Сергеевич Прокофьев"
+    ],
+    "genres": [
+      "Rock"
+    ]
   }
 }

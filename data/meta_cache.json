@@ -12778,5 +12778,47 @@
     "album": "Christmas Album",
     "release_year": 1992,
     "duration_ms": 221600
+  },
+  "dana|cold cold christmas": {
+    "release_year": 2011,
+    "artist_country": "IE",
+    "album": "The Collection",
+    "duration_ms": 203893,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "richard cliff|mistletoe and wine": {
+    "album": "Together With Cliff Richard",
+    "release_year": 1988,
+    "duration_ms": 245333,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "shakin stevens|the best christmas of them all": {
+    "album": "Merry Christmas Everyone",
+    "release_year": 1991,
+    "duration_ms": 205605,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "3t|i need you (christmas mix)": {
+    "album": "The All Time Greatest Christmas Songs",
+    "release_year": 1995,
+    "duration_ms": 251360,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "lipsky lubomir a malat jiri a sbor|tesime se na jeziska": {},
+  "taylor swift|christmas tree farm": {
+    "album": "Christmas Tree Farm - Single",
+    "release_year": 2019,
+    "duration_ms": 227983,
+    "genres": [
+      "Pop"
+    ]
   }
 }

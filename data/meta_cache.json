@@ -13133,5 +13133,30 @@
     "genres": [
       "Pop"
     ]
+  },
+  "fragile, robo opatovský, nela pocisková|tichá noc": {},
+  "new kids on the block|little drummer boy": {
+    "album": "Merry, Merry Christmas",
+    "release_year": 1989,
+    "duration_ms": 253839,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "darlene love|all alone on christmas": {
+    "album": "Christmas (Baby, Please Come Home)",
+    "release_year": 1992,
+    "duration_ms": 249147,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "sam sebou ft. barbora piesova|na vianoce": {
+    "album": "Na Vianoce (feat. Barbora Piešová) - Single",
+    "release_year": 2021,
+    "duration_ms": 240960,
+    "genres": [
+      "Pop"
+    ]
   }
 }

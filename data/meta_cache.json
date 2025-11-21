@@ -12904,5 +12904,21 @@
     "album": "Christmas Rock",
     "release_year": 1997,
     "duration_ms": 196724
+  },
+  "solid harmonie|give love on christmas day": {
+    "release_year": 2000,
+    "album": "Kerst Hits Top 100 (Kerstmuziek 2023)",
+    "duration_ms": 193582,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "sarah connor|christmas in my heart": {
+    "album": "Christmas In My Heart",
+    "release_year": 2005,
+    "duration_ms": 288440,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -13596,5 +13596,13 @@
     "artist_country": "CA",
     "album": "Christmas (Deluxe 10th Anniversary Edition)",
     "duration_ms": 223672
+  },
+  "carey mariah|joy to the world": {
+    "album": "Merry Christmas",
+    "release_year": 1994,
+    "duration_ms": 260168,
+    "genres": [
+      "Pop"
+    ]
   }
 }

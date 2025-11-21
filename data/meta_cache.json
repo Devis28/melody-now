@@ -13200,5 +13200,40 @@
     "genres": [
       "Pop"
     ]
+  },
+  "a1|white christmas": {
+    "release_year": 2001,
+    "artist_country": "GB",
+    "album": "White Christmas",
+    "duration_ms": 183613
+  },
+  "peter nagy|vianoce, vianoce": {
+    "album": "Peter Nagy A Deti - Vyber",
+    "release_year": 1997,
+    "duration_ms": 229027,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "liam payne|all i want (for christmas)": {
+    "album": "All I Want (For Christmas) - Single",
+    "release_year": 2019,
+    "duration_ms": 181144,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "marek ztraceny, hana zagorová|vánoce jako dřív": {
+    "album": "Vánoce jako dřív - Single",
+    "release_year": 2021,
+    "duration_ms": 189854
+  },
+  "kryštof|vánoční": {
+    "album": "Vánoční - Single",
+    "release_year": 2020,
+    "duration_ms": 334944,
+    "genres": [
+      "Pop"
+    ]
   }
 }

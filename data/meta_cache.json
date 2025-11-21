@@ -12984,5 +12984,36 @@
     "album": "Xmas Hits",
     "release_year": 2009,
     "duration_ms": 222760
+  },
+  "boney m.|the first noel": {
+    "release_year": 1991,
+    "artist_country": "DE",
+    "album": "Feliz Navidad (A Wonderful Boney M. Christmas)",
+    "duration_ms": 182960,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "robbie williams|time for change": {
+    "release_year": 2023,
+    "artist_country": "GB",
+    "album": "The Christmas Present (Deluxe)",
+    "duration_ms": 210347,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "bennet, tony|winter wonderland": {
+    "album": "Snowfall: The Tony Bennett Christmas Album",
+    "release_year": 2019,
+    "duration_ms": 133213,
+    "genres": [
+      "Jazz"
+    ]
+  },
+  "petty tom|christmas all over again": {
+    "album": "A Very Special Christmas - Essential",
+    "release_year": 2013,
+    "duration_ms": 253627
   }
 }

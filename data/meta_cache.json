@@ -13558,5 +13558,23 @@
     "genres": [
       "Pop"
     ]
+  },
+  "mc erik|vianocny cas je christmas time": {
+    "release_year": 1995,
+    "artist_country": "SK",
+    "album": "Vianočný čas je Christmas Time - Single",
+    "duration_ms": 247000,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "pavol habera|nikto nemusí byť sám": {
+    "album": "Pavol Habera",
+    "release_year": 2005,
+    "duration_ms": 339307,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

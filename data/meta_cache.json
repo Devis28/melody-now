@@ -13265,5 +13265,11 @@
     "genres": [
       "Pop"
     ]
+  },
+  "'n sync|i don't wanna spend one more christmas without you": {
+    "release_year": 2009,
+    "artist_country": "US",
+    "album": "Home For Christmas (Deluxe Version)",
+    "duration_ms": 241800
   }
 }

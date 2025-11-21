@@ -12446,5 +12446,26 @@
     "album": "Moje Vianoce",
     "release_year": 2019,
     "duration_ms": 313939
+  },
+  "aplin gabrielle|the power of love": {
+    "album": "English Rain (Deluxe Edition)",
+    "release_year": 2012,
+    "duration_ms": 245160,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "maria cirova|stedry vecer": {
+    "album": "Moje Vianoce",
+    "release_year": 2019,
+    "duration_ms": 278471
+  },
+  "dion celine|i met an angel (on christmas day)": {
+    "album": "The All Time Greatest Christmas Songs",
+    "release_year": 1998,
+    "duration_ms": 199800,
+    "genres": [
+      "Pop"
+    ]
   }
 }

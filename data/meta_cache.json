@@ -13524,5 +13524,14 @@
     "album": "A Jolly Christmas from Frank Sinatra (50th Anniversary Edition)",
     "release_year": 1957,
     "duration_ms": 189116
+  },
+  "johnny mathis|it's beginning to look a lot like christmas": {
+    "release_year": 2003,
+    "artist_country": "US",
+    "album": "The Best of Christmas Hits",
+    "duration_ms": 134360,
+    "genres": [
+      "Pop"
+    ]
   }
 }

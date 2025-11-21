@@ -13191,5 +13191,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "david essex|a winter's tale": {
+    "release_year": 2002,
+    "artist_country": "GB",
+    "album": "The Whisper",
+    "duration_ms": 251310,
+    "genres": [
+      "Pop"
+    ]
   }
 }

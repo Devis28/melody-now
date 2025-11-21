@@ -12547,5 +12547,37 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bogguss suzy|jingle bells": {
+    "album": "Have Yourself a Merry Little Christmas",
+    "release_year": 2001,
+    "duration_ms": 176520
+  },
+  "robson|i believe": {
+    "release_year": 1995,
+    "album": "Robson And Jerome",
+    "duration_ms": 127173,
+    "genres": [
+      "Classical"
+    ]
+  },
+  "jon bon jovi|please come home for christmas": {
+    "album": "A Very Special Christmas: Live from Washington, D.C.",
+    "release_year": 1999,
+    "duration_ms": 192960
+  },
+  "sinatra frank|santa claus is coming to town": {
+    "album": "Christmas",
+    "release_year": 2004,
+    "duration_ms": 101187
+  },
+  "michael bolton|lean on me": {
+    "album": "Michael Bolton the Very Best",
+    "release_year": 1993,
+    "duration_ms": 318760,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
   }
 }

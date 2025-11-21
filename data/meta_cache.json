@@ -13477,5 +13477,11 @@
     "genres": [
       "Pop"
     ]
+  },
+  "britney spears|my only wish [this year]": {
+    "release_year": 2021,
+    "artist_country": "US",
+    "album": "Xmas Hits",
+    "duration_ms": 255400
   }
 }

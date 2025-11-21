@@ -13629,5 +13629,19 @@
       "Pop"
     ]
   },
-  "sima martausová|vianočné šalalí": {}
+  "sima martausová|vianočné šalalí": {},
+  "bryan adams|merry christmas": {
+    "release_year": 2023,
+    "artist_country": "CA",
+    "album": "A Rockin' Christmas - EP",
+    "duration_ms": 151388
+  },
+  "dominika mirgova|štastné a veselé": {
+    "album": "Šťastné a veselé - Single",
+    "release_year": 2015,
+    "duration_ms": 208469,
+    "genres": [
+      "Pop"
+    ]
+  }
 }

@@ -12579,5 +12579,68 @@
       "Pop",
       "R&B"
     ]
+  },
+  "thornton, melanie|wonderful dream (holidays are coming)": {
+    "album": "Wonderful Dream (Holidays Are Coming) - EP",
+    "release_year": 2002,
+    "duration_ms": 208547,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "benton, brook|christmas makes the town": {
+    "album": "White Christmas",
+    "release_year": 2006,
+    "duration_ms": 154333,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "williams robbie|dream a little dream": {
+    "album": "Swings Both Ways (Deluxe)",
+    "release_year": 2013,
+    "duration_ms": 213761,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "bryan adams|christmas time": {
+    "album": "Ultimate Pop Christmas",
+    "release_year": 2007,
+    "duration_ms": 247933
+  },
+  "alessia cara|make it to christmas": {
+    "album": "Make It to Christmas - Single",
+    "release_year": 2019,
+    "duration_ms": 210983
+  },
+  "michael bublé|it's beginning to look a lot like christmas": {
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "release_year": 2011,
+    "duration_ms": 207200
+  },
+  "gott karel|jsou svatky": {
+    "album": "Nejromantičtější",
+    "release_year": 1991,
+    "duration_ms": 179267,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "zagorova hana|zima zima": {
+    "album": "Vánoční Tajemství",
+    "release_year": 2001,
+    "duration_ms": 189040,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "smokie|o christmas tree": {
+    "album": "Light a Candle (The Christmas Album)",
+    "release_year": 1996,
+    "duration_ms": 232986,
+    "genres": [
+      "Rock"
+    ]
   }
 }

@@ -13533,5 +13533,30 @@
     "genres": [
       "Pop"
     ]
+  },
+  "marcel palonder|kým nás máš": {
+    "release_year": 2009,
+    "artist_country": "SK"
+  },
+  "vondráčková helena|vúně vánoc": {
+    "album": "Vanoce s Helenou - To nej",
+    "release_year": 1995,
+    "duration_ms": 240693,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "bublé michael|have yourself a merry little christmas": {
+    "album": "A Jolly Christmas from Frank Sinatra (50th Anniversary Edition)",
+    "release_year": 1957,
+    "duration_ms": 206392
+  },
+  "michal chrenko, martin harich, robo šimko|hviezda na cestu svieť": {
+    "album": "Hviezda na cestu svieť - Single",
+    "release_year": 2014,
+    "duration_ms": 212000,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -12686,5 +12686,30 @@
     "album": "Christmas Album",
     "release_year": 1970,
     "duration_ms": 199441
+  },
+  "karol duchoň|pieseň o decembri": {
+    "release_year": 2020,
+    "artist_country": "SK",
+    "album": "20 naj, Vol. 2",
+    "duration_ms": 185347,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "neil diamond|you make it feel like christmas": {
+    "album": "Primitive",
+    "release_year": 1984,
+    "duration_ms": 238721
+  },
+  "travis randy|jingle bell rock": {
+    "album": "A Very Special Christmas 2",
+    "release_year": 1992,
+    "duration_ms": 239307
+  },
+  "marián čekovský|šťastné a veselé": {},
+  "gwen stefani ft. blake shelton|you make it feel like christmas": {
+    "album": "You Make It Feel Like Christmas (Deluxe Edition - 2020)",
+    "release_year": 2017,
+    "duration_ms": 157804
   }
 }

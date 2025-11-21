@@ -13015,5 +13015,34 @@
     "album": "A Very Special Christmas - Essential",
     "release_year": 2013,
     "duration_ms": 253627
+  },
+  "pop idol finalists|happy xmas": {
+    "album": "Piece by Piece (Idol Version) - Single",
+    "release_year": 2016,
+    "duration_ms": 211675,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "alexander o'neal|this christmas": {
+    "album": "My Gift to You",
+    "release_year": 1988,
+    "duration_ms": 211667,
+    "genres": [
+      "R&B"
+    ]
+  },
+  "kristína|vianočná nálada": {
+    "album": "V Sieti Ta Mam",
+    "release_year": 2010,
+    "duration_ms": 183333,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "minogue kylie|let it snow": {
+    "album": "Kylie Christmas (Deluxe Bonus Video Edition)",
+    "release_year": 2015,
+    "duration_ms": 116387
   }
 }

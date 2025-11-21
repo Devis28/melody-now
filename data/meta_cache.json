@@ -13454,5 +13454,20 @@
     "genres": [
       "Pop"
     ]
+  },
+  "ava max|christmas without you": {
+    "release_year": 2023,
+    "artist_country": "US",
+    "album": "Christmas Without You - Single",
+    "duration_ms": 169245,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "debbie gibson|sleigh ride": {
+    "release_year": 2010,
+    "artist_country": "US",
+    "album": "Winterlicious",
+    "duration_ms": 193000
   }
 }

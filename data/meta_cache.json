@@ -13108,5 +13108,14 @@
     "release_year": 2011,
     "duration_ms": 121527
   },
-  "robo opatovský, mária čírová|vianoce": {}
+  "robo opatovský, mária čírová|vianoce": {},
+  "3t|endless christmas": {
+    "release_year": 2003,
+    "artist_country": "US",
+    "album": "Christmas Soul",
+    "duration_ms": 249787,
+    "genres": [
+      "Pop"
+    ]
+  }
 }

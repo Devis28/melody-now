@@ -12377,5 +12377,16 @@
     "genres": [
       "Pop"
     ]
+  },
+  "idina menzel|let it go": {
+    "release_year": 2022,
+    "artist_country": "US",
+    "album": "Frozen (Original Motion Picture Soundtrack) [Deluxe Edition]",
+    "duration_ms": 224623
+  },
+  "gloria estefan|love on layaway": {
+    "album": "Christmas Voices",
+    "release_year": 1995,
+    "duration_ms": 264733
   }
 }

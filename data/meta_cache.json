@@ -12854,5 +12854,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bocelli andrea dion celine|the prayer": {
+    "album": "Sogno",
+    "release_year": 1998,
+    "duration_ms": 267235,
+    "genres": [
+      "Classical",
+      "Pop"
+    ]
   }
 }

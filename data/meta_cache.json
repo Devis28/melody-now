@@ -13483,5 +13483,33 @@
     "artist_country": "US",
     "album": "Xmas Hits",
     "duration_ms": 255400
+  },
+  "miro jaros|nech už nasneží": {
+    "release_year": 2016,
+    "artist_country": "SK",
+    "album": "Tesime sa na Jeziska (Special Edition + Bonus)",
+    "duration_ms": 208560,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "habera pavol|tichá noc": {
+    "album": "Vianočné koncerty",
+    "release_year": 1998,
+    "duration_ms": 264667,
+    "genres": [
+      "Folk",
+      "Pop"
+    ]
+  },
+  "ariana grande|santa tell me": {
+    "album": "Santa Tell Me - Single",
+    "release_year": 2013,
+    "duration_ms": 204093
+  },
+  "engelbert humperdinck|a night to remember": {
+    "album": "Best of Engelbert",
+    "release_year": 1975,
+    "duration_ms": 187800
   }
 }

@@ -13511,5 +13511,13 @@
     "album": "Best of Engelbert",
     "release_year": 1975,
     "duration_ms": 187800
+  },
+  "vandross luther|this is christmas": {
+    "album": "This Is Christmas",
+    "release_year": 1994,
+    "duration_ms": 285679,
+    "genres": [
+      "R&B"
+    ]
   }
 }

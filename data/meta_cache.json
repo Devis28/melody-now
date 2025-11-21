@@ -12503,5 +12503,36 @@
     "genres": [
       "Pop"
     ]
+  },
+  "natasha bedingfield|shake up christmas": {
+    "release_year": 2014,
+    "artist_country": "GB",
+    "album": "Shake Up Christmas 2011 (Official Coca-Cola Christmas Song) - Single",
+    "duration_ms": 226587,
+    "genres": [
+      "Classical",
+      "Pop"
+    ]
+  },
+  "martin, dean|let it snow! let it snow! let it snow!": {
+    "album": "A Winter Romance",
+    "release_year": 1959,
+    "duration_ms": 117147
+  },
+  "williams, andy|sleigh ride": {
+    "album": "Christmas Songs",
+    "release_year": 1999,
+    "duration_ms": 126027,
+    "genres": [
+      "Classical"
+    ]
+  },
+  "john lennon|happy xmas (war is over)": {
+    "album": "Gimme Some Truth: The Ultimate Mixes (Deluxe Edition)",
+    "release_year": 1971,
+    "duration_ms": 213160,
+    "genres": [
+      "Rock"
+    ]
   }
 }

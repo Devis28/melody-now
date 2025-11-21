@@ -13061,5 +13061,15 @@
     "genres": [
       "Pop"
     ]
+  },
+  "queen|thank god it's christmas": {
+    "release_year": 1996,
+    "artist_country": "GB",
+    "album": "Greatest Hits III",
+    "duration_ms": 259438,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
   }
 }

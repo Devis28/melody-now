@@ -12317,5 +12317,65 @@
     "genres": [
       "Pop"
     ]
+  },
+  "singers cranberry the|wonderful christmas time": {
+    "album": "Cranberry Christmas Party Favourites",
+    "release_year": 2011,
+    "duration_ms": 157500
+  },
+  "ivan tásler|najkrajšie vianoce": {},
+  "juice/s.o.a.p./christina|let love be love": {
+    "release_year": 2000,
+    "album": "Let Love Be Love - EP",
+    "duration_ms": 294627,
+    "genres": [
+      "Pop",
+      "Rock"
+    ]
+  },
+  "iveta bartošová|tři oříšky": {
+    "album": "Jedna jedina",
+    "release_year": 2007,
+    "duration_ms": 228080,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "becky hill|only you": {
+    "album": "Only You - Single",
+    "release_year": 2019,
+    "duration_ms": 172267,
+    "genres": [
+      "Electronic"
+    ]
+  },
+  "settleři|veselé vánoce (vánoce, vánoce přicházejí...)": {},
+  "michael bublé|winter wonderland": {
+    "album": "Merry Christmas, Baby (Deluxe Edition)",
+    "release_year": 2011,
+    "duration_ms": 146071
+  },
+  "docolomansky michal|zima s nami leti na saniach": {
+    "album": "Hviezdne Vianoce",
+    "release_year": 1995,
+    "duration_ms": 214445
+  },
+  "bing crosby|the white world of winter": {
+    "album": "White Christmas",
+    "release_year": 1945,
+    "duration_ms": 183613
+  },
+  "young paul|what christmas means to me": {
+    "album": "Someday At Christmas (Expanded Edition)",
+    "release_year": 1967,
+    "duration_ms": 150913
+  },
+  "wham!|last christmas": {
+    "album": "Twenty Five",
+    "release_year": 1984,
+    "duration_ms": 267160,
+    "genres": [
+      "Pop"
+    ]
   }
 }

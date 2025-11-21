@@ -13576,5 +13576,19 @@
       "Pop",
       "Rock"
     ]
+  },
+  "miro jaros|moj starucky sveter": {
+    "release_year": 2021,
+    "artist_country": "SK",
+    "album": "List Ježiškovi",
+    "duration_ms": 216107,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "robo opatovský|vianočná pošta": {
+    "album": "Vianočný album",
+    "release_year": 2005,
+    "duration_ms": 230107
   }
 }

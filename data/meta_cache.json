@@ -12746,5 +12746,37 @@
     "album": "Vianoce s Kandráčovcami",
     "release_year": 2022,
     "duration_ms": 238481
+  },
+  "ed sheeran|merry christmas": {
+    "release_year": 2023,
+    "artist_country": "GB",
+    "album": "Merry Christmas - Single",
+    "duration_ms": 208547,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "lojzo|každý deň budú vraj vianoce": {
+    "album": "Lojzo IV",
+    "release_year": 1991,
+    "duration_ms": 267533,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "bastille|cant fight this feeling": {
+    "album": "Doom Days (This Got Out of Hand Edition)",
+    "release_year": 2019,
+    "duration_ms": 198889
+  },
+  "backstreet boys|christmas time": {
+    "album": "Xmas Hits",
+    "release_year": 1996,
+    "duration_ms": 256560
+  },
+  "bolton michael|white christmas": {
+    "album": "Christmas Album",
+    "release_year": 1992,
+    "duration_ms": 221600
   }
 }

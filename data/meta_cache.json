@@ -12928,5 +12928,61 @@
     "genres": [
       "Pop"
     ]
+  },
+  "john legend|you deserve it all": {
+    "artist_country": "US",
+    "release_year": 2021,
+    "album": "You Deserve It All - Single",
+    "duration_ms": 198627
+  },
+  "vidiek|vianoce 97": {
+    "album": "Domáce Vianoce",
+    "release_year": 1997,
+    "duration_ms": 230040,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "bystrik|posli to dalej (vianocna)": {
+    "album": "Pošli to ďalej (vianočná) - Single",
+    "release_year": 2024,
+    "duration_ms": 184875,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "alexander o'neal|the christmas song": {
+    "album": "My Gift to You",
+    "release_year": 1988,
+    "duration_ms": 195600,
+    "genres": [
+      "R&B"
+    ]
+  },
+  "inna|i need you for christmas": {
+    "album": "Buna Dimineata la Mos Ajun",
+    "release_year": 2009,
+    "duration_ms": 159649
+  },
+  "s club 7|perfect christmas": {
+    "album": "Essential Christmas",
+    "release_year": 2000,
+    "duration_ms": 278307,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "andy williams|it's the most wonderful time of the year": {
+    "album": "The Andy Williams Christmas Album",
+    "release_year": 1963,
+    "duration_ms": 152570,
+    "genres": [
+      "Classical"
+    ]
+  },
+  "johnny mathis|when a child is born": {
+    "album": "Xmas Hits",
+    "release_year": 2009,
+    "duration_ms": 222760
   }
 }

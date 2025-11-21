@@ -12863,5 +12863,33 @@
       "Classical",
       "Pop"
     ]
+  },
+  "worlds apart|when it´s christmas time": {
+    "album": "HIT ME HARD AND SOFT",
+    "release_year": 2024,
+    "duration_ms": 261467
+  },
+  "jan kalousek|bílý kraj": {
+    "album": "Album",
+    "release_year": 1998,
+    "duration_ms": 230880,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "robo opatovsky|v bajnom betleheme": {
+    "album": "Šťastné a Veselé",
+    "release_year": 2021,
+    "duration_ms": 244267
+  },
+  "brontosauři|vánoční lístek": {
+    "album": "Galerie Pisni",
+    "release_year": 2001,
+    "duration_ms": 125893
+  },
+  "michael bublé|christmas ( baby, please come home )": {
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "release_year": 2011,
+    "duration_ms": 189794
   }
 }

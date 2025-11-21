@@ -12820,5 +12820,39 @@
     "genres": [
       "Pop"
     ]
+  },
+  "dara rolins|vtedy sú vianoce": {
+    "artist_country": "CZ",
+    "release_year": 2009,
+    "album": "Stastne a vesele",
+    "duration_ms": 186547,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "houston whitney|do you hear what i hear?": {
+    "album": "Exhale - EP",
+    "release_year": 1987,
+    "duration_ms": 212384,
+    "genres": [
+      "Pop",
+      "R&B"
+    ]
+  },
+  "gott karel|kdepak ty ptáčku hnízdo máš": {
+    "album": "Singly / 300 Písní Z Let (1962-2019), Vol. 2",
+    "release_year": 2019,
+    "duration_ms": 176627,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "new kids on the block|this one´s for the children": {
+    "album": "RENAISSANCE",
+    "release_year": 2022,
+    "duration_ms": 116727,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -13469,5 +13469,13 @@
     "artist_country": "US",
     "album": "Winterlicious",
     "duration_ms": 193000
+  },
+  "barry manilow|because its christmas (for all the children)": {
+    "album": "Christmas Classics",
+    "release_year": 1990,
+    "duration_ms": 232813,
+    "genres": [
+      "Pop"
+    ]
   }
 }

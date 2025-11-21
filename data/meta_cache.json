@@ -12891,5 +12891,18 @@
     "album": "Christmas (Deluxe 10th Anniversary Edition)",
     "release_year": 2011,
     "duration_ms": 189794
+  },
+  "habera pavol|svet lásku má": {
+    "album": "Fontána pre Zuzanu 2",
+    "release_year": 2008,
+    "duration_ms": 307000,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "the smashing pumpkins|christmastime": {
+    "album": "Christmas Rock",
+    "release_year": 1997,
+    "duration_ms": 196724
   }
 }

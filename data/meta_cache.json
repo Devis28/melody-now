@@ -12711,5 +12711,27 @@
     "album": "You Make It Feel Like Christmas (Deluxe Edition - 2020)",
     "release_year": 2017,
     "duration_ms": 157804
+  },
+  "václav neckář|půlnoční": {
+    "release_year": 2012,
+    "artist_country": "CZ",
+    "album": "Dobrý Časy",
+    "duration_ms": 303893,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "sia|santa's coming for us": {
+    "release_year": 2018,
+    "album": "Everyday Is Christmas (Deluxe)",
+    "duration_ms": 206539
+  },
+  "pentatonix|hallelujah": {
+    "album": "A Pentatonix Christmas (Deluxe)",
+    "release_year": 2016,
+    "duration_ms": 268956,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -12388,5 +12388,11 @@
     "album": "Christmas Voices",
     "release_year": 1995,
     "duration_ms": 264733
+  },
+  "new kids on the block|merry, merry christmas": {
+    "artist_country": "US",
+    "release_year": 1989,
+    "album": "Merry, Merry Christmas",
+    "duration_ms": 244678
   }
 }

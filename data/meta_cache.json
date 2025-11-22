@@ -13828,5 +13828,11 @@
     "genres": [
       "Folk"
     ]
+  },
+  "christina aguilera|silent night/noche de paz": {
+    "artist_country": "US",
+    "album": "Platinum Christmas",
+    "release_year": 2000,
+    "duration_ms": 289467
   }
 }

@@ -13788,5 +13788,14 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bros|silent night": {
+    "release_year": 1995,
+    "artist_country": "GB",
+    "album": "The Best of Bros",
+    "duration_ms": 227000,
+    "genres": [
+      "Pop"
+    ]
   }
 }

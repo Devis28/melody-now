@@ -13667,5 +13667,38 @@
     "album": "Timeless Christmas: Bill Pinkey & the Original Drifters",
     "release_year": 2011,
     "duration_ms": 202629
+  },
+  "karel gott|už z hor zní zvon": {
+    "artist_country": "CZ",
+    "release_year": 1994,
+    "album": "Singly / 300 Písní Z Let (1962-2019), Vol. 2",
+    "duration_ms": 204747,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "helena vondráčková|nejštědřejší den": {
+    "album": "Vánoce s Helenou",
+    "release_year": 1995,
+    "duration_ms": 250400,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "tomas bezdeda|krasne a vesele": {
+    "album": "Krasne a Vesele - Single",
+    "release_year": 2021,
+    "duration_ms": 197184,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "marek ztraceny|den, kdy vyhravaji vsichni": {
+    "album": "Den, kdy vyhrávají všichni - Single",
+    "release_year": 2024,
+    "duration_ms": 210709,
+    "genres": [
+      "Pop"
+    ]
   }
 }

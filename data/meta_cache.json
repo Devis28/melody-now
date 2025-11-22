@@ -13797,5 +13797,21 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bílá lucie|ave maria": {
+    "album": "Platinum Collection",
+    "release_year": 2004,
+    "duration_ms": 259333,
+    "genres": [
+      "Pop"
+    ]
+  },
+  "tublatanka|poďme bratia do betlehema": {
+    "release_year": 1998,
+    "album": "Podme Bratia do Betlehema",
+    "duration_ms": 252520,
+    "genres": [
+      "Pop"
+    ]
   }
 }

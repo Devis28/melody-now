@@ -13728,5 +13728,11 @@
     "genres": [
       "Pop"
     ]
+  },
+  "bing crosby|white christmas": {
+    "release_year": 1992,
+    "artist_country": "US",
+    "album": "White Christmas",
+    "duration_ms": 183613
   }
 }

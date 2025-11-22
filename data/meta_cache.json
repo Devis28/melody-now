@@ -13745,5 +13745,22 @@
       "Reggae"
     ]
   },
-  "miro zbirka|vianocna koleda": {}
+  "miro zbirka|vianocna koleda": {},
+  "ruzni interpreti|nejhezci darek": {},
+  "peter cmorík|vianočný punč": {
+    "album": "Vianočný punč - Single",
+    "release_year": 2019,
+    "duration_ms": 229884,
+    "genres": [
+      "Rock"
+    ]
+  },
+  "hex, tina, sirénčatá|láska nebeská": {
+    "album": "Láska nebeská (feat. Sirénčatá) - Single",
+    "release_year": 2024,
+    "duration_ms": 249283,
+    "genres": [
+      "Pop"
+    ]
+  }
 }

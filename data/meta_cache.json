@@ -13734,5 +13734,15 @@
     "artist_country": "US",
     "album": "White Christmas",
     "duration_ms": 183613
+  },
+  "polemic|už idú": {
+    "release_year": 2010,
+    "artist_country": "SK",
+    "album": "Horúce časy",
+    "duration_ms": 169387,
+    "genres": [
+      "Pop",
+      "Reggae"
+    ]
   }
 }

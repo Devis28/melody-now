@@ -13763,5 +13763,14 @@
       "Pop"
     ]
   },
-  "la gioia|vianočná": {}
+  "la gioia|vianočná": {},
+  "hex|vianočný karol": {
+    "release_year": 2004,
+    "artist_country": "SK",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "duration_ms": 241213,
+    "genres": [
+      "Pop"
+    ]
+  }
 }

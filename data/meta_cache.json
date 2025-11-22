@@ -13700,5 +13700,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "michael bublé|silent night": {
+    "release_year": 2025,
+    "artist_country": "CA",
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "duration_ms": 230060
+  },
+  "zuzana smatanová|december": {
+    "album": "December - Single",
+    "release_year": 2020,
+    "duration_ms": 197124,
+    "genres": [
+      "Pop"
+    ]
   }
 }

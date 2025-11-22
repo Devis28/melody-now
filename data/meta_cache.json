@@ -13813,5 +13813,11 @@
     "genres": [
       "Pop"
     ]
+  },
+  "the pretenders|have yourself a merry little christmas": {
+    "release_year": 2003,
+    "artist_country": "GB",
+    "album": "A Jolly Christmas from Frank Sinatra (50th Anniversary Edition)",
+    "duration_ms": 206392
   }
 }

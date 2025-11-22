@@ -13714,5 +13714,19 @@
     "genres": [
       "Pop"
     ]
+  },
+  "mel|rockin' around the christmas tree": {
+    "artist_country": "GB",
+    "release_year": 2020,
+    "album": "Anthology 1956-1980",
+    "duration_ms": 125827
+  },
+  "bystrík|čas vianočný": {
+    "album": "Hej, dievča",
+    "release_year": 2019,
+    "duration_ms": 234253,
+    "genres": [
+      "Pop"
+    ]
   }
 }

@@ -13869,5 +13869,10 @@
     "genres": [
       "Pop"
     ]
+  },
+  "boone, pat|the first noel": {
+    "album": "White Christmas",
+    "release_year": 1959,
+    "duration_ms": 177293
   }
 }

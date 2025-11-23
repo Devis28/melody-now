@@ -13874,5 +13874,10 @@
     "album": "White Christmas",
     "release_year": 1959,
     "duration_ms": 177293
+  },
+  "sherman bobby|jingle bell rock": {
+    "album": "Christmas Album",
+    "release_year": 1969,
+    "duration_ms": 137257
   }
 }

@@ -13996,5 +13996,13 @@
       "Rock"
     ]
   },
-  "peter nagy, beata dubasova, janko bocko, kvarteto milana adamca|vianoce, vianoce 25": {}
+  "peter nagy, beata dubasova, janko bocko, kvarteto milana adamca|vianoce, vianoce 25": {},
+  "sting|brand new day": {
+    "release_year": 1999,
+    "album": "Brand New Day",
+    "duration_ms": 379809,
+    "genres": [
+      "Pop"
+    ]
+  }
 }
